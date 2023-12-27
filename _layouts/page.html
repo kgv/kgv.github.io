@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<!-- Header -->
+{% include header.liquid %}
+
+<!-- Main -->
+<div class="grid-container">
+    <div class="grid-x grid-padding-x">
+        <!-- Central panel -->
+        <div class="large-8 medium-8 cell" role="content">
+            {{ content }}
+        </div>
+        <!-- Right panel -->
+        <aside class="large-4 medium-4 cell">
+            <div class="callout">
+                <h4>Posts</h4>
+                <ul id="posts">
+                    {% for post in site.posts limit: 5 %}
+                    <li>
+                        <a href="{{ post.url | prepend: site.url }}">{{ post.navtitle }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <hr/>
+                <h4>Projects</h4>
+                <ul id="projects">
+                    {% for project in site.projects limit: 5 %}
+                    <li>
+                        <a href="{{ project.url | prepend: site.url }}">{{ project.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <hr/>
+                <h4>Publications</h4>
+                <ul id="publications">
+                    {% for publication in site.publications limit: 5 %}
+                    <li>
+                        <a href="{{ publication.url | prepend: site.url }}" title="{{ publication.title }}">{{ publication.title | truncate: 32 }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </aside>
+    </div>
+</div>
+
+<!-- Footer -->
+{% include footer.liquid %}

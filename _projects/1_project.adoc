@@ -1,0 +1,13 @@
+= {page-title}
+:page-liquid:
+:page-title: UTCA
+:showtitle:
+:table-caption: Таблица
+ifndef::env-github[:toc:]
+
+Ultimate Triacylglycerols Calculation Application
+
+image:{{ site.url }}/assets/utca/screenshots/0.jpg[title=Pause, 20%]
+image:{{ site.url }}/assets/utca/screenshots/1.jpg[title=Pause, 20%]
+image:{{ site.url }}/assets/utca/screenshots/2.jpg[title=Pause, 20%]
+image:{{ site.url }}/assets/utca/screenshots/3.jpg[title=Pause, 20%]

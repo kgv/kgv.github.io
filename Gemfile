@@ -6,4 +6,8 @@ gem 'rake-jekyll', '~> 1.1.0'
 
 group :jekyll_plugins do
   gem 'jekyll-asciidoc'
+  gem 'jekyll-paginate-v2'
+  gem 'jekyll-scholar'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-toc'
 end
