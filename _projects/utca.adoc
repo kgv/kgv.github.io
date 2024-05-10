@@ -2,7 +2,6 @@
 :page-liquid:
 :page-title: UTCA
 :showtitle:
-:table-caption: Таблица
 ifndef::env-github[:toc:]
 
 Ultimate Triacylglycerols Calculation Application

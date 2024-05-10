@@ -37,7 +37,7 @@ layout: default
                 <ul id="publications">
                     {% for publication in site.publications limit: 5 %}
                     <li>
-                        <a href="{{ publication.url | prepend: site.url }}" title="{{ publication.title }}">{{ publication.title | truncate: 32 }}</a>
+                        <a href="{{ publication.url | prepend: site.url }}" title="{{ publication.title }}">{{ publication.doi }}</a>
                     </li>
                     {% endfor %}
                 </ul>

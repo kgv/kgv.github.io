@@ -1,0 +1,127 @@
+= {page-title}
+:eqnums:
+:nofooter:
+:showtitle:
+:stem: latexmath
+:page-authors: ["Казаков Г.В.", "Сидоров Р.А."]
+:page-doi: Математика
+:page-liquid:
+:page-title: Математика
+:details: Детали
+:where: Где
+
+*{% for author in page.authors -%}{{ author }}{% if forloop.last != true %}, {% endif %}{% endfor %}*
+
+.Число размещений с повторениями из stem:[n] по stem:[k]
+[stem]
+++++
+\begin{equation}
+    \bar{A}_n^k = nk
+\end{equation}
+++++
+
+.Число размещений (позиционно-зависимое расположение) из stem:[n] по stem:[k]
+[stem]
+++++
+\begin{equation}
+    A_n^k = \frac{n!}{(n-k)!}
+\end{equation}
+++++
+.{details}
+[%collapsible]
+=====
+У нас есть stem:[k] предметов и stem:[n] свободных мест. Тогда разместить первый предмет мы сможем stem:[n] способами, второй: stem:[n-1], третий: stem:[n-2], ... stem:[k]-й: stem:[n-k+1]. Получаем stem:[N = n(n-1)(n-2)\cdot...\cdot(n-k+1)]; для удобства эту формулу представляют в виде stem:[\frac{n!}{(n-k)!}].
+=====
+
+.Число сочетаний (позиционно-независимое расположение) из stem:[n] по stem:[k]:
+[stem]
+++++
+\begin{equation}
+    C_n^k = \frac{n!}{(n-k)!k!}
+\end{equation}
+++++
+.{details}
+[%collapsible]
+=====
+Отличие размещения от сочетания в том, что элементы сочетания позиционно-независимы т.е., если мы поменяем любые из элементов местами, это будет тот же способ, что и прежде. Количество способов перестановки stem:[k] элементов между собой равно stem:[k!], отсюда и получаем формулу stem:[\frac{n!}{(n-k)!k!}]
+=====
+
+.Число перестановок из stem:[n]:
+[stem]
+++++
+\begin{equation}
+    P_n = n!
+\end{equation}
+++++
+
+'''
+
+После 66% остался $S_2U$ $=>$ остался $[SSU]$, $[USS]$ или $[SUS]$.
+
+- для типового состава (соответствует разложению бинома):
+- $[S_2U] = [SSU] + [USS] + [SUS] = 3 * [S]^2 * [U]$
+- $[SU_2] = [SUU] + [UUS] + [USU] = 3 * [S] * [U]^2$
+- остальные значения не отличаются от значений стерео-типового и
+позиционно-типового составов:
+- $[S_3] = [S]^3$
+- $[U_3] = [U]^3$
+
+== Calculation
+
+> stem:[3[A\] = 2[A\]_{13} + [A\]_2]{0248e842}
+
+== Триглицерины (Triglycerides)
+
+[stem]
+++++
+\begin{equation}
+    A = \{ a_1, a_2, \dots, a_n \}
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[A] -- множество, представляющее виды stem:[FA];
+* stem:[n] -- количество элементов множества stem:[A];
+* stem:[a_i] -- i-й элемент множества stem:[A].
+====
+
+[stem]
+++++
+\begin{equation}
+    S = \{ s_1, s_2, \dots, s_{n_S} \}
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[S] -- подмножество множества stem:[A], представляющее только насыщенные stem:[FA];
+* stem:[n_S] -- количество элементов множества stem:[S].
+====
+
+[stem]
+++++
+\begin{equation}
+    U = \{ u_1, u_2, \dots, u_{n_U} \}
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[U] -- подмножество множества stem:[A], представляющее только ненасыщенные stem:[FA];
+* stem:[n_U] -- количество элементов множества stem:[U].
+====
+
+[stem]
+++++
+\begin{equation}
+    T = \{ s, u \}
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[T] -- множество из двух элементов, представляющее типы элементов множества stem:[A].
+====
+
+Трехэлементное размещение stem:[\{ a_{1}, a_{2}, a_{3} \}]

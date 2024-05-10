@@ -1,0 +1,7 @@
+= {page-title}
+:page-liquid:
+:page-title: SEEDS
+:showtitle:
+ifndef::env-github[:toc:]
+
+Seeds parameters calculator.
