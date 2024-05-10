@@ -257,165 +257,321 @@
 
 '''
 
-.Позиционно-типовой состав
-[stem]
-++++
-\begin{align}
-    &[SSS]_{PTC} &&=&& [S_3]_{TC}\\
-    &[SSU]_{PTC} &&=&& \frac23[S_2U]_{TC}\\
-    &[SUS]_{PTC} &&=&& \frac13[S_2U]_{TC}\\
-    &[SUU]_{PTC} &&=&& \frac23[SU_2]_{TC}\\
-    &[USU]_{PTC} &&=&& \frac13[SU_2]_{TC}\\
-    &[UUU]_{PTC} &&=&& [U_3]_{TC}\\
-\end{align}
-++++
+[NOTE]
+Предположим, что на множестве stem:[\mathbb{A}] распределения вероятностей является статистическим.
+
+== Типовой состав
 
 .Стерео-типовой состав
 [stem]
 ++++
-\begin{align}
-    &[SSS]_{STC} &&=&& [SSS]_{PTC}        &&=&& [S_3]_{TC}\\
-    &[SSU]_{STC} &&=&& \frac12[SSU]_{PTC} &&=&& \frac13[S_2U]_{TC}\\
-    &[USS]_{STC} &&=&& \frac12[SSU]_{PTC} &&=&& \frac13[S_2U]_{TC}\\
-    &[SUS]_{STC} &&=&& [SUS]_{PTC}        &&=&& \frac13[S_2U]_{TC}\\
-    &[SUU]_{STC} &&=&& \frac12[SUU]_{PTC} &&=&& \frac13[SU_2]_{TC}\\
-    &[UUS]_{STC} &&=&& \frac12[SUU]_{PTC} &&=&& \frac13[SU_2]_{TC}\\
-    &[USU]_{STC} &&=&& [USU]_{PTC}        &&=&& \frac13[SU_2]_{TC}\\
-    &[UUU]_{STC} &&=&& [UUU]_{PTC}        &&=&& [U_3]_{TC}\\
-\end{align}
+\begin{equation}
+    \begin{aligned}
+        &[SSS]_{STC}\\
+        &[SSU]_{STC}\\
+        &[USS]_{STC}\\
+        &[SUS]_{STC}\\
+        &[SUU]_{STC}\\
+        &[UUS]_{STC}\\
+        &[USU]_{STC}\\
+        &[UUU]_{STC}\\
+    \end{aligned}
+\end{equation}
 ++++
 
-.Видовой состав
-[stem]
-++++
-\begin{align}
-    &[^1S^2S^3S]_{SC} &&=&& 6 \frac{[^1S]}{[S]} \frac{[^2S]}{[S]} \frac{[^3S]}{[S]} [S_3]_{TC}\\
-    &[^1S^2S_2]_{SC}  &&=&& 3 \frac{[^1S][^2S]^2}{[S]^3} [S_3]_{TC}\\
-    &[^1S_3]_{SC}     &&=&& \frac{[^1S]^3}{[S]^3} [S_3]_{TC}\\
-
-    &[^1S^2S^1U]_{SC} &&=&& 6 \frac{[^1S][^2S][^1U]}{[S]^2[U]} [S_2U]_{TC}\\
-    &[^1S_2^1U]_{SC}  &&=&& 3 \frac{[^1S]^2[^1U]}{[S]^2[U]} [S_2U]_{TC}\\
-
-    &[^1S^1U^2U]_{SC} &&=&& 6 \frac{[^1U][^2U][^3U]}{[U]^3} [SU_2]_{TC}\\
-    &[^1S^1U_2]_{SC}  &&=&& 3 \frac{[^1U][^2U]^2}{[U]^2} [SU_2]_{TC}\\
-
-    &[^1U^2U^3U]_{SC} &&=&& 6 \frac{[^1U][^2U][^3U]}{[U]^3} [U_3]_{TC}\\
-    &[^1U^2U_2]_{SC}  &&=&& 3 \frac{[^1U][^2U]^2}{[U]^3} [U_3]_{TC}\\
-    &[^1U_3]_{SC}     &&=&& \frac{[^1U]^3}{[U]^3} [U_3]_{TC}\\
-\end{align}
-++++
-
-.{details}
-[%collapsible]
-====
-[stem]
-++++
-\begin{align}
-    &P_{[ABC]} &&=&& [ABC], [ACB], [BAC], [BCA], [CAB], [CBA] &(\times6)\\
-    &P_{[A_2B]} &&=&& [AAB], [ABA], [BAA] &(\times3)\\
-    &P_{[A_3]} &&=&& [AAA] &(\times1)\\
-\end{align}
-++++
-====
-
-.{details}
-[%collapsible]
-====
-
-.Множество, представляющее виды stem:[FA].
-stem:[n] - количество элементов множества stem:[A].
+.Позиционно-типовой состав
 [stem]
 ++++
 \begin{equation}
-    A = \{ a_1, a_2, \dots, a_n \}
+    \begin{aligned}
+        &[SSS]_{PTC} &&=&& [SSS]_{STC}\\
+        &[SSU]_{PTC} &&=&& [SSU]_{STC} + [USS]_{STC}\\
+        &[SUS]_{PTC} &&=&& [SUS]_{STC}\\
+        &[SUU]_{PTC} &&=&& [SUU]_{STC} + [UUS]_{STC}\\
+        &[USU]_{PTC} &&=&& [USU]_{STC}\\
+        &[UUU]_{PTC} &&=&& [UUU]_{STC}\\
+    \end{aligned}
+\end{equation}
+++++
+
+.Типовой состав
+[stem]
+++++
+\begin{equation}
+    \begin{aligned}
+        &[SSS]_{TC} &&=&& [SSS]_{PTC} &&=&& [SSS]_{STC}\\
+        &[SSU]_{TC} &&=&& [SSU]_{PTC} + [SUS]_{PTC} &&=&& [SSU]_{STC} + [USS]_{STC} + [SUS]_{STC}\\
+        &[SUU]_{TC} &&=&& [SUU]_{PTC} + [USU]_{PTC} &&=&& [SUU]_{STC} + [UUS]_{STC} + [USU]_{STC}\\
+        &[UUU]_{TC} &&=&& [UUU]_{PTC} &&=&& [UUU]_{STC}\\
+    \end{aligned}
+\end{equation}
+++++
+
+.Отношение стерео-типового и позиционно-типового составов
+[stem]
+++++
+\begin{equation}
+    [t_1t_2t_3]_{STC} = \frac{1}{P_{[t_1t_2t_3]_{PTC}}} [t_1t_2t_3]_{PTC}\\
 \end{equation}
 ++++
 .{where}
 [%collapsible]
-=====
-* stem:[a] -- левый верхний элемент матрицы;
-* stem:[b] -- правый верхний элемент матрицы;
-=====
-
-* stem:[S = \{ s_1, s_2, \dots, s_{n_S} \}]
-+
-Подмножество stem:[A], представляющее только насыщенные stem:[FA]. +
-stem:[n_S] - количество элементов множества stem:[S].
-* stem:[U = \{ u_1, u_2, \dots, u_{n_U} \}]
-+
-Подмножество множества stem:[A], представляющее только ненасыщенные stem:[FA]. +
-stem:[n_U] - количество элементов множества stem:[U].
-* Множество stem:[T]: stem:[T = \{ s, u \}]
-+
-Это множество из двух элементов, представляющее типы элементов множества stem:[A].
-
-Трехэлементное размещение stem:[\{ a_{1}, a_{2}, a_{3} \}]
-
-.Число размещений с повторениями из stem:[n] по stem:[k]
-[stem]
-++++
-\begin{equation}
-    \bar{A}_n^k = nk
-\end{equation}
-++++
-
-.Число размещений (позиционно-зависимое расположение) из stem:[n] по stem:[k]
-[stem]
-++++
-\begin{equation}
-    A_n^k = \frac{n!}{(n-k)!}
-\end{equation}
-++++
-
+====
+* stem:[t_i] -- элемент множества stem:[\mathbb{T}], представляющий тип stem:[FA] в положении stem:[sn]-stem:[i];
+* stem:[P_{[t_1t_2t_3\]_{PTC}}] -- число позиционно-специфичных перестановок выборки stem:[[t_1t_2t_3\]].
+====
 .{details}
 [%collapsible]
-=====
-У нас есть stem:[k] предметов и stem:[n] свободных мест. Тогда разместить первый предмет мы сможем stem:[n] способами, второй: stem:[n-1], третий: stem:[n-2], ... stem:[k]-й: stem:[n-k+1]. Получаем stem:[N = n(n-1)(n-2)\cdot...\cdot(n-k+1)]; для удобства эту формулу представляют в виде stem:[\frac{n!}{(n-k)!}].
-=====
-
-.Число сочетаний (позиционно-независимое расположение) из stem:[n] по stem:[k]:
+====
 [stem]
 ++++
 \begin{equation}
-    C_n^k = \frac{n!}{(n-k)!k!}
+    \begin{aligned}
+        &[SSS]_{STC} &&=&& [SSS]_{PTC}\\
+        &[SSU]_{STC} &&=&& \frac12[SSU]_{PTC}\\
+        &[USS]_{STC} &&=&& \frac12[SSU]_{PTC}\\
+        &[SUS]_{STC} &&=&& [SUS]_{PTC}\\
+        &[SUU]_{STC} &&=&& \frac12[SUU]_{PTC}\\
+        &[UUS]_{STC} &&=&& \frac12[SUU]_{PTC}\\
+        &[USU]_{STC} &&=&& [USU]_{PTC}\\
+        &[UUU]_{STC} &&=&& [UUU]_{PTC}\\
+    \end{aligned}
 \end{equation}
 ++++
+====
 
+.Отношение стерео-типового и типового составов
+[stem]
+++++
+\begin{equation}
+    [t_1t_2t_3]_{STC} = \frac{1}{P_{[t_1t_2t_3]_{TC}}} [t_1t_2t_3]_{TC}\\
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[t_i] -- элемент множества stem:[\mathbb{T}], представляющий тип stem:[FA] в положении stem:[sn]-stem:[i];
+* stem:[P_{[t_1t_2t_3\]_{TC}}] -- число перестановок выборки stem:[[t_1t_2t_3\]].
+====
 .{details}
 [%collapsible]
-=====
-Отличие размещения от сочетания в том, что элементы сочетания позиционно-независимы т.е., если мы поменяем любые из элементов местами, это будет тот же способ, что и прежде. Количество способов перестановки stem:[k] элементов между собой равно stem:[k!], отсюда и получаем формулу stem:[\frac{n!}{(n-k)!k!}]
-=====
-
-.Число перестановок из stem:[n]:
+====
 [stem]
 ++++
 \begin{equation}
-    P_n = n!
+    \begin{aligned}
+        &[SSS]_{STC} &&=&& [SSS]_{TC}\\
+        &[SSU]_{STC} &&=&& \frac13[SSU]_{TC}\\
+        &[USS]_{STC} &&=&& \frac13[SSU]_{TC}\\
+        &[SUS]_{STC} &&=&& \frac13[SSU]_{TC}\\
+        &[SUU]_{STC} &&=&& \frac13[SUU]_{TC}\\
+        &[UUS]_{STC} &&=&& \frac13[SUU]_{TC}\\
+        &[USU]_{STC} &&=&& \frac13[SUU]_{TC}\\
+        &[UUU]_{STC} &&=&& [UUU]_{TC}\\
+    \end{aligned}
 \end{equation}
+++++
+====
+
+.Отношение позиционно-типового и типового составов
+[stem]
+++++
+\begin{equation}
+    [t_1t_2t_3]_{PTC} = \frac{P_{[t_1t_2t_3]_{PTC}}}{P_{[t_1t_2t_3]_{TC}}} [t_1t_2t_3]_{TC}\\
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[t_i] -- элемент множества stem:[\mathbb{T}], представляющий тип stem:[FA] в положении stem:[sn]-stem:[i];
+* stem:[P_{[t_1t_2t_3\]_{PTC}}] -- число позиционно-специфичных перестановок выборки stem:[[t_1t_2t_3\]];
+* stem:[P_{[t_1t_2t_3\]_{TC}}] -- число перестановок выборки stem:[[t_1t_2t_3\]].
+====
+.{details}
+[%collapsible]
+====
+[stem]
+++++
+\begin{equation}
+    \begin{aligned}
+        &[SSS]_{PTC} &&=&& [SSS]_{TC}\\
+        &[SSU]_{PTC} &&=&& \frac23[SSU]_{TC}\\
+        &[SUS]_{PTC} &&=&& \frac13[SSU]_{TC}\\
+        &[SUU]_{PTC} &&=&& \frac23[SUU]_{TC}\\
+        &[USU]_{PTC} &&=&& \frac13[SUU]_{TC}\\
+        &[UUU]_{PTC} &&=&& [UUU]_{TC}\\
+    \end{aligned}
+\end{equation}
+++++
+====
+
+== Видовой состав
+
+.Стерео-видовой состав
+[stem]
+++++
+\begin{equation}
+    [a_1a_2a_3]_{SSC} = \frac{[a_1]}{[t_1]} \frac{[a_2]}{[t_2]} \frac{[a_3]}{[t_3]} [t_1t_2t_3]_{TC}\\
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[a_i] -- элемент множества stem:[\mathbb{A}] в положении stem:[sn]-stem:[i];
+* stem:[t_i] -- элемент множества stem:[\mathbb{T}], представляющий тип элемента stem:[a_i].
+====
+.{details}
+[%collapsible]
+====
+[stem]
+++++
+\begin{align}
+    &[s_1s_1s_1]_{SSC} &&=&& \frac{[s_1]}{[S]} \frac{[s_1]}{[S]} \frac{[s_1]}{[S]} [SSS]_{TC}\\
+
+    &\left.
+        \begin{array}{r}
+            [s_1s_1s_2]_{SSC}\\
+            [s_1s_2s_1]_{SSC}\\
+            [s_2s_1s_1]_{SSC}\\
+        \end{array}
+    \right\} &&=&& \frac{[s_1]}{[S]} \frac{[s_1]}{[S]} \frac{[s_2]}{[S]} [SSS]_{TC}\\
+
+    &\left.
+        \begin{array}{r}
+            [s_1s_2s_3]_{SSC}\\
+            [s_1s_3s_2]_{SSC}\\
+            [s_2s_1s_3]_{SSC}\\
+            [s_2s_3s_1]_{SSC}\\
+            [s_3s_1s_2]_{SSC}\\
+            [s_3s_2s_1]_{SSC}\\
+        \end{array}
+    \right\} &&=&& \frac{[s_1]}{[S]} \frac{[s_2]}{[S]} \frac{[s_3]}{[S]} [SSS]_{TC}\\
+
+    &\left.
+        \begin{array}{r}
+            [s_1s_1u_1]_{SSC}\\
+            [s_1u_1s_1]_{SSC}\\
+            [u_1s_1s_1]_{SSC}\\
+        \end{array}
+    \right\} &&=&& \frac{[s_1]}{[S]} \frac{[s_1]}{[S]} \frac{[u_1]}{[U]} [SSU]_{TC}\\
+
+    &\left.
+        \begin{array}{r}
+            [s_1s_2u_1]_{SSC}\\
+            [s_1u_1s_2]_{SSC}\\
+            [s_2s_1u_1]_{SSC}\\
+            [s_2u_1s_1]_{SSC}\\
+            [u_1s_1s_2]_{SSC}\\
+            [u_1s_2s_1]_{SSC}\\
+        \end{array}
+    \right\} &&=&& \frac{[s_1]}{[S]} \frac{[s_2]}{[S]} \frac{[u_1]}{[U]} [SSU]_{TC}\\
+
+    &\left.
+        \begin{array}{r}
+            [s_1u_1u_2]_{SSC}\\
+            [s_1u_2u_1]_{SSC}\\
+            [u_1s_1u_2]_{SSC}\\
+            [u_1u_2s_1]_{SSC}\\
+            [u_2s_1u_1]_{SSC}\\
+            [u_2u_1s_1]_{SSC}\\
+        \end{array}
+    \right\} &&=&& \frac{[s_1]}{[S]} \frac{[u_1]}{[U]} \frac{[u_2]}{[U]} [SUU]_{TC}\\
+
+    &\left.
+        \begin{array}{r}
+            [s_1u_1u_1]_{SSC}\\
+            [u_1s_1u_1]_{SSC}\\
+            [u_1u_1s_1]_{SSC}\\
+        \end{array}
+    \right\} &&=&& \frac{[s_1]}{[S]} \frac{[u_1]}{[U]} \frac{[u_1]}{[U]} [SUU]_{TC}\\
+
+    &\left.
+        \begin{array}{r}
+            [u_1u_2u_3]_{SSC}\\
+            [u_1u_3u_2]_{SSC}\\
+            [u_2u_1u_3]_{SSC}\\
+            [u_2u_3u_1]_{SSC}\\
+            [u_3u_1u_2]_{SSC}\\
+            [u_3u_2u_1]_{SSC}\\
+        \end{array}
+    \right\} &&=&& \frac{[u_1]}{[U]} \frac{[u_2]}{[U]} \frac{[u_3]}{[U]} [UUU]_{TC}\\
+
+    &\left.
+        \begin{array}{r}
+            [u_1u_1u_2]_{SSC}\\
+            [u_1u_2u_1]_{SSC}\\
+            [u_2u_1u_1]_{SSC}\\
+        \end{array}
+    \right\} &&=&& \frac{[u_1]}{[U]} \frac{[u_1]}{[U]} \frac{[u_2]}{[U]} [UUU]_{TC}\\
+
+    &[u_1u_1u_1]_{SSC} &&=&& \frac{[u_1]}{[U]} \frac{[u_1]}{[U]} \frac{[u_1]}{[U]} [UUU]_{TC}\\
+\end{align}
+++++
+====
+
+.Позиционно-видовой состав
+[stem]
+++++
+\begin{equation}
+    [a_1a_2a_3]_{PSC} = \sum_{j=0}^{P_{PSC}} [a_{1j}a_{2j}a_{3j}]_{SSC}\\
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[a_i] -- элемент множества stem:[\mathbb{A}] в положении stem:[sn]-stem:[i];
+* stem:[a_{ij}] -- элемент множества stem:[\mathbb{A}] в положении stem:[sn]-stem:[i] для stem:[j]-й перестановки;
+* stem:[P_{PSC} = {P_{[a_1a_2a_3\]_{PSC}}}] -- число позиционно-специфичных перестановок выборки stem:[[a_1a_2a_3\]].
+====
+
+.Видовой состав
+[stem]
+++++
+\begin{equation}
+    [a_1a_2a_3]_{SC} = \sum_{j=0}^{P_3} [a_{1j}a_{2j}a_{3j}]_{SSC}\\
+\end{equation}
+++++
+.{where}
+[%collapsible]
+====
+* stem:[a_i] -- элемент множества stem:[\mathbb{A}] в положении stem:[sn]-stem:[i];
+* stem:[P = P_{[a_1a_2a_3\]}] -- число перестановок выборки stem:[[a_1a_2a_3\]].
+====
+.{details}
+[%collapsible]
+====
+[stem]
+++++
+\begin{align}
+    &[s_1s_1s_1]_{SC} &&=&& 1 \frac{[s_1]}{[S]} \frac{[s_1]}{[S]} \frac{[s_1]}{[S]} [SSS]_{TC}\\
+    &[s_1s_1s_2]_{SC} &&=&& 3 \frac{[s_1]}{[S]} \frac{[s_1]}{[S]} \frac{[s_2]}{[S]} [SSS]_{TC}\\
+    &[s_1s_2s_3]_{SC} &&=&& 6 \frac{[s_1]}{[S]} \frac{[s_2]}{[S]} \frac{[s_3]}{[S]} [SSS]_{TC}\\
+
+    &[s_1s_1u_1]_{SC} &&=&& 3 \frac{[s_1]}{[S]} \frac{[s_1]}{[S]} \frac{[u_1]}{[U]} [SSU]_{TC}\\
+    &[s_1s_2u_1]_{SC} &&=&& 6 \frac{[s_1]}{[S]} \frac{[s_2]}{[S]} \frac{[u_1]}{[U]} [SSU]_{TC}\\
+
+    &[s_1u_1u_2]_{SC} &&=&& 6 \frac{[s_1]}{[S]} \frac{[u_1]}{[U]} \frac{[u_2]}{[U]} [SUU]_{TC}\\
+    &[s_1u_1u_1]_{SC} &&=&& 3 \frac{[s_1]}{[S]} \frac{[u_1]}{[U]} \frac{[u_1]}{[U]} [SUU]_{TC}\\
+
+    &[u_1u_2u_3]_{SC} &&=&& 6 \frac{[u_1]}{[U]} \frac{[u_2]}{[U]} \frac{[u_3]}{[U]} [UUU]_{TC}\\
+    &[u_1u_1u_2]_{SC} &&=&& 3 \frac{[u_1]}{[U]} \frac{[u_1]}{[U]} \frac{[u_2]}{[U]} [UUU]_{TC}\\
+    &[u_1u_1u_1]_{SC} &&=&& 1 \frac{[u_1]}{[U]} \frac{[u_1]}{[U]} \frac{[u_1]}{[U]} [UUU]_{TC}\\
+\end{align}
 ++++
 ====
 
 '''
 
-[stem]
-++++
-\begin{cases}
-    0\% < [S] < 66\% & 1 - ([SU_2] + [S_2U]) = 1 - 3 * ([S]^2 * [U] + [S] * [U]^2) = ((3 * [U] - 1) / 20)^2\\
-    66\% < [S] < 100\% & 0
-\end{cases}$
-++++
+== Calculation
+
+> stem:[3[A\] = 2[A\]_{13} + [A\]_2]{0248e842}
 
 После 66% остался $S_2U$ $=>$ остался $[SSU]$, $[USS]$ или $[SUS]$.
 
 - для типового состава (соответствует разложению бинома):
-    - $[S_2U] = [SSU] + [USS] + [SUS] = 3 * [S]^2 * [U]$
-    - $[SU_2] = [SUU] + [UUS] + [USU] = 3 * [S] * [U]^2$
-    - остальные значения не отличаются от значений стерео-типового и
-        позиционно-типового составов:
-        - $[S_3] = [S]^3$
-        - $[U_3] = [U]^3$
-
-== Calculation
-
-> stem:[3[A\] = 2[A\]_{13} + [A\]_2]{0248e842}
+- $[S_2U] = [SSU] + [USS] + [SUS] = 3 * [S]^2 * [U]$
+- $[SU_2] = [SUU] + [UUS] + [USU] = 3 * [S] * [U]^2$
+- остальные значения не отличаются от значений стерео-типового и
+позиционно-типового составов:
+- $[S_3] = [S]^3$
+- $[U_3] = [U]^3$
