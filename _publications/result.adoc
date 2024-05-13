@@ -1,4 +1,4 @@
-= {page-title}
+= Модифицированная теория Ганстоуна (Gunstone)
 :eqnums:
 :nofooter:
 :showtitle:
@@ -7,7 +7,7 @@
 :page-doi: DRAFT
 :page-excerpt: Excerpt goes here.
 :page-liquid:
-:page-title: Модифицированная теория Ганстоуна (Gunstone)
+
 :details: Детали
 
 :2fd49011: footnote:2fd49011-2923-59ed-ac33-2d84d8a2f33f[Верещагин А. Г. Биохимия триглицеридов. – 1972.]

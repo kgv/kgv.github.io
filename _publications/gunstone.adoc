@@ -7,6 +7,7 @@
 :page-doi: DRAFT
 :page-liquid:
 :page-title: Теория Ганстоуна (Gunstone)
+
 :details: Детали
 :where: Где
 

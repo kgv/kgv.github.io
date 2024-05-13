@@ -4,9 +4,10 @@
 :showtitle:
 :stem: latexmath
 :page-authors: ["Казаков Г.В.", "Сидоров Р.А."]
-:page-doi: Математика
+:page-doi: DRAFT
 :page-liquid:
-:page-title: Математика
+:page-title: Формулы из комбинаторики, используемые в моделях расчета триглицеринов.
+
 :details: Детали
 :examples: Примеры
 :where: Где

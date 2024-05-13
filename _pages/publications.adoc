@@ -1,6 +1,15 @@
 = {page-title}
-:nofooter:
 :showtitle:
-:page-layout: collections
 :page-liquid:
+:page-permalink: /publications
 :page-title: Publications
+
+{% for publication in site.publications %}
+== link:{{ publication.url | relative_url }}[{{ publication.title }}]
+
+*{% for author in publication.authors -%}{{ author }}{% if forloop.last != true %}, {% endif %}{%- endfor %}*
+
+DOI: link:https://doi.org/{{ publication.doi }}[{{ publication.doi }}]
+
+{{ publication.excerpt | strip_html }}
+{% endfor %}

@@ -13,16 +13,16 @@ author:
   middle_name: Valadimirovich
   last_name: Kazakov
   laboratory: Laboratory of Lipid Metabolism, Timiryazev Institute of Plant Physiology, Russian Academy of Sciences
+  institute: Timiryazev Institute of Plant Physiology, Russian Academy of Sciences
+  academy: Russian Academy of Sciences
   location: Russia, Moscow
   email: kazakov.giorgi.valadimirovich@gmail.com
   github: kgv
 
-permalink: /blog/:year/:title/
+# journal
+permalink: /journal/:year/:month/:day/:title/
 
 collections:
-  news:
-    output: true
-    permalink: /news/:path/
   projects:
     output: true
     permalink: /:collection/:title/
@@ -31,6 +31,7 @@ collections:
     permalink: /:collection/:title/
 
 defaults:
+  # journal
   - scope:
       path: ""
       type: posts
@@ -46,10 +47,9 @@ defaults:
       type: publications
     values:
       layout: publication
-  # _pages
+  # pages
   - scope:
       path: "_pages"
-      type: pages
     values:
       layout: page
 

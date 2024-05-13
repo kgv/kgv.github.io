@@ -1,0 +1,6 @@
+= {page-title}
+:page-permalink: /404
+:page-title: Page Not Found
+:page-sitemap: false
+
+Sorry, but the page you were trying to view does not exist.
