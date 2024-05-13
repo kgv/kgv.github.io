@@ -1,4 +1,5 @@
 = Journal by categories
+:showtitle:
 :page-layout: default
 :page-liquid:
 :page-permalink: /journal/categories

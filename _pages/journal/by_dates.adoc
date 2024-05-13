@@ -1,4 +1,5 @@
 = Journal by dates
+:showtitle:
 :page-layout: default
 :page-liquid:
 :page-permalink: /journal/dates

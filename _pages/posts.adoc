@@ -1,4 +1,5 @@
 = Posts
+:showtitle:
 :page-permalink: /posts
 
 == link:journal/categories[By categories]
