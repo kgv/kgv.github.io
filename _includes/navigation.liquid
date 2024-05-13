@@ -1,20 +1,45 @@
-<!-- Nav bar -->
-<nav>
-    <div class="title-bar" data-responsive-toggle="menu" data-hide-for="medium">
-        <button class="menu-icon" type="button" data-toggle></button>
-        <div class="title-bar-title">Menu</div>
-    </div>
-
-    <div class="topbar-responsive-links" id="menu">
-        <div class="top-bar-left">
-            <ul class="dropdown menu" data-dropdown-menu>
-                <li class="menu-text"><a href="{{ site.url }}">{{ site.author.last_name }}&nbsp;{{ site.author.first_name }}&nbsp;{{ site.author.middle_name }}</a></li>
-                <li><a href="/posts">Journal</a></li>
-                <li><a href="/projects">Projects</a></li>
-                <li><a href="/publications">Publications</a></li>
-                <li><a href="#">Contacts</a></li>
-                <li><a href="/about">About</a></li>
-            </ul>
+<!-- Top -->
+<nav class="uk-navbar-container" uk-sticky="show-on-up: true">
+    <div class="uk-container">
+        <div uk-navbar>
+            <div class="uk-navbar-left">
+                <a class="uk-navbar-item uk-logo" href="/" aria-label="Back to Home">{{ site.author.last_name }}&nbsp;{{ site.author.first_name }}&nbsp;{{ site.author.middle_name }}</a>
+            </div>
+            <div class="uk-navbar-right">
+                <ul class="uk-navbar-nav uk-visible@s">
+                    <li>
+                        <a href="/posts">Posts <span uk-navbar-parent-icon></span></a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li><a href="/posts/categories">Categories</a></li>
+                                <li><a href="/posts/dates">Dates</a></li>
+                                <li><a href="/posts/tags">Tags</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="/projects">Projects</a></li>
+                    <li><a href="/publications">Publications</a></li>
+                    <li><a href="/about">About</a></li>
+                </ul>
+                <ul class="uk-navbar-nav uk-hidden@s">
+                    <li>
+                        <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-active"><a href="/posts">Posts</a></li>
+                                <li><a href="/posts/categories">Categories</a></li>
+                                <li><a href="/posts/dates">Dates</a></li>
+                                <li><a href="/posts/tags">Tags</a></li>
+                                <li class="uk-nav-divider"></li>
+                                <li><a href="/projects">Projects</a></li>
+                                <li><a href="/publications">Publications</a></li>
+                                <li><a href="/about">About</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
 </nav>
+

@@ -1,0 +1,15 @@
+<footer class="grid-container">
+    <hr/>
+    <div class="grid-x grid-padding-x align-justify">
+        <div class="cell large-8 medium-8">
+            <p>&copy; Copyright {{ site.time | date: '%Y' }} {{ site.author.first_name }} {{ site.author.middle_name }} {{ site.author.last_name }}</p>
+        </div>
+        <div class="cell large-4 medium-4">
+            <div class="callout">
+                <a href="{{ site.url }}" rel="nofollow noopener noreferrer" target="_blank"><i class="fas fa-fw fa-2xl fa-globe" aria-hidden="true"></i></a>
+                <a href="mailto:{{ site.author.email }}" rel="nofollow noopener noreferrer" target="_blank"><i class="fas fa-fw fa-2xl fa-envelope" aria-hidden="true"></i></a>
+                <a href="https://github.com/{{ site.author.github }}" rel="nofollow noopener noreferrer" target="_blank"><i class="fab fa-fw fa-2xl fa-github" aria-hidden="true"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>

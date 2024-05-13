@@ -1,14 +1,30 @@
-<footer class="grid-container">
-    <hr/>
-    <div class="grid-x grid-padding-x align-justify">
-        <div class="cell large-8 medium-8">
-            <p>&copy; Copyright {{ site.time | date: '%Y' }} {{ site.author.first_name }} {{ site.author.middle_name }} {{ site.author.last_name }}</p>
-        </div>
-        <div class="cell large-4 medium-4">
-            <div class="callout">
-                <a href="{{ site.url }}" rel="nofollow noopener noreferrer" target="_blank"><i class="fas fa-fw fa-2xl fa-globe" aria-hidden="true"></i></a>
-                <a href="mailto:{{ site.author.email }}" rel="nofollow noopener noreferrer" target="_blank"><i class="fas fa-fw fa-2xl fa-envelope" aria-hidden="true"></i></a>
-                <a href="https://github.com/{{ site.author.github }}" rel="nofollow noopener noreferrer" target="_blank"><i class="fab fa-fw fa-2xl fa-github" aria-hidden="true"></i></a>
+<footer>
+    <div class="uk-section-default uk-section">
+        <div class="uk-container uk-container-large">
+            <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-margin-large uk-margin-remove-bottom">
+                <div class="uk-width-1-1@m">
+                    <hr>
+                </div>
+            </div>
+            <div class="uk-grid tm-grid-expand uk-grid-row-small uk-margin-medium" uk-grid="">
+                <div class="uk-grid-item-match uk-flex-middle uk-width-1-3@s uk-first-column">
+                    <div class="uk-panel uk-width-1-1">            
+                        <div class="uk-text-left@s uk-text-center">
+                            <ul class="uk-margin-remove-bottom uk-subnav uk-flex-left@s uk-flex-center" uk-margin="">
+                                <li class="uk-first-column"><a href="{{ site.url }}" rel="nofollow noopener noreferrer" target="_blank"><span uk-icon="icon: world; ratio: 2"></a></li>
+                                <li><a href="https://github.com/{{ site.author.github }}" rel="nofollow noopener noreferrer" target="_blank"><span uk-icon="icon: github; ratio: 2"></span></a></li>
+                                <li><a href="mailto:{{ site.author.email }}" rel="nofollow noopener noreferrer" target="_blank"><span uk-icon="icon: mail; ratio: 2"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="uk-grid-item-match uk-flex-middle uk-width-2-3@s">
+                    <div class="uk-panel uk-width-1-1">
+                        <div class="uk-panel uk-text-small uk-text-muted uk-margin uk-text-right@s uk-text-center">
+                            © Copyright {{ site.time | date: '%Y' }} {{ site.author.first_name }} {{ site.author.middle_name }} {{ site.author.last_name }}
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
