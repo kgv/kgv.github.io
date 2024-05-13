@@ -1,0 +1,6 @@
+= {page-title}
+:nofooter:
+:showtitle:
+:page-layout: collections
+:page-liquid:
+:page-title: Publications

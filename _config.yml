@@ -25,10 +25,10 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:title/
+    permalink: /:collection/:title/
   publications:
     output: true
-    permalink: /publications/:title/
+    permalink: /:collection/:title/
 
 defaults:
   - scope:
@@ -46,7 +46,15 @@ defaults:
       type: publications
     values:
       layout: publication
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
 
+include:
+- _pages
 exclude:
 - LICENSE
 - README.adoc

@@ -1,0 +1,17 @@
+---
+permalink: /about/
+title: "About"
+excerpt: "Software Engineer at the Laboratory of Lipid Metabolism, Timiryazev Institute of Plant Physiology, Russian Academy of Sciences."
+update: 2023-05-27T11:59:26-04:00
+utca_screenshots:
+  - image:
+      path: /assets/utca/screenshots/0.jpg
+  - image:
+      path: /assets/utca/screenshots/1.jpg
+  - image:
+      path: /assets/utca/screenshots/2.jpg
+toc: true
+toc_label: "Table of Contents"
+---
+
+Software Engineer at the Laboratory of Lipid Metabolism, Timiryazev Institute of Plant Physiology, Russian Academy of Sciences.
