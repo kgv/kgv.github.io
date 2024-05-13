@@ -4,6 +4,8 @@
 :nofooter:
 :table-caption: Таблица
 :table-details: Детали таблицы
+:page-categories: [Experiments, Methods]
+:page-tags: [gc, laboratory, log, lunaria_rediviva, pl]
 
 [cols="5*", frame=all, grid=all]
 |===

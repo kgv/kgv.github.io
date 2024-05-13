@@ -1,7 +1,6 @@
-= {page-title}
+= About
 :page-liquid:
 :page-permalink: /about
-:page-title: About
 
 *{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}*
 

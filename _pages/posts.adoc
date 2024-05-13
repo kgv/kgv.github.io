@@ -1,0 +1,14 @@
+= Posts
+:page-permalink: /posts
+
+== link:journal/categories[By categories]
+
+Group journal posts by categories.
+
+== link:journal/dates[By dates]
+
+Group journal posts by dates.
+
+== link:journal/tags[By tags]
+
+Group journal posts by tags.

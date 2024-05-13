@@ -1,8 +1,7 @@
-= {page-title}
+= Publications
 :showtitle:
 :page-liquid:
 :page-permalink: /publications
-:page-title: Publications
 
 {% for publication in site.publications %}
 == link:{{ publication.url | relative_url }}[{{ publication.title }}]

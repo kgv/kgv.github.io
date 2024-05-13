@@ -6,6 +6,8 @@
 :stem: latexmath
 :table-caption: Таблица
 :table-details: Детали таблицы
+:page-categories: [Experiments, Methods]
+:page-tags: [gc, laboratory, log, lunaria_rediviva, pl]
 
 == xref:../2024-03-29/1.adoc#пробы-a_0-a_1-a_2-b_1-b_2-c_1-d_1-d_2-d_3-d_4-d_5[🔗] Пробы stem:[A_1], stem:[A_2], stem:[B], stem:[C] из xref:../2024-01-23/1.adoc#пробы-tl_1-tl_2-tl_3[🔗] stem:[TL_1]
 

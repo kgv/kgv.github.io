@@ -1,8 +1,8 @@
-= {page-title}
+= UTCA
+:showtitle:
+:page-description: A program to calculate the distribution of fatty acid acyls in triacylglycerols.
 :page-excerpt: Ultimate Triacylglycerols Calculation Application
 :page-liquid:
-:page-title: UTCA
-:showtitle:
 ifndef::env-github[:toc:]
 
 Ultimate Triacylglycerols Calculation Application

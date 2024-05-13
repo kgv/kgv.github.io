@@ -1,0 +1,4 @@
+= Journal by dates
+:page-layout: default
+:page-liquid:
+:page-permalink: /journal/dates

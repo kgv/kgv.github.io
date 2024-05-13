@@ -1,4 +1,4 @@
-= {page-title}
+= Теория Ганстоуна (Gunstone)
 :eqnums:
 :nofooter:
 :showtitle:
@@ -6,7 +6,6 @@
 :page-authors: ["Казаков Г.В.", "Сидоров Р.А."]
 :page-doi: DRAFT
 :page-liquid:
-:page-title: Теория Ганстоуна (Gunstone)
 
 :details: Детали
 :where: Где

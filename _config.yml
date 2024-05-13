@@ -55,6 +55,7 @@ defaults:
 
 include:
 - _pages
+- _pages/journal
 exclude:
 - LICENSE
 - README.adoc

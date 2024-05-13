@@ -1,8 +1,7 @@
-= {page-title}
+= Projects
 :showtitle:
 :page-liquid:
 :page-permalink: /projects
-:page-title: Projects
 
 {% for project in site.projects %}
 == link:{{ project.url | relative_url }}[{{ project.title }}]

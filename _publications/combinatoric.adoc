@@ -1,12 +1,12 @@
-= {page-title}
+= Комбинаторика
 :eqnums:
 :nofooter:
 :showtitle:
 :stem: latexmath
 :page-authors: ["Казаков Г.В.", "Сидоров Р.А."]
 :page-doi: DRAFT
+:page-excerpt: Формулы комбинаторики, используемые в моделях расчета триглицеринов.
 :page-liquid:
-:page-title: Формулы из комбинаторики, используемые в моделях расчета триглицеринов.
 
 :details: Детали
 :examples: Примеры

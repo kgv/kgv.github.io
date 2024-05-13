@@ -1,0 +1,33 @@
+= Journal by tags
+:page-layout: page
+:page-liquid:
+:page-permalink: /journal/tags
+
+{% assign items_max = 0 %}
+{% for tag in site.tags %}
+{% if tag[1].size > items_max %}
+{% assign items_max = tag[1].size %}
+{% endif %}
+{% endfor %}
+
+{% for i in (1..items_max) reversed %}
+{% for tag in site.tags %}
+{% if tag[1].size == i %}
+* xref:#{{ tag[0] | slugify }}[*{{ tag[0] }}* _{{ i }}_]
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+{% for i in (1..items_max) reversed %}
+{% for tag in site.tags %}
+{% if tag[1].size == i %}
+[#{{ tag[0] | slugify }}]
+== {{ tag[0] }}
+
+{% for post in tag.last %}
+include archive-single.html type=entries_layout %
+{% endfor %}
+xref:#page-title[{{ site.data.ui-text[site.locale].back_to_top | default: "Back to top" }} &uarr;]
+{% endif %}
+{% endfor %}
+{% endfor %}

@@ -2,6 +2,8 @@
 :experimental:
 ifndef::env-github[:toc:]
 
+{page-title}
+
 == Regex
 
 .Regex
