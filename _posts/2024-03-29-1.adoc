@@ -103,7 +103,7 @@ stem:[m_2]:: Масса пробы
 == Пробы stem:[A_0], stem:[A_1], stem:[A_2], stem:[B_1], stem:[B_2], stem:[C_1], stem:[D_1], stem:[D_2], stem:[D_3], stem:[D_4], stem:[D_5]
 
 . Внести stem:[[H_2SO_4/MeOH; 1\%\]]: 300 stem:[\mu L]
-. Греть 30 stem:[min], 55 stem:[{\degree}C]
+. Греть 30 stem:[min], 55 stem:[\degree C]
 . Внести stem:[H_2O]: 150 stem:[\mu L]
 +
 NOTE: Половина от stem:[[H_2SO_4/MeOH; 1\%\]]!

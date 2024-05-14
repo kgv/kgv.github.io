@@ -23,7 +23,7 @@ stem:[TAG_1]: 19 stem:[mg] в stem:[Benzene]: 1900 stem:[\mu L] ()
 . Внести stem:[Суспензия]: 1070 stem:[\mu L]
 +
 NOTE: Каждый раз при наборе stem:[суспензии] дозатором баламутить осадок.
-. Греть 30 stem:[min], 38 stem:[{\degree}C]
+. Греть 30 stem:[min], 38 stem:[\degree C]
 . Внести stem:[[Hexane/Et_2O; 1/1, v/v\]]: 700 stem:[\mu L]
 . Отобрать верхнюю фазу в пробы stem:[1], stem:[2], stem:[3] (продукты гидролиза)
 
@@ -48,7 +48,7 @@ TLC::
 
 Esterification::
 . Внести stem:[[H_2SO_4/MeOH; 1\%\]]: 200 stem:[\mu L]
-. Греть 30 stem:[min], 55 stem:[{\degree}C]
+. Греть 30 stem:[min], 55 stem:[\degree C]
 . Внести stem:[H_2O]: 100 stem:[\mu L]
 +
 NOTE: Половина от stem:[[H_2SO_4/MeOH; 1\%\]]!

@@ -56,7 +56,7 @@ stem:[m_2]:: Масса пробы
 * stem:[TAG]: 3 stem:[\mu L]
 * stem:[Sterin]: 3 stem:[\mu L]
 . Опрыскать stem:[[PMA/[EtOH/H_2O; 80/20, v/v]; 100/4, m/m\]]
-. Греть при температуре 100 stem:[{\degree}C] до проявления
+. Греть при температуре 100 stem:[\degree C] до проявления
 
 .{figures-caption}
 [%collapsible]
