@@ -29,7 +29,7 @@ stem:[m_2]:: Масса пробы
 --
 . Внести stem:[[CHCl_3/MeOH; 2/1, v/v]]: 100 stem:[mL]
 . TLC
-Неподвижная фаза:: stem:[Silica\ gel\ 60]: 20x10
+Неподвижная фаза:: stem:[Silica~gel~60]: 20x10
 Подвижная фаза:: stem:[[Hexane/Et_2O; 1/1, v/v]]: 10 stem:[mL]
 Проба:: все вместе; ополоснуть stem:[[CHCl_3/MeOH; 2/1, v/v]]: 50 stem:[mL]
 . Отобрать пробы stem:[PL_1], stem:[PL_2], stem:[PL_3]

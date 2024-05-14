@@ -58,7 +58,7 @@ stem:[m_2]:: Масса пробы
 --
 . Внести stem:[[CHCl_3/MeOH; 2/1, v/v]]: 200 stem:[\mu L]
 . TLC (первое измерение)
-Неподвижная фаза:: stem:[Silica\ gel\ 60]: 10x10 stem:[cm]
+Неподвижная фаза:: stem:[Silica~gel~60]: 10x10 stem:[cm]
 Подвижная фаза:: stem:[[CHCl_3/MeOH/H_2O; 30/10/1, v/v/v]]: 10 stem:[mL]
 . Опрыскать stem:[Primuline]
 . Отобрать пробы stem:[A], stem:[B], stem:[C], stem:[D], stem:[E]
@@ -81,8 +81,8 @@ stem:[m_2]:: Масса пробы
 . Упарить досуха в токе stem:[Ar]
 . Внести stem:[[CHCl_3/MeOH; 2/1, v/v]]: ~ 150 stem:[\mu L]
 . TLC (второе измерение)
-Неподвижная фаза:: stem:[Silica\ gel\ 60]: 20x10
-Подвижная фаза:: stem:[[CHCl_3/MeOH/Acetic\ acid/H_2O; 80/9/12/2, v/v/v/v]]: 20 stem:[mL]
+Неподвижная фаза:: stem:[Silica~gel~60]: 20x10
+Подвижная фаза:: stem:[[CHCl_3/MeOH/Acetic~acid/H_2O; 80/9/12/2, v/v/v/v]]: 20 stem:[mL]
 Проба:: все вместе
 . Опрыскать stem:[Primuline]
 . Отобрать пробы stem:[A_1], stem:[A_2], stem:[B_1], stem:[C_1], stem:[D_1]

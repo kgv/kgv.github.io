@@ -30,7 +30,7 @@ NOTE: Каждый раз при наборе stem:[суспензии] доза
 == Пробы stem:[1], stem:[2], stem:[3]
 
 . TLC
-Неподвижная фаза:: stem:[Silica\ gel\ 60]: 15x10
+Неподвижная фаза:: stem:[Silica~gel~60]: 15x10
 Подвижная фаза:: stem:[[Hexane/Et_2O; 6/4, v/v]]: 10 stem:[mL]
 Проба:: все вместе
 . Отобрать пробы stem:[MAG_1], stem:[MAG_2], stem:[MAG_3], stem:[DAG_1], stem:[DAG_2], stem:[DAG_3], stem:[FFA_1], stem:[FFA_2], stem:[FFA_3]
@@ -38,7 +38,7 @@ NOTE: Каждый раз при наборе stem:[суспензии] доза
 == Пробы stem:[1], stem:[2], stem:[3]
 
 TLC::
-Неподвижная фаза::: stem:[Silica\ gel\ 60]: 15x10
+Неподвижная фаза::: stem:[Silica~gel~60]: 15x10
 Подвижная фаза::: stem:[[Hexane/Et_2O; 6/4, v/v]]: 10 stem:[mL]
 Пробы::: пп
 []

@@ -9,7 +9,7 @@
 
 . Внести пробу: 600 stem:[\mu L]
 . TLC
-Неподвижная фаза:: stem:[Silica\ gel\ 60]
+Неподвижная фаза:: stem:[Silica~gel~60]
 Подвижная фаза:: stem:[[Hexane/Et_2O; 6/4, v/v]]: 10 stem:[mL]
 Проба:: каждая отдельно
 . Отобрать пробы stem:[PL_{21}], stem:[PL_{22}], stem:[PL_{31}], stem:[PL_{32}]
@@ -63,7 +63,7 @@ stem:[m_2]:: Масса пробы
 ====
 . Внести stem:[[CHCl_3/Et_2O; 1/1, v/v]]: 400 stem:[\mu L]
 . TLC (первое измерение)
-Неподвижная фаза:: stem:[Silica\ gel\ 60]
+Неподвижная фаза:: stem:[Silica~gel~60]
 Подвижная фаза:: stem:[[CHCl_3/MeOH/H_2O; 30/10/1, v/v/v]]: 10 stem:[mL]
 . Опрыскать stem:[Primuline]
 . Отобрать пробы stem:[A], stem:[B], stem:[C], stem:[D]
@@ -112,8 +112,8 @@ RF (Retention Factor):: Относительный коэффициент уде
 . Внести stem:[[CHCl_3/MeOH; 2/1, v/v]]: ~ 100 stem:[\mu L]
 
 . TLC (второе измерение)
-Неподвижная фаза::: stem:[Silica\ gel\ 60]
-Подвижная фаза::: stem:[[CHCl_3/MeOH/Acetic\ acid/H_2O; 80/9/12/2, v/v/v/v]]: 10 stem:[mL]
+Неподвижная фаза::: stem:[Silica~gel~60]
+Подвижная фаза::: stem:[[CHCl_3/MeOH/Acetic~acid/H_2O; 80/9/12/2, v/v/v/v]]: 10 stem:[mL]
 . Опрыскать stem:[Primuline]
 . Отобрать пробы stem:[A_1], stem:[A_2], stem:[B_1], stem:[C_1], stem:[C_2], stem:[C_3], stem:[C_4], stem:[C_5], stem:[D_1], stem:[D_2], stem:[D_3], stem:[D_4]
 
