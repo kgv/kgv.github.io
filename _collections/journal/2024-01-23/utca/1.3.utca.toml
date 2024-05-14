@@ -1,0 +1,115 @@
+name = "1.3"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 132093.275 }
+description = "14:0"
+formula = "H28C14O2"
+label = "Td0"
+
+[[fatty_acids]]
+data = { mag2 = 73858.589, dag1223 = 489831.324, tag123 = 12342141.877 }
+description = "16:0"
+formula = "C16H32O2"
+label = "H0"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 9394.011, tag123 = 566543.928 }
+description = "7-16:1"
+formula = "C16H30O2"
+label = "7H1"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 110137.373 }
+description = "9-16:1"
+formula = "C16H30O2"
+label = "9H1"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 105993.640 }
+description = "16:3"
+formula = "C16H26O2"
+label = "H3"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 25830.897, tag123 = 592627.404 }
+description = "18:0"
+formula = "C18H36O2"
+label = "O0"
+
+[[fatty_acids]]
+data = { mag2 = 10094986.445, dag1223 = 8014085.425, tag123 = 156411277.598 }
+description = "9-18:1"
+formula = "C18H34O2"
+label = "9O1"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 92981.782, tag123 = 3219255.446 }
+description = "11-18:1"
+formula = "C18H34O2"
+label = "11O1"
+
+[[fatty_acids]]
+data = { mag2 = 7125085.719, dag1223 = 5492732.220, tag123 = 108286017.769 }
+description = "9,12-18:2"
+formula = "C18H32O2"
+label = "O2"
+
+[[fatty_acids]]
+data = { mag2 = 1089167.387, dag1223 = 895074.851, tag123 = 14923942.241 }
+description = "9,12,15-18:3"
+formula = "C18H30O2"
+label = "O3"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 367609.510 }
+description = "20:0"
+formula = "C20H40O2"
+label = "E0"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 1993833.419, tag123 = 83602825.786 }
+description = "11-20:1"
+formula = "C20H38O2"
+label = "11E1"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 1115759.018 }
+description = "13-20:1"
+formula = "C20H38O2"
+label = "13E1"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 25984.480, tag123 = 1266463.154 }
+description = "11,14-20:2"
+formula = "C20H36O2"
+label = "E2"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 8126533.493, tag123 = 0.0 }
+description = "22:0"
+formula = "C22H44O2"
+label = "D0"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 9181.005, tag123 = 421061713.624 }
+description = "13-22:1"
+formula = "C22H40O2"
+label = "13D1"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 3290276.278 }
+description = "15-22:1"
+formula = "C22H40O2"
+label = "15D1"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 35818.197, tag123 = 1977006.703 }
+description = "13,16-22:2"
+formula = "C22H38O2"
+label = "D2"
+
+[[fatty_acids]]
+data = { mag2 = 0.0, dag1223 = 1052583.123, tag123 = 62139432.157 }
+description = "15-24:1"
+formula = "C24H46O2"
+label = "Tc1"

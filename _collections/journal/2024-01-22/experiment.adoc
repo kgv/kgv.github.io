@@ -1,0 +1,26 @@
+= Experimental part
+:nofooter:
+:stem:
+
+[cols="4*a", frame=none, grid=none]
+|===
+| image:images/20240122_112703.jpg[]
+| image:images/20240122_114317.jpg[]
+| image:images/20240122_115048.jpg[]
+| image:images/20240122_115110.jpg[]
+| image:images/20240122_115208.jpg[]
+| image:images/20240122_115225.jpg[]
+| image:images/20240122_124147.jpg[]
+| image:images/20240122_131213.jpg[]
+| image:images/20240122_132354.jpg[]
+| image:images/20240122_134449.jpg[]
+| image:images/20240122_134526.jpg[]
+| image:images/20240122_152323.jpg[]
+| image:images/20240122_152328.jpg[]
+| image:images/20240122_155708.jpg[]
+| image:images/20240122_155718.jpg[]
+| image:images/20240122_164848.jpg[]
+| image:images/20240122_164852.jpg[]
+| image:images/20240122_164922.jpg[]
+| image:images/20240122_164926.jpg[]
+|===

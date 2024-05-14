@@ -1,0 +1,27 @@
+= Abbreviations
+:nofooter:
+
+== GC
+
+🇬🇧:: Gas chromatography
+🇷🇺:: Газовая хроматография
+
+== HPLC
+
+🇬🇧:: High-performance liquid chromatography
+🇷🇺:: Высокоэффективная жидкостная хроматография
+
+== RE
+
+🇬🇧:: Rotary evaporator
+🇷🇺:: Ротационный испаритель
+
+== SPE
+
+🇬🇧:: Solid-phase extraction
+🇷🇺:: Твердофазная экстракция
+
+== TLC
+
+🇬🇧:: Thin-layer chromatography
+🇷🇺:: Тонкослойная хроматография

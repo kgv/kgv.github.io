@@ -1,0 +1,81 @@
+= Выделение $PL$ *Lunaria rediviva* методом SPE на патронах с силикагелем (3 повторности)
+:figure-caption: Изображение
+:figures-caption: Изображения
+:nofooter:
+:showtitle:
+:table-caption: Таблица
+:table-details: Детали таблицы
+
+== xref:../2024-01-23/1.adoc#пробы-tl_1-tl_2-tl_3[🔗] Пробы $TL_1$, $TL_2$, $TL_3$
+
+. xref:../2024-03-29/1.adoc[🔗] Проба $TL_1$
+. xref:../2024-04-04/1.adoc[🔗] Проба $TL_2$
+. xref:../2024-04-02/1.adoc[🔗] Проба $TL_3$
+
+.Масса проб
+[cols="4*", frame=all, grid=all]
+|===
+|ID|$m_0, g$|$m_1, g$|$m_2, g$
+|$TL_1$|0.9803|1.0178|0.0375
+|$TL_2$|1.0014|1.0399|0.0385
+|$TL_3$|1.0107|1.0440|0.0333
+|===
+.{table-details}
+[%collapsible]
+====
+$m_0$:: Масса пустой пробирки
+$m_1$:: Масса пробирки с пробой
+$m_2$:: Масса пробы
+====
+
+== Пробы $PL_1$, $PL_2$, $PL_3$
+
+.Масса проб
+[cols="4*", frame=all, grid=all]
+|===
+|ID|$m_0, g$|$m_1, g$|$m_2, g$
+|$PL_1$|0.9853|0.9887|0.0034
+|$PL_2$|1.0053|1.0086|0.0033
+|$PL_3$|1.0081|1.0111|0.0030
+|===
+.{table-details}
+[%collapsible]
+====
+$m_0$:: Масса пустой пробирки
+$m_1$:: Масса пробирки с пробой
+$m_2$:: Масса пробы
+====
+
+== Пробы $A$, $B$, $C$, $D$
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPVh3EtRqH-MwznrmrIyah6ZZGeA45L-ICgHCWGvba2dZ696yM9NgKtL5-qziS8LyLPg4gJYZ42JiLduwpiebq52DN-jE2x0TtbJvGMj7Qicz4CYmOCSKYrF4XjlSOBnCDI6pU_v8x_OB3VSlRpJZ3P[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNaJNPlaLkJxwsPWgTXHMaP1pjqVPjACP6KN4E00ogLT6rmxXX7RnxDhX9i9Dp689HAA37Az6R5bHvVtijyORbln5TUYpArICaDzZ3U4ymjnE3pTsR8pLJ8RLcVS6-iicWKLXT-1tKG0qsoD0HWCB9V[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN-vHV0Yy3nDratD-iMMUwb98UN5si1xGCZ0NK_kKoANaSW0a8ZKOg2DNPhTBxWztFUAJBEZSfYEduzYNKjKg94InHme7hRZonmmOuOsimCMKULYjPiHzQ0oxQ4-MtXG2wUl_YWgO78YkHstO8gZ-f9[3]
+
+|image:https://lh3.googleusercontent.com/pw/AP1GczP-DRN_RoY_PLPcBa_FthA2WOabA9vis0a3k39BMKIYamkYXiQNT8-jzDeWSgJchAJ0dPSYdyKyRyf2iiQ71I5gX3XT658YFMSw4wml4ANpmlSmnucLEkuez8Mm8lDngCoi7ZyIc84Y_59h_u23rvNr[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMGk3NIgd05AUQT_9JnixmQ4s_OIjEESuiPcTM3mxXhAFPVr3lZy3hJiQytTMyxLJlxHQnsNlqbO_FopQKn_aCFM08qKaY5e5d-l7OpThbWmYJPBd3Qje5clAcZsDQllai9iafMN4bNcNqMqYG84SKH[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP5uLt5m7lomQ4MkFolSboUe6ZGzIXEndYxxQ-cSHVTylnWcDWDg4nSXhW-88EoU1rh-QcbgUINhYukNP8qMM5-jmVsAdpm9nh22DaDdL7Af-R-ITl_P-WhNQcb_k5K4PYVe8F239KOFY1CHpeEK1Vt[3]
+|===
+====
+
+== Пробы $A_1$, $A_2$, $B_1$, $C_1$
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczM4DZOHoFbzxKRaHsbTtOsb96-8xP6LUfjCNFKvFZAzjwVkBbARUP4zbmptnNapVZmGfBvqLSUhtGfTUUmWXVfj4IkMSFysOEaYDxOkDImuzh91i_JsEEC6AVtZ2ROXTzIq9moB8FZ55eqIEt6FuM7l[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOLWN7sXK1pozobBoRhshP2_njkgeT0G_amxzzsseUoJ_HZSkevczngwLUegOm42XT7RE8Ex6HIbbJ5r1lp6oNvWba_oY5O5hL4DdBi6r3WtImtGHX5Y4FOUD5MTurJ0iLSDiF7_Hia3NJnGzYWowDP[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOYXb8k6JmZ3UMv6Qbkj-Wv9fGH4L1U17PNQgt143_W3ZwUjuCQAK5g6q2ilka6K5qHr8RBRGVNlNRUNg7NuGm9nNtFIkLJjN6JbDgqz1kWW7ylUIbM4jZXXeBgg46inqnJ75g-40WQGpw7XUYjLre0[3]
+
+|image:https://lh3.googleusercontent.com/pw/AP1GczP472vggwtLh90wbVz4MnbQQxgb6Lf7XneJAuN-VqQwfckm5aiyEymhzPWKOiyG1xLXieYRyOi8gQ5oR51mUWFBATTsGIoLyhRj__AUxAF6aAIxpje6rzh4QKsSGbdVOZXDRYDUggIyxCGsjlesiggf[3]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOBW7R6IDSIbsxGCPVbn48BMSbESIKygQ5sTtqP_3-1_-0jFvZ1Ub1CgZGCOXrwwYmM_nQZJraDBqOjvOUlydq68VAYpfMZAk0WVBaWDwL-mZPOc5JZekZ86nDRHxDnP7EmXXqQy1Ik5ivmtn-lxDJo[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNvruH4DU5A_yyeowxo-5y_WPbKhKfXfaI7dpG5nTxIMmbmaF9R-xLG_YZXps5tbTYnCgkfrJL9Td7HiYY1WVSJNWLjc50KuuskYRxVgHLyVSuAGZ3CVzdMCL78RonFyjluqK-3f4rGodfYzEqZg2K-[1]
+|===
+====

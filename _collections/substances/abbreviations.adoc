@@ -1,0 +1,46 @@
+= Abbreviations
+:figure-caption: Изображение
+:figures-caption: Изображения
+:nofooter:
+
+== $DCF$
+
+🇬🇧:: Dichlorofluorescein
+🇷🇺:: Дихлорфлуоресцеин
+
+== $PC$
+
+🇬🇧:: Phosphatidylcholines
+🇷🇺:: Фосфатидилхолины
+
+== $PE$
+
+🇬🇧:: Phosphatidylethanolamine
+🇷🇺:: Фосфатидилэтаноламин
+
+== $PMA$
+
+🇬🇧:: Phosphomolybdic acid
+🇷🇺:: Фосфомолибденовая кислота
+
+.{figures-caption}
+[%collapsible]
+====
+image:images/20240320_192739.jpg[PMA]
+====
+
+== $TL$
+
+🇬🇧:: Total lipids
+🇷🇺:: Суммарные липиды
+
+== $TMSH$
+
+🇬🇧:: Trimethylsulfonium hydroxide
+🇷🇺:: Триметилсульфоний гидроксид
+
+.{figures-caption}
+[%collapsible]
+====
+image:images/42f24945-1b88-4039-a8ab-fce95d18d0ba.jpg[TMSH]
+====

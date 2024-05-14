@@ -1,0 +1,114 @@
+= Выделение $PL$ *Lunaria rediviva* методом SPE на патронах с силикагелем (1 из 3 повторностей)
+:figure-caption: Изображение
+:figures-caption: Изображения
+:nofooter:
+:table-caption: Таблица
+:table-details: Детали таблицы
+
+== xref:../2024-01-23/1.adoc#пробы-tl_1-tl_2-tl_3[🔗] Проба $TL_1$
+
+. Внести пробу: 500 $\mu L$
+. Упарить досуха в токе $Ar$
++
+--
+.Масса пробы
+[cols="4*", frame=all, grid=all]
+|===
+|ID|$m_0, g$|$m_1, g$|$m_2, g$
+|$TL_1$|0.9803|1.0178|0.0375
+|===
+.{table-details}
+[%collapsible]
+====
+$m_0$:: Масса пустой пробирки
+$m_1$:: Масса пробирки с пробой
+$m_2$:: Масса пробы
+====
+--
+. Внести $[Hexane/Et_2O; 1/1, v/v]$: 150 $mL$
+. SPE
+.. Промыть $[Hexane/Et_2O; 1/1, v/v]$: ~ 5 $mL$
+.. Внести пробу: 150 $\mu L$
+.. Внести $[Hexane/Et_2O; 1/1, v/v]$: 10 $mL$
+.. Отобрать пробы $NL$
+.. Внести $[CHCl_3/MeOH; 1/6, v/v]$: 10 $mL$
+.. Отобрать пробы $PL_1$
+
+== Пробы $PL_1$
+
+. Упарить на RA
++
+NOTE: Колбу промывать тем же, в чем потом будет растворена проба
+. Упарить досуха в токе $Ar$
++
+--
+.Масса пробы
+[cols="4*", frame=all, grid=all]
+|===
+|ID|$m_0, g$|$m_1, g$|$m_2, g$
+|$PL_1$|0.9853|0.9887|0.0034
+|===
+.{table-details}
+[%collapsible]
+====
+$m_0$:: Масса пустой пробирки
+$m_1$:: Масса пробирки с пробой
+$m_2$:: Масса пробы
+====
+--
+. Внести $[CHCl_3/MeOH; 2/1, v/v]$: 200 $\mu L$
+. TLC (первое измерение)
+Неподвижная фаза:: $Silica\ gel\ 60$: 10x10 $cm$
+Подвижная фаза (подтяжка):: $[CHCl_3/MeOH; 1/2, v/v/v]$: ~ 5-10 $mL$
+Подвижная фаза:: $[CHCl_3/MeOH/H_2O; 30/10/1, v/v/v]$: 10 $mL$
+. Опрыскать $Primuline$
+. Отобрать пробы $A$, $B$, $C$, $D$
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="2*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPVh3EtRqH-MwznrmrIyah6ZZGeA45L-ICgHCWGvba2dZ696yM9NgKtL5-qziS8LyLPg4gJYZ42JiLduwpiebq52DN-jE2x0TtbJvGMj7Qicz4CYmOCSKYrF4XjlSOBnCDI6pU_v8x_OB3VSlRpJZ3P[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP-DRN_RoY_PLPcBa_FthA2WOabA9vis0a3k39BMKIYamkYXiQNT8-jzDeWSgJchAJ0dPSYdyKyRyf2iiQ71I5gX3XT658YFMSw4wml4ANpmlSmnucLEkuez8Mm8lDngCoi7ZyIc84Y_59h_u23rvNr[]
+|===
+====
+
+== Пробы $A$, $B$, $C$, $D$
+
+. Внести $[CHCl_3/MeOH; 2/1, v/v]$: 1200 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать жидкую фазу
+. Упарить досуха в токе $Ar$
+. Внести $[CHCl_3/MeOH; 2/1, v/v]$: ~ 150 $\mu L$
+. TLC (второе измерение)
+Неподвижная фаза:: $Silica\ gel\ 60$: 20x10
+Подвижная фаза:: $[CHCl_3/MeOH/Acetic\ acid/H_2O; 80/9/12/2, v/v/v/v]$: 20 $mL$
+Проба:: все вместе
+. Опрыскать $Primuline$
+. Отобрать пробы $A_0$, $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $D_1$, $D_2$, $D_3$, $D_4$, $D_5$
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="2*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczMULo3u1WeLVvi5nGMNpVoyO75_uSlDvJzOZf3t9VRhBvwr2G50ph5gRlqKXwFxqS2_s-XpwOqPkkaIzrGLQOenTQyUBSswyhR8J0ZxMKr1GALY0E9WISup4kmsBqv_C37i2YAGH9kjIvf5pT-Ltbl_[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczM4DZOHoFbzxKRaHsbTtOsb96-8xP6LUfjCNFKvFZAzjwVkBbARUP4zbmptnNapVZmGfBvqLSUhtGfTUUmWXVfj4IkMSFysOEaYDxOkDImuzh91i_JsEEC6AVtZ2ROXTzIq9moB8FZ55eqIEt6FuM7l[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP472vggwtLh90wbVz4MnbQQxgb6Lf7XneJAuN-VqQwfckm5aiyEymhzPWKOiyG1xLXieYRyOi8gQ5oR51mUWFBATTsGIoLyhRj__AUxAF6aAIxpje6rzh4QKsSGbdVOZXDRYDUggIyxCGsjlesiggf[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPrBFHpy2quFwRWPTuYLoINw2McSp6lVocDPQsjEyeS7LpgTH2l7d2du8JuWiLwhp6KaWEW8zdwNevoDwUKS6jcsgN3PeHdS0hcCuuuHbvTx_6k9zsdgD5omJt6Cj50ggM-GYpnXtcwW8NqGeyOP6bo[]
+|===
+====
+
+== Пробы $A_0$, $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $D_1$, $D_2$, $D_3$, $D_4$, $D_5$
+
+. Внести $[H_2SO_4/MeOH; 1\%]$: 300 $\mu L$
+. Греть 30 $min$, 55 ${\degree}C$
+. Внести $H_2O$: 150 $\mu L$
++
+NOTE: Половина от $[H_2SO_4/MeOH; 1\%]$!
++
+NOTE: Важно вносить $H_2O$ до $Heptane$!
+. Внести $Heptane$: 200 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать верхнюю фазу

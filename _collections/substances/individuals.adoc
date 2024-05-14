@@ -1,0 +1,22 @@
+= Individuals
+:figure-caption: Изображение
+:figures-caption: Изображения
+:nofooter:
+
+== $Benzene$
+
+🇬🇧:: Benzene
+🇷🇺:: Бензол
+
+== $Primuline$
+
+NOTE: Неразрушающий проявитель.
+
+🇬🇧:: Primuline
+🇷🇺:: Примулин
+
+.{figures-caption}
+[%collapsible]
+====
+image:images/20240306_133928.jpg[Primuline]
+====

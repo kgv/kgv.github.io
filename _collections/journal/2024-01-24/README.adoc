@@ -1,0 +1,4 @@
+= Омыление TAG
+:nofooter:
+
+calculation[tag.adoc]

@@ -1,0 +1,140 @@
+= Анализ $PL$ *Lunaria rediviva* методом двумерного TLC на двух различных пластинках
+:figure-caption: Изображение
+:figures-caption: Изображения
+:nofooter:
+:table-caption: Таблица
+:table-details: Детали таблицы
+
+== xref:../2024-01-23/1.adoc#пробы-tl_1-tl_2-tl_3[🔗] Пробы $TL_2$, $TL_3$
+
+. Внести пробу: 600 $\mu L$
+. TLC
+Неподвижная фаза:: $Silica\ gel\ 60$
+Подвижная фаза:: $[Hexane/Et_2O; 6/4, v/v]$: 10 $mL$
+Проба:: каждая отдельно
+. Отобрать пробы $PL_{21}$, $PL_{22}$, $PL_{31}$, $PL_{32}$
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="2*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPxZ0Fmbyt4q7bKWYPCDoZ3karCtSQX3NRp4cNovsivrEZO7UmCpTRKk7anBzj_dDRS9c4guEIwMv0n2Suk3RiJYYwmGWRXsfw1z4uTEMDtWWTEmzaOgZ3YATVaSx7bLkQhny43kg8NkKOUVm_aoWr4[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNUv40w83x5YzFhNE0B8JsIIvHmi_xjBU40ixljfON451LlkVSZPJ_LjjXZphZphnAff_9eMEhbZ-drtjzVx_VlRNcVAtsMoTqulEXhncqGhjm848AfnhzQDJi0XvxjOeOIqqHyOeG4zlGRpWWEf0pG[]
+|===
+====
+
+== Пробы $PL_{21}$, $PL_{22}$, $PL_{31}$, $PL_{32}$
+
+Смыть:
+
+. Внести $[CHCl_3/MeOH; 2/1, v/v]$: 1700 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать жидкую фазу в 2 пробы: $PL_2$, $PL_3$
+. Внести $[CHCl_3/MeOH; 2/1, v/v]$: 850 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать жидкую фазу (добавить соответственно в пробы $PL_2$, $PL_3$)
+
+== Пробы $PL_2$, $PL_3$
+
+Очистить:
+
+. Внести $H_2O$: 1700 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать нижнюю фазу в пробу $PL$
+
+== Проба $PL$
+
+. Упарить досуха в токе $Ar$
++
+.Масса пробы
+[cols="4*", frame=all, grid=all]
+|===
+|ID|$m_0, g$|$m_1, g$|$m_2, g$
+|$PL$|2.4821|2.4871|0.0050
+|===
++
+.{table-details}
+[%collapsible]
+====
+$m_0$:: Масса пустой пробирки
+$m_1$:: Масса пробирки с пробой
+$m_2$:: Масса пробы
+====
+. Внести $[CHCl_3/Et_2O; 1/1, v/v]$: 400 $\mu L$
+. TLC (первое измерение)
+Неподвижная фаза:: $Silica\ gel\ 60$
+Подвижная фаза:: $[CHCl_3/MeOH/H_2O; 30/10/1, v/v/v]$: 10 $mL$
+. Опрыскать $Primuline$
+. Отобрать пробы $A$, $B$, $C$, $D$
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPsTkpXwn_INV2-NqckyKEkv6437qkkv1a8pAvcMbSHFbQMSorK4mcj_8_lm9ReLYshFV40GHYzlkl5hgcrwZvr3kxGCSaAPnPEA1934YbqoKQnxLQfTIY3B38dtTaTv_8F1e92gQN68FgOC47fz0jD[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMAfA5C_81iilS5gkMplJttRX3M_VHTLySFKoN1efDUANXzGl8ZeW-X16c44FRlSnsFA25rmBMrFMTU7fgYcuJiprxTeanpilYMNijcA35ZfwgZSIFtQZeFamLOPbrJBjbA5rvOWFTD9MTwM4Xj5KKw[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMQzLT3kxVDz7V54Ju_m3zm5T25Vzfjzgr8khpT2CevUfz72ywKURIn1S6vMH-xFqHCOnn23Cf65LSA09T4xhmcsBoYZZfhCxNVz0uTMtCwucAmSIWsdqp2ZeCC92EDopT_v_gx0yy3ykqto8cEUVyj[]
+|===
+====
+
+== Пробы $A$, $B$, $C$, $D$
+
+.Относительные коэффициенты удерживания
+[cols="5*", frame=all, grid=all]
+|===
+|ID|Lower|Middle|Upper|RF
+|A|9|14|19|0.14
+|B|30|34.5|39|0.35
+|C|50|56.5|63|0.57
+|D|70|75.5|81|0.76
+|FL|-|99|-|1.00
+|===
+.{table-details}
+[%collapsible]
+====
+A, B, C, D:: Идентификатор пробы
+FL:: Линия фронта
+Lower:: Нижняя граница пробы
+Middle:: Среднее арифметическое нижней и верхней границ
+Upper:: Верхняя граница пробы
+RF (Retention Factor):: Относительный коэффициент удерживания
+====
+
+. Внести $[CHCl_3/MeOH; 2/1, v/v]$: 1500 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать жидкую фазу
+. Внести $H_2O$: 300 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать нижнюю фазу
+. Упарить досуха в токе $Ar$
+. Внести $[CHCl_3/MeOH; 2/1, v/v]$: ~ 100 $\mu L$
+
+. TLC (второе измерение)
+Неподвижная фаза::: $Silica\ gel\ 60$
+Подвижная фаза::: $[CHCl_3/MeOH/Acetic\ acid/H_2O; 80/9/12/2, v/v/v/v]$: 10 $mL$
+. Опрыскать $Primuline$
+. Отобрать пробы $A_1$, $A_2$, $B_1$, $C_1$, $C_2$, $C_3$, $C_4$, $C_5$, $D_1$, $D_2$, $D_3$, $D_4$
+
+== Пробы $A_1$, $A_2$, $B_1$, $C_1$, $C_2$, $C_3$, $C_4$, $C_5$, $D_1$, $D_2$, $D_3$, $D_4$
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="2*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczMrSM-kiabsEduEiT5vTcYPAAHIlLIxeZdVnHVFjUT-E8FNki07TWS-llLt3bhOUBlaMiOM3L-N2Z9QoEKef0mJ1Eu8KtsVv2jXdpwFry230MlgJ1vZzlHg7PY3O2id6Kv71jH9V_JWFdZ1UY7NT-oE[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczORuHNawMmMd04pFsehSxzmKTW60SJMVj1zwAckV9CyCR2CEA8nkJIk96ZLXM_3wc3MAWbedrNQIOO3YMcMMqY8_FjBDaPvJHph_GyezODZZkmfYsgCowZPDl8ZUn3bwRph4MYqLOR07-cFG4DgAfSk[]
+2.+|image:https://lh3.googleusercontent.com/pw/AP1GczNlmxc34hGvCXSoEna8tynN2jWNbJzzTPbS8vnJiDv5u0QWj9oFHzlbLhek9zRIBwb2K7YsKqmbo3vP2wrKgXFMAkIL93GVPhq4eW2k979SNn02_Hz02CE4IF6oCmGizah9z81KGPmwVaAM5kWrB4AB[]
+|===
+====
+
+. Внести $[CHCl_3/MeOH; 2/1, v/v]$: 1500 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать жидкую фазу
+. Внести $H_2O$: 400 $\mu L$
+. Центрифугировать 3 $min$, 2300 $g$
+. Отобрать нижнюю фазу
+. Упарить досуха под вакуумом
+. Внести $[CHCl_3/Et_2O; 1/2, v/v]$: 150 $\mu L$

@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<?fr-application created="FastReport"?>
+<?fr-application homesite="http://www.fast-report.com"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Title></Title>
+<Author></Author>
+<Created>05.04.2024 0:00:00T19:38:31.8429041Z</Created>
+<Version></Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="s0">
+<Font ss:FontName="Segoe UI" ss:Size="21.75" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Bottom" 
+ss:LineStyle="Continuous" ss:Weight="3" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s1">
+<Font ss:FontName="Segoe UI" ss:Size="14.25" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s3">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s4">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s5">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s6">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+<Border ss:Position="Bottom" 
+ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s7">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+<Border ss:Position="Bottom" 
+ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s8">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Bottom" 
+ss:LineStyle="Dot" ss:Weight="1" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s9">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Bottom" 
+ss:LineStyle="Dot" ss:Weight="1" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s10">
+<Font ss:FontName="Arial" ss:Size="10" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s11">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#FFFFFF" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s12">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s13">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#FFFFFF" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s14">
+<Font ss:FontName="Tahoma" ss:Size="8" ss:Color="#FFFFFF" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s15">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s16">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s17">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s18">
+<Font ss:FontName="Tahoma" ss:Size="8" ss:Color="#FFFFFF" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s19">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s20">
+<Font ss:FontName="Segoe UI" ss:Size="9" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3" ss:Color="#000000"/>
+</Borders>
+</Style>
+<Style ss:ID="s21">
+<Font ss:FontName="Tahoma" ss:Size="8" ss:Color="#FFFFFF" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+</Styles>
+<Worksheet ss:Name="Page 1">
+<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="40" x:FullColumns="1" x:FullRows="1">
+<Column ss:AutoFitWidth="0" ss:Width="61.81"/>
+<Column ss:AutoFitWidth="0" ss:Width="48.07"/>
+<Column ss:AutoFitWidth="0" ss:Width="82.41"/>
+<Column ss:AutoFitWidth="0" ss:Width="41.21"/>
+<Column ss:AutoFitWidth="0" ss:Width="13.74"/>
+<Column ss:AutoFitWidth="0" ss:Width="54.94"/>
+<Column ss:AutoFitWidth="0" ss:Width="54.94"/>
+<Column ss:AutoFitWidth="0" ss:Width="54.94"/>
+<Column ss:AutoFitWidth="0" ss:Width="109.88"/>
+<Row ss:Height="41.21">
+<Cell ss:Index="1" ss:MergeAcross="8" ss:StyleID="s0">
+<Data ss:Type="String">Отчёт анализа </Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="8" ss:StyleID="s18">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="27.47">
+<Cell ss:Index="1" ss:MergeAcross="8" ss:StyleID="s1">
+<Data ss:Type="String">Паспорт хроматограммы</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="14.87">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Оператор:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s2">
+<Data ss:Type="String">Alexander Starikov</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="14.87">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Хроматограмма:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s2">
+<Data ss:Type="String">№1490   2024-03-30 07:38:30</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="14.87">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Файл:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s2">
+<Data ss:Type="String">D:&#92;Analytic 3&#92;Projects&#92;Сидоров Р&#92;.chromatograms&#92;2024-03-30 07-38-30 1490.chrx</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="14.87">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Хроматограф:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s2">
+<Data ss:Type="String">Хроматэк-Кристалл 5000  №: 2252360  Версия прошивки: v 03.21.17.743</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="26.47">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Метод:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s2">
+<Data ss:Type="String">C:&#92;ProgramData&#92;Chromatec&#92;Chromatec.Panel.UI&#92;TempMethods&#92;Supelco-37_Scheduler_68d56e0a599445aaaefed85b8b5a9d28.mthx</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Последовательность:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s2">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Проба:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s2">
+<Data ss:Type="String">Lunaria_TLC-SPE_Spot_C1</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="1.13">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s18">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Объём пробы:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s3">
+<Data ss:Type="Number">1</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="1.13">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s18">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s4">
+<Data ss:Type="String">Разведение:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s5">
+<Data ss:Type="Number">1</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Колонка:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s2">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s2">
+<Data ss:Type="String">Комментарии:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="6" ss:StyleID="s2">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="8" ss:StyleID="s18">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="27.47">
+<Cell ss:Index="1" ss:MergeAcross="8" ss:StyleID="s1">
+<Data ss:Type="String">Результат анализа</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="27.47">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s6">
+<Data ss:Type="String">Компонент</Data></Cell><Cell ss:Index="4" ss:StyleID="s7">
+<Data ss:Type="String">Время&#10;(мин)</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s7">
+<Data ss:Type="String">Площадь&#10;(мВ*с)</Data></Cell><Cell ss:Index="7" ss:StyleID="s7">
+<Data ss:Type="String">Площадь&#10;(%)</Data></Cell><Cell ss:Index="8" ss:MergeAcross="1" ss:MergeDown="15" ss:StyleID="s18">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">Undecanoic acid, 2-methyl-</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">13.673</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">60046.348</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">0.066</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">Hexadecanoic acid, methyl ester</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">17.499</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">18860955.681</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">20.636</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">7-Hexadecenoic acid, methyl ester, (Z)-</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">18.481</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">926416.916</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">1.014</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">9-Hexadecenoic acid, methyl ester, (Z)-</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">18.689</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">132255.613</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">0.145</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">Methyl stearate</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">22.408</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">358485.745</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">0.392</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">7,10,13-Hexadecatrienoic acid, methyl ester</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">22.806</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">150830.240</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">0.165</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">9-Octadecenoic acid, methyl ester</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">23.651</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">8186435.110</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">8.957</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">11-Octadecenoic acid, methyl ester</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">23.873</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">2258244.406</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">2.471</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">9,12-Octadecadienoic acid, methyl ester</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">25.701</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">52429204.966</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">57.364</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="25.01">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">28.012</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">4050597.982</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">4.432</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">11-Eicosenoic acid, methyl ester</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">28.743</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">1704113.985</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">1.865</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">11,14-Eicosadienoic acid, methyl ester</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">30.581</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">303658.761</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">0.332</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">13-Docosenoic acid, methyl ester, (Z)-</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">33.318</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">1255562.690</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">1.374</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s8">
+<Data ss:Type="String">15-Tetracosenoic acid, methyl ester</Data></Cell><Cell ss:Index="4" ss:StyleID="s9">
+<Data ss:Type="Number">37.421</Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s9">
+<Data ss:Type="Number">720993.039</Data></Cell><Cell ss:Index="7" ss:StyleID="s9">
+<Data ss:Type="Number">0.789</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="String">Сумма</Data></Cell><Cell ss:Index="4" ss:StyleID="s12">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="s13">
+<Data ss:Type="Number">91397801.482</Data></Cell><Cell ss:Index="7" ss:StyleID="s13">
+<Data ss:Type="Number">100.000</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="8" ss:StyleID="s10">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="180.26">
+<Cell ss:Index="1" ss:MergeAcross="8" ss:StyleID="s18">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:StyleID="s19">
+<Data ss:Type="String">Оператор:</Data></Cell><Cell ss:Index="2" ss:MergeAcross="3" ss:StyleID="s19">
+<Data ss:Type="String">Alexander Starikov</Data></Cell><Cell ss:Index="6" ss:MergeAcross="2" ss:MergeDown="2" ss:StyleID="s14">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="9" ss:MergeDown="2" ss:StyleID="s20">
+<Data ss:Type="String">Страница 1 из 1</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:StyleID="s15">
+<Data ss:Type="String">Отчет создан:</Data></Cell><Cell ss:Index="2" ss:MergeAcross="3" ss:StyleID="s16">
+<Data ss:Type="String">2024-04-05 19:38:15</Data></Cell><Cell ss:Index="10"/></Row>
+<Row ss:Height="0.45">
+<Cell ss:Index="1" ss:MergeAcross="4" ss:StyleID="s21">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10"/></Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<PageSetup>
+<PageMargins x:Bottom="0.39" x:Left="0.39" x:Right="0.39" x:Top="0.39"/>
+</PageSetup>
+<Print>
+<ValidPrinterInfo/>
+<PaperSizeIndex>9</PaperSizeIndex>
+</Print>
+</WorksheetOptions>
+<PageBreaks xmlns="urn:schemas-microsoft-com:office:excel">
+<RowBreaks>
+<RowBreak>
+<Row>39</Row>
+</RowBreak>
+</RowBreaks>
+</PageBreaks>
+</Worksheet>
+</Workbook>

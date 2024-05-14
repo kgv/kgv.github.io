@@ -2,6 +2,7 @@
 :figure-caption: Изображение
 :figures-caption: Изображения
 :nofooter:
+:showtitle:
 :table-caption: Таблица
 :table-details: Детали таблицы
 :page-categories: [Experiments, Methods]

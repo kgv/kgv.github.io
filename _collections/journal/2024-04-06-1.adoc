@@ -1,0 +1,201 @@
+= Результаты анализа $PL$ *Lunaria rediviva* на GC
+:figure-caption: Изображение
+:figures-caption: Изображения
+:nofooter:
+:table-caption: Таблица
+:table-details: Детали таблицы
+
+== xref:../2024-03-29/1.adoc#пробы-a_0-a_1-a_2-b_1-b_2-c_1-d_1-d_2-d_3-d_4-d_5[🔗] Пробы $A_1$, $A_2$, $B$, $C$ из xref:../2024-01-23/1.adoc#пробы-tl_1-tl_2-tl_3[🔗] $TL_1$
+
+.$A_1$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.528|44919770.47
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.51|324335.569
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.437|193462.735
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.687|3722909.154
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.906|260872.275
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.726|27209894.87
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.058|2751445.897
+|cis-Methyl 11-eicosenoate                                       |$H_{40}C_{21}O_2$|11-20:1|28.775|151192.958
+|===
+
+.$A_2$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.514|7370892.006
+|(Z)-Methyl hexadec-11-enoate                                    |$H_{32}C_{17}O_2$|11-16:1|18.503|856119.878
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.43|332641.024
+|9-Octadecenoic acid (Z)-, methyl ester                          |$H_{36}C_{19}O_2$|9-18:1|23.673|5664043.735
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.902|856342.648
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.715|26459667.12
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.044|2507397.28
+|cis-Methyl 11-eicosenoate                                       |$H_{40}C_{21}O_2$|11-20:1|28.775|1420572.743
+|cis-11,14-Eicosadienoic acid, methyl ester                      |$H_{38}C_{21}O_2$|11,14-20:2|30.617|204743.572
+|13-Docosenoic acid, methyl ester, (Z)-                          |$H_{44}C_{23}O_2$|13-22:1|33.365|481116.673
+|===
+
+.$B$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.46|14375357.48
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.354|76593.055
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.601|837891.775
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.816|144196.666
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.64|8101189.209
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|27.98|606807.229
+|cis-11,14-Eicosadienoic acid, methyl ester                      |$H_{38}C_{21}O_2$|11,14-20:2|30.574|123150.821
+|===
+
+.$C$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Undecanoic acid, 2-methyl-                                      |$H_{24}C_{12}O_2$|2-11:0|13.673|60046.348
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.499|18860955.68
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.481|926416.916
+|9-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|9-16:1|18.689|132255.613
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.408|358485.745
+|7,10,13-Hexadecatrienoic acid, methyl ester                     |$H_{28}C_{17}O_2$|7,10,13-16:3|22.806|150830.24
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.651|8186435.11
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.873|2258244.406
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.701|52429204.97
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.012|4050597.982
+|11-Eicosenoic acid, methyl ester                                |$H_{40}C_{21}O_2$|11-20:1|28.743|1704113.985
+|11,14-Eicosadienoic acid, methyl ester                          |$H_{38}C_{21}O_2$|11,14-20:2|30.581|303658.761
+|13-Docosenoic acid, methyl ester, (Z)-                          |$H_{44}C_{23}O_2$|13-22:1|33.318|1255562.69
+|15-Tetracosenoic acid, methyl ester                             |$H_{48}C_{25}O_2$|15-24:1|37.421|720993.039
+|===
+
+== xref:../2024-04-04/1.adoc#пробы-a_1-a_2-b_1-c_1[🔗] Пробы $A_1$, $A_2$, $B$, $C$ из xref:../2024-01-23/1.adoc#пробы-tl_1-tl_2-tl_3[🔗] $TL_2$
+
+.$A_1$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.56|34727768.87
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.549|423824.648
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.498|225942.936
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.741|3659730.793
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.967|221658.547
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.776|25324997.2
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.112|2731991.05
+|11-Eicosenoic acid, methyl ester                                |$H_{40}C_{21}O_2$|11-20:1|28.84|197954.702
+|===
+
+.$A_2$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.521|5651431.034
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.495|724288.855
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.444|153130.149
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.687|3955171.601
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.899|570447.887
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.719|18572228.81
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.051|1863879.009
+|cis-Methyl 11-eicosenoate                                       |$H_{40}C_{21}O_2$|11-20:1|28.779|988778.334
+|13-Docosenoic acid, methyl ester, (Z)-                          |$H_{44}C_{23}O_2$|13-22:1|33.365|285961.075
+|===
+
+.$B$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.517|10490109.12
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.503|69578.996
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.455|158929.773
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.687|555845.651
+|11-Octadecynoic acid, methyl ester                              |$H_{34}C_{19}O_2$|11-18:2|23.895|44133.886
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.719|5297076.902
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.044|436519.418
+|===
+
+.$C$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Methyl tetradecanoate                                           |$H_{30}C_{15}O_2$|14:0|13.673|97081.289
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.503|16143248.89
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.477|787890.978
+|9-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|9-16:1|18.689|113482.884
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.422|232971.911
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.651|6101689.808
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.881|1813503.915
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.704|36923628.06
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.023|3057484.299
+|11-Eicosenoic acid, methyl ester                                |$H_{40}C_{21}O_2$|11-20:1|28.746|1047217.456
+|11,14-Eicosadienoic acid, methyl ester                          |$H_{38}C_{21}O_2$|11,14-20:2|30.584|218178.109
+|13-Docosenoic acid, methyl ester, (Z)-                          |$H_{44}C_{23}O_2$|13-22:1|33.336|547872.661
+|15-Tetracosenoic acid, methyl ester                             |$H_{48}C_{25}O_2$|15-24:1|37.442|144699.749
+|===
+
+== xref:../2024-04-02/1.adoc#пробы-a_1-a_2-b_1-c_1-d_1[🔗] Пробы $A_1$, $A_2$, $B$, $C$ из xref:../2024-01-23/1.adoc#пробы-tl_1-tl_2-tl_3[🔗] $TL_3$
+
+.$A_1$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.556|60368789.18
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.526|587736.213
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.483|352803.216
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.71|7030685.521
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.925|520340.246
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.761|51304405.73
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.079|5478583.491
+|11-Eicosenoic acid, methyl ester                                |$H_{40}C_{21}O_2$|11-20:1|28.834|447472.162
+|===
+
+.$A_2$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.521|9886124.282
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.5|1287864.09
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.44|691183.772
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.676|8031463.59
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.899|1194288.034
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.727|35536883.49
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.045|3345948.158
+|11-Eicosenoic acid, methyl ester                                |$H_{40}C_{21}O_2$|11-20:1|28.791|2047292.409
+|11,14-Eicosadienoic acid, methyl ester                          |$H_{38}C_{21}O_2$|11,14-20:2|30.62|382255.983
+|13-Docosenoic acid, methyl ester, (Z)-                          |$H_{44}C_{23}O_2$|13-22:1|33.375|662359.811
+|===
+
+.$B$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.521|21466814.26
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.491|185449.582
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.44|196412.422
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.667|1644925.968
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.899|186121.591
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.701|13661150.38
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.036|1252192.574
+|11-Eicosenoic acid, methyl ester                                |$H_{40}C_{21}O_2$|11-20:1|28.783|64870.308
+|11,14-Eicosadienoic acid, methyl ester                          |$H_{38}C_{21}O_2$|11,14-20:2|30.62|191529.722
+|13-Docosenoic acid, methyl ester, (Z)-                          |$H_{44}C_{23}O_2$|13-22:1|34.972|36185.328
+|===
+
+.$C$
+[cols="5*", frame=all, grid=all]
+|===
+|Name|Formula|ID|$Time, min$|$Area, mV*c$
+|Hexadecanoic acid, methyl ester                                 |$H_{34}C_{17}O_2$|16:0|17.504|23702936.37
+|7-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|7-16:1|18.474|1146925.478
+|9-Hexadecenoic acid, methyl ester, (Z)-                         |$H_{32}C_{17}O_2$|9-16:1|18.68|255764.541
+|Methyl stearate                                                 |$H_{38}C_{19}O_2$|18:0|22.405|431503.135
+|7,10,13-Hexadecatrienoic acid, methyl ester                     |$H_{28}C_{17}O_2$|7,10,13-16:3|22.783|277208.287
+|9-Octadecenoic acid, methyl ester                               |$H_{36}C_{19}O_2$|9-18:1|23.659|9645640.1
+|11-Octadecenoic acid, methyl ester                              |$H_{36}C_{19}O_2$|11-18:1|23.873|2672894.911
+|9,12-Octadecadienoic acid, methyl ester                         |$H_{34}C_{19}O_2$|9,12-18:2|25.701|61050003.29
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-           |$H_{32}C_{19}O_2$|9,12,15-18:3|28.01|4762309.602
+|11-Eicosenoic acid, methyl ester                                |$H_{40}C_{21}O_2$|11-20:1|28.749|1716058.68
+|11,14-Eicosadienoic acid, methyl ester                          |$H_{38}C_{21}O_2$|11,14-20:2|30.577|335747.957
+|13-Docosenoic acid, methyl ester, (Z)-                          |$H_{44}C_{23}O_2$|13-22:1|33.332|1139430.808
+|15-Tetracosenoic acid, methyl ester                             |$H_{48}C_{25}O_2$|15-24:1|37.444|457820.301
+|===
