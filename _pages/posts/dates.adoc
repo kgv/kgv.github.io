@@ -1,9 +1,9 @@
-= Journal by dates
+= Posts by dates
 :icons: font
 :showtitle:
 :page-layout: page
 :page-liquid:
-:page-permalink: /journal/dates
+:page-permalink: /posts/dates
 
 {% assign years = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: "post", 'post.date | date: "%Y"' %}
 {% for year in years %}

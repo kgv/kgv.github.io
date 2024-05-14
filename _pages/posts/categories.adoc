@@ -1,32 +1,32 @@
-= Journal by tags
+= Posts by categories
 :icons: font
 :showtitle:
 :page-layout: page
 :page-liquid:
-:page-permalink: /journal/tags
+:page-permalink: /posts/categories
 :page-root: ../../
 
 {% assign max = 0 %}
-{% for tag in site.tags %}
-    {% if tag[1].size > max %}
-    {% assign max = tag[1].size %}
+{% for category in site.categories %}
+    {% if category[1].size > max %}
+    {% assign max = category[1].size %}
     {% endif %}
 {% endfor %}
 
 {% for i in (1..max) reversed %}
-    {% for tag in site.tags %}
-        {% if tag[1].size == i %}
-* xref:#{{ tag[0] }}[*{{ tag[0] }}* _{{ i }}_]
+    {% for category in site.categories %}
+        {% if category[1].size == i %}
+* xref:#{{ category[0] }}[*{{ category[0] }}* _{{ i }}_]
         {% endif %}
     {% endfor %}
 {% endfor %}
 
 {% for i in (1..max) reversed %}
-    {% for tag in site.tags %}
-        {% if tag[1].size == i %}
-[#{{ tag[0] }}]
-== {{ tag[0] }}
-            {% for post in tag.last %}
+    {% for category in site.categories %}
+        {% if category[1].size == i %}
+[#{{ category[0] }}]
+== {{ category[0] }}
+            {% for post in category.last %}
 === xref:/{{ post.url | relative_url }}[{{ post.title | strip_html }}]
                 {% if post.date %}
                 {% assign date = post.date %}

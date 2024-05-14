@@ -19,8 +19,8 @@ author:
   email: kazakov.giorgi.valadimirovich@gmail.com
   github: kgv
 
-# journal
-permalink: /journal/:year/:month/:day/:title/
+# posts
+permalink: /posts/:year/:month/:day/:title/
 
 collections:
   projects:
@@ -31,7 +31,7 @@ collections:
     permalink: /:collection/:title/
 
 defaults:
-  # journal
+  # posts
   - scope:
       path: ""
       type: posts
@@ -55,7 +55,7 @@ defaults:
 
 include:
 - _pages
-- _pages/journal
+- _pages/posts
 exclude:
 - LICENSE
 - README.adoc

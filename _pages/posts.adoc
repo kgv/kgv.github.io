@@ -2,14 +2,14 @@
 :showtitle:
 :page-permalink: /posts
 
-== link:journal/categories[By categories]
+== link:posts/categories[By categories]
 
-Group journal posts by categories.
+Group posts by categories.
 
-== link:journal/dates[By dates]
+== link:posts/dates[By dates]
 
-Group journal posts by dates.
+Group posts by dates.
 
-== link:journal/tags[By tags]
+== link:posts/tags[By tags]
 
-Group journal posts by tags.
+Group posts by tags.
