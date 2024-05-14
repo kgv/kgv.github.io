@@ -6,7 +6,7 @@
 
 {% assign years = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: "post", 'post.date | date: "%Y"' %}
 {% for year in years %}
-* xref:#{{ year.name }}[*{{ year.name }}* {{ year.items | size }}]
+* xref:#{{ year.name }}[*{{ year.name }}* _{{ year.items | size }}_]
 {% endfor %}
 
 {% for year in years %}

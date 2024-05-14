@@ -1,18 +1,18 @@
-= Подбор градиента концентрации смеси stem:[[CH_3CN/MeOH/H_2SO_4\]] для анализа stem:[PL] на HPLC
+= Подбор градиента концентрации смеси stem:[CH_3CN/MeOH/H_2SO_4] для анализа stem:[PL] на HPLC
 :nofooter:
 :showtitle:
+:stem: latexmath
 
-== stem:[[CH_3CN/MeOH/H_2SO_4; 100/1/0.05, v/v/v\]/[CH_3CN/MeOH/H_2SO_4; 100/10/0.05, v/v/v\]]
+== stem:[CH_3CN/MeOH/H_2SO_4] (100/1/0.05, stem:[v/v/v])/stem:[CH_3CN/MeOH/H_2SO_4] (100/10/0.05, stem:[v/v/v])
 
-== [stem:[CH_3CN]/stem:[MeOH]/stem:[H_2SO_4]; 100/1/0.05, stem:[v/v/v]]/[stem:[CH_3CN]/stem:[MeOH]/stem:[H_2SO_4]; 100/10/0.05, stem:[v/v/v]]
+1. stem:[CH_3CN/MeOH/H_2SO_4] (100/1/0.05, stem:[v/v/v])
+2. stem:[CH_3CN/MeOH/H_2SO_4] (100/10/0.05, stem:[v/v/v])
 
-1. stem:[[CH_3CN/MeOH/H_2SO_4; 100/1/0.05, v/v/v\]]
-2. stem:[[CH_3CN/MeOH/H_2SO_4; 100/10/0.05, v/v/v\]]
-
-.Различные объемные доли смеси stem:[[[CH_3CN/MeOH/H_2SO_4; 100/1/0.05, v/v/v\]/[CH_3CN/MeOH/H_2SO_4; 100/10/0.05, v/v/v\]\]]
+.Различные объемные доли смеси stem:[CH_3CN/MeOH/H_2SO_4] (100/1/0.05, stem:[v/v/v])/stem:[CH_3CN/MeOH/H_2SO_4] (100/10/0.05, stem:[v/v/v])
 [cols="3*"]
 |===
-|stem:[[CH_3CN/MeOH/H_2SO_4; 100/1/0.05, v/v/v\], \%]|stem:[[CH_3CN/MeOH/H_2SO_4; 100/10/0.05, v/v/v\], \%]|stem:[[CH_3CN/MeOH/H_2SO_4, v/v\]]
+|stem:[CH_3CN/MeOH/H_2SO_4] (100/1/0.05, stem:[v/v/v]), stem:[\%]|stem:[CH_3CN/MeOH/H_2SO_4] (100/10/0.05, stem:[v/v/v]), stem:[\%]|stem:[CH_3CN/MeOH/H_2SO_4] (stem:[v/v])
+
 |90|10|100/1.9/0.05
 |80|20|100/2.8/0.05
 |70|30|100/3.7/0.05

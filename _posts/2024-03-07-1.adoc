@@ -3,8 +3,11 @@
 :figures-caption: Изображения
 :nofooter:
 :showtitle:
+:stem: latexmath
 :table-caption: Таблица
 :table-details: Детали таблицы
+:page-categories: [Experiment]
+:page-tags: [laboratory, log, PL, TLC]
 
 stem:[PL_3]: 6,5 stem:[mL], растворенные в 300 stem:[\mu L] [🔗][chcl_3meoh]stem:[[CHCl_3/MeOH; 2/1, v/v\]]
 

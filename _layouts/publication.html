@@ -5,12 +5,13 @@ layout: default
 <!-- Header -->
 {% include header.liquid %}
 
-<!-- Main -->
-<div class="grid-container">
-    <div class="grid-x grid-padding-x">
-        <!-- Central panel -->
-        <div class="cell large-12 medium-12" role="content">
-            {{ content }}
+<div class="uk-section uk-section-default">
+    <div class="uk-container uk-container-large">
+        <div uk-grid>
+            <!-- Central panel -->
+            <div class="uk-width-3-4@m">
+                {{ content }}
+            </div>
         </div>
     </div>
 </div>

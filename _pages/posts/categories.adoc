@@ -24,7 +24,6 @@
 {% for i in (1..max) reversed %}
     {% for category in site.categories %}
         {% if category[1].size == i %}
-[#{{ category[0] }}]
 == {{ category[0] }}
             {% for post in category.last %}
 === link:{{ post.url | relative_url }}[{{ post.title | strip_html }}]

@@ -24,7 +24,6 @@
 {% for i in (1..max) reversed %}
     {% for tag in site.tags %}
         {% if tag[1].size == i %}
-[#{{ tag[0] }}]
 == {{ tag[0] }}
             {% for post in tag.last %}
 === link:{{ post.url | relative_url }}[{{ post.title | strip_html }}]
