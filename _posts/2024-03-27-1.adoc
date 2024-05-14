@@ -1,9 +1,9 @@
-= Анализ $PL$ *Lunaria rediviva* методом GC
+= Анализ stem:[PL] *Lunaria rediviva* методом GC
 :figure-caption: Изображение
 :figures-caption: Изображения
 :nofooter:
 :table-caption: Таблица
 :table-details: Детали таблицы
 
-== xref:../2024-03-26/3.adoc#пробы-a_1-a_2-b_1-b_2-c_1-c_2-d_1-d_2[🔗] Пробы $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$, $D_1$, $D_2$
+== xref:../2024-03-26/3.adoc#пробы-a_1-a_2-b_1-b_2-c_1-c_2-d_1-d_2[🔗] Пробы stem:[A_1], stem:[A_2], stem:[B_1], stem:[B_2], stem:[C_1], stem:[C_2], stem:[D_1], stem:[D_2]
 

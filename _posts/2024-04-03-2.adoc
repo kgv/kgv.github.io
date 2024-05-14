@@ -7,53 +7,53 @@
 
 == Суспензия
 
-. Взвесить $Липаза$: 15 $mg$
+. Взвесить stem:[Липаза]: 15 stem:[mg]
 +
 NOTE: взвесить в крышечке, затем закрутить. перевернуть
-. Внести: $THAM$ ~ 1000 $\mu L$
-. Внести: $CaCl_2$ ~ 100 $\mu L$
-. Внести: $$ ~ 250 $\mu L$
+. Внести: stem:[THAM] ~ 1000 stem:[\mu L]
+. Внести: stem:[CaCl_2] ~ 100 stem:[\mu L]
+. Внести: stem:[] ~ 250 stem:[\mu L]
 
-== Пробы $TAG_1$, $TAG_2$, $TAG_3$ (Изя)
+== Пробы stem:[TAG_1], stem:[TAG_2], stem:[TAG_3] (Изя)
 
-$TAG_1$: 19 $mg$ в $Benzene$: 1900 $\mu L$ ()
+stem:[TAG_1]: 19 stem:[mg] в stem:[Benzene]: 1900 stem:[\mu L] ()
 
-. Внести пробу: 200 $\mu L$
-. Упарить досуха в токе $Ar$
-. Внести $Суспензия$: 1070 $\mu L$
+. Внести пробу: 200 stem:[\mu L]
+. Упарить досуха в токе stem:[Ar]
+. Внести stem:[Суспензия]: 1070 stem:[\mu L]
 +
-NOTE: Каждый раз при наборе $суспензии$ дозатором баламутить осадок.
-. Греть 30 $min$, 38 ${\degree}C$
-. Внести $[Hexane/Et_2O; 1/1, v/v]$: 700 $\mu L$
-. Отобрать верхнюю фазу в пробы $1$, $2$, $3$ (продукты гидролиза)
+NOTE: Каждый раз при наборе stem:[суспензии] дозатором баламутить осадок.
+. Греть 30 stem:[min], 38 stem:[{\degree}C]
+. Внести stem:[[Hexane/Et_2O; 1/1, v/v]]: 700 stem:[\mu L]
+. Отобрать верхнюю фазу в пробы stem:[1], stem:[2], stem:[3] (продукты гидролиза)
 
-== Пробы $1$, $2$, $3$
+== Пробы stem:[1], stem:[2], stem:[3]
 
 . TLC
-Неподвижная фаза:: $Silica\ gel\ 60$: 15x10
-Подвижная фаза:: $[Hexane/Et_2O; 6/4, v/v]$: 10 $mL$
+Неподвижная фаза:: stem:[Silica\ gel\ 60]: 15x10
+Подвижная фаза:: stem:[[Hexane/Et_2O; 6/4, v/v]]: 10 stem:[mL]
 Проба:: все вместе
-. Отобрать пробы $MAG_1$, $MAG_2$, $MAG_3$, $DAG_1$, $DAG_2$, $DAG_3$, $FFA_1$, $FFA_2$, $FFA_3$
+. Отобрать пробы stem:[MAG_1], stem:[MAG_2], stem:[MAG_3], stem:[DAG_1], stem:[DAG_2], stem:[DAG_3], stem:[FFA_1], stem:[FFA_2], stem:[FFA_3]
 
-== Пробы $1$, $2$, $3$
+== Пробы stem:[1], stem:[2], stem:[3]
 
 TLC::
-Неподвижная фаза::: $Silica\ gel\ 60$: 15x10
-Подвижная фаза::: $[Hexane/Et_2O; 6/4, v/v]$: 10 $mL$
+Неподвижная фаза::: stem:[Silica\ gel\ 60]: 15x10
+Подвижная фаза::: stem:[[Hexane/Et_2O; 6/4, v/v]]: 10 stem:[mL]
 Пробы::: пп
 []
-. Отобрать пробы $MAG_1$, $MAG_2$, $MAG_3$, $DAG_1$, $DAG_2$, $DAG_3$, $FFA_1$, $FFA_2$, $FFA_3$
+. Отобрать пробы stem:[MAG_1], stem:[MAG_2], stem:[MAG_3], stem:[DAG_1], stem:[DAG_2], stem:[DAG_3], stem:[FFA_1], stem:[FFA_2], stem:[FFA_3]
 
-== Пробы $MAG_1$, $MAG_2$, $MAG_3$, $DAG_1$, $DAG_2$, $DAG_3$, $FFA_1$, $FFA_2$, $FFA_3$
+== Пробы stem:[MAG_1], stem:[MAG_2], stem:[MAG_3], stem:[DAG_1], stem:[DAG_2], stem:[DAG_3], stem:[FFA_1], stem:[FFA_2], stem:[FFA_3]
 
 Esterification::
-. Внести $[H_2SO_4/MeOH; 1\%]$: 200 $\mu L$
-. Греть 30 $min$, 55 ${\degree}C$
-. Внести $H_2O$: 100 $\mu L$
+. Внести stem:[[H_2SO_4/MeOH; 1\%]]: 200 stem:[\mu L]
+. Греть 30 stem:[min], 55 stem:[{\degree}C]
+. Внести stem:[H_2O]: 100 stem:[\mu L]
 +
-NOTE: Половина от $[H_2SO_4/MeOH; 1\%]$!
+NOTE: Половина от stem:[[H_2SO_4/MeOH; 1\%]]!
 +
-NOTE: Важно вносить $H_2O$ до $Heptane$!
-. Внести $Heptane$: 200 $\mu L$
-. Центрифугировать 3 $min$, 2300 $g$
+NOTE: Важно вносить stem:[H_2O] до stem:[Heptane]!
+. Внести stem:[Heptane]: 200 stem:[\mu L]
+. Центрифугировать 3 stem:[min], 2300 stem:[g]
 . Отобрать верхнюю фазу
