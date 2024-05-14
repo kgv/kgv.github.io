@@ -5,16 +5,15 @@ layout: default
 <!-- Header -->
 {% include header.liquid %}
 
-<!-- Main -->
-<div class="grid-container">
-    <div class="grid-x grid-padding-x">
-        <!-- Central panel -->
-        <div class="large-8 medium-8 cell" role="content">
-            {{ content }}
-        </div>
-        <!-- Right panel -->
-        <aside class="large-4 medium-4 hide-for-small-only cell">
-            <div class="callout">
+<div class="uk-section uk-section-default">
+    <div class="uk-container uk-container-large">
+        <div uk-grid>
+            <!-- Central panel -->
+            <div class="uk-width-3-4@m">
+                {{ content }}
+            </div>
+            <!-- Right panel -->
+            <div class="uk-width-1-4@m uk-visible@s">
                 <h4>Posts</h4>
                 <ul id="posts">
                     {% for post in site.posts limit: 5 %}
@@ -42,7 +41,7 @@ layout: default
                     {% endfor %}
                 </ul>
             </div>
-        </aside>
+        </div>
     </div>
 </div>
 
