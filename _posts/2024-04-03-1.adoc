@@ -27,19 +27,19 @@ stem:[m_1]:: Масса пробирки с пробой
 stem:[m_2]:: Масса пробы
 ====
 --
-. Внести stem:[[CHCl_3/MeOH; 2/1, v/v]]: 100 stem:[mL]
+. Внести stem:[[CHCl_3/MeOH; 2/1, v/v\]]: 100 stem:[mL]
 . TLC
 Неподвижная фаза:: stem:[Silica~gel~60]: 20x10
-Подвижная фаза:: stem:[[Hexane/Et_2O; 1/1, v/v]]: 10 stem:[mL]
-Проба:: все вместе; ополоснуть stem:[[CHCl_3/MeOH; 2/1, v/v]]: 50 stem:[mL]
+Подвижная фаза:: stem:[[Hexane/Et_2O; 1/1, v/v\]]: 10 stem:[mL]
+Проба:: все вместе; ополоснуть stem:[[CHCl_3/MeOH; 2/1, v/v\]]: 50 stem:[mL]
 . Отобрать пробы stem:[PL_1], stem:[PL_2], stem:[PL_3]
 
 == Пробы stem:[PL_1], stem:[PL_2], stem:[PL_3]
 
-. Внести stem:[[CHCl_3/MeOH; 2/1, v/v]]: 1200 stem:[\mu L]
+. Внести stem:[[CHCl_3/MeOH; 2/1, v/v\]]: 1200 stem:[\mu L]
 . Центрифугировать 3 stem:[min], 2300 stem:[g]
 . Отобрать жидкую фазу
-. Внести stem:[[CHCl_3/MeOH; 2/1, v/v]]: 300 stem:[\mu L]
+. Внести stem:[[CHCl_3/MeOH; 2/1, v/v\]]: 300 stem:[\mu L]
 . Центрифугировать 3 stem:[min], 2300 stem:[g]
 . Отобрать жидкую фазу в соответствующую пробу
 . Внести stem:[H_2O]: 300 stem:[\mu L]
@@ -63,21 +63,21 @@ stem:[m_1]:: Масса пробирки с пробой
 stem:[m_2]:: Масса пробы
 ====
 --
-. Внести stem:[[CHCl_3/Et_2O; 1/2, v/v]]: 150 stem:[\mu L]
+. Внести stem:[[CHCl_3/Et_2O; 1/2, v/v\]]: 150 stem:[\mu L]
 
-== Расчет плотности растворителя stem:[[CHCl_3/Et_2O; 1/2, v/v]]
+== Расчет плотности растворителя stem:[[CHCl_3/Et_2O; 1/2, v/v\]]
 
 .Масса пробы
 [cols="4*", frame=all, grid=all]
 |===
 |ID|stem:[m_0, g]|stem:[m_1, g]|stem:[m_2, g]|stem:[\ro, g/mL]
-|stem:[[CHCl_3/Et_2O; 1/2, v/v]]|3.9729|6.9549|2.982|0.994
+|stem:[[CHCl_3/Et_2O; 1/2, v/v\]]|3.9729|6.9549|2.982|0.994
 |===
 .{table-details}
 [%collapsible]
 ====
 stem:[m_0]:: Масса пустой 
-stem:[m_1]:: Масса  с stem:[[CHCl_3/Et_2O; 1/2, v/v]]: 3 stem:[mL]
-stem:[m_2]:: Масса stem:[[CHCl_3/Et_2O; 1/2, v/v]]: 3 stem:[mL]
-stem:[\ro]:: Плотность stem:[[CHCl_3/Et_2O; 1/2, v/v]]
+stem:[m_1]:: Масса  с stem:[[CHCl_3/Et_2O; 1/2, v/v\]]: 3 stem:[mL]
+stem:[m_2]:: Масса stem:[[CHCl_3/Et_2O; 1/2, v/v\]]: 3 stem:[mL]
+stem:[\ro]:: Плотность stem:[[CHCl_3/Et_2O; 1/2, v/v\]]
 ====

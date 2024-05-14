@@ -2,9 +2,9 @@
 :nofooter:
 
 . Твердофазная экстракция на патроне с силикагелем:
-    . Промыть stem:[[CHCl_3/MeOH;1/2,v/v]]: ~ 5 stem:[mL]
+    . Промыть stem:[[CHCl_3/MeOH;1/2,v/v\]]: ~ 5 stem:[mL]
     . Внести пробу stem:[PC]
-    . 0..6 добавить/отобрать stem:[[CHCl_3/MeOH;1/2,v/v]]: 1.5 stem:[mL]
+    . 0..6 добавить/отобрать stem:[[CHCl_3/MeOH;1/2,v/v\]]: 1.5 stem:[mL]
 . Упарить досуха
-. 0..6 добавить stem:[[CHCl_3/MeOH;2/1,v/v]]: 200 stem:[\mu L]
+. 0..6 добавить stem:[[CHCl_3/MeOH;2/1,v/v\]]: 200 stem:[\mu L]
 . HPLC

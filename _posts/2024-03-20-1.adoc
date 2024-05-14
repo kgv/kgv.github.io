@@ -30,32 +30,32 @@ stem:[m_0]:: Масса пустой пробирки
 stem:[m_1]:: Масса пробирки с пробой
 stem:[m_2]:: Масса пробы
 ====
-. Внести stem:[[Hexane/Et_2O; 1/1, v/v]]: 300 stem:[\mu L]
+. Внести stem:[[Hexane/Et_2O; 1/1, v/v\]]: 300 stem:[\mu L]
 . SPE
-.. Промыть stem:[[Hexane/Et_2O; 1/1, v/v]]: ~ 5 stem:[mL]
+.. Промыть stem:[[Hexane/Et_2O; 1/1, v/v\]]: ~ 5 stem:[mL]
 .. Внести пробу
 повторить 10 раз::
-Добавить stem:[[Hexane/Et_2O; 1/1, v/v]]: 1 stem:[mL] и отобрать пробу stem:[NL]
+Добавить stem:[[Hexane/Et_2O; 1/1, v/v\]]: 1 stem:[mL] и отобрать пробу stem:[NL]
 повторить 10 раз::
-Добавить stem:[[CHCl_3/MeOH; 1/2, v/v]]: 1 stem:[mL] и отобрать пробу stem:[PL]
+Добавить stem:[[CHCl_3/MeOH; 1/2, v/v\]]: 1 stem:[mL] и отобрать пробу stem:[PL]
 
 == Пробы stem:[NL_1] - stem:[NL_10], stem:[PL_1] - stem:[PL_10]
 
 . Упарить досуха
-. Внести stem:[[CHCl_3/MeOH; 2/1, v/v]]: 200 stem:[\mu L]
+. Внести stem:[[CHCl_3/MeOH; 2/1, v/v\]]: 200 stem:[\mu L]
 
 == Пробы stem:[NL_1] - stem:[NL_10]
 
 . Внести пробу: 10 stem:[\mu L]
 . TLC нейтральных липидов
 Неподвижная фаза::: stem:[Silica~gel~60]
-Подвижная фаза::: stem:[[Hexane/Et_2O/AcOH; 6/4/0.05, v/v/v]]: 10 stem:[mL]
+Подвижная фаза::: stem:[[Hexane/Et_2O/AcOH; 6/4/0.05, v/v/v\]]: 10 stem:[mL]
 Стандарты:::
 * stem:[FFA]: 3 stem:[\mu L]
 * stem:[DAG]: 3 stem:[\mu L]
 * stem:[TAG]: 3 stem:[\mu L]
 * stem:[Sterin]: 3 stem:[\mu L]
-. Опрыскать stem:[[PMA/[EtOH/H_2O; 80/20, v/v]; 100/4, m/m]]
+. Опрыскать stem:[[PMA/[EtOH/H_2O; 80/20, v/v]; 100/4, m/m\]]
 . Греть при температуре 100 stem:[{\degree}C] до проявления
 
 .{figures-caption}
@@ -74,7 +74,7 @@ stem:[m_2]:: Масса пробы
 . Проба 10 stem:[\mu L]
 . TLC полярных липидов
 Неподвижная фаза::: stem:[Silica~gel~60]
-Подвижная фаза::: stem:[[CHCl_3/MeOH/H_2O; 65/25/4, v/v/v]]: 10 stem:[\mu L]
+Подвижная фаза::: stem:[[CHCl_3/MeOH/H_2O; 65/25/4, v/v/v\]]: 10 stem:[\mu L]
 Проба:: все вместе
 Стандарты:::
 * stem:[PC]: 5 stem:[\mu L]
