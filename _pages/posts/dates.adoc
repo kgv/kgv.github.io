@@ -1,7 +1,6 @@
 = Posts by dates
 :icons: font
 :showtitle:
-:page-layout: page
 :page-liquid:
 :page-permalink: /posts/dates
 
@@ -13,7 +12,7 @@
 {% for year in years %}
 == {{ year.name }}
     {% for post in year.items %}
-=== xref:/{{ post.url | relative_url }}[{{ post.title | strip_html }}]
+=== link:{{ post.url | relative_url }}[{{ post.title | strip_html }}]
         {% if post.date %}
         {% assign date = post.date %}
         {% assign date_format = site.date_format | default: "%d-%m-%Y" %}

@@ -27,7 +27,7 @@
 [#{{ category[0] }}]
 == {{ category[0] }}
             {% for post in category.last %}
-=== xref:/{{ post.url | relative_url }}[{{ post.title | strip_html }}]
+=== link:{{ post.url | relative_url }}[{{ post.title | strip_html }}]
                 {% if post.date %}
                 {% assign date = post.date %}
                 {% assign date_format = site.date_format | default: "%d-%m-%Y" %}
