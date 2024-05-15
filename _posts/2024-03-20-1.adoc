@@ -2,6 +2,8 @@
 :figure-caption: Изображение
 :figures-caption: Изображения
 :nofooter:
+:showtitle:
+:stem: latexmath
 :table-caption: Таблица
 :table-details: Детали таблицы
 
@@ -16,13 +18,13 @@
 . Внести пробу: 500 stem:[\mu L]
 . Упарить досуха в токе stem:[Ar]
 +
+--
 .Масса пробы
 [cols="4*", frame=all, grid=all]
 |===
-|ID|stem:[m_0, g]|stem:[m_1, g]|stem:[m_2, g]
-|stem:[TL_1]|1.0117|1.0515|0.0398
+|ID         |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[TL_1]|1.0117              |1.0515              |0.0398
 |===
-+
 .{table-details}
 [%collapsible]
 ====
@@ -30,52 +32,53 @@ stem:[m_0]:: Масса пустой пробирки
 stem:[m_1]:: Масса пробирки с пробой
 stem:[m_2]:: Масса пробы
 ====
-. Внести stem:[[Hexane/Et_2O; 1/1, v/v\]]: 300 stem:[\mu L]
+--
+. Внести stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): 300 stem:[\mu L]
 . SPE
-.. Промыть stem:[[Hexane/Et_2O; 1/1, v/v\]]: ~ 5 stem:[mL]
+.. Промыть stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): ~ 5 stem:[mL]
 .. Внести пробу
 повторить 10 раз::
-Добавить stem:[[Hexane/Et_2O; 1/1, v/v\]]: 1 stem:[mL] и отобрать пробу stem:[NL]
+Добавить stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): 1 stem:[mL] и отобрать пробу stem:[NL]
 повторить 10 раз::
-Добавить stem:[[CHCl_3/MeOH; 1/2, v/v\]]: 1 stem:[mL] и отобрать пробу stem:[PL]
+Добавить stem:[CHCl_3]/stem:[MeOH] (1/2, stem:[v/v]): 1 stem:[mL] и отобрать пробу stem:[PL]
 
-== Пробы stem:[NL_1] - stem:[NL_10], stem:[PL_1] - stem:[PL_10]
+== Пробы stem:[NL_1] - stem:[NL_{10}], stem:[PL_1] - stem:[PL_{10}]
 
 . Упарить досуха
-. Внести stem:[[CHCl_3/MeOH; 2/1, v/v\]]: 200 stem:[\mu L]
+. Внести stem:[CHCl_3]/stem:[MeOH] (2/1, stem:[v/v]): 200 stem:[\mu L]
 
-== Пробы stem:[NL_1] - stem:[NL_10]
+== Пробы stem:[NL_1] - stem:[NL_{10}]
 
 . Внести пробу: 10 stem:[\mu L]
 . TLC нейтральных липидов
 Неподвижная фаза::: stem:[Silica~gel~60]
-Подвижная фаза::: stem:[[Hexane/Et_2O/AcOH; 6/4/0.05, v/v/v\]]: 10 stem:[mL]
+Подвижная фаза::: stem:[Hexane]/stem:[Et_2O]/stem:[AcOH] (6/4/0.05, stem:[v/v/v]): 10 stem:[mL]
 Стандарты:::
 * stem:[FFA]: 3 stem:[\mu L]
 * stem:[DAG]: 3 stem:[\mu L]
 * stem:[TAG]: 3 stem:[\mu L]
 * stem:[Sterin]: 3 stem:[\mu L]
-. Опрыскать stem:[[PMA/[EtOH/H_2O; 80/20, v/v]; 100/4, m/m\]]
-. Греть при температуре 100 stem:[\degree C] до проявления
+. Опрыскать stem:[PMA]/stem:[EtOH]/stem:[H_2O] (80/20, stem:[v/v]) (100/4, stem:[m/m])
+. Греть при температуре 100 stem:[^\circ C] до проявления
 
 .{figures-caption}
 [%collapsible]
 ====
 [cols="2*", frame=none, grid=none]
 |===
-|image:https://lh3.googleusercontent.com/pw/AP1GczNj8Lg5aE5_xYZAXWg8kGLveBj4kf-XcndWA9T1tsZNU9vLAxabJmgFz4hz5WrHG6_Gu0PEolL1Sc35LyYNH0rh_7JIs14DbiDDSbj5rCtBsw9WR1L6W54rOamdcbCFXOV3kXxZf5Qkt62RD1pu-qTC[]
-|image:https://lh3.googleusercontent.com/pw/AP1GczNjxprn-vUTSwbhdYrkzYuK93Sf37KIx1bjAZzUru2_z_qeNGShBf4ANRmMP-zfAGaPTSs8gjLloJ53qwvuGSp9gn_3GgsCPQV43fgCimUMts-T6J4rbhVGT5o-Qx2LpmxrqZPkEXnMqaG7Juw0Jj4P[]
+   |image:https://lh3.googleusercontent.com/pw/AP1GczNj8Lg5aE5_xYZAXWg8kGLveBj4kf-XcndWA9T1tsZNU9vLAxabJmgFz4hz5WrHG6_Gu0PEolL1Sc35LyYNH0rh_7JIs14DbiDDSbj5rCtBsw9WR1L6W54rOamdcbCFXOV3kXxZf5Qkt62RD1pu-qTC[]
+   |image:https://lh3.googleusercontent.com/pw/AP1GczNjxprn-vUTSwbhdYrkzYuK93Sf37KIx1bjAZzUru2_z_qeNGShBf4ANRmMP-zfAGaPTSs8gjLloJ53qwvuGSp9gn_3GgsCPQV43fgCimUMts-T6J4rbhVGT5o-Qx2LpmxrqZPkEXnMqaG7Juw0Jj4P[]
 2.+|image:https://lh3.googleusercontent.com/pw/AP1GczPXitZBGgNQxCMfq0w6Ml7TvuagWXUCzGDqWm72LW3TKxRFM-1wwIyFOlmmTZzF88YR6RK2SfK_LOxiKv0MOuEmmq0cP2Ak4fTxzFWs33q0QFJJtippapZiHnsI-Wt6f9MdxhkMkCJUkhwgN9PeY4p7[]
 |===
 ====
 
-== Пробы stem:[PL_1] - stem:[PL_10]
+== Пробы stem:[PL_1] - stem:[PL_{10}]
 
 . Проба 10 stem:[\mu L]
 . TLC полярных липидов
-Неподвижная фаза::: stem:[Silica~gel~60]
-Подвижная фаза::: stem:[[CHCl_3/MeOH/H_2O; 65/25/4, v/v/v\]]: 10 stem:[\mu L]
+Неподвижная фаза:: stem:[Silica~gel~60]
+Подвижная фаза:: stem:[CHCl_3]/stem:[MeOH]/stem:[H_2O] (65/25/4, stem:[v/v/v]): 10 stem:[\mu L]
 Проба:: все вместе
-Стандарты:::
+Стандарты::
 * stem:[PC]: 5 stem:[\mu L]
 * stem:[PE]: 5 stem:[\mu L]

@@ -2,28 +2,18 @@
 <html class="no-js" lang="en">
 
 <head>
+    <title>{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}</title>
-    <meta name="description"
-        content="{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}, {{ site.author.laboratory }}">
-    <meta name="author"
-        content="{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}">
-    <meta name="copyright"
-        content="{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}">
+    <meta name="description" content="{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}, {{ site.author.laboratory }}">
+    <meta name="author" content="{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}">
+    <meta name="copyright" content="{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}">
 
-    <!-- Foundation -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.8.1/dist/css/foundation.min.css"
-        crossorigin="anonymous">
     <!-- UIkit CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.20.10/dist/css/uikit.min.css" />
-    <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@2.0.20/data/stylesheets/asciidoctor-default.css"
-        crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"
-        crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@2.0.20/data/stylesheets/asciidoctor-default.css" crossorigin="anonymous">
+    <link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css" crossorigin="anonymous">
+    <link async rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" crossorigin="anonymous">
 </head>
 
 <body>
@@ -32,34 +22,16 @@
     {{ content }}
 
     <!-- Scripts -->
-    <script src="{{ page.root }}js/vendor/modernizr.js"></script>
-    <script src="{{ page.root }}js/toc.js"></script>
+    <script src="/js/vendor/modernizr.js"></script>
+    <script src="/js/toc.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.8.1/dist/js/foundation.min.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.8.1/dist/js/foundation.js" crossorigin="anonymous"></script>
-    <script>
-        window.MathJax = {
-            tex: {
-                inlineMath: [["\\$", "\\$"], ["\\(", "\\)"]],
-                displayMath: [["\\[", "\\]"]],
-                tags: "ams"
-            },
-            options: {
-                ignoreHtmlClass: "nostem|noasciimath"
-            },
-            asciimath: {
-                delimiters: [["\\$", "\\$"]]
-            }
-        };
-    </script>
+    <!-- MathJax JS -->
+    <script src="/js/math_jax.js"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script async id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <!-- UIkit JS -->
     <script async src="https://cdn.jsdelivr.net/npm/uikit@3.20.10/dist/js/uikit.min.js"></script>
     <script async src="https://cdn.jsdelivr.net/npm/uikit@3.20.10/dist/js/uikit-icons.min.js"></script>
-    <script>
-        $(document).foundation();
-    </script>
 </body>
 
 </html>

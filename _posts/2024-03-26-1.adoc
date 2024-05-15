@@ -18,19 +18,19 @@
 .Времена удерживания проб
 [cols="4*", frame=all, grid=all]
 |===
-|ID|stem:[t_R, min]|stem:[A_S]|???
-|stem:[A_1]|12.353|1.245|stem:[PS]
-|stem:[A_2]|18.501|1.018|stem:[PC]
-|stem:[B_1]|6.212|1.275|stem:[PG]
-|stem:[C_1]|||
-|stem:[C_2]|||
-|stem:[C_3]|||
-|stem:[C_4]|||
-|stem:[C_5]|13.1||stem:[PE]
-|stem:[D_1]|||
-|stem:[D_2]|||
-|stem:[D_3]|-|-|-
-|stem:[D_4]|||
+|ID        |stem:[t_R, min]|stem:[A_S]|???
+|stem:[A_1]|12.353         |1.245     |stem:[PS]
+|stem:[A_2]|18.501         |1.018     |stem:[PC]
+|stem:[B_1]|6.212          |1.275     |stem:[PG]
+|stem:[C_1]|               |          |
+|stem:[C_2]|               |          |
+|stem:[C_3]|               |          |
+|stem:[C_4]|               |          |
+|stem:[C_5]|13.1           |          |stem:[PE]
+|stem:[D_1]|               |          |
+|stem:[D_2]|               |          |
+|stem:[D_3]|-              |-         |-
+|stem:[D_4]|               |          |
 |===
 .{table-details}
 [%collapsible]

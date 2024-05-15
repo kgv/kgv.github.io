@@ -35,4 +35,4 @@ stem:[PL_3]: 6,5 stem:[mL], растворенные в 300 stem:[\mu L] [🔗][
 image:images/20240307_190204.jpg[]
 ====
 
-. Греть при 50 stem:[\degree C]: 30 stem:[min]
+. Греть при 50 stem:[^\circ C]: 30 stem:[min]

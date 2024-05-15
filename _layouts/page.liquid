@@ -2,17 +2,14 @@
 layout: default
 ---
 
-<!-- Header -->
-{% include header.liquid %}
-
 <div class="uk-section uk-section-default">
     <div class="uk-container uk-container-large">
         <div uk-grid>
-            <!-- Central panel -->
+            <!-- Central -->
             <div class="uk-width-3-4@m">
                 {{ content }}
             </div>
-            <!-- Right panel -->
+            <!-- Right -->
             <div class="uk-width-1-4@m uk-visible@s">
                 <h4>Posts</h4>
                 <ul id="posts">
@@ -45,5 +42,4 @@ layout: default
     </div>
 </div>
 
-<!-- Footer -->
 {% include footer.liquid %}
