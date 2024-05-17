@@ -1,9 +1,4 @@
 = Определение распределения SN положения FA в TAG
-:figure-caption: Изображение
-:figures-caption: Изображения
-:nofooter:
-:table-caption: Таблица
-:table-details: Детали таблицы
 
 == Суспензия
 

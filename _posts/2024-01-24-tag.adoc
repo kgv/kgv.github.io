@@ -1,0 +1,74 @@
+= Результаты анализа Омыление TAG
+:table-caption: TAG
+
+.1
+[cols="2,2*"]
+|===
+|ID                                                   |stem:[t_R]|stem:[s]
+|Methyl tetradecanoate                                |13.687    |124437.610
+|Hexadecanoic acid, methyl ester                      |17.506    |10781210.085
+|7-Hexadecenoic acid, methyl ester, (Z)-              |18.493    |476715.439
+|9-Hexadecenoic acid, methyl ester, (Z)-              |18.708    |89458.904
+|Methyl stearate                                      |22.416    |618849.878
+|9-Octadecenoic acid, methyl ester                    |23.755    |134341502.213
+|11-Octadecenoic acid, methyl ester                   |23.910    |2757704.759
+|9,12-Octadecadienoic acid, methyl ester              |25.781    |84959859.437
+|Eicosanoic acid, methyl ester                        |27.618    |279627.383
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-|28.073    |10953346.497
+|cis-Methyl 11-eicosenoate                            |28.802    |70481231.201
+|cis-13-Eicosenoic acid                               |28.982    |1091185.304
+|11,14-Eicosadienoic acid, methyl ester               |30.596    |1078427.538
+|13-Docosenoic acid, methyl ester                     |33.497    |342828136.254
+|Methyl 11-docosenoate                                |33.592    |2547570.749
+|cis-13,16-Docasadienoic acid                         |34.991    |1678508.413
+|15-Tetracosenoic acid, methyl ester                  |37.454    |49073923.682
+|11,14-Eicosadienoic acid, methyl ester               |38.879    |207351.109
+|===
+
+.2
+[cols="2,2*"]
+|===
+|ID                                                   |stem:[t_R]|stem:[s]
+|Methyl tetradecanoate                                |13.669    |99986.368
+|Hexadecanoic acid, methyl ester                      |17.481    |8516089.579
+|7-Hexadecenoic acid, methyl ester, (Z)-              |18.476    |361950.956
+|9-Hexadecenoic acid, methyl ester, (Z)-              |18.682    |83270.340
+|Methyl stearate                                      |22.390    |489379.019
+|9-Octadecenoic acid, methyl ester                    |23.721    |106046382.549
+|11-Octadecenoic acid, methyl ester                   |23.892    |2284142.847
+|9,12-Octadecadienoic acid, methyl ester              |25.746    |70947678.584
+|Eicosanoic acid, methyl ester                        |27.592    |236789.274
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-|28.055    |9004352.539
+|cis-Methyl 11-eicosenoate                            |28.776    |55900872.418
+|cis-13-Eicosenoic acid                               |28.965    |773316.254
+|11,14-Eicosadienoic acid, methyl ester               |30.579    |808455.286
+|13-Docosenoic acid, methyl ester                     |33.463    |272322501.099
+|Methyl 11-docosenoate                                |33.566    |2574405.299
+|cis-13,16-Docasadienoic acid                         |34.982    |1343624.737
+|15-Tetracosenoic acid, methyl ester                  |37.437    |39476897.280
+|11,14-Eicosadienoic acid, methyl ester               |38.862    |114979.579
+|===
+
+.3
+[cols="2,2*"]
+|===
+|ID                                                   |stem:[t_R]|stem:[s]
+|Methyl tetradecanoate                                |13.687    |81359.677
+|Hexadecanoic acid, methyl ester                      |17.506    |8737029.223
+|7-Hexadecenoic acid, methyl ester, (Z)-              |18.493    |326435.830
+|9-Hexadecenoic acid, methyl ester, (Z)-              |18.691    |57092.430
+|Methyl stearate                                      |22.416    |527658.703
+|9-Octadecenoic acid, methyl ester                    |23.755    |118847721.556
+|11-Octadecenoic acid, methyl ester                   |23.918    |2196282.027
+|9,12-Octadecadienoic acid, methyl ester              |25.772    |78026043.819
+|Eicosanoic acid, methyl ester                        |27.618    |221426.124
+|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-|28.081    |8956396.252
+|cis-Methyl 11-eicosenoate                            |28.802    |63469378.830
+|cis-13-Eicosenoic acid                               |28.991    |644181.700
+|11,14-Eicosadienoic acid, methyl ester               |30.596    |872850.487
+|13-Docosenoic acid, methyl ester                     |33.506    |310934932.116
+|Methyl 11-docosenoate                                |33.592    |2513892.690
+|cis-13,16-Docasadienoic acid                         |34.991    |1359024.243
+|15-Tetracosenoic acid, methyl ester                  |37.463    |43938522.006
+|11,14-Eicosadienoic acid, methyl ester               |38.888    |101493.096
+|===

@@ -1,5 +1,4 @@
 = Projects
-:showtitle:
 :page-liquid:
 :page-permalink: /projects
 

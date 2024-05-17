@@ -1,13 +1,17 @@
 = UTCA
-:showtitle:
+:imagesdir: {{ site.url }}/assets/projects/utca
 :page-description: A program to calculate the distribution of fatty acid acyls in triacylglycerols.
 :page-excerpt: Ultimate Triacylglycerols Calculation Application
 :page-liquid:
 ifndef::env-github[:toc:]
 
-Ultimate Triacylglycerols Calculation Application
+Ultimate Triacylglycerols Calculation Application.
 
-image:{{ site.url }}/assets/utca/screenshots/0.jpg[title=Pause, 20%]
-image:{{ site.url }}/assets/utca/screenshots/1.jpg[title=Pause, 20%]
-image:{{ site.url }}/assets/utca/screenshots/2.jpg[title=Pause, 20%]
-image:{{ site.url }}/assets/utca/screenshots/3.jpg[title=Pause, 20%]
+[cols="3*a", frame=none, grid=none]
+|===
+|image:0.jpg[]
+|image:1.jpg[]
+|image:2.jpg[]
+|===
+
+link:https://github.com/ippras/utca[github]

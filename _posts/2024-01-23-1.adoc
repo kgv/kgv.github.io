@@ -1,0 +1,84 @@
+# Анализ количественного и качественного состава stem:[TL] нативной ткани семян *Lunaria rediviva* с помощью реакции с stem:[H_2SO_4]/stem:[MeOH]???
+:page-update: 2024-01-24
+
+Исходная масса семян: 6.4640 stem:[g]
+
+== Пробы 1, 2, 3
+
+.Масса семян
+[cols="4*", frame=all, grid=all]
+|===
+|ID|stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|1 |13.7540             |15.9055             |2.1515
+|2 |13.7926             |16.0092             |2.2166
+|3 |13.8255             |15.8340             |2.0085
+|===
+.{details}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой
+stem:[m_2]:: Масса пробы
+====
+
+. Внести stem:[CHCl_3]: 15 stem:[\mu L]
+. Внести stem:[CHCl_3]: 5 stem:[\mu L]
+. Внести stem:[H_2O]: 5 stem:[\mu L]
+. Внести stem:[H_2O]: 5 stem:[\mu L]
+. Внести stem:[Benzene]: 5 stem:[\mu L]
+
+== Пробы stem:[TL_1], stem:[TL_2], stem:[TL_3]
+
+.Масса stem:[TL]
+[cols="4*", frame=all, grid=all]
+|===
+|ID         |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[TL_1]|19.5393             |19.9353             |0.3960
+|stem:[TL_2]|13.6419             |14.0346             |0.3927
+|stem:[TL_3]|13.4307             |13.7643             |0.3336
+|===
+.{details}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой
+stem:[m_2]:: Масса пробы
+====
+
+. Внести stem:[CHCl_3]: 5 stem:[mL]
++
+.Концентрация stem:[TL]
+[cols="4*", frame=all, grid=all]
+|===
+|ID         |stem:[\omega], stem:[g/L]
+|stem:[TL_1]|79.20
+|stem:[TL_2]|78.54
+|stem:[TL_3]|66.72
+|===
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="4*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczOi_zVsOnajnqGw-S8M0SUEvyF943w78PRg5DUny-gPhKhPv9uaH2wcEqe5KS4WOaifeWZ2EPJTBVyTuQyVaEpXITgNUqUajncYfYbxj9qlnMGcy2UPU-E0NgXfvQy5ZVY--8w2aDc90jcq88cwCXKi=w692-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNG7y8PKNVeXjcVDCfiMBN9gSrn5ZRMYDpU5l49FnEgy0SwTvfHgClHo0Zu_fnE35kxX_suHXMaRf1v4PBdgb-heDhRvu2JTH100vA9yU1mqg2gYjpM33TXeQ_nAVGitXB3U8szqqv62gobR_j8vpXx=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNYNeE-P5Keh3VJI2X-AZsWcy_rmSuLyEiYkWyQfj6A6bdt-837_k7NGnw2_r98wzDZTxDwIWJ7OCSvgqb8I1UqrMjc8L1t6QHOQLhicAAmYortXPoKRKVyiguelQ4X_wYUtmgRgRJWXqQWRVFn77K9=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNpM9kpA-Td5j7ugqoiJ2H5bTyjMVSN33bD8AkKs278dkNRCm3_n3fC4b7dYmk2qF6V9BymfVt-tZnxDeVuftvK1ockhhMmaQeheqi1fzaA3MZgwA0jp360QKvgdUbOEvCvNrx3sBZl6mo9IH7DjteZ=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNxtLW51Kru2Zw6IjXOWjWJwPjquhnsGc6QHBYRAvp7i5cNVDGPtV_vqFZoBLmh6rrTI5DNkC4fXLIGT6ISqdoMAIhTjwvf87DsPy-vO_qvcZEq3Jwpkoe3KoKAo7sK_uCF0UWtHhPnyNheKm7o4lbM=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN2KPOZJY6U6OqLPQl4ZFpuNmWu-coHHn5KjVpmPIMQegLWyEtVFD9YijiEQvnFBSykXqVtJvmy-6MipIgi6BwefDKq3usQE-y8sjDcPFSPRYI0tINITn_CXuEb74tubhC6m2lC2uuKwHeXxNZQtf74=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMkR0BGUMh_Bxx_xlo6wthgs8bThRgmoqTkTPEbUDReOszD-Q4dZb0Q5Fd_lP-BZBTYaWygmv-u0uQkMAlcpPWp2eFgWWvcYSk97gsNXVJaw9Cd_e4gSeSOhuy3B9nV7BR4PLJGHiBy-_bmWUiED9ES=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMSCABSlxkuvTK7h_7G0AK5uAAkL7pAaUOKBMwRY1zpqi5xa9mwzWfhvXQxcfy4hNEUWrq4dIxrp9REYURm9qrYv2iMJZaK6KauzF_qRl6j_f7QuDAg9P4q3_G-eXY8OZJZgKIb4PyHNQWofFkFZ7V6=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP4pjisMTlhznvD0qz6SxRSPPfYiAYHNuedGlueEMJnL5QyIBnM9ZoDLGphVEvoaro5hrIJc3DbEImO8826fbDVGt-jj4_3Zlu2W7riLF5s--54hMBI9yPpxMLHJgoeZLBm9Hh2BgQNHJ_m6CQopPNB=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPLekOnqkQoAPKn4x4V1uyjDqrN8cpgug01D4Fty6qSbbg9w2Cx8RSpKgOXQJwKXLGtqDbE6h2Z6UoTRE50JdEvJdwSqw2EqWZCvZToCEm3NoiFhVg_HVsDM4MxHqBwQ2Sz4NQMjg27_HlHJebDla9l=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMd3QN9NPwGkw7xQlXnTWEAhOH-BNdX5cdRLZvg9Y06uOdGigvOFmVsXRnbhM5M3-9gxMaw3burwOWfHdl7DePzcK9rMEr2Zw9mN4pQxRejs7FeLxIJVXeb756wKedzVGDQ6YHTGSr9aStNwFGULZdS=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP1uuZPWKl7rmQqZEkDrUTw6Ha4mYv5z7kQZwBuWGyE7DYDlFyK--63wbgrJXgfsZAAEWo1qE7kjUgG19zjMLPtkCtZpvYn5c48xNVaHAdV77-OXYH5V9SttiJGm9BKaR5SirGybvetVnn7WAdOveJP=w692-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN-_Qo9Vts9_SJg4meJ4SlP4aow1VdDqrVJNFO3TnbnF44QVEohC6GmJET_qE7ZmW4WIl7BK1A7EbvHf0ij_QcAxCPDHpbRWBeAsrGZSNnuDUu9kZFY8Z7GZCnmMdVhoAzVhwn6Xz0H4PFkHYAPhmc1=w692-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNfbRViQg8nGh_AUKVSNkzWeWei0tpaetviKImoIVGqsWsJlRNiYiHEIMXkbSoA3sNpfAj7aRPMI7pYGV7ixM_zl3ZBY0JrnPiY9EzJpn7hpWGqST413KxwoNyc99L3KO-UiXPLSfIaq9df2IQ2av-S=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPYPPlqHJeqA9n8eMte_c_L2Zl0AqHfIOmMBI2U4hYfTsbJooxJycSW8UbhR6pIenVGrfONlRwFpE-eylCHR1QxaKWJscAOJmak_8luoBCcxCja8jTUfaDg7k13b7P_PxPA24Qe5CVtlbgdfcGjwqfJ=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPMqfKrJSObukPScAU2OJniisdLvIvCST7LlnI9ULytHNzzJY4fDGMl4H8fvzUyeLeFC_-ue2QPJZ-7TeMqKfkiMQNUpvgDylsREt2mxo5kHiP75YZ62h8g11SSJcMd-maN5r_gmoh_82Px9SOIUu7e=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOImDiOsF1F4c6h4JejIHzqUzXa_g3BIlVmA5SySG2U0ukW8p_ZTTdhXjzajzuCgYMlKFNa5IYg9xXQkEvE0hix-9NGnF1JbbvgriuPl0d36G54AzpYmYko2NlSslV9OhBDe5we053QQb3KlFM4gHYP=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNXFjgIMkckPFvwGgsip0BHdqkCTmRSd9gJKnhKUhHM89eO_ndrm2q1QbCO2hci-2viYcKYOYzFjQuXy4eXK7guUbPtZncLjtoWHaLa2idoqrq-YVOqPVi16AxhPKxQFT7W0oT6WOKzxM8dGaTwx1r_=w692-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMNaAwJM6I8nVePF_iRU-fCOV6n1jASlgG140z77D8pJGAJqdfaedDPzw5Aw570rA_dZjZ_kgWjr65RulTL91eVhcNS-PlY2N4KheIwwc_xsrkUF3LK8xcgJx5NamONYoFeb0AcWPZSogNgyOddlVUI=w692-h925-s-no-gm?authuser=0[]
+|===
+====

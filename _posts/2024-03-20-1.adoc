@@ -1,11 +1,4 @@
 = Выделение stem:[PL] *Lunaria rediviva* методом SPE на патронах с силикагелем
-:figure-caption: Изображение
-:figures-caption: Изображения
-:nofooter:
-:showtitle:
-:stem: latexmath
-:table-caption: Таблица
-:table-details: Детали таблицы
 
 [NOTE]
 ====
@@ -25,7 +18,7 @@
 |ID         |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
 |stem:[TL_1]|1.0117              |1.0515              |0.0398
 |===
-.{table-details}
+.{details}
 [%collapsible]
 ====
 stem:[m_0]:: Масса пустой пробирки

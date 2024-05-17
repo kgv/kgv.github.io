@@ -21,7 +21,7 @@
 |$D_4$|-
 |$D_5$|-
 |===
-.{table-details}
+.{details}
 [%collapsible]
 ====
 $m_0$:: Масса пустой пробирки

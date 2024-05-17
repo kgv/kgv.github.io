@@ -1,0 +1,7 @@
+= Devices
+:page-liquid:
+:page-permalink: /devices
+
+{% for device in site.devices %}
+== link:{{ device.url | relative_url }}[{{ device.title }}]
+{% endfor %}

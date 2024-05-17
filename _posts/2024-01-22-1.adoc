@@ -1,0 +1,70 @@
+= Анализ количественного и качественного состава stem:[TL] нативной ткани семян *Lunaria rediviva* с помощью реакции омыления
+:d975d663: footnote:d975d663-8919-5eba-abaa-1f497810f856[Таблицы для определения содержания этилового спирта в водно-спиртовых растворах Том 1, с. 21. http://www.integralas.ru/docs/t1.pdf[🔗^]]
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="4*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczOij6QGgUbIvMt5YJmIHouCHMgo4C-Zz7aqLQRbt76RSV1usSN3Ixny_7r_-v9HDJFOcPurI4hOCO3RV2N2JyRBF9MbgBMGGdYJDl8G2aFDq0gUA4uihSZsHHOQHmVXJmsLMFC8MQd1VVGbSXcONTDP=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMxYWUQWeUxZ9gKGTgwCv8PRrZtfo6-ri2KEKJH2zN4mlFQyUODwrRGzqdvk8uDyZNYDmpuvQhJ9dDplNCa7hBnTNLUN-jJjehP1ZxOuylVT6XLDDHpBqupb5IdE5H8tbaFs702PW4dPdDjbBycOqC8=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMZzq1RhnDjQlOw1s4aNEWVVAPKimA_gaUZQHmPr_4F1IyDeIeo2oBryNELUZkZ7oB_C84L3AGk9B1UaqQCVHCZOJPgj8UWrXg9brd6iEju-MRKrFJQD_fJtLyZOKHrjmz_4Bc9pAfM82TZat_g58Sy=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPk-OiBt80lVx-MR1OQL-QevOCp8mV1CFfJlurd2TPMt8W_t942LiSNnB0dh-qQ2MUuMRUJ39jUCuQxRy4TkPJ3ghj3HtSgLyLYxKFguyaDYS9GlcfUdChUhFWI9xvfkRHnTN0Pl_lUaosqhfPf38xy=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPOXQQ7ZUwBfL7SW1dlDKd3EImh8oPftsPIdwP5a9M4xV6xr1aJpAQfvnpxidncMJQsQ6OkfH6IQgipQHX4v2mVes_kziptr9Y_5zT7C9H9UuDYr7hOtNMxvwEXahF5ihRWeFvhZ-_xFhGcwQB8nYni=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPgp3x9A5iHZCA0KQgGR_0VSIzn-L_MxXHNCNWC0UikD48KWh8dS0nEzsAW4oZAnKXij05cqbPc7bMtzZAFiAT-2Pedm3XICez1e_OzUL1oeiEYWhvaj9Fk0_hKZ6IDICTl7arTkwvp82l4gK9eB2Ry=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMlXqTTy3dfpqc0SxqOoAnCRh3rV1RS1HIE60Fu_qcDf6zSXQdstTrmyhbI1sNj_41lCkc6h81BzQSN9vY_yJOUw9ABcBosruzV3Ikg4A8g8RloTViByDGFoCF77FYR0h0hCXi1ve1vjf2zpvB91kBJ=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczO-vn-v0tK8cZQpqalK8v3or0zSwPLfKlMYiqzIOKFb_ZrQbCDhqi9D4kHPte_yFJCOFUj1hIu9nS5fJguuorFq9skaiFV3YxV1ZNvVc8BfhN-id3YfpcJ39w67ODtKtL1odUialMwAKdDMYcXmhcS9=w1236-h925-s-no-gm?authuser=0[]
+|===
+====
+
+[cols="3*a"]
+|===
+|ID|stem:[m_0], stem:[g]|stem:[m_2], stem:[g]
+|1 |2.4504              |0.0499
+|2 |2.4485              |0.0539
+|3 |2.4395              |0.0461
+|4 |2.4506              |0.0446
+|5 |2.4496              |0.0424
+|6 |2.4428              |0.0444
+|7 |2.4680              |0.0439
+|8 |2.3898              |0.0450
+|9 |2.4243              |0.0430
+|===
+.{details}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_2]:: Масса пробы
+====
+
+== Приготовление stem:[KOH]/stem:[C_2H_5OH]/stem:[H_2O] (80%, stem:[v/v]) (4%, stem:[m/m])
+
+. stem:[C_2H_5OH]/stem:[H_2O] (80% stem:[v/v]): 10 stem:[mL]
++
+--
+* stem:[\rho] = 0.83911 stem:[g/mol]{d975d663}
+* stem:[m_0] = 0.83911 * 10 = 8.3911 stem:[g]
+* stem:[m_1] = 4 * 8.3911 / 100 = 0.3356 stem:[g]
+* stem:[m_2] = 348.4 / 0.85 = 0.3948 stem:[g]
+
+.{details}
+[%collapsible]
+====
+* stem:[\rho] - плотность stem:[C_2H_5OH]/stem:[H_2O] (80% stem:[v/v]) при 25 stem:[^\circ C]
+* stem:[m_0] - масса 10 stem:[mL] stem:[C_2H_5OH]/stem:[H_2O] (80% stem:[v/v])
+* stem:[m_1] - масса stem:[KOH] (100%), требующаяся для приготовления раствора
+* stem:[m_2] - масса stem:[KOH] (85%), требующаяся для приготовления раствора
+====
+--
+
+. Внести stem:[Стандарт]: 200 stem:[\mu L]
+. Внести stem:[KOH]/stem:[C_2H_5OH]/stem:[H_2O] (80%, stem:[v/v]) (4%, stem:[m/m]): 900 stem:[\mu L]
+
+. Греть 60 stem:[min], 70 stem:[^\circ C]
+. Внести stem:[Hexane]: 400 stem:[\mu L]
+. Центрифугировать 3 stem:[min], 2300 stem:[g]
+. Внести stem:[H_2SO_4] (20%): 100 stem:[\mu L]
+. Внести stem:[Hexane]: до края
+. Греть 30 stem:[min], 55 stem:[^\circ C]
+. Внести stem:[H_2O]: 150 stem:[\mu L]
+. Внести stem:[Heptane]: 330 stem:[\mu L]

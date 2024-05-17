@@ -1,0 +1,6 @@
+= ATOM
+:page-liquid:
+
+Atom properties library.
+
+link:https://github.com/ippras/atom[github]

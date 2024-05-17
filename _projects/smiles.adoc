@@ -1,0 +1,6 @@
+= SMILES
+:page-liquid:
+
+SMILES parser library.
+
+link:https://github.com/ippras/smiles[github]

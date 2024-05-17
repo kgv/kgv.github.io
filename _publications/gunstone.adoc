@@ -1,14 +1,10 @@
 = Теория Ганстоуна (Gunstone)
 :eqnums:
-:nofooter:
-:showtitle:
-:stem: latexmath
 :page-authors: ["Казаков Г.В.", "Сидоров Р.А."]
 :page-doi: DRAFT
 :page-liquid:
 
 :details: Детали
-:where: Где
 
 :2fd49011: footnote:2fd49011-2923-59ed-ac33-2d84d8a2f33f[Верещагин А. Г. Биохимия триглицеридов. – 1972.]
 :0248e842: footnote:0248e842-25d5-5a0d-b508-6c22c52890f5[Верещагин А. Г. Биохимия триглицеридов. – 1972, с. 116.]
@@ -17,7 +13,7 @@
 :653b0659: footnote:653b0659-c81f-50d7-a344-7220f9840ae6[Верещагин А. Г. Биохимия триглицеридов. – 1972, с. 171.]
 :10_1007__BF02632456: footnote:10_1007__BF02632456[Gunstone F. D. et al. Glyceride studies. V. The distribution of unsaturated acyl groups in vegetable triglycerides //Journal of the American Oil Chemists' Society. – 1965. – Т. 42. – №. 11. – С. 965-970. https://doi.org/10.1007/BF02632456[🔗]]
 
-*{% for author in page.authors -%}{{ author }}{% if forloop.last != true %}, {% endif %}{% endfor %}*
+*{% for author in page.authors %}{{ author }}{% if forloop.last != true %}, {% endif %}{% endfor %}*
 
 Это 1,3 статистическое, 2 статистическое распределение.
 

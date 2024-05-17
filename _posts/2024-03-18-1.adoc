@@ -1,7 +1,4 @@
 = Подбор градиента концентрации смеси stem:[CH_3CN/MeOH/H_2SO_4] для анализа stem:[PL] на HPLC
-:nofooter:
-:showtitle:
-:stem: latexmath
 
 == stem:[CH_3CN/MeOH/H_2SO_4] (100/1/0.05, stem:[v/v/v])/stem:[CH_3CN/MeOH/H_2SO_4] (100/10/0.05, stem:[v/v/v])
 

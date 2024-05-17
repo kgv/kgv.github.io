@@ -1,10 +1,6 @@
 = Posts by categories
-:icons: font
-:showtitle:
-:page-layout: page
 :page-liquid:
 :page-permalink: /posts/categories
-:page-root: ../../
 
 {% assign max = 0 %}
 {% for category in site.categories %}

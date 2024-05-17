@@ -1,7 +1,4 @@
 = Идентификация проб stem:[PL] *Lunaria rediviva* методом GC
-:nofooter:
-:table-caption: Таблица
-:table-details: Детали таблицы
 
 == xref:1.adoc#пробы-a_0-a_1-a_2-b_1-b_2-c_1-d_1-d_2[🔗] Пробы stem:[A_0], stem:[A_1], stem:[A_2], stem:[B_1], stem:[B_2], stem:[C_1], stem:[D_1], stem:[D_2], stem:[D_3], stem:[D_4], stem:[D_5]
 
@@ -21,7 +18,7 @@
 |stem:[D_4]|-
 |stem:[D_5]|-
 |===
-.{table-details}
+.{details}
 [%collapsible]
 ====
 stem:[m_0]:: Масса пустой пробирки

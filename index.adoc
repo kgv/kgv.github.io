@@ -1,8 +1,6 @@
-= Congratulations!
-:icons: font
+= KGV
 :page-description: A forkable blog-ready Jekyll site using AsciiDoc
-:page-title: Jekyll AsciiDoc Quickstart
-:showtitle:
+:page-liquid:
 
 [role=blue]
 NOTE: Additional information on the currently discussed topic that may help the reader
@@ -19,12 +17,11 @@ WARNING: inform the reader of danger, harm, or consequences that exist
 [role=red]
 CAUTION: Advise the reader to act carefully and point to potential tripping
 
-[source, html]
-----
-{% for post in site.posts limit: 5 %}
-<a href=".{{ post.url }}">{{ post.navtitle }}</a>
+== link:devices[Devices]
+
+{% for device in site.devices %}
+* link:{{ device.url | relative_url }}[{{ device.title }}]
 {% endfor %}
-----
 
 == References
 
@@ -33,5 +30,3 @@ The following links will help with detailed explanations on Jekyll and AsciiDoc.
 * https://jekyllrb.com[Jekyll]
 * https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Quick Reference]
 * https://asciidoctor.org[Asciidoctor]
-
-== Links

@@ -1,10 +1,6 @@
 = Posts by tags
-:icons: font
-:showtitle:
-:page-layout: page
 :page-liquid:
 :page-permalink: /posts/tags
-:page-root: ../../
 
 {% assign max = 0 %}
 {% for tag in site.tags %}
@@ -16,7 +12,7 @@
 {% for i in (1..max) reversed %}
     {% for tag in site.tags %}
         {% if tag[1].size == i %}
-* xref:#{{ tag[0] }}[*{{ tag[0] }}* _{{ i }}_]
+* xref:#{{ tag[0] | slugify }}[*{{ tag[0] }}* _{{ i }}_]
         {% endif %}
     {% endfor %}
 {% endfor %}
@@ -39,7 +35,7 @@ icon:folder[] {{ site.data.ui-text[site.locale].categories | default: "Categorie
 
                 {% if post.tags %}
                 {% assign tags = post.tags | sort_natural %}
-icon:tag[] {{ site.data.ui-text[site.locale].tags | default: "Tags" }}: {% for tag in tags %}xref:#{{ tag }}[{{ tag }}]{% unless forloop.last %}, {% endunless %}{% endfor %}
+icon:tag[] {{ site.data.ui-text[site.locale].tags | default: "Tags" }}: {% for tag in tags %}xref:#{{ tag | slugify }}[{{ tag }}]{% unless forloop.last %}, {% endunless %}{% endfor %}
                 {% endif %}
             {% endfor %}
 xref:#{{ page-title }}[{{ site.data.ui-text[site.locale].back_to_top | default: "Back to top" }} &uarr;]

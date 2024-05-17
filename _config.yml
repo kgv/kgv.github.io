@@ -23,6 +23,9 @@ author:
 permalink: /posts/:year/:month/:day/:title
 
 collections:
+  devices:
+    output: true
+    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
@@ -37,11 +40,19 @@ defaults:
       type: posts
     values:
       layout: page
+  # collections/devices
+  - scope:
+      path: ""
+      type: devices
+    values:
+      layout: page
+  # collections/projects
   - scope:
       path: ""
       type: projects
     values:
       layout: project
+  # collections/publications
   - scope:
       path: ""
       type: publications
@@ -68,7 +79,15 @@ asciidoctor:
   base_dir: :docdir
   safe: unsafe
   attributes:
+    showtitle: true
     icons: font
     idseparator: _
+    nofooter:
+    stem: latexmath
+    figure-caption: Изображение
+    figures-caption: Изображения
+    table-caption: Таблица
+    details: Детали
+    where: Где
     stylesdir: css
     source-highlighter: coderay

@@ -1,0 +1,113 @@
+= Анализ stem:[FA] stem:[TL] различных органов цветка *Lunaria rediviva* с помощью реакции омыления (1 из 3)
+:page-categories: [Experiment]
+:page-tags: [FA, laboratory, log, lunaria_rediviva, saponification, TL]
+
+NOTE: Образец содержит комплексные липиды, которые трудно преобразовать в МЭЖК с помощью реакции с stem:[H_2SO_4]/stem:[MeOH], поэтому используем реакцию омыление.
+
+IMPORTANT: исключить stem:[T_5] из расчета количества!
+
+WARNING: часть stem:[T_4] пролилась во время первого нагревания!
+
+Количество цветков: 5 * 5 = 25
+
+== Пробы stem:[П_1], stem:[Т_1] ... stem:[Т_5], stem:[Л_1] ... stem:[Л_5]
+
+. Внести пробы
++
+--
+.Масса проб пестиков, тычинок и лепестков
+[cols="4*", frame=all, grid=all]
+|===
+|ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[П_1]|1.0009              |1.0348              |0.0339
+|stem:[Т_1]|1.0051              |1.0537              |0.0486
+|stem:[Т_2]|1.0038              |1.0603              |0.0565
+|stem:[Т_3]|1.0076              |1.0609              |0.0533
+|stem:[Т_4]|0.9999              |1.0555              |0.0556
+|stem:[Т_5]|1.0039              |1.0638              |0.0599
+|stem:[Л_1]|1.0033              |1.2064              |0.2031
+|stem:[Л_2]|1.0026              |1.1975              |0.1949
+|stem:[Л_3]|1.0025              |1.2092              |0.2067
+|stem:[Л_4]|1.0086              |1.2126              |0.2040
+|stem:[Л_5]|1.0028              |1.2173              |0.2145
+|===
+.{details}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой
+stem:[m_2]:: Масса пробы
+====
+
+stem:[SD_Т] = 0.05478 ± 0.004190 (7.6%)
+
+stem:[SD_Л] = 0.20464 ± 0.007055 (3.4%)
+
+--
+. Внести stem:[C_2H_5OH]: 250 stem:[\mu L]
+. Растереть пробу пестиком в пробирке
+. Перенести все содержимое в соответствующую стеклянную виалу
+. Внести stem:[C_2H_5OH]: 250 stem:[\mu L]
+. Добавить в соответствующую стеклянную виалу
+. Внести stem:[KOH]/stem:[H_2O] (1/5, stem:[m/v]): 250 stem:[\mu L]
+. Внести stem:[17:0] в качестве стандарта: 100 stem:[\mu L]
+. Греть 60 stem:[min], 75 stem:[^\circ C]
+. Внести stem:[Hexane]: 500 stem:[\mu L]
+. Вортексировать
+. Центрифугировать 3 stem:[min], 2300 stem:[g]
+. Удалить верхнюю фазу (stem:[Hexane])
+. Внести stem:[H_2SO_4]/stem:[H_2O] (20%, stem:[v/v]): 150 stem:[\mu L]
++
+NOTE: Количество кислоты, которое требуется внести, определяем с помощью лакмусовой бумажки (покраснение).
+. Внести stem:[Hexane]: до края (~ 750 stem:[\mu L])
+. Вортексировать
+. Центрифугировать 3 stem:[min], 2300 stem:[g]
+. Отобрать верхнюю фазу (stem:[Hexane])
+. Упарить досуха в токе stem:[Ar]
+. Внести stem:[H_2SO_4]/stem:[MeOH] (1% stem:[v/v]): 150 stem:[\mu L]
+. Греть 30 stem:[min], 55 stem:[^\circ C]
+. Внести stem:[H_2O]: 80 stem:[\mu L]
+. Внести stem:[Heptane]: 150 stem:[\mu L]
+. Вортексировать
+. Центрифугировать 3 stem:[min], 2300 stem:[g]
+. Отобрать верхнюю фазу (stem:[Heptane]) в пробы stem:[1] ... stem:[11]
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="4*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczOZEBO4IbBYBejWe2cKbnvPndFrfMYJMqNJhnoyOyZJcNuqQptj2TDyvqNtV-FbitjRbWV-c0UkNbdVruALeysr5j_b0P6FjziAlZ770S2YkZpYu0rIfky8hFHrh3sHtLl_r0HUMB-yNrqnKldoEed7=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNHZA2dh7K8yhBlLFFbM06wqluBG8ks3paXZaHFIahZ_bb0EdyHj3BWZH2XUyjQbdcySA-EsY6rQ6JzGajhIRFaQ-WSleGkJE99TFvHUdtAwTCEhrmWpF_EuMRM-WVgovzn2Y4hHJgML2W6VR9CdGQr=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOc8k-36FXwh7MeY4Wo2C7tc7wwsm4N9_ssIoEKudivANpENuQuHMM3he8ki_JLZtov0LtitBJ-68ObWfuhTWIVGcXkeKI07O5IMsy2rUgUERecC1jXWSSYrlb8L-TX-vjcQg0ltIbBbCDs77r5hxHQ=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP_nHfWkZA1s3bXbkfDKVQ0HVYUkT5NhDs2h__I3X2KmBxoukvt8UfvAPeIQv6vGzOnBjUKAmNeRxEANkty5aMsHfDoquGa62KhzijE9Cl1khgP3x7P4bCRBkHHLAVLTZw-8tNtBqEOQEajBRQ8UcNP=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNHZA2dh7K8yhBlLFFbM06wqluBG8ks3paXZaHFIahZ_bb0EdyHj3BWZH2XUyjQbdcySA-EsY6rQ6JzGajhIRFaQ-WSleGkJE99TFvHUdtAwTCEhrmWpF_EuMRM-WVgovzn2Y4hHJgML2W6VR9CdGQr=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP2GSqzF4NNXyIxceXgNw4hFsFL_qYM_mb9bP49VPqjrI-hvA6na2p9EGITELffyWuXTa5-Y0CYb4SDbvvBuucZeL1Ay2hYinsy0dhGrCMPp-jkdxx3NHxPFrvmtuUbH5TKMLP8H7CIzs8Y-RTZ7RL6=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMx2ahgbWIQeUxEgcYPDtoqvWkLbi_rGaEvgZ-TE12-P2RndC7EOcopDOcvVo_3RqSh2BtEAT9Ab1VBMXyLK3yTyDQ9gTBPbOlOkQ9HlAqcsAw_QGosCwvKxAH1EqwSQRr5HTZ5Enk6BN3D8vheGhvj=w1236-h925-s-no-gm?authuser=0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMMXpnhso1k_6W4RIUkJoFxu40xRSopLPRu2kgBGvRiKZyyMB8a3mkxqzvZY7tUNdFdqLWoIhTFAOHxduuPQSACk2KktVt2VZ-mYR95n0JyzEvRFV_hG-4qUNFSCgztCPEz-okA3niXQOuwZg1XIZ9p=w1236-h925-s-no-gm?authuser=0[]
+4.+|image:https://lh3.googleusercontent.com/pw/AP1GczM8tPl78F7g6CS7e8DI9K1AGUdSyQ8FX3V7QxhUWQTsZy2IT3FxMlnBeWVIdEkoItsajtFyVLryPPo7zOkkQS9NPXy_j07oauxjzXtR77jY8f2x5rP5rz7RXC3jx5t5gEJLNt8aYEyHI17S7Kt1DXA8=w1280-h416-s-no-gm?authuser=0[]
+|===
+====
+
+== stem:[KOH]/stem:[C_2H_5OH]/stem:[H_2O] (80%, stem:[v/v]) (4%, stem:[m/m])
+
+NOTE: Если необходимо избежать вымывания stem:[FA] из пластика пробирок, то для этого нужно смыть пробы с пробирок чистым stem:[C_2H_5OH], перенести в стеклянные виалы и только тогда добавить предварительно смешанные stem:[KOH]/stem:[H_2O] (1/5, stem:[g/mL]).
+
+.Для stem:[C_2H_5OH]/stem:[H_2O] (80% stem:[v/v])
+* stem:[\rho_0] = 0.83911 stem:[g/mol]{d975d663}
+* stem:[V_0] = 10 stem:[mL]
+* stem:[m_0] = 0.83911 * 10 = 8.3911 stem:[g]
+* stem:[m_1] = 4 * 8.3911 / 100 = 0.3356 stem:[g]
+* stem:[m_2] = 0.3356 / 0.85 = 0.3948 stem:[g]
+* stem:[m_3] = 0.3948 / 2 * 50 = 9.87 stem:[g]
+
+.{details}
+[%collapsible]
+====
+* stem:[\rho_0] - плотность stem:[C_2H_5OH]/stem:[H_2O] (80% stem:[v/v]) при 25 stem:[^\circ C]
+* stem:[V_0] - объем stem:[C_2H_5OH]/stem:[H_2O] (80% stem:[v/v])
+* stem:[m_0] - масса 10 stem:[mL] stem:[C_2H_5OH]/stem:[H_2O] (80% stem:[v/v])
+* stem:[m_1] - масса stem:[KOH] (100%), требующаяся для приготовления раствора 2 stem:[mL] раствора stem:[KOH]/stem:[H_2O]
+* stem:[m_2] - масса stem:[KOH] (85%), требующаяся для приготовления 2 stem:[mL] раствора stem:[KOH]/stem:[H_2O]
+* stem:[m_3] - масса stem:[KOH] (85%), требующаяся для приготовления 50 stem:[mL] раствора stem:[KOH]/stem:[H_2O]
+====

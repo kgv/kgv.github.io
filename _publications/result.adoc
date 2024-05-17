@@ -1,8 +1,5 @@
 = Модифицированная теория Ганстоуна (Gunstone)
 :eqnums:
-:nofooter:
-:showtitle:
-:stem: latexmath
 :page-authors: ["Казаков Г.В.", "Сидоров Р.А."]
 :page-doi: DRAFT
 :page-excerpt: Excerpt goes here.

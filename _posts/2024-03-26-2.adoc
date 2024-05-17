@@ -1,5 +1,4 @@
 = Идентификация проб stem:[PL] *Lunaria rediviva* методом GC
-:nofooter:
 
 == xref:1.adoc#пробы-a_1-a_2-b_1-c_1-c_2-c_3-c_4-c_5-d_1-d_2-d_3-d_4[🔗] Пробы stem:[A_1], stem:[A_2], stem:[B_1], stem:[C_1], stem:[C_2], stem:[C_3], stem:[C_4], stem:[C_5], stem:[D_1], stem:[D_2], stem:[D_3], stem:[D_4]
 

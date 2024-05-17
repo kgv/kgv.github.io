@@ -32,7 +32,7 @@
 |$D_3$|-|-|-
 |$D_4$|||
 |===
-.{table-details}
+.{details}
 [%collapsible]
 ====
 $t_R$:: время удерживания

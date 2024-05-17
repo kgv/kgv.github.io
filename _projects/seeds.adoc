@@ -1,8 +1,10 @@
 = SEEDS
-:showtitle:
+:imagesdir: {{ site.url }}/assets/projects/seeds
 :page-description: A program for recognizing seeds in a photo and calculating their geometric and color parameters.
 :page-excerpt: The SEEDS program
 :page-liquid:
 ifndef::env-github[:toc:]
 
 Seeds parameters calculator.
+
+link:https://github.com/kgv/seeds[github]

@@ -1,9 +1,4 @@
 = Выделение stem:[PL] *Lunaria rediviva* методом SPE на патронах с силикагелем (3 повторности)
-:figure-caption: Изображение
-:figures-caption: Изображения
-:nofooter:
-:table-caption: Таблица
-:table-details: Детали таблицы
 
 NOTE: Неудачный эксперимент! +
 Вместо stem:[[CHCl_3/MeOH; 1/6, v/v]] был взят stem:[[CHCl_3/MeOH; 6/1, v/v\]].
@@ -22,7 +17,7 @@ NOTE: Неудачный эксперимент! +
 |stem:[TL_2]|1.1200|1.1951|0.0751
 |stem:[TL_3]|1.1254|1.2067|0.0813
 |===
-.{table-details}
+.{details}
 [%collapsible]
 ====
 stem:[m_0]:: Масса пустой пробирки
@@ -53,7 +48,7 @@ stem:[m_2]:: Масса пробы
 |stem:[PL_2]|1.0119|1.0136|0,0017
 |stem:[PL_3]|1.0168|1.0192|0,0024
 |===
-.{table-details}
+.{details}
 [%collapsible]
 ====
 stem:[m_0]:: Масса пустой пробирки

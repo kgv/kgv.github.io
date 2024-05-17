@@ -1,11 +1,4 @@
 # Анализ stem:[PL] **Lunaria rediviva** методом двумерного TLC на одной пластинке
-:figure-caption: Изображение
-:figures-caption: Изображения
-:nofooter:
-:showtitle:
-:stem: latexmath
-:table-caption: Таблица
-:table-details: Детали таблицы
 :page-categories: [Experiment]
 :page-tags: [laboratory, log, PL, TLC]
 

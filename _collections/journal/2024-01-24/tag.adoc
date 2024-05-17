@@ -1,6 +1,5 @@
 = Омыление TAG
 :nofooter:
-:stem: latexmath
 :table-caption: TAG
 
 .1
