@@ -1,6 +1,6 @@
 = Подготовка данных для расчета
 :page-categories: [Experiment]
-:page-tags: [laboratory, log, PL]
+:page-tags: [Laboratory, Log, PL]
 
 [cols="5*", frame=all, grid=all]
 |===

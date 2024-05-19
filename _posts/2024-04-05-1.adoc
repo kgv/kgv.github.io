@@ -1,6 +1,6 @@
 = Выделение stem:[PL] *Lunaria rediviva* методом SPE на патронах с силикагелем
 :page-categories: [Experiment]
-:page-tags: [laboratory, log, lunaria_rediviva, PL, SPE]
+:page-tags: [Laboratory, Log, LunariaRediviva, PL, SPE]
 
 == xref:../2024-01-23/1.adoc#пробы-tl_1-tl_2-tl_3[🔗] Пробы stem:[TL_1], stem:[TL_2], stem:[TL_3]
 
