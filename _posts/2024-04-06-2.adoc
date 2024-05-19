@@ -1,5 +1,5 @@
 = Подготовка данных для расчета
-:page-categories: [Experiment]
+:page-categories: [Calculation]
 :page-tags: [Laboratory, Log, PL]
 
 [cols="5*", frame=all, grid=all]

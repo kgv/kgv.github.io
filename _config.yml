@@ -74,6 +74,15 @@ exclude:
 - Gemfile.lock
 - Rakefile
 
+# Plugins
+plugins:
+  - jekyll-email-protect
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/scholar
+
+paginate: 5
+
 asciidoc: {}
 asciidoctor:
   base_dir: :docdir

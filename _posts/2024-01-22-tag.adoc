@@ -61,6 +61,6 @@
 |15-Tetracosenoic acid, methyl ester                  |37.351    |4138115.414
 |===
 
-* xref:2024-01-22/Сернокислый МеОН_ТАГ_1.csv[TAG_1.csv]
-* xref:2024-01-22/Сернокислый МеОН_ТАГ_2.csv[TAG_2.csv]
-* xref:2024-01-22/Сернокислый МеОН_ТАГ_3.csv[TAG_3.csv]
+* icon:page-csv[set=fi] xref:/assets/posts/2024-01-22/Сернокислый МеОН_ТАГ_1.csv[TAG_1.csv]
+* icon:page-csv[] xref:/assets/posts/2024-01-22/Сернокислый МеОН_ТАГ_2.csv[TAG_2.csv]
+* icon:page-csv[] xref:/assets/posts/2024-01-22/Сернокислый МеОН_ТАГ_3.csv[TAG_3.csv]

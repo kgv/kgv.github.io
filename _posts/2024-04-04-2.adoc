@@ -11,10 +11,10 @@
 .Масса проб
 [cols="4*", frame=all, grid=all]
 |===
-|ID|stem:[m_0, g]|stem:[m_1, g]|stem:[m_2, g]
-|stem:[TL_1]|0.9803|1.0178|0.0375
-|stem:[TL_2]|1.0014|1.0399|0.0385
-|stem:[TL_3]|1.0107|1.0440|0.0333
+|ID         |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[TL_1]|0.9803              |1.0178              |0.0375
+|stem:[TL_2]|1.0014              |1.0399              |0.0385
+|stem:[TL_3]|1.0107              |1.0440              |0.0333
 |===
 .{details}
 [%collapsible]
@@ -29,10 +29,10 @@ stem:[m_2]:: Масса пробы
 .Масса проб
 [cols="4*", frame=all, grid=all]
 |===
-|ID|stem:[m_0, g]|stem:[m_1, g]|stem:[m_2, g]
-|stem:[PL_1]|0.9853|0.9887|0.0034
-|stem:[PL_2]|1.0053|1.0086|0.0033
-|stem:[PL_3]|1.0081|1.0111|0.0030
+|ID         |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[PL_1]|0.9853              |0.9887              |0.0034
+|stem:[PL_2]|1.0053              |1.0086              |0.0033
+|stem:[PL_3]|1.0081              |1.0111              |0.0030
 |===
 .{details}
 [%collapsible]

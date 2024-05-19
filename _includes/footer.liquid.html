@@ -14,7 +14,7 @@
                             <ul class="uk-margin-remove-bottom uk-subnav uk-flex-left@s uk-flex-center" uk-margin="">
                                 <li class="uk-first-column"><a href="{{ site.url }}" rel="nofollow noopener noreferrer" target="_blank"><span uk-icon="icon: world; ratio: 2"></a></li>
                                 <li><a href="https://github.com/{{ site.author.github }}" rel="nofollow noopener noreferrer" target="_blank"><span uk-icon="icon: github; ratio: 2"></span></a></li>
-                                <li><a href="mailto:{{ site.author.email }}" rel="nofollow noopener noreferrer" target="_blank"><span uk-icon="icon: mail; ratio: 2"></a></li>
+                                <li><a href="mailto:{{ site.author.email | encode_email }}" rel="nofollow noopener noreferrer" target="_blank"><span uk-icon="icon: mail; ratio: 2"></a></li>
                             </ul>
                         </div>
                     </div>

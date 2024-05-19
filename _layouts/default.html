@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    {% include navigation.liquid %}
+    {% include navigation.liquid.html %}
 
     {{ content }}
 
@@ -26,9 +26,11 @@
     <script src="/js/toc.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <!-- MathJax JS -->
-    <script src="/js/math_jax.js"></script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script async id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
+    <script src="/js/math_jax.2.js"></script>
+    <!-- <script src="/js/math_jax.3.js"></script> -->
+    <!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> -->
+    <!-- <script async id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> -->
     <!-- UIkit JS -->
     <script async src="https://cdn.jsdelivr.net/npm/uikit@3.20.10/dist/js/uikit.min.js"></script>
     <script async src="https://cdn.jsdelivr.net/npm/uikit@3.20.10/dist/js/uikit-icons.min.js"></script>

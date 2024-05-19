@@ -9,8 +9,8 @@
 .Масса пробы
 [cols="4*", frame=all, grid=all]
 |===
-|ID|stem:[m_0, g]|stem:[m_1, g]|stem:[m_2, g]
-|stem:[TL_1]|0.9784|1.0181|0.0397
+|ID         |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[TL_1]|0.9784              |1.0181              |0.0397
 |===
 .{details}
 [%collapsible]
@@ -20,13 +20,13 @@ stem:[m_1]:: Масса пробирки с пробой
 stem:[m_2]:: Масса пробы
 ====
 --
-. Внести stem:[[Hexane/Et_2O; 1/1, v/v\]]: 150 stem:[mL]
+. Внести stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): 150 stem:[mL]
 . SPE
-.. Промыть stem:[[Hexane/Et_2O; 1/1, v/v\]]: ~ 5 stem:[mL]
+.. Промыть stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): ~ 5 stem:[mL]
 .. Внести пробу: 150 stem:[\mu L]
-.. Внести stem:[[Hexane/Et_2O; 1/1, v/v\]]: 10 stem:[mL]
+.. Внести stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): 10 stem:[mL]
 .. Отобрать пробы stem:[NL]
-.. Внести stem:[[CHCl_3/MeOH; 1/6, v/v\]]: 10 stem:[mL]
+.. Внести stem:[CHCl_3]/stem:[MeOH] (1/6, stem:[v/v]): 10 stem:[mL]
 .. Отобрать пробы stem:[PL_2]
 
 == Пробы stem:[PL_2]
@@ -40,8 +40,8 @@ NOTE: Колбу промывать тем же, в чем потом будет
 .Масса пробы
 [cols="4*", frame=all, grid=all]
 |===
-|ID|stem:[m_0, g]|stem:[m_1, g]|stem:[m_2, g]
-|stem:[PL_1]|0.9898|0.9981|0.0083
+|ID         |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[PL_1]|0.9898              |0.9981              |0.0083
 |===
 .{details}
 [%collapsible]
@@ -51,10 +51,10 @@ stem:[m_1]:: Масса пробирки с пробой
 stem:[m_2]:: Масса пробы
 ====
 --
-. Внести stem:[[CHCl_3/MeOH; 2/1, v/v\]]: 200 stem:[\mu L]
+. Внести stem:[CHCl_3]/stem:[MeOH] (2/1, stem:[v/v]): 200 stem:[\mu L]
 . TLC (первое измерение)
 Неподвижная фаза:: stem:[Silica~gel~60]: 10x10 stem:[cm]
-Подвижная фаза:: stem:[[CHCl_3/MeOH/H_2O; 30/10/1, v/v/v\]]: 10 stem:[mL]
+Подвижная фаза:: stem:[CHCl_3]/stem:[MeOH]/stem:[H_2O] (30/10/1, stem:[v/v/v]): 10 stem:[mL]
 . Опрыскать stem:[Primuline]
 . Отобрать пробы stem:[A], stem:[B], stem:[C], stem:[D], stem:[E]
 
@@ -70,14 +70,14 @@ stem:[m_2]:: Масса пробы
 
 == Пробы stem:[A], stem:[B], stem:[C], stem:[D], stem:[E]
 
-. Внести stem:[[CHCl_3/MeOH; 2/1, v/v\]]: 1200 stem:[\mu L]
+. Внести stem:[CHCl_3]/stem:[MeOH] (2/1, stem:[v/v]): 1200 stem:[\mu L]
 . Центрифугировать 3 stem:[min], 2300 stem:[g]
 . Отобрать жидкую фазу
 . Упарить досуха в токе stem:[Ar]
-. Внести stem:[[CHCl_3/MeOH; 2/1, v/v\]]: ~ 150 stem:[\mu L]
+. Внести stem:[CHCl_3]/stem:[MeOH] (2/1, stem:[v/v]): ~ 150 stem:[\mu L]
 . TLC (второе измерение)
 Неподвижная фаза:: stem:[Silica~gel~60]: 20x10
-Подвижная фаза:: stem:[[CHCl_3/MeOH/Acetic~acid/H_2O; 80/9/12/2, v/v/v/v\]]: 20 stem:[mL]
+Подвижная фаза:: stem:[CHCl_3]/stem:[MeOH]/stem:[Acetic~acid]/stem:[H_2O] (80/9/12/2, stem:[v/v/v/v]): 20 stem:[mL]
 Проба:: все вместе
 . Опрыскать stem:[Primuline]
 . Отобрать пробы stem:[A_1], stem:[A_2], stem:[B_1], stem:[C_1], stem:[D_1], stem:[D_2], stem:[D_3], stem:[D_4], stem:[D_5]
@@ -94,11 +94,11 @@ stem:[m_2]:: Масса пробы
 
 == Пробы stem:[A_0], stem:[A_1], stem:[A_2], stem:[B_1], stem:[B_2], stem:[C_1], stem:[D_1], stem:[D_2], stem:[D_3], stem:[D_4], stem:[D_5]
 
-. Внести stem:[[H_2SO_4/MeOH; 1\%\]]: 300 stem:[\mu L]
+. Внести stem:[H_2SO_4]/stem:[MeOH] (1%): 300 stem:[\mu L]
 . Греть 30 stem:[min], 55 stem:[^\circ C]
 . Внести stem:[H_2O]: 150 stem:[\mu L]
 +
-NOTE: Половина от stem:[[H_2SO_4/MeOH; 1\%\]]!
+NOTE: Половина от stem:[H_2SO_4]/stem:[MeOH]; (1%)!
 +
 NOTE: Важно вносить stem:[H_2O] до stem:[Heptane]!
 . Внести stem:[Heptane]: 200 stem:[\mu L]

@@ -24,9 +24,3 @@ CAUTION: Advise the reader to act carefully and point to potential tripping
 {% endfor %}
 
 == References
-
-The following links will help with detailed explanations on Jekyll and AsciiDoc.
-
-* https://jekyllrb.com[Jekyll]
-* https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Quick Reference]
-* https://asciidoctor.org[Asciidoctor]

@@ -18,9 +18,8 @@
             {% for post in day.items %}
 ===== link:{{ post.url | relative_url }}[{{ post.title | strip_html }}]
                 {% if post.date %}
-                {% assign date = post.date %}
-                {% assign date_format = site.date_format | default: "%d-%m-%Y" %}
-icon:calendar[] {{ site.data.ui-text[site.locale].date | default: "Date" }}: {{ date | date: date_format }}
+                {% assign date_format = site.date_format | default: "%d.%m.%Y" %}
+icon:calendar[] {{ site.data.ui-text[site.locale].date | default: "Date" }}: {{ post.date | date: date_format }}{% if post.update %} - {{ post.update | date: date_format }}{% endif %}
                 {% endif %}
 
                 {% if post.categories %}
