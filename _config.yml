@@ -40,6 +40,7 @@ defaults:
       type: posts
     values:
       layout: page
+      related: true
   # collections/devices
   - scope:
       path: ""

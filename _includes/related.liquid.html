@@ -1,24 +1,21 @@
-Related!!!
-
 {% if page.id and page.related and site.related_posts.size > 0 %}
-<div class="page__related">
-    <h2 class="page__related-title">{{ related_routes }}</h2>
-    <div class="grid__wrapper">
-        {% for post in site.related_posts limit:4 %}
-        RELATED
-        {% endfor %}
-    </div>
-</div>
-{% elsif page.id and page.related %}
-<div class="page__related">
-    <h2 class="page__related-title">{{ related_routes }}</h2>
-    <div class="grid__wrapper">
-        {% for post in site.posts limit:4 %}
-        {% if post.id == page.id %}
-        {% continue %}
-        {% endif %}
-        RELATED
-        {% endfor %}
+<div class="uk-section uk-section-default">
+    <div class="uk-container uk-container-large">
+        <div class="uk-grid uk-margin-remove-top uk-margin-remove-bottom">
+            <div class="uk-width-1-1@l">
+                <hr>
+            </div>
+        </div>
+        <h2>Related</h2>
+        <div class="uk-grid">
+            <div class="uk-width-1-1@l">
+                <ul id="related">
+                    {% for post in site.related_posts limit:5 %}
+                    <li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
     </div>
 </div>
 {% endif %}
