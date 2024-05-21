@@ -2,9 +2,9 @@
 :page-categories: [Experiment]
 :page-tags: [Laboratory, Log, LunariaRediviva]
 
-== Пробы stem:[Л_1] ... stem:[Л_3], stem:[Т_1] ... stem:[Т_3], stem:[П_1] ... stem:[П_3]
+Пробы stem:[Л_i], stem:[Т_i], stem:[П_i]
 
-.Масса проб лепестков, тычинок и пестиков
+.Масса проб лепестков, тычинок, пестиков
 [cols="7*", frame=all, grid=all]
 |===
 |ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]|stem:[m_3], stem:[g]|stem:[m_4], stem:[g]|stem:[DW], stem:[\%]
