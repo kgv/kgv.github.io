@@ -32,27 +32,24 @@
 == SMILES
 
 .Di
-[cols="4*", frame=all, grid=all]
+[cols="3*", frame=all, grid=all]
 |===
-|ID                     |SMILES
-|stem:[\Delta09,12-14:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-
-|stem:[\Delta06,09-16:2]|CCCCCC\C=C/C\C=C/CCCCC(=O)O
-|stem:[\Delta08,10-16:2]|CCCCCC/C=C\C=C/CCCCCCC(=O)O
-|stem:[\Delta09,12-16:2]|CCCCCC\C=C/C\C=C/CCCCC(=O)O
-|stem:[\Delta09,13-16:2]|CCCCCC\C=C/C\C=C/CCCCC(=O)O
-|stem:[\Delta09,14-16:2]|CCCCCC\C=C/C\C=C/CCCCC(=O)O
-
-|stem:[\Delta09,12-17:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-
-|stem:[\Delta08,09-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-|stem:[\Delta09,10-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-|stem:[\Delta09,12-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-|stem:[\Delta09,13-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-|stem:[\Delta09,14-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-|stem:[\Delta09,15-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-|stem:[\Delta09,17-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
-|stem:[\Delta14,17-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|ID                     |SMILES                      |SVG
+|stem:[\Delta9,12-14:2] |C/C=C\C/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta6,9-16:2]  |CCCCCC/C=C\C/C=C\CCCCC(=O)O |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta8,10-16:2] |CCCCC/C=C\C=C/CCCCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,12-16:2] |CCC/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,13-16:2] |CC/C=C\CC/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,14-16:2] |C/C=C\CCC/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,12-17:2] |CCCC/C=C\C/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta8,9-18:2]  |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,10-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,12-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,13-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,14-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,15-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta9,17-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|stem:[\Delta14,17-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
 |===
 
 .Tri
