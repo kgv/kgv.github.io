@@ -34,32 +34,33 @@
 .Di
 [cols="3*", frame=all, grid=all]
 |===
-|ID                     |SMILES                      |SVG
-|stem:[\Delta9,12-14:2] |C/C=C\C/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta6,9-16:2]  |CCCCCC/C=C\C/C=C\CCCCC(=O)O |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta8,10-16:2] |CCCCC/C=C\C=C/CCCCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,12-16:2] |CCC/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,13-16:2] |CC/C=C\CC/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,14-16:2] |C/C=C\CCC/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,12-17:2] |CCCC/C=C\C/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta8,9-18:2]  |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,10-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,12-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,13-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,14-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,15-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta9,17-18:2] |C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
-|stem:[\Delta14,17-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|ID                                               |SMILES                                                     |SVG
+|{set:cellbgcolor:#FF8080} stem:[\Delta9,12-14:2] |{set:cellbgcolor:transparent} C/C=C\C/C=C\CCCCCCCC(=O)O    |image:/assets/posts/2024-05-22/Δ9,12-14:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta6,9-16:2]  |{set:cellbgcolor:transparent} CCCCCC/C=C\C/C=C\CCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ6,9-16:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta8,10-16:2] |{set:cellbgcolor:transparent} CCCCC/C=C\C=C/CCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ8,10-16:2.svg[]
+|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-16:2] |{set:cellbgcolor:transparent} CCC/C=C\C/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ9,12-16:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta9,13-16:2] |{set:cellbgcolor:transparent} CC/C=C\CC/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ9,13-16:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta9,14-16:2] |{set:cellbgcolor:transparent} C/C=C\CCC/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ9,14-16:2.svg[]
+|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-17:2] |{set:cellbgcolor:transparent} CCCC/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ9,12-17:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta8,9-18:2]  |{set:cellbgcolor:transparent} CCCCCCCC/C=C=C\CCCCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ8,9-18:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta9,10-18:2] |{set:cellbgcolor:transparent} CCCCCCC/C=C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ9,10-18:2.svg[]
+|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-18:2] |{set:cellbgcolor:transparent} CCCCC\C=C/C\C=C/CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,12-18:2.svg[]
+|                                                 |                                                           |
+|{set:cellbgcolor:#80FF80} stem:[\Delta9,13-18:2] |{set:cellbgcolor:transparent} CCCC\C=C/CC\C=C/CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,13-18:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta9,14-18:2] |{set:cellbgcolor:transparent} CCC\C=C/CCC\C=C/CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,14-18:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta9,15-18:2] |{set:cellbgcolor:transparent} CC\C=C/CCCC\C=C/CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,15-18:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta9,17-18:2] |{set:cellbgcolor:transparent} C=C/CCCCCC\C=C/CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ9,17-18:2.svg[]
+|{set:cellbgcolor:#FF8080} stem:[\Delta14,17-18:2]|{set:cellbgcolor:transparent} C=C/C\C=C/CCCCCCCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ14,17-18:2.svg[]
 |===
 
 .Tri
-[cols="2*", frame=all, grid=all]
+[cols="3*", frame=all, grid=all]
 |===
-|ID                    |SMILES
-|stem:[\Delta9,12-16:2]|stem:[\Delta9,12,15-16:3]
-|stem:[\Delta9,12-17:2]|stem:[\Delta9,12,15-17:3]
-|stem:[\Delta9,12-18:2]|stem:[\Delta9,12,15-18:3]
-|stem:[\Delta9,13-18:2]|stem:[\Delta9,13,16-18:3]
+|ID                       |SMILES                          |SVG
+|stem:[\Delta9,12,15-16:3]|C=C\C/C=C\C/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ9,12,15-16:3.svg[]
+|stem:[\Delta9,12,15-17:3]|C/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ9,12,15-17:3.svg[]
+|stem:[\Delta9,12,15-18:3]|CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,12,15-18:3.svg[]
+|stem:[\Delta9,13,16-18:3]|C/C=C\C/C=C\CC/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,13,16-18:3.svg[]
 |===
 
 == Теоретический расчет
