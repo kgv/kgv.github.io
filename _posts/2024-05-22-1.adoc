@@ -1,0 +1,82 @@
+= Нахождение общих геометрических параметров для ряда изомеров
+:page-categories: [Experiment]
+:stem: latexmath
+
+.|stem:[A^-B^-]|Mono|Di|Tri
+[cols="4*", frame=all, grid=all]
+|===
+   |stem:[A^-B^-]    |Mono                    |Di                        |Tri
+   |stem:[14:0]      |stem:[\Delta9-14:1]     |stem:[\Delta9,12-14:2]    |-
+   |stem:[15:0]      |stem:[\Delta9-15:1]     |-                         |-
+.8+|stem:[16:0]      |stem:[\Delta6-16:1]     |stem:[\Delta6,9-16:2]     |-
+                     |stem:[\Delta8-16:1]     |stem:[\Delta8,10-16:2]    |-
+                  .3+|stem:[\Delta9-16:1]     |stem:[\Delta9,13-16:2]    |-
+                                              |stem:[\Delta9,12-16:2] .2+|stem:[\Delta9,12,15-16:3]
+                                              |stem:[\Delta9,14-16:2]
+                     |stem:[\Delta10-16:1]    |-                         |-
+                     |stem:[\Delta11-16:1]    |-                         |-
+                     |stem:[\Delta14-16:1]    |?                         |-
+.2+|stem:[17:0]      |stem:[\Delta9-17:1]     |stem:[\Delta9,12-17:2]    |stem:[\Delta9,12,15-17:3]
+                     |stem:[\Delta10-17:1]    |-                         |-
+.9+|stem:[18:0]   .8+|stem:[\Delta9-18:1]     |stem:[\Delta8,9-18:2]     |-
+                                              |stem:[\Delta9,10-18:2]    |-
+                                              |stem:[\Delta9,12-18:2]    |stem:[\Delta9,12,15-18:3]
+                                              |stem:[\Delta9,13-18:2]    |stem:[\Delta9,13,16-18:3]
+                                              |stem:[\Delta9,14-18:2]    |-
+                                              |stem:[\Delta9,15-18:2]    |-
+                                              |stem:[\Delta9,17-18:2]    |-
+                                              |stem:[\Delta14,17-18:2]   |-
+                     |stem:[\Delta11-18:1]    |-                         |-
+|===
+
+== SMILES
+
+.Di
+[cols="4*", frame=all, grid=all]
+|===
+|ID                     |SMILES
+|stem:[\Delta09,12-14:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+
+|stem:[\Delta06,09-16:2]|CCCCCC\C=C/C\C=C/CCCCC(=O)O
+|stem:[\Delta08,10-16:2]|CCCCCC/C=C\C=C/CCCCCCC(=O)O
+|stem:[\Delta09,12-16:2]|CCCCCC\C=C/C\C=C/CCCCC(=O)O
+|stem:[\Delta09,13-16:2]|CCCCCC\C=C/C\C=C/CCCCC(=O)O
+|stem:[\Delta09,14-16:2]|CCCCCC\C=C/C\C=C/CCCCC(=O)O
+
+|stem:[\Delta09,12-17:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+
+|stem:[\Delta08,09-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|stem:[\Delta09,10-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|stem:[\Delta09,12-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|stem:[\Delta09,13-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|stem:[\Delta09,14-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|stem:[\Delta09,15-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|stem:[\Delta09,17-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|stem:[\Delta14,17-18:2]|C\C=C/C\C=C/CCCCCCCC(=O)O
+|===
+
+.Tri
+[cols="2*", frame=all, grid=all]
+|===
+|ID                    |SMILES
+|stem:[\Delta9,12-16:2]|stem:[\Delta9,12,15-16:3]
+|stem:[\Delta9,12-17:2]|stem:[\Delta9,12,15-17:3]
+|stem:[\Delta9,12-18:2]|stem:[\Delta9,12,15-18:3]
+|stem:[\Delta9,13-18:2]|stem:[\Delta9,13,16-18:3]
+|===
+
+== Теоретический расчет
+
+* B3LYP-D3
+* B97-D3
+* B3PW91
+* @B97XD
+* PBE1PBE
+* B3PW91-D3
+* M06-2X
+* PBE1PBE-D3
+* MP2
+
+== Links
+
+* https://nplus1.ru/news/2017/10/23/longest-cc-bond[Химики растянули связь между атомами углерода на рекордное расстояние]
