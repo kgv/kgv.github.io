@@ -18,8 +18,28 @@ ifndef::env-github[:toc:]
 obabel -i smi ~/input.smi -o xyz -O ~/out --gen3d --energy=mmff94 -d
 obabel -i smi ~/input.smi -o report -O ~/out.report -d --energy=mmff94 --gen3d --canonical --conformer --nconf 50 --score energy
 
-obabel -:"C/C=C\C/C=C\CCCCCCCC(=O)O" -i smi -o report -O ~/out.report -d --energy=mmff94 --gen3d --canonical --conformer --nconf 50 --score energy
+obabel -:"C=C/C\C=C/CCCCCCCCCCCCC(=O)O" -i smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
 
 -d:: Delete all hydrogens
+--energy <options>:: Forcefield energy evaluation.
+--minimize <options>:: Forcefield energy minimization.
+
+The command line option --conformer allows performing conformer searches using a range of different algorithms and options:
+
+--nconf #:: number of conformers to generate
+
+Forcefield-based methods for finding stable conformers:
+
+--systematic:: systematically (exhaustively) generate all conformers
+--random:: randomly generate conformers
+--weighted:: weighted rotor search for lowest energy conformer
+--ff <name>:: select a forcefield (default = MMFF94)
+
+Genetic algorithm based methods (default):
+
+--children #:: number of children to generate for each parent (default = 5)
+--mutability #:: mutation frequency (default = 5)
+--converge #:: number of identical generations before convergence is reached
+--score #:: scoring function [rmsd|energy] (default = rmsd (root mean square deviation))
 
 https://hjkgrp.mit.edu/tutorials/2013-10-29-geometries-strings-smiles-and-openbabel[conformer]

@@ -39,21 +39,21 @@
 [cols="3*"]
 |===
 |ID                                              |SMILES                                                     |SVG
-|stem:[\Delta9,12-14:2]                          |C/C=C\C/C=C\CCCCCCCC(=O)O                                  |image:/assets/posts/2024-05-22/Δ9,12-14꞉2.svg[]
-|stem:[\Delta6,9-16:2]                           |CCCCCC/C=C\C/C=C\CCCCC(=O)O                                |image:/assets/posts/2024-05-22/Δ6,9-16꞉2.svg[]
-|stem:[\Delta8,10-16:2]                          |CCCCC/C=C\C=C/CCCCCCC(=O)O                                 |image:/assets/posts/2024-05-22/Δ8,10-16꞉2.svg[]
-|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-16:2] {set:cellbgcolor:transparent}|CCC/C=C\C/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/Δ9,12-16꞉2.svg[]
-|stem:[\Delta9,13-16:2]                          |CC/C=C\CC/C=C\CCCCCCCC(=O)O                                |image:/assets/posts/2024-05-22/Δ9,13-16꞉2.svg[]
-|stem:[\Delta9,14-16:2]                          |C/C=C\CCC/C=C\CCCCCCCC(=O)O                                |image:/assets/posts/2024-05-22/Δ9,14-16꞉2.svg[]
-|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-17:2] {set:cellbgcolor:transparent}|CCCC/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ9,12-17꞉2.svg[]
-|stem:[\Delta8,9-18:2]                           |CCCCCCCC/C=C=C\CCCCCCC(=O)O                                |image:/assets/posts/2024-05-22/Δ8,9-18꞉2.svg[]
-|stem:[\Delta9,10-18:2]                          |CCCCCCC/C=C=C\CCCCCCCC(=O)O                                |image:/assets/posts/2024-05-22/Δ9,10-18꞉2.svg[]
-|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-18:2] {set:cellbgcolor:transparent}|CCCCC\C=C/C\C=C/CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,12-18꞉2.svg[]
-|{set:cellbgcolor:#80FF80} stem:[\Delta9,13-18:2] {set:cellbgcolor:transparent}|CCCC\C=C/CC\C=C/CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,13-18꞉2.svg[]
-|stem:[\Delta9,14-18:2]                          |CCC\C=C/CCC\C=C/CCCCCCCC(=O)O                              |image:/assets/posts/2024-05-22/Δ9,14-18꞉2.svg[]
-|stem:[\Delta9,15-18:2]                          |CC\C=C/CCCC\C=C/CCCCCCCC(=O)O                              |image:/assets/posts/2024-05-22/Δ9,15-18꞉2.svg[]
-|stem:[\Delta9,17-18:2]                          |C=C/CCCCCC\C=C/CCCCCCCC(=O)O                               |image:/assets/posts/2024-05-22/Δ9,17-18꞉2.svg[]
-|stem:[\Delta14,17-18:2]                         |C=C/C\C=C/CCCCCCCCCCCCC(=O)O                               |image:/assets/posts/2024-05-22/Δ14,17-18꞉2.svg[]
+|stem:[\Delta9,12-14:2]                          |C/C=C\C/C=C\CCCCCCCC(=O)O                                  |image:/assets/posts/2024-05-22/2꞉14-Δ9,12.svg[]
+|stem:[\Delta6,9-16:2]                           |CCCCCC/C=C\C/C=C\CCCCC(=O)O                                |image:/assets/posts/2024-05-22/2꞉16-Δ6,9.svg[]
+|stem:[\Delta8,10-16:2]                          |CCCCC/C=C\C=C/CCCCCCC(=O)O                                 |image:/assets/posts/2024-05-22/2꞉16-Δ8,10.svg[]
+|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-16:2]|{set:cellbgcolor:transparent} CCC/C=C\C/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/2꞉16-Δ9,12.svg[]
+|stem:[\Delta9,13-16:2]                          |CC/C=C\CC/C=C\CCCCCCCC(=O)O                                |image:/assets/posts/2024-05-22/2꞉16-Δ9,13.svg[]
+|stem:[\Delta9,14-16:2]                          |C/C=C\CCC/C=C\CCCCCCCC(=O)O                                |image:/assets/posts/2024-05-22/2꞉16-Δ9,14.svg[]
+|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-17:2]|{set:cellbgcolor:transparent} CCCC/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/2꞉17-Δ9,12.svg[]
+|stem:[\Delta8,9-18:2]                           |CCCCCCCC/C=C=C\CCCCCCC(=O)O                                |image:/assets/posts/2024-05-22/2꞉18-Δ8,9.svg[]
+|stem:[\Delta9,10-18:2]                          |CCCCCCC/C=C=C\CCCCCCCC(=O)O                                |image:/assets/posts/2024-05-22/2꞉18-Δ9,10.svg[]
+|{set:cellbgcolor:#80FF80} stem:[\Delta9,12-18:2]|{set:cellbgcolor:transparent} CCCCC\C=C/C\C=C/CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/2꞉18-Δ9,12.svg[]
+|{set:cellbgcolor:#80FF80} stem:[\Delta9,13-18:2]|{set:cellbgcolor:transparent} CCCC\C=C/CC\C=C/CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/2꞉18-Δ9,13.svg[]
+|stem:[\Delta9,14-18:2]                          |CCC\C=C/CCC\C=C/CCCCCCCC(=O)O                              |image:/assets/posts/2024-05-22/2꞉18-Δ9,14.svg[]
+|stem:[\Delta9,15-18:2]                          |CC\C=C/CCCC\C=C/CCCCCCCC(=O)O                              |image:/assets/posts/2024-05-22/2꞉18-Δ9,15.svg[]
+|stem:[\Delta9,17-18:2]                          |C=C/CCCCCC\C=C/CCCCCCCC(=O)O                               |image:/assets/posts/2024-05-22/2꞉18-Δ9,17.svg[]
+|stem:[\Delta14,17-18:2]                         |C=C/C\C=C/CCCCCCCCCCCCC(=O)O                               |image:/assets/posts/2024-05-22/2꞉18-Δ14,17.svg[]
 |===
 ====
 
@@ -66,10 +66,10 @@
 [cols="3*"]
 |===
 |ID                       |SMILES                          |SVG
-|stem:[\Delta9,12,15-16:3]|C=C\C/C=C\C/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/Δ9,12,15-16꞉3.svg[]
-|stem:[\Delta9,12,15-17:3]|C/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/Δ9,12,15-17꞉3.svg[]
-|stem:[\Delta9,12,15-18:3]|CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,12,15-18꞉3.svg[]
-|stem:[\Delta9,13,16-18:3]|C/C=C\C/C=C\CC/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/Δ9,13,16-18꞉3.svg[]
+|stem:[\Delta9,12,15-16:3]|C=C\C/C=C\C/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/3꞉16-Δ9,12,15.svg[]
+|stem:[\Delta9,12,15-17:3]|C/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/3꞉17-Δ9,12,15.svg[]
+|stem:[\Delta9,12,15-18:3]|CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/3꞉18-Δ9,12,15.svg[]
+|stem:[\Delta9,13,16-18:3]|C/C=C\C/C=C\CC/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/3꞉18-Δ9,13,16.svg[]
 |===
 ====
 
@@ -81,10 +81,10 @@
 [cols="3*"]
 |===
 |ID                    |FROM                                           |TO
-|stem:[\Delta9,12-16:2]|image:/assets/posts/2024-05-22/Δ9,12-16꞉2.svg[]|image:/assets/posts/2024-05-22/Δ9,12,15-16꞉3.svg[]
-|stem:[\Delta9,12-17:2]|image:/assets/posts/2024-05-22/Δ9,12-17꞉2.svg[]|image:/assets/posts/2024-05-22/Δ9,12,15-17꞉3.svg[]
-|stem:[\Delta9,12-18:2]|image:/assets/posts/2024-05-22/Δ9,12-18꞉2.svg[]|image:/assets/posts/2024-05-22/Δ9,12,15-18꞉3.svg[]
-|stem:[\Delta9,13-18:2]|image:/assets/posts/2024-05-22/Δ9,13-18꞉2.svg[]|image:/assets/posts/2024-05-22/Δ9,13,16-18꞉3.svg[]
+|stem:[\Delta9,12-16:2]|image:/assets/posts/2024-05-22/2꞉16-Δ9,12.svg[]|image:/assets/posts/2024-05-22/3꞉16-Δ9,12,15.svg[]
+|stem:[\Delta9,12-17:2]|image:/assets/posts/2024-05-22/2꞉17-Δ9,12.svg[]|image:/assets/posts/2024-05-22/3꞉17-Δ9,12,15.svg[]
+|stem:[\Delta9,12-18:2]|image:/assets/posts/2024-05-22/2꞉18-Δ9,12.svg[]|image:/assets/posts/2024-05-22/3꞉18-Δ9,12,15.svg[]
+|stem:[\Delta9,13-18:2]|image:/assets/posts/2024-05-22/2꞉18-Δ9,13.svg[]|image:/assets/posts/2024-05-22/3꞉18-Δ9,13,16.svg[]
 |===
 ====
 
@@ -162,19 +162,117 @@
 [%autowidth]
 [cols="2*"]
 |===
-|1-2-3-4    |1.136
-|2-3-4-5    |-122.587
-|3-4-5-6    |-94.733
-|4-5-6-7    |5.827
-|5-6-7-8    |-90.801
-|6-7-8-9    |175.233
-|7-8-9-10   |60.429
-|8-9-10-11  |179.767
-|9-10-11-12 |178.972
-|10-11-12-13|-179.388
-|11-12-13-14|-179.444
-|12-13-14-15|-0.558
-|12-13-14-16|179.814
+|1-2-3-4    |-0.081
+|2-3-4-5    |118.569
+|3-4-5-6    |94.671
+|4-5-6-7    |-0.751
+|5-6-7-8    |-178.107
+|6-7-8-9    |-179.739
+|7-8-9-10   |61.510
+|8-9-10-11  |178.315
+|9-10-11-12 |178.859
+|10-11-12-13|179.932
+|11-12-13-14|178.896
+|12-13-14-15|-27.312
+|12-13-14-16|154.883
+|===
+====
+
+=== stem:[\Delta6,9-16:2] (stem:[\omega7,10-16:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |-179.871
+|2-3-4-5    |178.983
+|3-4-5-6    |-179.296
+|4-5-6-7    |-178.200
+|5-6-7-8    |91.097
+|6-7-8-9    |0.365
+|7-8-9-10   |123.757
+|8-9-10-11  |123.637
+|9-10-11-12 |0.496
+|10-11-12-13|90.341
+|11-12-13-14|-178.043
+|12-13-14-15|179.997
+|13-14-15-16|177.515
+|14-15-16-17|3.574
+|14-15-16-18|-176.833
+|===
+====
+
+=== stem:[\Delta8,10-16:2] (stem:[\omega6,8-16:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |179.717
+|2-3-4-5    |178.955
+|3-4-5-6    |-179.844
+|4-5-6-7    |91.008
+|5-6-7-8    |4.687
+|6-7-8-9    |-150.309
+|7-8-9-10   |6.872
+|8-9-10-11  |147.394
+|9-10-11-12 |-179.268
+|10-11-12-13|-178.627
+|11-12-13-14|179.676
+|12-13-14-15|179.284
+|13-14-15-16|178.561
+|14-15-16-17|-25.788
+|14-15-16-18|156.289
 |===
 ====
 
@@ -209,7 +307,119 @@
 [%autowidth]
 [cols="2*"]
 |===
-|1-2-3-4 |0.0
+|1-2-3-4    |-179.238
+|2-3-4-5    |90.583
+|3-4-5-6    |-0.334
+|4-5-6-7    |120.558
+|5-6-7-8    |152.373
+|6-7-8-9    |2.117
+|7-8-9-10   |-178.251
+|8-9-10-11  |-178.438
+|9-10-11-12 |-179.970
+|10-11-12-13|-179.954
+|11-12-13-14|-179.959
+|12-13-14-15|179.416
+|13-14-15-16|178.238
+|14-15-16-17|3.927
+|14-15-16-18|-176.388
+|===
+====
+
+=== stem:[\Delta9,13-16:2] (stem:[\omega3,7-16:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |122.348
+|2-3-4-5    |-2.412
+|3-4-5-6    |-172.482
+|4-5-6-7    |63.686
+|5-6-7-8    |122.624
+|6-7-8-9    |5.317
+|7-8-9-10   |151.397
+|8-9-10-11  |-178.229
+|9-10-11-12 |-179.349
+|10-11-12-13|179.886
+|11-12-13-14|-179.981
+|12-13-14-15|179.498
+|13-14-15-16|177.831
+|14-15-16-17|3.662
+|14-15-16-18|-176.827
+|===
+====
+
+=== stem:[\Delta9,14-16:2] (stem:[\omega2,7-16:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |0.238
+|2-3-4-5    |120.318
+|3-4-5-6    |-177.456
+|4-5-6-7    |61.436
+|5-6-7-8    |91.580
+|6-7-8-9    |4.251
+|7-8-9-10   |122.634
+|8-9-10-11  |-177.278
+|9-10-11-12 |-179.513
+|10-11-12-13|179.820
+|11-12-13-14|179.882
+|12-13-14-15|179.092
+|13-14-15-16|178.688
+|14-15-16-17|-26.555
+|14-15-16-18|155.580
 |===
 ====
 
@@ -244,7 +454,124 @@
 [%autowidth]
 [cols="2*"]
 |===
-|1-2-3-4 |0.0
+|1-2-3-4    |178.685
+|2-3-4-5    |60.563
+|3-4-5-6    |88.219
+|4-5-6-7    |-0.251
+|5-6-7-8    |124.453
+|6-7-8-9    |127.823
+|7-8-9-10   |2.541
+|8-9-10-11  |64.875
+|9-10-11-12 |56.638
+|10-11-12-13|-174.853
+|11-12-13-14|-179.100
+|12-13-14-15|178.807
+|13-14-15-16|-179.658
+|14-15-16-17|178.404
+|15-16-17-18|-24.123
+|15-16-17-19|157.777
+|===
+====
+
+=== stem:[\Delta8,9-18:2] (stem:[\omega9,10-18:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |-179.925
+|2-3-4-5    |179.689
+|3-4-5-6    |-179.833
+|4-5-6-7    |179.664
+|5-6-7-8    |179.798
+|6-7-8-9    |-178.260
+|7-8-9-10   |91.172
+|8-9-10-11  |36.981
+|9-10-11-12 |40.428
+|10-11-12-13|91.867
+|11-12-13-14|-178.559
+|12-13-14-15|179.815
+|13-14-15-16|179.491
+|14-15-16-17|179.452
+|15-16-17-18|178.072
+|16-17-18-19|3.770
+|16-17-18-20|-176.425
+|===
+====
+
+=== stem:[\Delta9,10-18:2] (stem:[\omega8,9-18:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |-179.847
+|2-3-4-5    |179.646
+|3-4-5-6    |179.343
+|4-5-6-7    |179.536
+|5-6-7-8    |61.704
+|6-7-8-9    |-119.262
+|7-8-9-10   |-96.117
+|8-9-10-11  |-49.629
+|9-10-11-12 |89.324
+|10-11-12-13|-179.480
+|11-12-13-14|179.670
+|12-13-14-15|179.890
+|13-14-15-16|179.995
+|14-15-16-17|179.368
+|15-16-17-18|178.227
+|16-17-18-19|3.456
+|16-17-18-20|-176.590
 |===
 ====
 
@@ -279,7 +606,23 @@
 [%autowidth]
 [cols="2*"]
 |===
-|1-2-3-4 |0.0
+|1-2-3-4    |179.102
+|2-3-4-5    |-178.910
+|3-4-5-6    |-179.030
+|4-5-6-7    |90.609
+|5-6-7-8    |-1.429
+|6-7-8-9    |124.939
+|7-8-9-10   |128.365
+|8-9-10-11  |2.559
+|9-10-11-12 |64.847
+|10-11-12-13|57.008
+|11-12-13-14|-174.839
+|12-13-14-15|-178.777
+|13-14-15-16|178.817
+|14-15-16-17|-179.832
+|15-16-17-18|178.400
+|16-17-18-19|-24.962
+|16-17-18-20|156.942
 |===
 ====
 
@@ -314,7 +657,227 @@
 [%autowidth]
 [cols="2*"]
 |===
-|1-2-3-4 |0.0
+|1-2-3-4    |-179.862
+|2-3-4-5    |179.545
+|3-4-5-6    |91.263
+|4-5-6-7    |5.492
+|5-6-7-8    |120.173
+|6-7-8-9    |62.636
+|7-8-9-10   |119.011
+|8-9-10-11  |9.179
+|9-10-11-12 |150.222
+|10-11-12-13|-177.879
+|11-12-13-14|-179.588
+|12-13-14-15|179.732
+|13-14-15-16|-179.917
+|14-15-16-17|179.208
+|15-16-17-18|178.335
+|16-17-18-19|-27.612
+|16-17-18-20|154.468
+|===
+====
+
+=== stem:[\Delta9,14-18:2] (stem:[\omega4,9-18:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |179.768
+|2-3-4-5    |-113.224
+|3-4-5-6    |2.681
+|4-5-6-7    |122.358
+|5-6-7-8    |60.940
+|6-7-8-9    |60.620
+|7-8-9-10   |124.355
+|8-9-10-11  |5.526
+|9-10-11-12 |121.904
+|10-11-12-13|-176.042
+|11-12-13-14|-178.926
+|12-13-14-15|179.283
+|13-14-15-16|-179.751
+|14-15-16-17|178.829
+|15-16-17-18|178.854
+|16-17-18-19|-25.602
+|16-17-18-20|156.188
+|===
+====
+
+=== stem:[\Delta9,15-18:2] (stem:[\omega3,9-18:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |122.585
+|2-3-4-5    |-0.697
+|3-4-5-6    |-173.419
+|4-5-6-7    |60.049
+|5-6-7-8    |62.343
+|6-7-8-9    |-175.704
+|7-8-9-10   |94.471
+|8-9-10-11  |1.446
+|9-10-11-12 |123.632
+|10-11-12-13|-177.018
+|11-12-13-14|-179.234
+|12-13-14-15|179.759
+|13-14-15-16|179.956
+|14-15-16-17|179.203
+|15-16-17-18|178.722
+|16-17-18-19|-25.138
+|16-17-18-20|156.832
+|===
+====
+
+=== stem:[\Delta9,17-18:2] (stem:[\omega1,9-18:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |119.787
+|2-3-4-5    |179.881
+|3-4-5-6    |-179.600
+|4-5-6-7    |179.625
+|5-6-7-8    |179.593
+|6-7-8-9    |-178.193
+|7-8-9-10   |97.773
+|8-9-10-11  |0.721
+|9-10-11-12 |97.582
+|10-11-12-13|-178.099
+|11-12-13-14|179.657
+|12-13-14-15|179.561
+|13-14-15-16|-179.974
+|14-15-16-17|178.801
+|15-16-17-18|178.872
+|16-17-18-19|-25.262
+|16-17-18-20|156.806
+|===
+====
+
+=== stem:[\Delta14,17-18:2] (stem:[\omega1,4-18:2])
+
+.Interatomic distances
+[%collapsible]
+====
+.Interatomic distances
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Atomic charges
+[%collapsible]
+====
+.Atomic charges
+[%autowidth]
+[cols="2*"]
+|===
+|stem:[C_1] |0.0
+|===
+====
+
+.Torsion angles
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
+[cols="2*"]
+|===
+|1-2-3-4    |118.998
+|2-3-4-5    |121.215
+|3-4-5-6    |1.928
+|4-5-6-7    |179.924
+|5-6-7-8    |-179.837
+|6-7-8-9    |61.663
+|7-8-9-10   |179.518
+|8-9-10-11  |61.117
+|9-10-11-12 |179.733
+|10-11-12-13|178.683
+|11-12-13-14|-179.465
+|12-13-14-15|-179.744
+|13-14-15-16|179.728
+|14-15-16-17|179.470
+|15-16-17-18|178.001
+|16-17-18-19|-26.620
+|16-17-18-20|155.490
 |===
 ====
 
