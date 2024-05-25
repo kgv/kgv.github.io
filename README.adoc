@@ -18,7 +18,15 @@ ifndef::env-github[:toc:]
 obabel -i smi ~/input.smi -o xyz -O ~/out --gen3d --energy=mmff94 -d
 obabel -i smi ~/input.smi -o report -O ~/out.report -d --energy=mmff94 --gen3d --canonical --conformer --nconf 50 --score energy
 
-obabel -:"CCC/C=C\CCC/C=C\CCCCCCCC(=O)O" -i smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
+obabel -:"CCCCCCCC/C=C=C\CCCCCCC(=O)O" -i smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
+
+obabel -i smi ~/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
+
+obabel -i smi ~/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --gen3d --canonical --conformer --systematic
+
+obabel -i smi ~/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --gen3d --canonical --conformer --nconf 255 --weighted
+
+obabel -i smi ~/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --gen3d --canonical --minimize=mmff94 --energy=mmff94
 
 -d:: Delete all hydrogens
 --energy <options>:: Forcefield energy evaluation.
