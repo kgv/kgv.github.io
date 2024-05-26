@@ -20,13 +20,15 @@ obabel -i smi ~/input.smi -o report -O ~/out.report -d --energy=mmff94 --gen3d -
 
 obabel -:"CCCCCCCC/C=C=C\CCCCCCC(=O)O" -i smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
 
-obabel -i smi ~/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
+obabel -i smi ~/git/kgv/kgv.github.io/assets/posts/input/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
 
 obabel -i smi ~/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --gen3d --canonical --conformer --systematic
 
 obabel -i smi ~/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --gen3d --canonical --conformer --nconf 255 --weighted
 
-obabel -i smi ~/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --gen3d --canonical --minimize=mmff94 --energy=mmff94
+obabel -i smi ~/git/kgv/kgv.github.io/assets/posts/input/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/output/out.report -d -m --gen3d best --canonical --minimize=mmff94 --energy=mmff94
+
+obabel -i smi ~/git/kgv/kgv.github.io/assets/posts/input/input.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/0out.report -d --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
 
 -d:: Delete all hydrogens
 --energy <options>:: Forcefield energy evaluation.
