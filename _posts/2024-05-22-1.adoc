@@ -37,29 +37,29 @@
 ====
 .Di
 [%autowidth]
-[cols="4*"]
+[cols="3*"]
 |===
-|Delta                                               |Omega                                              |SMILES                                                      |SVG
-|stem:[\Delta9,12-14:2]{set:cellbgcolor:transparent} |stem:[\omega2,5-14:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}C/C=C\C/C=C\CCCCCCCC(=O)O      |image:/assets/posts/2024-05-22/2꞉14-Δ9,12ω2,5.svg[]
-|stem:[\Delta6,9-16:2]{set:cellbgcolor:transparent}  |stem:[\omega7,10-16:2]{set:cellbgcolor:transparent}|{set:cellbgcolor:transparent}CCCCCC/C=C\C/C=C\CCCCC(=O)O    |image:/assets/posts/2024-05-22/2꞉16-Δ6,9ω7,10.svg[]
-|stem:[\Delta7,10-16:2]{set:cellbgcolor:gray}        |stem:[\omega6,9-16:2]{set:cellbgcolor:gray}        |{set:cellbgcolor:transparent}CCCCC/C=C\C/C=C\CCCCCC(=O)O    |image:/assets/posts/2024-05-22/2꞉16-Δ7,10ω6,9.svg[]
-|stem:[\Delta8,10-16:2]{set:cellbgcolor:transparent} |stem:[\omega6,8-16:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}CCCCC/C=C\C=C/CCCCCCC(=O)O     |image:/assets/posts/2024-05-22/2꞉16-Δ8,10ω6,8.svg[]
-|stem:[\Delta9,12-16:2]{set:cellbgcolor:#80FF80}     |stem:[\omega4,7-16:2]{set:cellbgcolor:#80FF80}     |{set:cellbgcolor:transparent}CCC/C=C\C/C=C\CCCCCCCC(=O)O    |image:/assets/posts/2024-05-22/2꞉16-Δ9,12ω4,7.svg[]
-|stem:[\Delta9,13-16:2]{set:cellbgcolor:transparent} |stem:[\omega3,7-16:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}CC/C=C\CC/C=C\CCCCCCCC(=O)O    |image:/assets/posts/2024-05-22/2꞉16-Δ9,13ω3,7.svg[]
-|stem:[\Delta9,14-16:2]{set:cellbgcolor:transparent} |stem:[\omega2,7-16:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}C/C=C\CCC/C=C\CCCCCCCC(=O)O    |image:/assets/posts/2024-05-22/2꞉16-Δ9,14ω2,7.svg[]
-|stem:[\Delta9,12-17:2]{set:cellbgcolor:#80FF80}     |stem:[\omega5,8-17:2]{set:cellbgcolor:#80FF80}     |{set:cellbgcolor:transparent}CCCC/C=C\C/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/2꞉17-Δ9,12ω5,8.svg[]
-|stem:[\Delta5,9-18:2]{set:cellbgcolor:gray}         |stem:[\omega9,13-18:2]{set:cellbgcolor:gray}       |{set:cellbgcolor:transparent}CCCCCCCC/C=C\CC/C=C\CCCC(=O)O  |image:/assets/posts/2024-05-22/2꞉18-Δ5,9ω9,13.svg[]
-|stem:[\Delta8,9-18:2]{set:cellbgcolor:transparent}  |stem:[\omega9,10-18:2]{set:cellbgcolor:transparent}|{set:cellbgcolor:transparent}CCCCCCCC/C=C=C\CCCCCCC(=O)O    |image:/assets/posts/2024-05-22/2꞉18-Δ8,9ω9,10.svg[]
-|stem:[\Delta9,10-18:2]{set:cellbgcolor:transparent} |stem:[\omega8,9-18:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}CCCCCCC/C=C=C\CCCCCCCC(=O)O    |image:/assets/posts/2024-05-22/2꞉18-Δ9,10ω8,9.svg[]
-|stem:[\Delta9,11-18:2]{set:cellbgcolor:gray}        |stem:[\omega7,9-18:2]{set:cellbgcolor:gray}        |{set:cellbgcolor:transparent}CCCCCC/C=C\C=C/CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/2꞉18-Δ9,11ω7,9.svg[]
-|stem:[\Delta9,12-18:2]{set:cellbgcolor:#80FF80}     |stem:[\omega6,9-18:2]{set:cellbgcolor:#80FF80}     |{set:cellbgcolor:transparent}CCCCC/C=C\C/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/2꞉18-Δ9,12ω6,9.svg[]
-|stem:[\Delta9,13-18:2]{set:cellbgcolor:#80FF80}     |stem:[\omega5,9-18:2]{set:cellbgcolor:#80FF80}     |{set:cellbgcolor:transparent}CCCC/C=C\CC/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/2꞉18-Δ9,13ω5,9.svg[]
-|stem:[\Delta9,14-18:2]{set:cellbgcolor:transparent} |stem:[\omega4,9-18:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}CCC/C=C\CCC/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/2꞉18-Δ9,14ω4,9.svg[]
-|stem:[\Delta9,15-18:2]{set:cellbgcolor:transparent} |stem:[\omega3,9-18:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}CC/C=C\CCCC/C=C\CCCCCCCC(=O)O  |image:/assets/posts/2024-05-22/2꞉18-Δ9,15ω3,9.svg[]
-|stem:[\Delta9,17-18:2]{set:cellbgcolor:transparent} |stem:[\omega1,9-18:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}C=C\CCCCCC/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/2꞉18-Δ9,17ω1,9.svg[]
-|stem:[\Delta14,17-18:2]{set:cellbgcolor:transparent}|stem:[\omega1,4-18:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}C=C\C/C=C\CCCCCCCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/2꞉18-Δ14,17ω1,4.svg[]
-|stem:[\Delta10,13-19:2]{set:cellbgcolor:transparent}|stem:[\omega6,9-19:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}CCCCC/C=C\C/C=C\CCCCCCCCC(=O)O |image:/assets/posts/2024-05-22/2꞉19-Δ10,13ω6,9.svg[]
-|stem:[\Delta11,14-20:2]{set:cellbgcolor:transparent}|stem:[\omega6,9-20:2]{set:cellbgcolor:transparent} |{set:cellbgcolor:transparent}CCCCC/C=C\C/C=C\CCCCCCCCCC(=O)O|image:/assets/posts/2024-05-22/2꞉20-Δ11,14ω6,9.svg[]
+|ID                                                                       |SMILES                                                      |SVG
+|stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent} |C/C=C\C/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}      |image:/assets/posts/2024-05-22/2꞉14-Δ9,12ω2,5.svg[]
+|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent} |CCCCCC/C=C\C/C=C\CCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉16-Δ6,9ω7,10.svg[]
+|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}        |CCCCC/C=C\C/C=C\CCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉16-Δ7,10ω6,9.svg[]
+|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent} |CCCCC/C=C\C=C/CCCCCCC(=O)O{set:cellbgcolor:transparent}     |image:/assets/posts/2024-05-22/2꞉16-Δ8,10ω6,8.svg[]
+|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}     |CCC/C=C\C/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉16-Δ9,12ω4,7.svg[]
+|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent} |CC/C=C\CC/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉16-Δ9,13ω3,7.svg[]
+|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent} |C/C=C\CCC/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉16-Δ9,14ω2,7.svg[]
+|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}     |CCCC/C=C\C/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}   |image:/assets/posts/2024-05-22/2꞉17-Δ9,12ω5,8.svg[]
+|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}        |CCCCCCCC/C=C\CC/C=C\CCCC(=O)O{set:cellbgcolor:transparent}  |image:/assets/posts/2024-05-22/2꞉18-Δ5,9ω9,13.svg[]
+|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent} |CCCCCCCC/C=C=C\CCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉18-Δ8,9ω9,10.svg[]
+|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent} |CCCCCCC/C=C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉18-Δ9,10ω8,9.svg[]
+|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}        |CCCCCC/C=C\C=C/CCCCCCCC(=O)O{set:cellbgcolor:transparent}   |image:/assets/posts/2024-05-22/2꞉18-Δ9,11ω7,9.svg[]
+|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}     |CCCCC/C=C\C/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}  |image:/assets/posts/2024-05-22/2꞉18-Δ9,12ω6,9.svg[]
+|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}     |CCCC/C=C\CC/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}  |image:/assets/posts/2024-05-22/2꞉18-Δ9,13ω5,9.svg[]
+|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent} |CCC/C=C\CCC/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}  |image:/assets/posts/2024-05-22/2꞉18-Δ9,14ω4,9.svg[]
+|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent} |CC/C=C\CCCC/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}  |image:/assets/posts/2024-05-22/2꞉18-Δ9,15ω3,9.svg[]
+|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent} |C=C\CCCCCC/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}   |image:/assets/posts/2024-05-22/2꞉18-Δ9,17ω1,9.svg[]
+|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|C=C\C/C=C\CCCCCCCCCCCCC(=O)O{set:cellbgcolor:transparent}   |image:/assets/posts/2024-05-22/2꞉18-Δ14,17ω1,4.svg[]
+|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|CCCCC/C=C\C/C=C\CCCCCCCCC(=O)O{set:cellbgcolor:transparent} |image:/assets/posts/2024-05-22/2꞉19-Δ10,13ω6,9.svg[]
+|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}|CCCCC/C=C\C/C=C\CCCCCCCCCC(=O)O{set:cellbgcolor:transparent}|image:/assets/posts/2024-05-22/2꞉20-Δ11,14ω6,9.svg[]
 |===
 ====
 
@@ -69,13 +69,13 @@
 .Tri
 [%autowidth]
 .Tri
-[cols="4*"]
+[cols="3*"]
 |===
-|Delta                    |Omega                  |SMILES                          |SVG
-|stem:[\Delta9,12,15-16:3]|stem:[\omega1,4,7-16:3]|C=C\C/C=C\C/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/3꞉16-Δ9,12,15.svg[]
-|stem:[\Delta9,12,15-17:3]|stem:[\omega2,5,8-17:3]|C/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/3꞉17-Δ9,12,15.svg[]
-|stem:[\Delta9,12,15-18:3]|stem:[\omega3,6,9-18:3]|CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/3꞉18-Δ9,12,15.svg[]
-|stem:[\Delta9,13,16-18:3]|stem:[\omega2,5,9-18:3]|C/C=C\C/C=C\CC/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/3꞉18-Δ9,13,16.svg[]
+|ID                                              |SMILES                          |SVG
+|stem:[\Delta9,12,15-16:3 \atop \omega1,4,7-16:3]|C=C\C/C=C\C/C=C\CCCCCCCC(=O)O   |image:/assets/posts/2024-05-22/3꞉16-Δ9,12,15.svg[]
+|stem:[\Delta9,12,15-17:3 \atop \omega2,5,8-17:3]|C/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O |image:/assets/posts/2024-05-22/3꞉17-Δ9,12,15.svg[]
+|stem:[\Delta9,12,15-18:3 \atop \omega3,6,9-18:3]|CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/3꞉18-Δ9,12,15.svg[]
+|stem:[\Delta9,13,16-18:3 \atop \omega2,5,9-18:3]|C/C=C\C/C=C\CC/C=C\CCCCCCCC(=O)O|image:/assets/posts/2024-05-22/3꞉18-Δ9,13,16.svg[]
 |===
 ====
 
@@ -94,42 +94,6 @@
 |===
 ====
 
-.Temp
-[cols="4*"]
-|===
-|14꞉2-Δ9,12ω2,5 |stem:[\Delta9,12-14:2] |stem:[\omega2,5-14:2] |C/C=C\C/C=C\CCCCCCCC(=O)O
-|16꞉2-Δ6,9ω7,10 |stem:[\Delta6,9-16:2]  |stem:[\omega7,10-16:2]|CCCCCC/C=C\C/C=C\CCCCC(=O)O
-|16꞉2-Δ7,10ω6,9 |stem:[\Delta7,10-16:2] |stem:[\omega6,9-16:2] |CCCCC/C=C\C/C=C\CCCCCC(=O)O
-|16꞉2-Δ8,10ω6,8 |stem:[\Delta8,10-16:2] |stem:[\omega6,8-16:2] |CCCCC/C=C\C=C/CCCCCCC(=O)O
-
-|16꞉2-Δ9,12ω4,7 |stem:[\Delta9,12-16:2] |stem:[\omega4,7-16:2] |CCC/C=C\C/C=C\CCCCCCCC(=O)O
-
-|16꞉2-Δ9,13ω3,7 |stem:[\Delta9,13-16:2] |stem:[\omega3,7-16:2] |CC/C=C\CC/C=C\CCCCCCCC(=O)O
-|16꞉2-Δ9,14ω2,7 |stem:[\Delta9,14-16:2] |stem:[\omega2,7-16:2] |C/C=C\CCC/C=C\CCCCCCCC(=O)O
-
-|17꞉2-Δ9,12ω5,8 |stem:[\Delta9,12-17:2] |stem:[\omega5,8-17:2] |CCCC/C=C\C/C=C\CCCCCCCC(=O)O
-
-|18꞉2-Δ5,9ω9,13 |stem:[\Delta5,9-18:2]  |stem:[\omega9,13-18:2]|CCCCCCCC/C=C\CC/C=C\CCCC(=O)O
-|18꞉2-Δ8,9ω9,10 |stem:[\Delta8,9-18:2]  |stem:[\omega9,10-18:2]|CCCCCCCC/C=C=C\CCCCCCC(=O)O
-|18꞉2-Δ9,10ω8,9 |stem:[\Delta9,10-18:2] |stem:[\omega8,9-18:2] |CCCCCCC/C=C=C\CCCCCCCC(=O)O
-|18꞉2-Δ9,11ω7,9 |stem:[\Delta9,11-18:2] |stem:[\omega7,9-18:2] |CCCCCC/C=C\C=C/CCCCCCCC(=O)O
-
-|18꞉2-Δ9,12ω6,9 |stem:[\Delta9,12-18:2] |stem:[\omega6,9-18:2] |CCCCC/C=C\C/C=C\CCCCCCCC(=O)O
-|18꞉2-Δ9,13ω5,9 |stem:[\Delta9,13-18:2] |stem:[\omega5,9-18:2] |CCCC/C=C\CC/C=C\CCCCCCCC(=O)O
-
-|18꞉2-Δ9,14ω4,9 |stem:[\Delta9,14-18:2] |stem:[\omega4,9-18:2] |CCC/C=C\CCC/C=C\CCCCCCCC(=O)O
-|18꞉2-Δ9,15ω3,9 |stem:[\Delta9,15-18:2] |stem:[\omega3,9-18:2] |CC/C=C\CCCC/C=C\CCCCCCCC(=O)O
-|18꞉2-Δ9,17ω1,9 |stem:[\Delta9,17-18:2] |stem:[\omega1,9-18:2] |C=C\CCCCCC/C=C\CCCCCCCC(=O)O
-|18꞉2-Δ14,17ω1,4|stem:[\Delta14,17-18:2]|stem:[\omega1,4-18:2] |C=C\C/C=C\CCCCCCCCCCCCC(=O)O
-|19꞉2-Δ10,13ω6,9|stem:[\Delta10,13-19:2]|stem:[\omega6,9-19:2] |CCCCC/C=C\C/C=C\CCCCCCCCC(=O)O
-|20꞉2-Δ11,14ω6,9|stem:[\Delta11,14-20:2]|stem:[\omega6,9-20:2] |CCCCC/C=C\C/C=C\CCCCCCCCCC(=O)O
-|===
-
-05:: 16:2-Δ9,12ω4,7
-08:: 17:2-Δ9,12ω5,8
-13:: 18:2-Δ9,12ω6,9
-14:: 18:2-Δ9,13ω5,9
-
 == Molecular mechanics force fields
 
 * @B97XD
@@ -145,894 +109,189 @@
 
 === Interatomic distances
 
-|Distance|14-Δ9,12ω2,5|16-Δ6,9ω7,10|16-Δ7,10ω6,9|16-Δ8,10ω6,8|16-Δ9,12ω4,7|16-Δ9,13ω3,7|16-Δ9,14ω2,7|17-Δ9,12ω5,8|18-Δ5,9ω9,13|18-Δ8,9ω9,10
-|        |            |            |            |            |+           |            |            |+           |            |
-|Δ-α'    |9.1715      |6.3015      |6.7190      |8.8350      |10.0358     |11.1990     |9.9767      |9.1409      |4.3625      |8.8254
-|Δ-β'    |10.2644     |8.2848      |9.5163      |10.4341     |13.2396     |14.1439     |14.5804     |10.8782     |7.9617      |9.5148
-|Δ-ω     |12.1432     |10.8968     |13.7622     |13.8574     |15.1754     |16.3583     |15.0571     |12.0280     |17.7246     |19.6724
-|Δ^α'    |            |            |            |            |            |            |            |13.3948     |6.0494      |10.6535
+.Interatomic distances
+[cols="8*"]
+[%autowidth]
+|===
+|ID                                                                       |stem:[\widehat{\Delta \alpha'}], stem:[\mathring A]|stem:[\widehat{\omega \beta'}], stem:[\mathring A]|stem:[\overline{\Delta \alpha'}], stem:[\mathring A]|stem:[\overline{\Delta \beta'}], stem:[\mathring A]|stem:[\overline{\alpha' \omega}], stem:[\mathring A]|stem:[\overline{\beta' \omega}], stem:[\mathring A]|stem:[\overline{\Delta \omega}], stem:[\mathring A]
+|stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent} |12.182{set:cellbgcolor:#FFFF80}                    |1.4930{set:cellbgcolor:transparent}               |9.1715{set:cellbgcolor:transparent}                 |11.3547{set:cellbgcolor:transparent}               |5.4483{set:cellbgcolor:transparent}                 |1.4930{set:cellbgcolor:transparent}                |12.1432{set:cellbgcolor:transparent}
+|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent} |7.5855{set:cellbgcolor:#FF8080}                    |9.1302{set:cellbgcolor:transparent}               |6.3015{set:cellbgcolor:transparent}                 |9.2967{set:cellbgcolor:transparent}                |10.4333{set:cellbgcolor:transparent}                |7.5109{set:cellbgcolor:transparent}                |10.8968{set:cellbgcolor:transparent}
+|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}        |9.1134{set:cellbgcolor:#FF8080}                    |7.6074{set:cellbgcolor:transparent}               |6.7190{set:cellbgcolor:transparent}                 |10.4135{set:cellbgcolor:transparent}               |9.3509{set:cellbgcolor:transparent}                 |5.3426{set:cellbgcolor:transparent}                |13.7622{set:cellbgcolor:transparent}
+|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent} |10.6614{set:cellbgcolor:#FF8080}                   |7.6113{set:cellbgcolor:transparent}               |8.8350{set:cellbgcolor:transparent}                 |11.4541{set:cellbgcolor:transparent}               |7.8885{set:cellbgcolor:transparent}                 |6.3289{set:cellbgcolor:transparent}                |13.8574{set:cellbgcolor:transparent}
+|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}     |12.1794{set:cellbgcolor:#FFFF80}                   |4.5488{set:cellbgcolor:transparent}               |10.0358{set:cellbgcolor:transparent}                |14.3915{set:cellbgcolor:transparent}               |7.0650{set:cellbgcolor:transparent}                 |3.8456{set:cellbgcolor:transparent}                |15.1754{set:cellbgcolor:transparent}
+|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent} |12.1671{set:cellbgcolor:#FFFF80}                   |3.0176{set:cellbgcolor:transparent}               |9.9856{set:cellbgcolor:transparent}                 |15.3212{set:cellbgcolor:transparent}               |6.7819{set:cellbgcolor:transparent}                 |2.4854{set:cellbgcolor:transparent}                |16.3583{set:cellbgcolor:transparent}
+|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent} |12.166{set:cellbgcolor:#FFFF80}                    |1.4958{set:cellbgcolor:transparent}               |9.9767{set:cellbgcolor:transparent}                 |15.1680{set:cellbgcolor:transparent}               |5.5038{set:cellbgcolor:transparent}                 |1.4958{set:cellbgcolor:transparent}                |15.0571{set:cellbgcolor:transparent}
+|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}     |12.1758{set:cellbgcolor:#FFFF80}                   |6.0787{set:cellbgcolor:transparent}               |9.1409{set:cellbgcolor:transparent}                 |11.3410{set:cellbgcolor:transparent}               |8.2550{set:cellbgcolor:transparent}                 |4.4526{set:cellbgcolor:transparent}                |12.0280{set:cellbgcolor:transparent}
+|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}        |6.0494{set:cellbgcolor:#FF8080}                    |12.1666{set:cellbgcolor:transparent}              |4.3625{set:cellbgcolor:transparent}                 |9.0521{set:cellbgcolor:transparent}                |13.9848{set:cellbgcolor:transparent}                |9.9758{set:cellbgcolor:transparent}                |17.7246{set:cellbgcolor:transparent}
+|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent} |10.6535{set:cellbgcolor:#FF8080}                   |12.1998{set:cellbgcolor:transparent}              |8.8254{set:cellbgcolor:transparent}                 |10.2927{set:cellbgcolor:transparent}               |11.4290{set:cellbgcolor:transparent}                |10.0657{set:cellbgcolor:transparent}               |19.6724{set:cellbgcolor:transparent}
+|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent} |12.2042{set:cellbgcolor:#FFFF80}                   |10.6862{set:cellbgcolor:transparent}              |10.0813{set:cellbgcolor:transparent}                |11.4721{set:cellbgcolor:transparent}               |8.7025{set:cellbgcolor:transparent}                 |7.8897{set:cellbgcolor:transparent}                |18.7793{set:cellbgcolor:transparent}
+|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}        |12.1908{set:cellbgcolor:#FFFF80}                   |9.1416{set:cellbgcolor:transparent}               |10.0414{set:cellbgcolor:transparent}                |12.0676{set:cellbgcolor:transparent}               |8.8317{set:cellbgcolor:transparent}                 |7.5278{set:cellbgcolor:transparent}                |12.7803{set:cellbgcolor:transparent}
+|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}     |12.1738{set:cellbgcolor:#FFFF80}                   |7.6053{set:cellbgcolor:transparent}               |9.1463{set:cellbgcolor:transparent}                 |11.3315{set:cellbgcolor:transparent}               |9.3157{set:cellbgcolor:transparent}                 |6.3268{set:cellbgcolor:transparent}                |10.1050{set:cellbgcolor:transparent}
+|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}     |12.1555{set:cellbgcolor:#FFFF80}                   |6.0647{set:cellbgcolor:transparent}               |9.9650{set:cellbgcolor:transparent}                 |15.2865{set:cellbgcolor:transparent}               |9.4037{set:cellbgcolor:transparent}                 |4.9566{set:cellbgcolor:transparent}                |18.4730{set:cellbgcolor:transparent}
+|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent} |12.148{set:cellbgcolor:#FFFF80}                    |4.5439{set:cellbgcolor:transparent}               |9.9502{set:cellbgcolor:transparent}                 |15.2249{set:cellbgcolor:transparent}               |9.4248{set:cellbgcolor:transparent}                 |3.8407{set:cellbgcolor:transparent}                |18.3630{set:cellbgcolor:transparent}
+|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent} |12.1731{set:cellbgcolor:#FFFF80}                   |3.0212{set:cellbgcolor:transparent}               |9.9981{set:cellbgcolor:transparent}                 |10.5597{set:cellbgcolor:transparent}               |6.3750{set:cellbgcolor:transparent}                 |2.4908{set:cellbgcolor:transparent}                |8.6319{set:cellbgcolor:transparent}
+|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent} |12.1657{set:cellbgcolor:#FFFF80}                   |0.0{set:cellbgcolor:transparent}                  |9.9822{set:cellbgcolor:transparent}                 |15.9524{set:cellbgcolor:transparent}               |10.4352{set:cellbgcolor:transparent}                |0.0{set:cellbgcolor:transparent}                   |15.9524{set:cellbgcolor:transparent}
+|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|19.8034{set:cellbgcolor:#FF8080}                   |0.0{set:cellbgcolor:transparent}                  |14.6817{set:cellbgcolor:transparent}                |16.0950{set:cellbgcolor:transparent}               |4.7524{set:cellbgcolor:transparent}                 |0.0{set:cellbgcolor:transparent}                   |16.0950{set:cellbgcolor:transparent}
+|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|13.7024{set:cellbgcolor:#FF8080}                   |7.6017{set:cellbgcolor:transparent}               |10.2329{set:cellbgcolor:transparent}                |12.5203{set:cellbgcolor:transparent}               |9.3171{set:cellbgcolor:transparent}                 |6.3186{set:cellbgcolor:transparent}                |11.4052{set:cellbgcolor:transparent}
+|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}|15.2436{set:cellbgcolor:#FF8080}                   |7.6029{set:cellbgcolor:transparent}               |11.5861{set:cellbgcolor:transparent}                |13.5766{set:cellbgcolor:transparent}               |9.2946{set:cellbgcolor:transparent}                 |6.3168{set:cellbgcolor:transparent}                |11.8228{set:cellbgcolor:transparent}
+|===
 
-* 16-Δ9,12ω4,7 = 1.5035 + 1.5282 + 1.5286 + 1.5282 + 1.5287 + 1.5294 + 1.5270 + 1.5058 = 12.1794
-* 17-Δ9,12ω5,8 = 1.5036 + 1.5343 + 1.5288 + 1.5287 + 1.5267 + 1.5249 + 1.5254 + 1.5034 + 1.2190 = 13.3948
+.{details}
+[%collapsible]
+====
+.Interatomic distances
+[cols="21*"]
+[%autowidth]
+|===
+|Distance                                            |stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent}|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent}|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}
+|stem:[\overline{\Delta \alpha'}], stem:[\mathring A]|9.1715{set:cellbgcolor:transparent}                                     |6.3015{set:cellbgcolor:transparent}                                     |6.7190{set:cellbgcolor:transparent}                              |8.8350{set:cellbgcolor:transparent}                                     |10.0358{set:cellbgcolor:transparent}                                |9.9856{set:cellbgcolor:transparent}                                     |9.9767{set:cellbgcolor:transparent}                                     |9.1409{set:cellbgcolor:transparent}                                 |4.3625{set:cellbgcolor:transparent}                              |8.8254{set:cellbgcolor:transparent}                                     |10.0813{set:cellbgcolor:transparent}                                    |10.0414{set:cellbgcolor:transparent}                             |9.1463{set:cellbgcolor:transparent}                                 |9.9650{set:cellbgcolor:transparent}                                 |9.9502{set:cellbgcolor:transparent}                                     |9.9981{set:cellbgcolor:transparent}                                     |9.9822{set:cellbgcolor:transparent}                                     |14.6817{set:cellbgcolor:transparent}                                     |10.2329{set:cellbgcolor:transparent}                                     |11.5861{set:cellbgcolor:transparent}
+|stem:[\overline{\Delta \beta'}], stem:[\mathring A] |11.3547{set:cellbgcolor:transparent}                                    |9.2967{set:cellbgcolor:transparent}                                     |10.4135{set:cellbgcolor:transparent}                             |11.4541{set:cellbgcolor:transparent}                                    |14.3915{set:cellbgcolor:transparent}                                |15.3212{set:cellbgcolor:transparent}                                    |15.1680{set:cellbgcolor:transparent}                                    |11.3410{set:cellbgcolor:transparent}                                |9.0521{set:cellbgcolor:transparent}                              |10.2927{set:cellbgcolor:transparent}                                    |11.4721{set:cellbgcolor:transparent}                                    |12.0676{set:cellbgcolor:transparent}                             |11.3315{set:cellbgcolor:transparent}                                |15.2865{set:cellbgcolor:transparent}                                |15.2249{set:cellbgcolor:transparent}                                    |10.5597{set:cellbgcolor:transparent}                                    |15.9524{set:cellbgcolor:transparent}                                    |16.0950{set:cellbgcolor:transparent}                                     |12.5203{set:cellbgcolor:transparent}                                     |13.5766{set:cellbgcolor:transparent}
+|stem:[\overline{\alpha' \omega}], stem:[\mathring A]|5.4483{set:cellbgcolor:transparent}                                     |10.4333{set:cellbgcolor:transparent}                                    |9.3509{set:cellbgcolor:transparent}                              |7.8885{set:cellbgcolor:transparent}                                     |7.0650{set:cellbgcolor:transparent}                                 |6.7819{set:cellbgcolor:transparent}                                     |5.5038{set:cellbgcolor:transparent}                                     |8.2550{set:cellbgcolor:transparent}                                 |13.9848{set:cellbgcolor:transparent}                             |11.4290{set:cellbgcolor:transparent}                                    |8.7025{set:cellbgcolor:transparent}                                     |8.8317{set:cellbgcolor:transparent}                              |9.3157{set:cellbgcolor:transparent}                                 |9.4037{set:cellbgcolor:transparent}                                 |9.4248{set:cellbgcolor:transparent}                                     |6.3750{set:cellbgcolor:transparent}                                     |10.4352{set:cellbgcolor:transparent}                                    |4.7524{set:cellbgcolor:transparent}                                      |9.3171{set:cellbgcolor:transparent}                                      |9.2946{set:cellbgcolor:transparent}
+|stem:[\overline{\beta' \omega}], stem:[\mathring A] |1.4930{set:cellbgcolor:transparent}                                     |7.5109{set:cellbgcolor:transparent}                                     |5.3426{set:cellbgcolor:transparent}                              |6.3289{set:cellbgcolor:transparent}                                     |3.8456{set:cellbgcolor:transparent}                                 |2.4854{set:cellbgcolor:transparent}                                     |1.4958{set:cellbgcolor:transparent}                                     |4.4526{set:cellbgcolor:transparent}                                 |9.9758{set:cellbgcolor:transparent}                              |10.0657{set:cellbgcolor:transparent}                                    |7.8897{set:cellbgcolor:transparent}                                     |7.5278{set:cellbgcolor:transparent}                              |6.3268{set:cellbgcolor:transparent}                                 |4.9566{set:cellbgcolor:transparent}                                 |3.8407{set:cellbgcolor:transparent}                                     |2.4908{set:cellbgcolor:transparent}                                     |0.0{set:cellbgcolor:transparent}                                        |0.0{set:cellbgcolor:transparent}                                         |6.3186{set:cellbgcolor:transparent}                                      |6.3168{set:cellbgcolor:transparent}
+|stem:[\overline{\Delta \omega}], stem:[\mathring A] |12.1432{set:cellbgcolor:transparent}                                    |10.8968{set:cellbgcolor:transparent}                                    |13.7622{set:cellbgcolor:transparent}                             |13.8574{set:cellbgcolor:transparent}                                    |15.1754{set:cellbgcolor:transparent}                                |16.3583{set:cellbgcolor:transparent}                                    |15.0571{set:cellbgcolor:transparent}                                    |12.0280{set:cellbgcolor:transparent}                                |17.7246{set:cellbgcolor:transparent}                             |19.6724{set:cellbgcolor:transparent}                                    |18.7793{set:cellbgcolor:transparent}                                    |12.7803{set:cellbgcolor:transparent}                             |10.1050{set:cellbgcolor:transparent}                                |18.4730{set:cellbgcolor:transparent}                                |18.3630{set:cellbgcolor:transparent}                                    |8.6319{set:cellbgcolor:transparent}                                     |15.9524{set:cellbgcolor:transparent}                                    |16.0950{set:cellbgcolor:transparent}                                     |11.4052{set:cellbgcolor:transparent}                                     |11.8228{set:cellbgcolor:transparent}
+|===
 
-* 18-Δ8,9ω9,10 = 1.5071 + 1.5291 + 1.5290 + 1.5312 + 1.5282 + 1.5284 + 1.5005 = 10.6535
+stem:[\widehat{\Delta \alpha'}]:
+
+14-Δ9,12ω2,5 = 1.5016 + 1.5297 + 1.5322 + 1.5303 + 1.5287 + 1.5293 + 1.5253 + 1.5049 = 12.182 +
+16-Δ6,9ω7,10 = 1.4995 + 1.5284 + 1.5259 + 1.5275 + 1.5042 = 7.5855 +
+16-Δ7,10ω6,9 = 1.5016 + 1.5314 + 1.5294 + 1.5238 + 1.5247 + 1.5025 = 9.1134 +
+16-Δ8,10ω6,8 = 1.5054 + 1.5332 + 1.5293 + 1.5316 + 1.5298 + 1.5271 + 1.5050 = 10.6614 +
+16-Δ9,12ω4,7 = 1.5035 + 1.5282 + 1.5286 + 1.5282 + 1.5287 + 1.5294 + 1.5270 + 1.5058 = 12.1794 +
+16-Δ9,13ω3,7 = 1.4974 + 1.5288 + 1.5247 + 1.5277 + 1.5265 + 1.5278 + 1.5287 + 1.5055 = 12.1671 +
+16-Δ9,14ω2,7 = 1.5010 + 1.5266 + 1.5252 + 1.5286 + 1.5275 + 1.5279 + 1.5259 + 1.5033 = 12.166 +
+17-Δ9,12ω5,8 = 1.5036 + 1.5343 + 1.5288 + 1.5287 + 1.5267 + 1.5249 + 1.5254 + 1.5034 = 12.1758 +
+18-Δ5,9ω9,13 = 1.4950 + 1.5276 + 1.5274 + 1.4994 = 6.0494 +
+18-Δ8,9ω9,10 = 1.5005 + 1.5284 + 1.5282 + 1.5312 + 1.5290 + 1.5291 + 1.5071 = 10.6535 +
+18-Δ9,10ω8,9 = 1.5006 + 1.5320 + 1.5324 + 1.5334 + 1.5351 + 1.5325 + 1.5307 + 1.5075 = 12.2042 +
+18-Δ9,11ω7,9 = 1.5057 + 1.5313 + 1.5296 + 1.5303 + 1.5304 + 1.5296 + 1.5280 + 1.5059 = 12.1908 +
+18-Δ9,12ω6,9 = 1.5043 + 1.5343 + 1.5297 + 1.5259 + 1.5267 + 1.5252 + 1.5249 + 1.5028 = 12.1738 +
+18-Δ9,13ω5,9 = 1.4943 + 1.5237 + 1.5217 + 1.5270 + 1.5273 + 1.5291 + 1.5267 + 1.5057 = 12.1555 +
+18-Δ9,14ω4,9 = 1.4968 + 1.5249 + 1.5221 + 1.5250 + 1.5252 + 1.5261 + 1.5244 + 1.5035 = 12.148 +
+18-Δ9,15ω3,9 = 1.5025 + 1.5256 + 1.5284 + 1.5289 + 1.5278 + 1.5288 + 1.5257 + 1.5054 = 12.1731 +
+18-Δ9,17ω1,9 = 1.5023 + 1.5255 + 1.5259 + 1.5290 + 1.5257 + 1.5285 + 1.5249 + 1.5039 = 12.1657 +
+18-Δ14,17ω1,4 = 1.4977 + 1.5307 + 1.5246 + 1.5325 + 1.5278 + 1.5286 + 1.5221 + 1.5277 + 1.5252 + 1.5287 + 1.5272 + 1.5260 + 1.5046 = 19.8034 +
+19-Δ10,13ω6,9 = 1.5053 + 1.5341 + 1.5290 + 1.5250 + 1.5255 + 1.5273 + 1.5288 + 1.5290 + 1.4984 = 13.7024 +
+20-Δ11,14ω6,9 = 1.5031 + 1.5366 + 1.5270 + 1.5246 + 1.5273 + 1.5280 + 1.5315 + 1.5288 + 1.5329 + 1.5038 = 15.2436 +
+
+stem:[\widehat{\beta' \omega}]:
+
+14-Δ9,12ω2,5 = 1.4930 +
+16-Δ6,9ω7,10 = 1.5205 + 1.5272 + 1.5289 + 1.5267 + 1.5280 + 1.4989 = 9.1302 +
+16-Δ7,10ω6,9 = 1.5204 + 1.5241 + 1.5294 + 1.5316 + 1.5019 = 7.6074 +
+16-Δ8,10ω6,8 = 1.5197 + 1.5291 + 1.5282 + 1.5306 + 1.5037 = 7.6113 +
+16-Δ9,12ω4,7 = 1.5192 + 1.5277 + 1.5019 = 4.5488 +
+16-Δ9,13ω3,7 = 1.5196 + 1.4980 = 3.0176 +
+16-Δ9,14ω2,7 = 1.4958 +
+17-Δ9,12ω5,8 = 1.5192 + 1.5314 + 1.5297 + 1.4984 = 6.0787 +
+18-Δ5,9ω9,13 = 1.5205 + 1.5279 + 1.5280 + 1.5272 + 1.5263 + 1.5205 + 1.5249 + 1.4913 = 12.1666 +
+18-Δ8,9ω9,10 = 1.5217 + 1.5300 + 1.5315 + 1.5309 + 1.5309 + 1.5284 + 1.5265 + 1.4999 = 12.1998 +
+18-Δ9,10ω8,9 = 1.5222 + 1.5305 + 1.5331 + 1.5324 + 1.5351 + 1.5322 + 1.5007 = 10.6862 +
+18-Δ9,11ω7,9 = 1.5211 + 1.5283 + 1.5307 + 1.5282 + 1.5305 + 1.5028 = 9.1416 +
+18-Δ9,12ω6,9 = 1.5198 + 1.5284 + 1.5266 + 1.5285 + 1.5020 = 7.6053 +
+18-Δ9,13ω5,9 = 1.5198 + 1.5237 + 1.5275 + 1.4937 = 6.0647 +
+18-Δ9,14ω4,9 = 1.5199 + 1.5256 + 1.4984 = 4.5439 +
+18-Δ9,15ω3,9 = 1.5206 + 1.5006 = 3.0212 +
+18-Δ9,17ω1,9 = 0.0 +
+18-Δ14,17ω1,4 = 0.0 +
+19-Δ10,13ω6,9 = 1.5200 + 1.5270 + 1.5261 + 1.5294 + 1.4992 = 7.6017 +
+20-Δ11,14ω6,9 = 1.5212 + 1.5289 + 1.5278 + 1.5300 + 1.4950 = 7.6029 +
+
+stem:[\overline{\Delta \alpha'} = max ... max_\omega + 1]
+
+stem:[\overline{\Delta \beta'} = max ... min_\omega]
+
+stem:[\overline{\alpha' \omega} = max_\omega + 1 ... min]
+
+stem:[\overline{\beta' \omega} = min_\omega ... min]
+
+stem:[\overline{\Delta \omega} = max ... min]
+====
 
 === Bond angles
-
+.{details}
+[%collapsible]
+====
 .Bond angles
-[cols="21~*"]
+[%autowidth]
+[cols="21*"]
 |===
 |Angle{set:cellbgcolor:transparent}                 |stem:[\Delta9,12-14:2] stem:[\omega2,5-14:2]{set:cellbgcolor:transparent}|stem:[\Delta6,9-16:2] stem:[\omega7,10-16:2]{set:cellbgcolor:transparent}|stem:[\Delta7,10-16:2] stem:[\omega6,9-16:2]{set:cellbgcolor:gray}|stem:[\Delta8,10-16:2] stem:[\omega6,8-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-16:2] stem:[\omega4,7-16:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-16:2] stem:[\omega3,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,14-16:2] stem:[\omega2,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-17:2] stem:[\omega5,8-17:2]{set:cellbgcolor:#80FF80}|stem:[\Delta5,9-18:2] stem:[\omega9,13-18:2]{set:cellbgcolor:gray}|stem:[\Delta8,9-18:2] stem:[\omega9,10-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,10-18:2] stem:[\omega8,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,11-18:2] stem:[\omega7,9-18:2]{set:cellbgcolor:gray}|stem:[\Delta9,12-18:2] stem:[\omega6,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-18:2] stem:[\omega5,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,14-18:2] stem:[\omega4,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,15-18:2] stem:[\omega3,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,17-18:2] stem:[\omega1,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta14,17-18:2] stem:[\omega1,4-18:2]{set:cellbgcolor:transparent}|stem:[\Delta10,13-19:2] stem:[\omega6,9-19:2]{set:cellbgcolor:transparent}|stem:[\Delta11,14-20:2] stem:[\omega6,9-20:2]{set:cellbgcolor:transparent}
-|stem:[\angle 1~2~3]{set:cellbgcolor:transparent}   |127.061{set:cellbgcolor:#8080FF}    |111.310{set:cellbgcolor:transparent}|110.320{set:cellbgcolor:transparent}|111.522{set:cellbgcolor:transparent}|111.620{set:cellbgcolor:transparent}|110.903{set:cellbgcolor:transparent}|127.980{set:cellbgcolor:#8080FF}    |111.656{set:cellbgcolor:transparent}|111.308{set:cellbgcolor:transparent}|111.596{set:cellbgcolor:transparent}|111.626{set:cellbgcolor:transparent}|111.456{set:cellbgcolor:transparent}|111.291{set:cellbgcolor:transparent}|110.996{set:cellbgcolor:transparent}|110.607{set:cellbgcolor:transparent}|111.067{set:cellbgcolor:transparent}|124.033{set:cellbgcolor:#8080FF}    |124.004{set:cellbgcolor:#8080FF}    |111.267{set:cellbgcolor:transparent}|111.487{set:cellbgcolor:transparent}
-|stem:[\angle 2~3~4]{set:cellbgcolor:transparent}   |127.850{set:cellbgcolor:#8080FF}    |111.518{set:cellbgcolor:transparent}|112.139{set:cellbgcolor:transparent}|111.042{set:cellbgcolor:transparent}|110.658{set:cellbgcolor:transparent}|126.454{set:cellbgcolor:#8080FF}    |127.231{set:cellbgcolor:#8080FF}    |112.554{set:cellbgcolor:transparent}|111.452{set:cellbgcolor:transparent}|111.702{set:cellbgcolor:transparent}|111.993{set:cellbgcolor:transparent}|111.580{set:cellbgcolor:transparent}|111.140{set:cellbgcolor:transparent}|111.815{set:cellbgcolor:transparent}|111.581{set:cellbgcolor:transparent}|126.485{set:cellbgcolor:#8080FF}    |110.862{set:cellbgcolor:transparent}|110.295{set:cellbgcolor:transparent}|111.309{set:cellbgcolor:transparent}|111.660{set:cellbgcolor:transparent}
-|stem:[\angle 3~4~5]{set:cellbgcolor:transparent}   |110.668{set:cellbgcolor:transparent}|110.851{set:cellbgcolor:transparent}|111.775{set:cellbgcolor:transparent}|111.817{set:cellbgcolor:transparent}|126.122{set:cellbgcolor:#8080FF}    |126.257{set:cellbgcolor:#8080FF}    |111.312{set:cellbgcolor:transparent}|112.879{set:cellbgcolor:transparent}|111.197{set:cellbgcolor:transparent}|111.469{set:cellbgcolor:transparent}|111.320{set:cellbgcolor:transparent}|110.984{set:cellbgcolor:transparent}|111.194{set:cellbgcolor:transparent}|108.305{set:cellbgcolor:transparent}|126.943{set:cellbgcolor:#8080FF}    |125.670{set:cellbgcolor:#8080FF}    |111.258{set:cellbgcolor:transparent}|126.336{set:cellbgcolor:#8080FF}    |111.193{set:cellbgcolor:transparent}|111.331{set:cellbgcolor:transparent}
-|stem:[\angle 4~5~6]{set:cellbgcolor:transparent}   |125.528{set:cellbgcolor:#8080FF}    |111.558{set:cellbgcolor:transparent}|111.538{set:cellbgcolor:transparent}|110.065{set:cellbgcolor:transparent}|126.428{set:cellbgcolor:#8080FF}    |112.551{set:cellbgcolor:transparent}|112.556{set:cellbgcolor:transparent}|126.186{set:cellbgcolor:#8080FF}    |110.960{set:cellbgcolor:transparent}|111.607{set:cellbgcolor:transparent}|111.965{set:cellbgcolor:transparent}|111.933{set:cellbgcolor:transparent}|110.749{set:cellbgcolor:transparent}|125.830{set:cellbgcolor:#8080FF}    |127.103{set:cellbgcolor:#8080FF}    |113.673{set:cellbgcolor:transparent}|111.241{set:cellbgcolor:transparent}|124.539{set:cellbgcolor:#8080FF}    |110.261{set:cellbgcolor:transparent}|109.592{set:cellbgcolor:transparent}
-|stem:[\angle 5~6~7]{set:cellbgcolor:transparent}   |123.805{set:cellbgcolor:#8080FF}    |109.966{set:cellbgcolor:transparent}|125.370{set:cellbgcolor:#8080FF}    |126.946{set:cellbgcolor:#8080FF}    |111.004{set:cellbgcolor:transparent}|111.284{set:cellbgcolor:transparent}|111.093{set:cellbgcolor:transparent}|126.188{set:cellbgcolor:#8080FF}    |110.694{set:cellbgcolor:transparent}|111.117{set:cellbgcolor:transparent}|113.281{set:cellbgcolor:transparent}|110.184{set:cellbgcolor:transparent}|125.725{set:cellbgcolor:#8080FF}    |127.183{set:cellbgcolor:#8080FF}    |112.213{set:cellbgcolor:transparent}|115.223{set:cellbgcolor:transparent}|110.292{set:cellbgcolor:transparent}|111.325{set:cellbgcolor:transparent}|125.252{set:cellbgcolor:#8080FF}    |124.305{set:cellbgcolor:#8080FF}
-|stem:[\angle 6~7~8]{set:cellbgcolor:transparent}   |112.345{set:cellbgcolor:transparent}|125.228{set:cellbgcolor:#8080FF}    |125.820{set:cellbgcolor:#8080FF}    |125.240{set:cellbgcolor:#8080FF}    |125.432{set:cellbgcolor:#8080FF}    |127.157{set:cellbgcolor:#8080FF}    |126.760{set:cellbgcolor:#8080FF}    |110.654{set:cellbgcolor:transparent}|111.479{set:cellbgcolor:transparent}|111.456{set:cellbgcolor:transparent}|112.886{set:cellbgcolor:transparent}|126.948{set:cellbgcolor:#8080FF}    |126.163{set:cellbgcolor:#8080FF}    |110.578{set:cellbgcolor:transparent}|114.779{set:cellbgcolor:transparent}|113.764{set:cellbgcolor:transparent}|112.149{set:cellbgcolor:transparent}|112.579{set:cellbgcolor:transparent}|125.437{set:cellbgcolor:#8080FF}    |124.647{set:cellbgcolor:#8080FF}
-|stem:[\angle 7~8~9]{set:cellbgcolor:transparent}   |112.970{set:cellbgcolor:transparent}|125.726{set:cellbgcolor:#8080FF}    |109.439{set:cellbgcolor:transparent}|125.387{set:cellbgcolor:#8080FF}    |124.841{set:cellbgcolor:#8080FF}    |126.240{set:cellbgcolor:#8080FF}    |126.960{set:cellbgcolor:#8080FF}    |125.567{set:cellbgcolor:#8080FF}    |107.537{set:cellbgcolor:transparent}|110.601{set:cellbgcolor:transparent}|124.297{set:cellbgcolor:#8080FF}    |125.234{set:cellbgcolor:#8080FF}    |111.172{set:cellbgcolor:transparent}|110.191{set:cellbgcolor:transparent}|111.439{set:cellbgcolor:transparent}|109.484{set:cellbgcolor:transparent}|109.218{set:cellbgcolor:transparent}|113.282{set:cellbgcolor:transparent}|110.084{set:cellbgcolor:transparent}|109.462{set:cellbgcolor:transparent}
-|stem:[\angle 8~9~10]{set:cellbgcolor:transparent}  |112.933{set:cellbgcolor:transparent}|110.385{set:cellbgcolor:transparent}|125.652{set:cellbgcolor:#8080FF}    |126.985{set:cellbgcolor:#8080FF}    |111.206{set:cellbgcolor:transparent}|109.408{set:cellbgcolor:transparent}|108.716{set:cellbgcolor:transparent}|125.529{set:cellbgcolor:#8080FF}    |125.040{set:cellbgcolor:#8080FF}    |122.787{set:cellbgcolor:#8080FF}    |179.271{set:cellbgcolor:transparent}|125.398{set:cellbgcolor:#8080FF}    |125.481{set:cellbgcolor:#8080FF}    |126.846{set:cellbgcolor:#8080FF}    |127.337{set:cellbgcolor:#8080FF}    |126.196{set:cellbgcolor:#8080FF}    |125.913{set:cellbgcolor:#8080FF}    |112.762{set:cellbgcolor:transparent}|124.761{set:cellbgcolor:#8080FF}    |124.241{set:cellbgcolor:#8080FF}
-|stem:[\angle 9~10~11]{set:cellbgcolor:transparent} |111.985{set:cellbgcolor:transparent}|125.702{set:cellbgcolor:#8080FF}    |125.530{set:cellbgcolor:#8080FF}    |110.657{set:cellbgcolor:transparent}|111.657{set:cellbgcolor:transparent}|111.524{set:cellbgcolor:transparent}|112.069{set:cellbgcolor:transparent}|113.803{set:cellbgcolor:transparent}|126.935{set:cellbgcolor:#8080FF}    |174.587{set:cellbgcolor:#8080FF}    |124.187{set:cellbgcolor:#8080FF}    |127.411{set:cellbgcolor:#8080FF}    |125.515{set:cellbgcolor:#8080FF}    |125.448{set:cellbgcolor:#8080FF}    |126.808{set:cellbgcolor:#8080FF}    |127.019{set:cellbgcolor:#8080FF}    |125.898{set:cellbgcolor:#8080FF}    |111.948{set:cellbgcolor:transparent}|124.393{set:cellbgcolor:#8080FF}    |123.533{set:cellbgcolor:#8080FF}
-|stem:[\angle 10~11~12]{set:cellbgcolor:transparent}|110.387{set:cellbgcolor:transparent}|125.074{set:cellbgcolor:#8080FF}    |111.287{set:cellbgcolor:transparent}|112.024{set:cellbgcolor:transparent}|110.664{set:cellbgcolor:transparent}|110.310{set:cellbgcolor:transparent}|110.260{set:cellbgcolor:transparent}|112.892{set:cellbgcolor:transparent}|109.994{set:cellbgcolor:transparent}|122.581{set:cellbgcolor:#8080FF}    |111.429{set:cellbgcolor:transparent}|110.129{set:cellbgcolor:transparent}|113.816{set:cellbgcolor:transparent}|108.336{set:cellbgcolor:transparent}|108.450{set:cellbgcolor:transparent}|109.663{set:cellbgcolor:transparent}|109.231{set:cellbgcolor:transparent}|111.724{set:cellbgcolor:transparent}|112.756{set:cellbgcolor:transparent}|111.789{set:cellbgcolor:transparent}
-|stem:[\angle 11~12~13]{set:cellbgcolor:transparent}|111.903{set:cellbgcolor:transparent}|110.128{set:cellbgcolor:transparent}|111.899{set:cellbgcolor:transparent}|111.164{set:cellbgcolor:transparent}|111.742{set:cellbgcolor:transparent}|111.348{set:cellbgcolor:transparent}|111.562{set:cellbgcolor:transparent}|111.015{set:cellbgcolor:transparent}|109.835{set:cellbgcolor:transparent}|110.624{set:cellbgcolor:transparent}|111.734{set:cellbgcolor:transparent}|111.661{set:cellbgcolor:transparent}|112.948{set:cellbgcolor:transparent}|111.487{set:cellbgcolor:transparent}|111.422{set:cellbgcolor:transparent}|112.115{set:cellbgcolor:transparent}|112.232{set:cellbgcolor:transparent}|110.330{set:cellbgcolor:transparent}|112.705{set:cellbgcolor:transparent}|112.040{set:cellbgcolor:transparent}
-|stem:[\angle 12~13~14]{set:cellbgcolor:transparent}|110.986{set:cellbgcolor:transparent}|111.186{set:cellbgcolor:transparent}|111.637{set:cellbgcolor:transparent}|111.314{set:cellbgcolor:transparent}|110.805{set:cellbgcolor:transparent}|110.569{set:cellbgcolor:transparent}|110.917{set:cellbgcolor:transparent}|110.738{set:cellbgcolor:transparent}|127.178{set:cellbgcolor:#8080FF}    |111.549{set:cellbgcolor:transparent}|111.726{set:cellbgcolor:transparent}|111.195{set:cellbgcolor:transparent}|110.917{set:cellbgcolor:transparent}|110.466{set:cellbgcolor:transparent}|110.049{set:cellbgcolor:transparent}|110.431{set:cellbgcolor:transparent}|110.088{set:cellbgcolor:transparent}|110.891{set:cellbgcolor:transparent}|110.961{set:cellbgcolor:transparent}|110.897{set:cellbgcolor:transparent}
-|stem:[\angle 13~14~15]{set:cellbgcolor:transparent}|                                    |111.648{set:cellbgcolor:transparent}|110.473{set:cellbgcolor:transparent}|111.738{set:cellbgcolor:transparent}|111.870{set:cellbgcolor:transparent}|111.671{set:cellbgcolor:transparent}|111.598{set:cellbgcolor:transparent}|110.873{set:cellbgcolor:transparent}|125.451{set:cellbgcolor:#8080FF}    |111.215{set:cellbgcolor:transparent}|111.955{set:cellbgcolor:transparent}|111.517{set:cellbgcolor:transparent}|110.703{set:cellbgcolor:transparent}|111.112{set:cellbgcolor:transparent}|111.200{set:cellbgcolor:transparent}|111.669{set:cellbgcolor:transparent}|111.755{set:cellbgcolor:transparent}|111.402{set:cellbgcolor:transparent}|110.591{set:cellbgcolor:transparent}|110.717{set:cellbgcolor:transparent}
-|stem:[\angle 14~15~16]{set:cellbgcolor:transparent}|                                    |111.054{set:cellbgcolor:transparent}|111.158{set:cellbgcolor:transparent}|111.155{set:cellbgcolor:transparent}|111.317{set:cellbgcolor:transparent}|111.087{set:cellbgcolor:transparent}|111.050{set:cellbgcolor:transparent}|111.337{set:cellbgcolor:transparent}|109.685{set:cellbgcolor:transparent}|111.093{set:cellbgcolor:transparent}|111.441{set:cellbgcolor:transparent}|111.181{set:cellbgcolor:transparent}|110.948{set:cellbgcolor:transparent}|110.958{set:cellbgcolor:transparent}|110.610{set:cellbgcolor:transparent}|110.717{set:cellbgcolor:transparent}|110.811{set:cellbgcolor:transparent}|110.689{set:cellbgcolor:transparent}|111.220{set:cellbgcolor:transparent}|111.111{set:cellbgcolor:transparent}
-|stem:[\angle 15~16~17]{set:cellbgcolor:transparent}|                                    |                                    |                                    |                                    |                                    |                                    |                                    |110.952{set:cellbgcolor:transparent}|112.912{set:cellbgcolor:transparent}|112.283{set:cellbgcolor:transparent}|112.813{set:cellbgcolor:transparent}|111.802{set:cellbgcolor:transparent}|111.353{set:cellbgcolor:transparent}|112.029{set:cellbgcolor:transparent}|111.342{set:cellbgcolor:transparent}|111.651{set:cellbgcolor:transparent}|111.488{set:cellbgcolor:transparent}|111.887{set:cellbgcolor:transparent}|110.936{set:cellbgcolor:transparent}|111.370{set:cellbgcolor:transparent}
-|stem:[\angle 16~17~18]{set:cellbgcolor:transparent}|                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |111.389{set:cellbgcolor:transparent}|111.059{set:cellbgcolor:transparent}|111.012{set:cellbgcolor:transparent}|111.166{set:cellbgcolor:transparent}|111.052{set:cellbgcolor:transparent}|110.886{set:cellbgcolor:transparent}|111.001{set:cellbgcolor:transparent}|111.120{set:cellbgcolor:transparent}|111.218{set:cellbgcolor:transparent}|110.891{set:cellbgcolor:transparent}|111.777{set:cellbgcolor:transparent}|111.301{set:cellbgcolor:transparent}
-|stem:[\angle 17~18~19]{set:cellbgcolor:transparent}|                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |111.120{set:cellbgcolor:transparent}|112.381{set:cellbgcolor:transparent}
-|stem:[\angle 18~19~20]{set:cellbgcolor:transparent}|                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |111.287{set:cellbgcolor:transparent}
+|stem:[\angle 1~2~3]{set:cellbgcolor:transparent}   |127.061{set:cellbgcolor:#8080FF}                                         |111.310{set:cellbgcolor:transparent}                                     |110.320{set:cellbgcolor:transparent}                              |111.522{set:cellbgcolor:transparent}                                     |111.620{set:cellbgcolor:transparent}                                 |110.903{set:cellbgcolor:transparent}                                     |127.980{set:cellbgcolor:#8080FF}                                         |111.656{set:cellbgcolor:transparent}                                 |111.308{set:cellbgcolor:transparent}                              |111.596{set:cellbgcolor:transparent}                                     |111.626{set:cellbgcolor:transparent}                                     |111.456{set:cellbgcolor:transparent}                              |111.291{set:cellbgcolor:transparent}                                 |110.996{set:cellbgcolor:transparent}                                 |110.607{set:cellbgcolor:transparent}                                     |111.067{set:cellbgcolor:transparent}                                     |124.033{set:cellbgcolor:#8080FF}                                         |124.004{set:cellbgcolor:#8080FF}                                          |111.267{set:cellbgcolor:transparent}                                      |111.487{set:cellbgcolor:transparent}
+|stem:[\angle 2~3~4]{set:cellbgcolor:transparent}   |127.850{set:cellbgcolor:#8080FF}                                         |111.518{set:cellbgcolor:transparent}                                     |112.139{set:cellbgcolor:transparent}                              |111.042{set:cellbgcolor:transparent}                                     |110.658{set:cellbgcolor:transparent}                                 |126.454{set:cellbgcolor:#8080FF}                                         |127.231{set:cellbgcolor:#8080FF}                                         |112.554{set:cellbgcolor:transparent}                                 |111.452{set:cellbgcolor:transparent}                              |111.702{set:cellbgcolor:transparent}                                     |111.993{set:cellbgcolor:transparent}                                     |111.580{set:cellbgcolor:transparent}                              |111.140{set:cellbgcolor:transparent}                                 |111.815{set:cellbgcolor:transparent}                                 |111.581{set:cellbgcolor:transparent}                                     |126.485{set:cellbgcolor:#8080FF}                                         |110.862{set:cellbgcolor:transparent}                                     |110.295{set:cellbgcolor:transparent}                                      |111.309{set:cellbgcolor:transparent}                                      |111.660{set:cellbgcolor:transparent}
+|stem:[\angle 3~4~5]{set:cellbgcolor:transparent}   |110.668{set:cellbgcolor:transparent}                                     |110.851{set:cellbgcolor:transparent}                                     |111.775{set:cellbgcolor:transparent}                              |111.817{set:cellbgcolor:transparent}                                     |126.122{set:cellbgcolor:#8080FF}                                     |126.257{set:cellbgcolor:#8080FF}                                         |111.312{set:cellbgcolor:transparent}                                     |112.879{set:cellbgcolor:transparent}                                 |111.197{set:cellbgcolor:transparent}                              |111.469{set:cellbgcolor:transparent}                                     |111.320{set:cellbgcolor:transparent}                                     |110.984{set:cellbgcolor:transparent}                              |111.194{set:cellbgcolor:transparent}                                 |108.305{set:cellbgcolor:transparent}                                 |126.943{set:cellbgcolor:#8080FF}                                         |125.670{set:cellbgcolor:#8080FF}                                         |111.258{set:cellbgcolor:transparent}                                     |126.336{set:cellbgcolor:#8080FF}                                          |111.193{set:cellbgcolor:transparent}                                      |111.331{set:cellbgcolor:transparent}
+|stem:[\angle 4~5~6]{set:cellbgcolor:transparent}   |125.528{set:cellbgcolor:#8080FF}                                         |111.558{set:cellbgcolor:transparent}                                     |111.538{set:cellbgcolor:transparent}                              |110.065{set:cellbgcolor:transparent}                                     |126.428{set:cellbgcolor:#8080FF}                                     |112.551{set:cellbgcolor:transparent}                                     |112.556{set:cellbgcolor:transparent}                                     |126.186{set:cellbgcolor:#8080FF}                                     |110.960{set:cellbgcolor:transparent}                              |111.607{set:cellbgcolor:transparent}                                     |111.965{set:cellbgcolor:transparent}                                     |111.933{set:cellbgcolor:transparent}                              |110.749{set:cellbgcolor:transparent}                                 |125.830{set:cellbgcolor:#8080FF}                                     |127.103{set:cellbgcolor:#8080FF}                                         |113.673{set:cellbgcolor:transparent}                                     |111.241{set:cellbgcolor:transparent}                                     |124.539{set:cellbgcolor:#8080FF}                                          |110.261{set:cellbgcolor:transparent}                                      |109.592{set:cellbgcolor:transparent}
+|stem:[\angle 5~6~7]{set:cellbgcolor:transparent}   |123.805{set:cellbgcolor:#8080FF}                                         |109.966{set:cellbgcolor:transparent}                                     |125.370{set:cellbgcolor:#8080FF}                                  |126.946{set:cellbgcolor:#8080FF}                                         |111.004{set:cellbgcolor:transparent}                                 |111.284{set:cellbgcolor:transparent}                                     |111.093{set:cellbgcolor:transparent}                                     |126.188{set:cellbgcolor:#8080FF}                                     |110.694{set:cellbgcolor:transparent}                              |111.117{set:cellbgcolor:transparent}                                     |113.281{set:cellbgcolor:transparent}                                     |110.184{set:cellbgcolor:transparent}                              |125.725{set:cellbgcolor:#8080FF}                                     |127.183{set:cellbgcolor:#8080FF}                                     |112.213{set:cellbgcolor:transparent}                                     |115.223{set:cellbgcolor:transparent}                                     |110.292{set:cellbgcolor:transparent}                                     |111.325{set:cellbgcolor:transparent}                                      |125.252{set:cellbgcolor:#8080FF}                                          |124.305{set:cellbgcolor:#8080FF}
+|stem:[\angle 6~7~8]{set:cellbgcolor:transparent}   |112.345{set:cellbgcolor:transparent}                                     |125.228{set:cellbgcolor:#8080FF}                                         |125.820{set:cellbgcolor:#8080FF}                                  |125.240{set:cellbgcolor:#8080FF}                                         |125.432{set:cellbgcolor:#8080FF}                                     |127.157{set:cellbgcolor:#8080FF}                                         |126.760{set:cellbgcolor:#8080FF}                                         |110.654{set:cellbgcolor:transparent}                                 |111.479{set:cellbgcolor:transparent}                              |111.456{set:cellbgcolor:transparent}                                     |112.886{set:cellbgcolor:transparent}                                     |126.948{set:cellbgcolor:#8080FF}                                  |126.163{set:cellbgcolor:#8080FF}                                     |110.578{set:cellbgcolor:transparent}                                 |114.779{set:cellbgcolor:transparent}                                     |113.764{set:cellbgcolor:transparent}                                     |112.149{set:cellbgcolor:transparent}                                     |112.579{set:cellbgcolor:transparent}                                      |125.437{set:cellbgcolor:#8080FF}                                          |124.647{set:cellbgcolor:#8080FF}
+|stem:[\angle 7~8~9]{set:cellbgcolor:transparent}   |112.970{set:cellbgcolor:transparent}                                     |125.726{set:cellbgcolor:#8080FF}                                         |109.439{set:cellbgcolor:transparent}                              |125.387{set:cellbgcolor:#8080FF}                                         |124.841{set:cellbgcolor:#8080FF}                                     |126.240{set:cellbgcolor:#8080FF}                                         |126.960{set:cellbgcolor:#8080FF}                                         |125.567{set:cellbgcolor:#8080FF}                                     |107.537{set:cellbgcolor:transparent}                              |110.601{set:cellbgcolor:transparent}                                     |124.297{set:cellbgcolor:#8080FF}                                         |125.234{set:cellbgcolor:#8080FF}                                  |111.172{set:cellbgcolor:transparent}                                 |110.191{set:cellbgcolor:transparent}                                 |111.439{set:cellbgcolor:transparent}                                     |109.484{set:cellbgcolor:transparent}                                     |109.218{set:cellbgcolor:transparent}                                     |113.282{set:cellbgcolor:transparent}                                      |110.084{set:cellbgcolor:transparent}                                      |109.462{set:cellbgcolor:transparent}
+|stem:[\angle 8~9~10]{set:cellbgcolor:transparent}  |112.933{set:cellbgcolor:transparent}                                     |110.385{set:cellbgcolor:transparent}                                     |125.652{set:cellbgcolor:#8080FF}                                  |126.985{set:cellbgcolor:#8080FF}                                         |111.206{set:cellbgcolor:transparent}                                 |109.408{set:cellbgcolor:transparent}                                     |108.716{set:cellbgcolor:transparent}                                     |125.529{set:cellbgcolor:#8080FF}                                     |125.040{set:cellbgcolor:#8080FF}                                  |122.787{set:cellbgcolor:#8080FF}                                         |179.271{set:cellbgcolor:transparent}                                     |125.398{set:cellbgcolor:#8080FF}                                  |125.481{set:cellbgcolor:#8080FF}                                     |126.846{set:cellbgcolor:#8080FF}                                     |127.337{set:cellbgcolor:#8080FF}                                         |126.196{set:cellbgcolor:#8080FF}                                         |125.913{set:cellbgcolor:#8080FF}                                         |112.762{set:cellbgcolor:transparent}                                      |124.761{set:cellbgcolor:#8080FF}                                          |124.241{set:cellbgcolor:#8080FF}
+|stem:[\angle 9~10~11]{set:cellbgcolor:transparent} |111.985{set:cellbgcolor:transparent}                                     |125.702{set:cellbgcolor:#8080FF}                                         |125.530{set:cellbgcolor:#8080FF}                                  |110.657{set:cellbgcolor:transparent}                                     |111.657{set:cellbgcolor:transparent}                                 |111.524{set:cellbgcolor:transparent}                                     |112.069{set:cellbgcolor:transparent}                                     |113.803{set:cellbgcolor:transparent}                                 |126.935{set:cellbgcolor:#8080FF}                                  |174.587{set:cellbgcolor:#8080FF}                                         |124.187{set:cellbgcolor:#8080FF}                                         |127.411{set:cellbgcolor:#8080FF}                                  |125.515{set:cellbgcolor:#8080FF}                                     |125.448{set:cellbgcolor:#8080FF}                                     |126.808{set:cellbgcolor:#8080FF}                                         |127.019{set:cellbgcolor:#8080FF}                                         |125.898{set:cellbgcolor:#8080FF}                                         |111.948{set:cellbgcolor:transparent}                                      |124.393{set:cellbgcolor:#8080FF}                                          |123.533{set:cellbgcolor:#8080FF}
+|stem:[\angle 10~11~12]{set:cellbgcolor:transparent}|110.387{set:cellbgcolor:transparent}                                     |125.074{set:cellbgcolor:#8080FF}                                         |111.287{set:cellbgcolor:transparent}                              |112.024{set:cellbgcolor:transparent}                                     |110.664{set:cellbgcolor:transparent}                                 |110.310{set:cellbgcolor:transparent}                                     |110.260{set:cellbgcolor:transparent}                                     |112.892{set:cellbgcolor:transparent}                                 |109.994{set:cellbgcolor:transparent}                              |122.581{set:cellbgcolor:#8080FF}                                         |111.429{set:cellbgcolor:transparent}                                     |110.129{set:cellbgcolor:transparent}                              |113.816{set:cellbgcolor:transparent}                                 |108.336{set:cellbgcolor:transparent}                                 |108.450{set:cellbgcolor:transparent}                                     |109.663{set:cellbgcolor:transparent}                                     |109.231{set:cellbgcolor:transparent}                                     |111.724{set:cellbgcolor:transparent}                                      |112.756{set:cellbgcolor:transparent}                                      |111.789{set:cellbgcolor:transparent}
+|stem:[\angle 11~12~13]{set:cellbgcolor:transparent}|111.903{set:cellbgcolor:transparent}                                     |110.128{set:cellbgcolor:transparent}                                     |111.899{set:cellbgcolor:transparent}                              |111.164{set:cellbgcolor:transparent}                                     |111.742{set:cellbgcolor:transparent}                                 |111.348{set:cellbgcolor:transparent}                                     |111.562{set:cellbgcolor:transparent}                                     |111.015{set:cellbgcolor:transparent}                                 |109.835{set:cellbgcolor:transparent}                              |110.624{set:cellbgcolor:transparent}                                     |111.734{set:cellbgcolor:transparent}                                     |111.661{set:cellbgcolor:transparent}                              |112.948{set:cellbgcolor:transparent}                                 |111.487{set:cellbgcolor:transparent}                                 |111.422{set:cellbgcolor:transparent}                                     |112.115{set:cellbgcolor:transparent}                                     |112.232{set:cellbgcolor:transparent}                                     |110.330{set:cellbgcolor:transparent}                                      |112.705{set:cellbgcolor:transparent}                                      |112.040{set:cellbgcolor:transparent}
+|stem:[\angle 12~13~14]{set:cellbgcolor:transparent}|110.986{set:cellbgcolor:transparent}                                     |111.186{set:cellbgcolor:transparent}                                     |111.637{set:cellbgcolor:transparent}                              |111.314{set:cellbgcolor:transparent}                                     |110.805{set:cellbgcolor:transparent}                                 |110.569{set:cellbgcolor:transparent}                                     |110.917{set:cellbgcolor:transparent}                                     |110.738{set:cellbgcolor:transparent}                                 |127.178{set:cellbgcolor:#8080FF}                                  |111.549{set:cellbgcolor:transparent}                                     |111.726{set:cellbgcolor:transparent}                                     |111.195{set:cellbgcolor:transparent}                              |110.917{set:cellbgcolor:transparent}                                 |110.466{set:cellbgcolor:transparent}                                 |110.049{set:cellbgcolor:transparent}                                     |110.431{set:cellbgcolor:transparent}                                     |110.088{set:cellbgcolor:transparent}                                     |110.891{set:cellbgcolor:transparent}                                      |110.961{set:cellbgcolor:transparent}                                      |110.897{set:cellbgcolor:transparent}
+|stem:[\angle 13~14~15]{set:cellbgcolor:transparent}|                                                                         |111.648{set:cellbgcolor:transparent}                                     |110.473{set:cellbgcolor:transparent}                              |111.738{set:cellbgcolor:transparent}                                     |111.870{set:cellbgcolor:transparent}                                 |111.671{set:cellbgcolor:transparent}                                     |111.598{set:cellbgcolor:transparent}                                     |110.873{set:cellbgcolor:transparent}                                 |125.451{set:cellbgcolor:#8080FF}                                  |111.215{set:cellbgcolor:transparent}                                     |111.955{set:cellbgcolor:transparent}                                     |111.517{set:cellbgcolor:transparent}                              |110.703{set:cellbgcolor:transparent}                                 |111.112{set:cellbgcolor:transparent}                                 |111.200{set:cellbgcolor:transparent}                                     |111.669{set:cellbgcolor:transparent}                                     |111.755{set:cellbgcolor:transparent}                                     |111.402{set:cellbgcolor:transparent}                                      |110.591{set:cellbgcolor:transparent}                                      |110.717{set:cellbgcolor:transparent}
+|stem:[\angle 14~15~16]{set:cellbgcolor:transparent}|                                                                         |111.054{set:cellbgcolor:transparent}                                     |111.158{set:cellbgcolor:transparent}                              |111.155{set:cellbgcolor:transparent}                                     |111.317{set:cellbgcolor:transparent}                                 |111.087{set:cellbgcolor:transparent}                                     |111.050{set:cellbgcolor:transparent}                                     |111.337{set:cellbgcolor:transparent}                                 |109.685{set:cellbgcolor:transparent}                              |111.093{set:cellbgcolor:transparent}                                     |111.441{set:cellbgcolor:transparent}                                     |111.181{set:cellbgcolor:transparent}                              |110.948{set:cellbgcolor:transparent}                                 |110.958{set:cellbgcolor:transparent}                                 |110.610{set:cellbgcolor:transparent}                                     |110.717{set:cellbgcolor:transparent}                                     |110.811{set:cellbgcolor:transparent}                                     |110.689{set:cellbgcolor:transparent}                                      |111.220{set:cellbgcolor:transparent}                                      |111.111{set:cellbgcolor:transparent}
+|stem:[\angle 15~16~17]{set:cellbgcolor:transparent}|                                                                         |                                                                         |                                                                  |                                                                         |                                                                     |                                                                         |                                                                         |110.952{set:cellbgcolor:transparent}                                 |112.912{set:cellbgcolor:transparent}                              |112.283{set:cellbgcolor:transparent}                                     |112.813{set:cellbgcolor:transparent}                                     |111.802{set:cellbgcolor:transparent}                              |111.353{set:cellbgcolor:transparent}                                 |112.029{set:cellbgcolor:transparent}                                 |111.342{set:cellbgcolor:transparent}                                     |111.651{set:cellbgcolor:transparent}                                     |111.488{set:cellbgcolor:transparent}                                     |111.887{set:cellbgcolor:transparent}                                      |110.936{set:cellbgcolor:transparent}                                      |111.370{set:cellbgcolor:transparent}
+|stem:[\angle 16~17~18]{set:cellbgcolor:transparent}|                                                                         |                                                                         |                                                                  |                                                                         |                                                                     |                                                                         |                                                                         |                                                                     |111.389{set:cellbgcolor:transparent}                              |111.059{set:cellbgcolor:transparent}                                     |111.012{set:cellbgcolor:transparent}                                     |111.166{set:cellbgcolor:transparent}                              |111.052{set:cellbgcolor:transparent}                                 |110.886{set:cellbgcolor:transparent}                                 |111.001{set:cellbgcolor:transparent}                                     |111.120{set:cellbgcolor:transparent}                                     |111.218{set:cellbgcolor:transparent}                                     |110.891{set:cellbgcolor:transparent}                                      |111.777{set:cellbgcolor:transparent}                                      |111.301{set:cellbgcolor:transparent}
+|stem:[\angle 17~18~19]{set:cellbgcolor:transparent}|                                                                         |                                                                         |                                                                  |                                                                         |                                                                     |                                                                         |                                                                         |                                                                     |                                                                  |                                                                         |                                                                         |                                                                  |                                                                     |                                                                     |                                                                         |                                                                         |                                                                         |                                                                          |111.120{set:cellbgcolor:transparent}                                      |112.381{set:cellbgcolor:transparent}
+|stem:[\angle 18~19~20]{set:cellbgcolor:transparent}|                                                                         |                                                                         |                                                                  |                                                                         |                                                                     |                                                                         |                                                                         |                                                                     |                                                                  |                                                                         |                                                                         |                                                                  |                                                                     |                                                                     |                                                                         |                                                                         |                                                                         |                                                                          |                                                                          |111.287{set:cellbgcolor:transparent}
 |===
+====
 
 === Torsion angles
 
 .Torsion angles
 [%autowidth]
+[cols="18~*"]
+|===
+|ID                                                                       |stem:[\angle 1~2~3~4]                |stem:[\angle 2~3~4~5]                |stem:[\angle 3~4~5~6]                |stem:[\angle 4~5~6~7]                |stem:[\angle 5~6~7~8]                |stem:[\angle 6~7~8~9]                |stem:[\angle 7~8~9~10]               |stem:[\angle 8~9~10~11]              |stem:[\angle 9~10~11~12]             |stem:[\angle 10~11~12~13]            |stem:[\angle 11~12~13~14]            |stem:[\angle 12~13~14~15]            |stem:[\angle 13~14~15~16]            |stem:[\angle 14~15~16~17]             |stem:[\angle 15~16~17~18]           |stem:[\angle 16~17~18~19]           |stem:[\angle 17~18~19~20]
+|stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent} |-0.081{set:cellbgcolor:#8080FF}      |118.569{set:cellbgcolor:transparent} |94.671{set:cellbgcolor:transparent}  |-0.751{set:cellbgcolor:#8080FF}      |-178.107{set:cellbgcolor:transparent}|-179.739{set:cellbgcolor:transparent}|61.510{set:cellbgcolor:transparent}  |178.315{set:cellbgcolor:transparent} |178.859{set:cellbgcolor:transparent} |179.932{set:cellbgcolor:transparent} |178.896{set:cellbgcolor:transparent} |                                     |                                     |                                      |                                    |                                    |
+|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent} |-179.871{set:cellbgcolor:transparent}|178.983{set:cellbgcolor:transparent} |-179.296{set:cellbgcolor:transparent}|-178.200{set:cellbgcolor:transparent}|91.097{set:cellbgcolor:transparent}  |0.365{set:cellbgcolor:#8080FF}       |123.757{set:cellbgcolor:transparent} |123.637{set:cellbgcolor:transparent} |0.496{set:cellbgcolor:#8080FF}       |90.341{set:cellbgcolor:transparent}  |-178.043{set:cellbgcolor:transparent}|179.997{set:cellbgcolor:transparent} |177.515{set:cellbgcolor:transparent} |                                      |                                    |                                    |
+|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}        |-179.301{set:cellbgcolor:transparent}|178.869{set:cellbgcolor:transparent} |62.271{set:cellbgcolor:transparent}  |86.290{set:cellbgcolor:transparent}  |2.364{set:cellbgcolor:#8080FF}       |123.852{set:cellbgcolor:transparent} |124.222{set:cellbgcolor:transparent} |2.613{set:cellbgcolor:#8080FF}       |86.296{set:cellbgcolor:transparent}  |62.475{set:cellbgcolor:transparent}  |179.727{set:cellbgcolor:transparent} |-179.874{set:cellbgcolor:transparent}|178.042{set:cellbgcolor:transparent} |                                      |                                    |                                    |
+|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent} |179.717{set:cellbgcolor:transparent} |178.955{set:cellbgcolor:transparent} |-179.844{set:cellbgcolor:transparent}|91.008{set:cellbgcolor:transparent}  |4.687{set:cellbgcolor:#8080FF}       |-150.309{set:cellbgcolor:transparent}|6.872{set:cellbgcolor:#8080FF}       |147.394{set:cellbgcolor:transparent} |-179.268{set:cellbgcolor:transparent}|-178.627{set:cellbgcolor:transparent}|179.676{set:cellbgcolor:transparent} |179.284{set:cellbgcolor:transparent} |178.561{set:cellbgcolor:transparent} |                                      |                                    |                                    |
+|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}     |-179.238{set:cellbgcolor:transparent}|90.583{set:cellbgcolor:transparent}  |-0.334{set:cellbgcolor:#8080FF}      |120.558{set:cellbgcolor:transparent} |152.373{set:cellbgcolor:transparent} |2.117{set:cellbgcolor:#8080FF}       |-178.251{set:cellbgcolor:transparent}|-178.438{set:cellbgcolor:transparent}|-179.970{set:cellbgcolor:transparent}|-179.954{set:cellbgcolor:transparent}|-179.959{set:cellbgcolor:transparent}|179.416{set:cellbgcolor:transparent} |178.238{set:cellbgcolor:transparent} |                                      |                                    |                                    |
+|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent} |122.348{set:cellbgcolor:transparent} |-2.412{set:cellbgcolor:#8080FF}      |-172.482{set:cellbgcolor:transparent}|63.686{set:cellbgcolor:transparent}  |122.624{set:cellbgcolor:transparent} |5.317{set:cellbgcolor:#8080FF}       |151.397{set:cellbgcolor:transparent} |-178.229{set:cellbgcolor:transparent}|-179.349{set:cellbgcolor:transparent}|179.886{set:cellbgcolor:transparent} |-179.981{set:cellbgcolor:transparent}|179.498{set:cellbgcolor:transparent} |177.831{set:cellbgcolor:transparent} |                                      |                                    |                                    |
+|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent} |0.238{set:cellbgcolor:#8080FF}       |120.318{set:cellbgcolor:transparent} |-177.456{set:cellbgcolor:transparent}|61.436{set:cellbgcolor:transparent}  |91.580{set:cellbgcolor:transparent}  |4.251{set:cellbgcolor:#8080FF}       |122.634{set:cellbgcolor:transparent} |-177.278{set:cellbgcolor:transparent}|-179.513{set:cellbgcolor:transparent}|179.820{set:cellbgcolor:transparent} |179.882{set:cellbgcolor:transparent} |179.092{set:cellbgcolor:transparent} |178.688{set:cellbgcolor:transparent} |                                      |                                    |                                    |
+|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}     |178.685{set:cellbgcolor:transparent} |60.563{set:cellbgcolor:transparent}  |88.219{set:cellbgcolor:transparent}  |-0.251{set:cellbgcolor:#8080FF}      |124.453{set:cellbgcolor:transparent} |127.823{set:cellbgcolor:transparent} |2.541{set:cellbgcolor:#8080FF}       |64.875{set:cellbgcolor:transparent}  |56.638{set:cellbgcolor:transparent}  |-174.853{set:cellbgcolor:transparent}|-179.100{set:cellbgcolor:transparent}|178.807{set:cellbgcolor:transparent} |-179.658{set:cellbgcolor:transparent}|178.404 {set:cellbgcolor:transparent} |                                    |                                    |
+|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}        |-179.791{set:cellbgcolor:transparent}|179.547{set:cellbgcolor:transparent} |-179.709{set:cellbgcolor:transparent}|179.342{set:cellbgcolor:transparent} |-179.218{set:cellbgcolor:transparent}|-179.014{set:cellbgcolor:transparent}|90.700{set:cellbgcolor:transparent}  |7.319{set:cellbgcolor:#8080FF}       |120.718{set:cellbgcolor:transparent} |64.825{set:cellbgcolor:transparent}  |119.499{set:cellbgcolor:transparent} |7.675{set:cellbgcolor:#8080FF}       |88.745{set:cellbgcolor:transparent}  |59.688 {set:cellbgcolor:transparent}  |178.071{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent} |-179.925{set:cellbgcolor:transparent}|179.689{set:cellbgcolor:transparent} |-179.833{set:cellbgcolor:transparent}|179.664{set:cellbgcolor:transparent} |179.798{set:cellbgcolor:transparent} |-178.260{set:cellbgcolor:transparent}|91.172{set:cellbgcolor:transparent}  |36.981{set:cellbgcolor:#8080FF}      |40.428{set:cellbgcolor:#8080FF}      |91.867{set:cellbgcolor:transparent}  |-178.559{set:cellbgcolor:transparent}|179.815{set:cellbgcolor:transparent} |179.491{set:cellbgcolor:transparent} |179.452 {set:cellbgcolor:transparent} |178.072{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent} |-179.847{set:cellbgcolor:transparent}|179.646{set:cellbgcolor:transparent} |179.343{set:cellbgcolor:transparent} |179.536{set:cellbgcolor:transparent} |61.704{set:cellbgcolor:transparent}  |-119.262{set:cellbgcolor:transparent}|-96.117{set:cellbgcolor:#8080FF}     |-49.629{set:cellbgcolor:#8080FF}     |89.324{set:cellbgcolor:transparent}  |-179.480{set:cellbgcolor:transparent}|179.670{set:cellbgcolor:transparent} |179.890{set:cellbgcolor:transparent} |179.995{set:cellbgcolor:transparent} |179.368 {set:cellbgcolor:transparent} |178.227{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}        |-179.921{set:cellbgcolor:transparent}|179.237{set:cellbgcolor:transparent} |179.400{set:cellbgcolor:transparent} |-179.706{set:cellbgcolor:transparent}|92.001{set:cellbgcolor:transparent}  |3.837{set:cellbgcolor:#8080FF}       |-146.114{set:cellbgcolor:transparent}|5.560{set:cellbgcolor:#8080FF}       |120.288{set:cellbgcolor:transparent} |-179.054{set:cellbgcolor:transparent}|-179.716{set:cellbgcolor:transparent}|179.781{set:cellbgcolor:transparent} |-179.977{set:cellbgcolor:transparent}|179.103 {set:cellbgcolor:transparent} |178.239{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}     |179.102{set:cellbgcolor:transparent} |-178.910{set:cellbgcolor:transparent}|-179.030{set:cellbgcolor:transparent}|90.609{set:cellbgcolor:transparent}  |-1.429{set:cellbgcolor:#8080FF}      |124.939{set:cellbgcolor:transparent} |128.365{set:cellbgcolor:transparent} |2.559{set:cellbgcolor:#8080FF}       |64.847{set:cellbgcolor:transparent}  |57.008{set:cellbgcolor:transparent}  |-174.839{set:cellbgcolor:transparent}|-178.777{set:cellbgcolor:transparent}|178.817{set:cellbgcolor:transparent} |-179.832 {set:cellbgcolor:transparent}|178.400{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}     |-179.862{set:cellbgcolor:transparent}|179.545{set:cellbgcolor:transparent} |91.263{set:cellbgcolor:transparent}  |5.492{set:cellbgcolor:#8080FF}       |120.173{set:cellbgcolor:transparent} |62.636{set:cellbgcolor:transparent}  |119.011{set:cellbgcolor:transparent} |9.179{set:cellbgcolor:#8080FF}       |150.222{set:cellbgcolor:transparent} |-177.879{set:cellbgcolor:transparent}|-179.588{set:cellbgcolor:transparent}|179.732{set:cellbgcolor:transparent} |-179.917{set:cellbgcolor:transparent}|179.208 {set:cellbgcolor:transparent} |178.335{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent} |179.768{set:cellbgcolor:transparent} |-113.224{set:cellbgcolor:transparent}|2.681{set:cellbgcolor:#8080FF}       |122.358{set:cellbgcolor:transparent} |60.940{set:cellbgcolor:transparent}  |60.620{set:cellbgcolor:transparent}  |124.355{set:cellbgcolor:transparent} |5.526{set:cellbgcolor:#8080FF}       |121.904{set:cellbgcolor:transparent} |-176.042{set:cellbgcolor:transparent}|-178.926{set:cellbgcolor:transparent}|179.283{set:cellbgcolor:transparent} |-179.751{set:cellbgcolor:transparent}|178.829 {set:cellbgcolor:transparent} |178.854{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent} |122.585{set:cellbgcolor:transparent} |-0.697{set:cellbgcolor:#8080FF}      |-173.419{set:cellbgcolor:transparent}|60.049{set:cellbgcolor:transparent}  |62.343{set:cellbgcolor:transparent}  |-175.704{set:cellbgcolor:transparent}|94.471{set:cellbgcolor:transparent}  |1.446{set:cellbgcolor:#8080FF}       |123.632{set:cellbgcolor:transparent} |-177.018{set:cellbgcolor:transparent}|-179.234{set:cellbgcolor:transparent}|179.759{set:cellbgcolor:transparent} |179.956{set:cellbgcolor:transparent} |179.203 {set:cellbgcolor:transparent} |178.722{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent} |119.787{set:cellbgcolor:transparent} |179.881{set:cellbgcolor:transparent} |-179.600{set:cellbgcolor:transparent}|179.625{set:cellbgcolor:transparent} |179.593{set:cellbgcolor:transparent} |-178.193{set:cellbgcolor:transparent}|97.773{set:cellbgcolor:transparent}  |0.721{set:cellbgcolor:#8080FF}       |97.582{set:cellbgcolor:transparent}  |-178.099{set:cellbgcolor:transparent}|179.657{set:cellbgcolor:transparent} |179.561{set:cellbgcolor:transparent} |-179.974{set:cellbgcolor:transparent}|178.801 {set:cellbgcolor:transparent} |178.872{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|118.998{set:cellbgcolor:transparent} |121.215{set:cellbgcolor:transparent} |1.928{set:cellbgcolor:#8080FF}       |179.924{set:cellbgcolor:transparent} |-179.837{set:cellbgcolor:transparent}|61.663{set:cellbgcolor:transparent}  |179.518{set:cellbgcolor:transparent} |61.117{set:cellbgcolor:transparent}  |179.733{set:cellbgcolor:transparent} |178.683{set:cellbgcolor:transparent} |-179.465{set:cellbgcolor:transparent}|-179.744{set:cellbgcolor:transparent}|179.728{set:cellbgcolor:transparent} |179.470 {set:cellbgcolor:transparent} |178.001{set:cellbgcolor:transparent}|                                    |
+|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|179.374{set:cellbgcolor:transparent} |-179.409{set:cellbgcolor:transparent}|-179.670{set:cellbgcolor:transparent}|91.024{set:cellbgcolor:transparent}  |-0.457{set:cellbgcolor:#8080FF}      |123.529{set:cellbgcolor:transparent} |124.960{set:cellbgcolor:transparent} |4.938{set:cellbgcolor:#8080FF}       |63.131{set:cellbgcolor:transparent}  |56.841{set:cellbgcolor:transparent}  |-176.050{set:cellbgcolor:transparent}|-178.867{set:cellbgcolor:transparent}|179.255{set:cellbgcolor:transparent} |-179.453 {set:cellbgcolor:transparent}|178.964{set:cellbgcolor:transparent}|178.434{set:cellbgcolor:transparent}|
+|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}|179.569{set:cellbgcolor:transparent} |-179.933{set:cellbgcolor:transparent}|179.940{set:cellbgcolor:transparent} |91.807{set:cellbgcolor:transparent}  |0.313{set:cellbgcolor:#8080FF}       |122.732{set:cellbgcolor:transparent} |122.078{set:cellbgcolor:transparent} |6.603{set:cellbgcolor:#8080FF}       |61.370{set:cellbgcolor:transparent}  |57.466{set:cellbgcolor:transparent}  |-176.874{set:cellbgcolor:transparent}|-179.107{set:cellbgcolor:transparent}|179.391{set:cellbgcolor:transparent} |-179.454 {set:cellbgcolor:transparent}|179.868{set:cellbgcolor:transparent}|179.162{set:cellbgcolor:transparent}|177.80{set:cellbgcolor:transparent}
+|===
+
+.{details}
+[%collapsible]
+====
+.Torsion angles
+[%autowidth]
 [cols="21*"]
 |===
-|Angle{set:cellbgcolor:transparent}                    |stem:[\Delta9,12-14:2] stem:[\omega2,5-14:2]{set:cellbgcolor:transparent}|stem:[\Delta6,9-16:2] stem:[\omega7,10-16:2]{set:cellbgcolor:transparent}|stem:[\Delta7,10-16:2] stem:[\omega6,9-16:2]{set:cellbgcolor:gray}|stem:[\Delta8,10-16:2] stem:[\omega6,8-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-16:2] stem:[\omega4,7-16:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-16:2] stem:[\omega3,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,14-16:2] stem:[\omega2,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-17:2] stem:[\omega5,8-17:2]{set:cellbgcolor:#80FF80}|stem:[\Delta5,9-18:2] stem:[\omega9,13-18:2]{set:cellbgcolor:gray}|stem:[\Delta8,9-18:2] stem:[\omega9,10-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,10-18:2] stem:[\omega8,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,11-18:2] stem:[\omega7,9-18:2]{set:cellbgcolor:gray}|stem:[\Delta9,12-18:2] stem:[\omega6,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-18:2] stem:[\omega5,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,14-18:2] stem:[\omega4,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,15-18:2] stem:[\omega3,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,17-18:2] stem:[\omega1,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta14,17-18:2] stem:[\omega1,4-18:2]{set:cellbgcolor:transparent}|stem:[\Delta10,13-19:2] stem:[\omega6,9-19:2]{set:cellbgcolor:transparent}|stem:[\Delta11,14-20:2] stem:[\omega6,9-20:2]{set:cellbgcolor:transparent}
-|stem:[\angle 1~2~3~4]{set:cellbgcolor:transparent}    |-0.081{set:cellbgcolor:#8080FF}      |-179.871{set:cellbgcolor:transparent}|-179.301{set:cellbgcolor:transparent}|179.717{set:cellbgcolor:transparent} |-179.238{set:cellbgcolor:transparent}|122.348{set:cellbgcolor:#FF8080}     |0.238{set:cellbgcolor:#8080FF}       |178.685{set:cellbgcolor:transparent} |-179.791{set:cellbgcolor:transparent}|-179.925{set:cellbgcolor:transparent}|-179.847{set:cellbgcolor:transparent}|-179.921{set:cellbgcolor:transparent}|179.102{set:cellbgcolor:transparent} |-179.862{set:cellbgcolor:transparent}|179.768{set:cellbgcolor:transparent} |122.585{set:cellbgcolor:#FF8080}     |119.787{set:cellbgcolor:transparent} |118.998{set:cellbgcolor:transparent} |179.374{set:cellbgcolor:transparent} |179.569{set:cellbgcolor:transparent}
-|stem:[\angle 2~3~4~5]{set:cellbgcolor:transparent}    |118.569{set:cellbgcolor:transparent} |178.983{set:cellbgcolor:transparent} |178.869{set:cellbgcolor:transparent} |178.955{set:cellbgcolor:transparent} |90.583{set:cellbgcolor:#FFFF80}      |-2.412{set:cellbgcolor:#8080FF}      |120.318{set:cellbgcolor:transparent} |60.563{set:cellbgcolor:transparent}  |179.547{set:cellbgcolor:transparent} |179.689{set:cellbgcolor:transparent} |179.646{set:cellbgcolor:transparent} |179.237{set:cellbgcolor:transparent} |-178.910{set:cellbgcolor:transparent}|179.545{set:cellbgcolor:transparent} |-113.224{set:cellbgcolor:#FF8080}    |-0.697{set:cellbgcolor:#8080FF}      |179.881{set:cellbgcolor:transparent} |121.215{set:cellbgcolor:transparent} |-179.409{set:cellbgcolor:transparent}|-179.933{set:cellbgcolor:transparent}
-|stem:[\angle 3~4~5~6]{set:cellbgcolor:transparent}    |94.671{set:cellbgcolor:transparent}  |-179.296{set:cellbgcolor:transparent}|62.271{set:cellbgcolor:transparent}  |-179.844{set:cellbgcolor:transparent}|-0.334{set:cellbgcolor:#8080FF}      |-172.482{set:cellbgcolor:transparent}|-177.456{set:cellbgcolor:transparent}|88.219{set:cellbgcolor:#FFFF80}      |-179.709{set:cellbgcolor:transparent}|-179.833{set:cellbgcolor:transparent}|179.343{set:cellbgcolor:transparent} |179.400{set:cellbgcolor:transparent} |-179.030{set:cellbgcolor:transparent}|91.263{set:cellbgcolor:#FFFF80}      |2.681{set:cellbgcolor:#8080FF}       |-173.419{set:cellbgcolor:transparent}|-179.600{set:cellbgcolor:transparent}|1.928{set:cellbgcolor:#8080FF}       |-179.670{set:cellbgcolor:transparent}|179.940{set:cellbgcolor:transparent}
-|stem:[\angle 4~5~6~7]{set:cellbgcolor:transparent}    |-0.751{set:cellbgcolor:#8080FF}      |-178.200{set:cellbgcolor:transparent}|86.290{set:cellbgcolor:#FFFF80}      |91.008{set:cellbgcolor:transparent}  |120.558{set:cellbgcolor:transparent} |63.686{set:cellbgcolor:transparent}  |61.436{set:cellbgcolor:transparent}  |-0.251{set:cellbgcolor:#8080FF}      |179.342{set:cellbgcolor:transparent} |179.664{set:cellbgcolor:transparent} |179.536{set:cellbgcolor:transparent} |-179.706{set:cellbgcolor:transparent}|90.609{set:cellbgcolor:#FFFF80}      |5.492{set:cellbgcolor:#8080FF}       |122.358{set:cellbgcolor:transparent} |60.049{set:cellbgcolor:transparent}  |179.625{set:cellbgcolor:transparent} |179.924{set:cellbgcolor:transparent} |91.024{set:cellbgcolor:transparent}  |91.807{set:cellbgcolor:transparent}
-|stem:[\angle 5~6~7~8]{set:cellbgcolor:transparent}    |-178.107{set:cellbgcolor:transparent}|91.097{set:cellbgcolor:transparent}  |2.364{set:cellbgcolor:#8080FF}       |4.687{set:cellbgcolor:#8080FF}       |152.373{set:cellbgcolor:transparent} |122.624{set:cellbgcolor:transparent} |91.580{set:cellbgcolor:transparent}  |124.453{set:cellbgcolor:transparent} |-179.218{set:cellbgcolor:transparent}|179.798{set:cellbgcolor:transparent} |61.704{set:cellbgcolor:transparent}  |92.001{set:cellbgcolor:#FFFF80}      |-1.429{set:cellbgcolor:#8080FF}      |120.173{set:cellbgcolor:transparent} |60.940{set:cellbgcolor:transparent}  |62.343{set:cellbgcolor:transparent}  |179.593{set:cellbgcolor:transparent} |-179.837{set:cellbgcolor:transparent}|-0.457{set:cellbgcolor:#8080FF}      |0.313{set:cellbgcolor:#8080FF}
-|stem:[\angle 6~7~8~9]{set:cellbgcolor:transparent}    |-179.739{set:cellbgcolor:transparent}|0.365{set:cellbgcolor:#8080FF}       |123.852{set:cellbgcolor:transparent} |-150.309{set:cellbgcolor:transparent}|2.117{set:cellbgcolor:#8080FF}       |5.317{set:cellbgcolor:#8080FF}       |4.251{set:cellbgcolor:#8080FF}       |127.823{set:cellbgcolor:transparent} |-179.014{set:cellbgcolor:transparent}|-178.260{set:cellbgcolor:transparent}|-119.262{set:cellbgcolor:#FF8080}    |3.837{set:cellbgcolor:#8080FF}       |124.939{set:cellbgcolor:transparent} |62.636{set:cellbgcolor:transparent}  |60.620{set:cellbgcolor:transparent}  |-175.704{set:cellbgcolor:transparent}|-178.193{set:cellbgcolor:transparent}|61.663{set:cellbgcolor:transparent}  |123.529{set:cellbgcolor:transparent} |122.732{set:cellbgcolor:transparent}
-|stem:[\angle 7~8~9~10]{set:cellbgcolor:transparent}   |61.510{set:cellbgcolor:transparent}  |123.757{set:cellbgcolor:transparent} |124.222{set:cellbgcolor:transparent} |6.872{set:cellbgcolor:#8080FF}       |-178.251{set:cellbgcolor:transparent}|151.397{set:cellbgcolor:transparent} |122.634{set:cellbgcolor:transparent} |2.541{set:cellbgcolor:#8080FF}       |90.700{set:cellbgcolor:#FFFF80}      |91.172{set:cellbgcolor:transparent}  |-96.117{set:cellbgcolor:#8080FF}     |-146.114{set:cellbgcolor:transparent}|128.365{set:cellbgcolor:transparent} |119.011{set:cellbgcolor:transparent} |124.355{set:cellbgcolor:transparent} |94.471{set:cellbgcolor:transparent}  |97.773{set:cellbgcolor:transparent}  |179.518{set:cellbgcolor:transparent} |124.960{set:cellbgcolor:transparent} |122.078{set:cellbgcolor:transparent}
-|stem:[\angle 8~9~10~11]{set:cellbgcolor:transparent}  |178.315{set:cellbgcolor:transparent} |123.637{set:cellbgcolor:transparent} |2.613{set:cellbgcolor:#8080FF}       |147.394{set:cellbgcolor:transparent} |-178.438{set:cellbgcolor:transparent}|-178.229{set:cellbgcolor:transparent}|-177.278{set:cellbgcolor:transparent}|64.875{set:cellbgcolor:transparent}  |7.319{set:cellbgcolor:#8080FF}       |36.981{set:cellbgcolor:#8080FF}      |-49.629{set:cellbgcolor:#8080FF}     |5.560{set:cellbgcolor:#8080FF}       |2.559{set:cellbgcolor:#8080FF}       |9.179{set:cellbgcolor:#8080FF}       |5.526{set:cellbgcolor:#8080FF}       |1.446{set:cellbgcolor:#8080FF}       |0.721{set:cellbgcolor:#8080FF}       |61.117{set:cellbgcolor:transparent}  |4.938{set:cellbgcolor:#8080FF}       |6.603{set:cellbgcolor:#8080FF}
-|stem:[\angle 9~10~11~12]{set:cellbgcolor:transparent} |178.859{set:cellbgcolor:transparent} |0.496{set:cellbgcolor:#8080FF}       |86.296{set:cellbgcolor:#FF8080}      |-179.268{set:cellbgcolor:transparent}|-179.970{set:cellbgcolor:transparent}|-179.349{set:cellbgcolor:transparent}|-179.513{set:cellbgcolor:transparent}|56.638{set:cellbgcolor:transparent}  |120.718{set:cellbgcolor:transparent} |40.428{set:cellbgcolor:#8080FF}      |89.324{set:cellbgcolor:transparent}  |120.288{set:cellbgcolor:transparent} |64.847{set:cellbgcolor:transparent}  |150.222{set:cellbgcolor:transparent} |121.904{set:cellbgcolor:transparent} |123.632{set:cellbgcolor:transparent} |97.582{set:cellbgcolor:transparent}  |179.733{set:cellbgcolor:transparent} |63.131{set:cellbgcolor:transparent}  |61.370{set:cellbgcolor:transparent}
-|stem:[\angle 10~11~12~13]{set:cellbgcolor:transparent}|179.932{set:cellbgcolor:transparent} |90.341{set:cellbgcolor:transparent}  |62.475{set:cellbgcolor:#FF8080}      |-178.627{set:cellbgcolor:transparent}|-179.954{set:cellbgcolor:transparent}|179.886{set:cellbgcolor:transparent} |179.820{set:cellbgcolor:transparent} |-174.853{set:cellbgcolor:transparent}|64.825{set:cellbgcolor:transparent}  |91.867{set:cellbgcolor:transparent}  |-179.480{set:cellbgcolor:transparent}|-179.054{set:cellbgcolor:transparent}|57.008{set:cellbgcolor:transparent}  |-177.879{set:cellbgcolor:transparent}|-176.042{set:cellbgcolor:transparent}|-177.018{set:cellbgcolor:transparent}|-178.099{set:cellbgcolor:transparent}|178.683{set:cellbgcolor:transparent} |56.841{set:cellbgcolor:transparent}  |57.466{set:cellbgcolor:transparent}
-|stem:[\angle 11~12~13~14]{set:cellbgcolor:transparent}|178.896{set:cellbgcolor:transparent} |-178.043{set:cellbgcolor:transparent}|179.727{set:cellbgcolor:#FF8080}     |179.676{set:cellbgcolor:transparent} |-179.959{set:cellbgcolor:transparent}|-179.981{set:cellbgcolor:transparent}|179.882{set:cellbgcolor:transparent} |-179.100{set:cellbgcolor:transparent}|119.499{set:cellbgcolor:transparent} |-178.559{set:cellbgcolor:transparent}|179.670{set:cellbgcolor:transparent} |-179.716{set:cellbgcolor:transparent}|-174.839{set:cellbgcolor:transparent}|-179.588{set:cellbgcolor:transparent}|-178.926{set:cellbgcolor:transparent}|-179.234{set:cellbgcolor:transparent}|179.657{set:cellbgcolor:transparent} |-179.465{set:cellbgcolor:transparent}|-176.050{set:cellbgcolor:transparent}|-176.874{set:cellbgcolor:transparent}
-|stem:[\angle 12~13~14~15]{set:cellbgcolor:transparent}|                                     |179.997{set:cellbgcolor:transparent} |-179.874{set:cellbgcolor:#FF8080}    |179.284{set:cellbgcolor:transparent} |179.416{set:cellbgcolor:transparent} |179.498{set:cellbgcolor:transparent} |179.092{set:cellbgcolor:transparent} |178.807{set:cellbgcolor:transparent} |7.675{set:cellbgcolor:#8080FF}       |179.815{set:cellbgcolor:transparent} |179.890{set:cellbgcolor:transparent} |179.781{set:cellbgcolor:transparent} |-178.777{set:cellbgcolor:transparent}|179.732{set:cellbgcolor:transparent} |179.283{set:cellbgcolor:transparent} |179.759{set:cellbgcolor:transparent} |179.561{set:cellbgcolor:transparent} |-179.744{set:cellbgcolor:transparent}|-178.867{set:cellbgcolor:transparent}|-179.107{set:cellbgcolor:transparent}
-|stem:[\angle 13~14~15~16]{set:cellbgcolor:transparent}|                                     |177.515{set:cellbgcolor:transparent} |178.042{set:cellbgcolor:#FF8080}     |178.561{set:cellbgcolor:transparent} |178.238{set:cellbgcolor:transparent} |177.831{set:cellbgcolor:transparent} |178.688{set:cellbgcolor:transparent} |-179.658{set:cellbgcolor:transparent}|88.745{set:cellbgcolor:#FF8080}      |179.491{set:cellbgcolor:transparent} |179.995{set:cellbgcolor:transparent} |-179.977{set:cellbgcolor:transparent}|178.817{set:cellbgcolor:transparent} |-179.917{set:cellbgcolor:transparent}|-179.751{set:cellbgcolor:transparent}|179.956{set:cellbgcolor:transparent} |-179.974{set:cellbgcolor:transparent}|179.728{set:cellbgcolor:transparent} |179.255{set:cellbgcolor:transparent} |179.391{set:cellbgcolor:transparent}
-|stem:[\angle 14~15~16~17]{set:cellbgcolor:transparent}|                                     |                                     |                                     |                                     |                                     |                                     |                                     |178.404{set:cellbgcolor:transparent} |59.688{set:cellbgcolor:#FF8080}      |179.452{set:cellbgcolor:transparent} |179.368{set:cellbgcolor:transparent} |179.103{set:cellbgcolor:transparent} |-179.832{set:cellbgcolor:transparent}|179.208{set:cellbgcolor:transparent} |178.829{set:cellbgcolor:transparent} |179.203{set:cellbgcolor:transparent} |178.801{set:cellbgcolor:transparent} |179.470{set:cellbgcolor:transparent} |-179.453{set:cellbgcolor:transparent}|-179.454{set:cellbgcolor:transparent}
-|stem:[\angle 15~16~17~18]{set:cellbgcolor:transparent}|                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |178.071{set:cellbgcolor:#FF8080}     |178.072{set:cellbgcolor:transparent} |178.227{set:cellbgcolor:transparent} |178.239{set:cellbgcolor:transparent} |178.400{set:cellbgcolor:transparent} |178.335{set:cellbgcolor:transparent} |178.854{set:cellbgcolor:transparent} |178.722{set:cellbgcolor:transparent} |178.872{set:cellbgcolor:transparent} |178.001{set:cellbgcolor:transparent} |178.964{set:cellbgcolor:transparent} |179.868{set:cellbgcolor:transparent}
-|stem:[\angle 16~17~18~19]{set:cellbgcolor:transparent}|                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |178.434{set:cellbgcolor:transparent} |179.162{set:cellbgcolor:transparent}
-|stem:[\angle 17~18~19~20]{set:cellbgcolor:transparent}|                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |177.804{set:cellbgcolor:transparent}
-|===
-
-=== stem:[\Delta9,12-14:2] (stem:[\omega2,5-14:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="17*"]
-|===
-|stem:[C_1]   |0.0000 |       |       |       |       |       |      |      |      |      |      |      |      |      |      |
-|stem:[C_2]   |1.4923 |0.0000 |       |       |       |       |      |      |      |      |      |      |      |      |      |
-|stem:[C_3]   |2.5069 |1.3412 |0.0000 |       |       |       |      |      |      |      |      |      |      |      |      |
-|stem:[C_4]   |3.0551 |2.5272 |1.5000 |0.0000 |       |       |      |      |      |      |      |      |      |      |      |
-|stem:[C_5]   |4.1514 |3.5798 |2.4843 |1.5001 |0.0000 |       |      |      |      |      |      |      |      |      |      |
-|stem:[C_6]   |5.3934 |4.6297 |3.3760 |2.5228 |1.3423 |0.0000 |      |      |      |      |      |      |      |      |      |
-|stem:[C_7]   |6.0024 |5.0510 |3.7100 |3.0552 |2.5150 |1.4981 |0.0000|      |      |      |      |      |      |      |      |
-|stem:[C_8]   |6.6703 |5.9258 |4.6351 |3.6719 |3.3740 |2.5217 |1.5300|0.0000|      |      |      |      |      |      |      |
-|stem:[C_9]   |7.5324 |6.6787 |5.4325 |4.7244 |4.7046 |3.8789 |2.5396|1.5326|0.0000|      |      |      |      |      |      |
-|stem:[C_{10}]|8.5983 |7.5805 |6.2949 |5.7671 |5.5062 |4.4380 |3.0272|2.5303|1.5259|0.0000|      |      |      |      |      |
-|stem:[C_{11}]|9.6355 |8.5770 |7.3628 |6.9745 |6.8932 |5.8968 |4.4365|3.8991|2.5414|1.5240|0.0000|      |      |      |      |
-|stem:[C_{12}]|10.7397|9.5811 |8.3537 |8.0674 |7.8122 |6.6962 |5.2997|5.0167|3.8704|2.4877|1.5286|0.0000|      |      |      |
-|stem:[C_{13}]|11.8800|10.7053|9.5392 |9.3364 |9.2067 |8.1444 |6.7099|6.3668|5.0687|3.8584|2.5296|1.5230|0.0000|      |      |
-|stem:[C_{14}]|13.0241|11.7855|10.6131|10.4701|10.2114|9.0787 |7.7147|7.5210|6.3518|4.9937|3.8711|2.5064|1.5127|0.0000|      |
-|stem:[O_{15}]|13.1343|11.8668|10.6664|10.5243|10.1064|8.9102 |7.6493|7.6021|6.6202|5.1472|4.3267|2.8080|2.4326|1.2184|0.0000|
-|stem:[O_{16}]|14.0794|12.8377|11.7087|11.6124|11.4416|10.3455|8.9485|8.7035|7.4429|6.1764|4.9071|3.7116|2.3790|1.3533|2.2538|0.0000
-|===
-====
-
-.Atomic charges
-[%collapsible]
-====
-.Atomic charges
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1]   |0.0303586426
-|stem:[C_2]   |-0.0300191824
-|stem:[C_3]   |-0.0259961152
-|stem:[C_4]   |0.0513131771
-|stem:[C_5]   |-0.0260066415
-|stem:[C_6]   |-0.0303672118
-|stem:[C_7]   |0.0257058247
-|stem:[C_8]   |0.0046562546
-|stem:[C_9]   |0.0003445860
-|stem:[C_{10}]|0.0000242333
-|stem:[C_{11}]|0.0005728741
-|stem:[C_{12}]|0.0118027322
-|stem:[C_{13}]|0.1140592609
-|stem:[C_{14}]|0.3648592658
-|stem:[O_{15}]|-0.2456538502
-|stem:[O_{16}]|-0.2456538502
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-0.081
-|2-3-4-5    |118.569
-|3-4-5-6    |94.671
-|4-5-6-7    |-0.751
-|5-6-7-8    |-178.107
-|6-7-8-9    |-179.739
-|7-8-9-10   |61.510
-|8-9-10-11  |178.315
-|9-10-11-12 |178.859
-|10-11-12-13|179.932
-|11-12-13-14|178.896
-|12-13-14-15|-27.312
-|12-13-14-16|154.883
-|===
-====
-
-=== stem:[\Delta6,9-16:2] (stem:[\omega7,10-16:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-179.871
-|2-3-4-5    |178.983
-|3-4-5-6    |-179.296
-|4-5-6-7    |-178.200
-|5-6-7-8    |91.097
-|6-7-8-9    |0.365
-|7-8-9-10   |123.757
-|8-9-10-11  |123.637
-|9-10-11-12 |0.496
-|10-11-12-13|90.341
-|11-12-13-14|-178.043
-|12-13-14-15|179.997
-|13-14-15-16|177.515
-|14-15-16-17|3.574
-|14-15-16-18|-176.833
-|===
-====
-
-=== stem:[\Delta7,10-16:2] stem:[\omega6,9-16:2]
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-179.301
-|2-3-4-5    |178.869
-|3-4-5-6    |62.271
-|4-5-6-7    |86.290
-|5-6-7-8    |2.364
-|6-7-8-9    |123.852
-|7-8-9-10   |124.222
-|8-9-10-11  |2.613
-|9-10-11-12 |86.296
-|10-11-12-13|62.475
-|11-12-13-14|179.727
-|12-13-14-15|-179.874
-|13-14-15-16|178.042
-|14-15-16-17|-24.798
-|14-15-16-18|157.242
-|===
-====
-
-=== stem:[\Delta8,10-16:2] (stem:[\omega6,8-16:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |179.717
-|2-3-4-5    |178.955
-|3-4-5-6    |-179.844
-|4-5-6-7    |91.008
-|5-6-7-8    |4.687
-|6-7-8-9    |-150.309
-|7-8-9-10   |6.872
-|8-9-10-11  |147.394
-|9-10-11-12 |-179.268
-|10-11-12-13|-178.627
-|11-12-13-14|179.676
-|12-13-14-15|179.284
-|13-14-15-16|178.561
-|14-15-16-17|-25.788
-|14-15-16-18|156.289
-|===
-====
-
-=== stem:[\Delta9,12-16:2] (stem:[\omega4,7-16:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-179.238
-|2-3-4-5    |90.583
-|3-4-5-6    |-0.334
-|4-5-6-7    |120.558
-|5-6-7-8    |152.373
-|6-7-8-9    |2.117
-|7-8-9-10   |-178.251
-|8-9-10-11  |-178.438
-|9-10-11-12 |-179.970
-|10-11-12-13|-179.954
-|11-12-13-14|-179.959
-|12-13-14-15|179.416
-|13-14-15-16|178.238
-|14-15-16-17|3.927
-|14-15-16-18|-176.388
-|===
-====
-
-=== stem:[\Delta9,13-16:2] (stem:[\omega3,7-16:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |122.348
-|2-3-4-5    |-2.412
-|3-4-5-6    |-172.482
-|4-5-6-7    |63.686
-|5-6-7-8    |122.624
-|6-7-8-9    |5.317
-|7-8-9-10   |151.397
-|8-9-10-11  |-178.229
-|9-10-11-12 |-179.349
-|10-11-12-13|179.886
-|11-12-13-14|-179.981
-|12-13-14-15|179.498
-|13-14-15-16|177.831
-|14-15-16-17|3.662
-|14-15-16-18|-176.827
-|===
-====
-
-=== stem:[\Delta9,14-16:2] (stem:[\omega2,7-16:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |0.238
-|2-3-4-5    |120.318
-|3-4-5-6    |-177.456
-|4-5-6-7    |61.436
-|5-6-7-8    |91.580
-|6-7-8-9    |4.251
-|7-8-9-10   |122.634
-|8-9-10-11  |-177.278
-|9-10-11-12 |-179.513
-|10-11-12-13|179.820
-|11-12-13-14|179.882
-|12-13-14-15|179.092
-|13-14-15-16|178.688
-|14-15-16-17|-26.555
-|14-15-16-18|155.580
-|===
-====
-
-=== stem:[\Delta9,12-17:2] (stem:[\omega5,8-17:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |178.685
-|2-3-4-5    |60.563
-|3-4-5-6    |88.219
-|4-5-6-7    |-0.251
-|5-6-7-8    |124.453
-|6-7-8-9    |127.823
-|7-8-9-10   |2.541
-|8-9-10-11  |64.875
-|9-10-11-12 |56.638
-|10-11-12-13|-174.853
-|11-12-13-14|-179.100
-|12-13-14-15|178.807
-|13-14-15-16|-179.658
-|14-15-16-17|178.404
-|15-16-17-18|-24.123
-|15-16-17-19|157.777
-|===
-====
-
-=== stem:[\Delta5,9-18:2] stem:[\omega9,13-18:2]
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-179.791
-|2-3-4-5    |179.547
-|3-4-5-6    |-179.709
-|4-5-6-7    |179.342
-|5-6-7-8    |-179.218
-|6-7-8-9    |-179.014
-|7-8-9-10   |90.700
-|8-9-10-11  |7.319
-|9-10-11-12 |120.718
-|10-11-12-13|64.825
-|11-12-13-14|119.499
-|12-13-14-15|7.675
-|13-14-15-16|88.745
-|14-15-16-17|59.688
-|15-16-17-18|178.071
-|16-17-18-19|-27.172
-|16-17-18-20|154.765
-|===
-====
-
-=== stem:[\Delta8,9-18:2] (stem:[\omega9,10-18:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-179.925
-|2-3-4-5    |179.689
-|3-4-5-6    |-179.833
-|4-5-6-7    |179.664
-|5-6-7-8    |179.798
-|6-7-8-9    |-178.260
-|7-8-9-10   |91.172
-|8-9-10-11  |36.981
-|9-10-11-12 |40.428
-|10-11-12-13|91.867
-|11-12-13-14|-178.559
-|12-13-14-15|179.815
-|13-14-15-16|179.491
-|14-15-16-17|179.452
-|15-16-17-18|178.072
-|16-17-18-19|3.770
-|16-17-18-20|-176.425
-|===
-====
-
-=== stem:[\Delta9,10-18:2] (stem:[\omega8,9-18:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-179.847
-|2-3-4-5    |179.646
-|3-4-5-6    |179.343
-|4-5-6-7    |179.536
-|5-6-7-8    |61.704
-|6-7-8-9    |-119.262
-|7-8-9-10   |-96.117
-|8-9-10-11  |-49.629
-|9-10-11-12 |89.324
-|10-11-12-13|-179.480
-|11-12-13-14|179.670
-|12-13-14-15|179.890
-|13-14-15-16|179.995
-|14-15-16-17|179.368
-|15-16-17-18|178.227
-|16-17-18-19|3.456
-|16-17-18-20|-176.590
-|===
-====
-
-=== stem:[\Delta9,11-18:2] stem:[\omega7,9-18:2]
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-179.921
-|2-3-4-5    |179.237
-|3-4-5-6    |179.400
-|4-5-6-7    |-179.706
-|5-6-7-8    |92.001
-|6-7-8-9    |3.837
-|7-8-9-10   |-146.114
-|8-9-10-11  |5.560
-|9-10-11-12 |120.288
-|10-11-12-13|-179.054
-|11-12-13-14|-179.716
-|12-13-14-15|179.781
-|13-14-15-16|-179.977
-|14-15-16-17|179.103
-|15-16-17-18|178.239
-|16-17-18-19|-25.660
-|16-17-18-20|156.397
-|===
-====
-
-=== stem:[\Delta9,12-18:2] (stem:[\omega6,9-18:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |179.102
-|2-3-4-5    |-178.910
-|3-4-5-6    |-179.030
-|4-5-6-7    |90.609
-|5-6-7-8    |-1.429
-|6-7-8-9    |124.939
-|7-8-9-10   |128.365
-|8-9-10-11  |2.559
-|9-10-11-12 |64.847
-|10-11-12-13|57.008
-|11-12-13-14|-174.839
-|12-13-14-15|-178.777
-|13-14-15-16|178.817
-|14-15-16-17|-179.832
-|15-16-17-18|178.400
-|16-17-18-19|-24.962
-|16-17-18-20|156.942
-|===
-====
-
-=== stem:[\Delta9,13-18:2] (stem:[\omega5,9-18:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |-179.862
-|2-3-4-5    |179.545
-|3-4-5-6    |91.263
-|4-5-6-7    |5.492
-|5-6-7-8    |120.173
-|6-7-8-9    |62.636
-|7-8-9-10   |119.011
-|8-9-10-11  |9.179
-|9-10-11-12 |150.222
-|10-11-12-13|-177.879
-|11-12-13-14|-179.588
-|12-13-14-15|179.732
-|13-14-15-16|-179.917
-|14-15-16-17|179.208
-|15-16-17-18|178.335
-|16-17-18-19|-27.612
-|16-17-18-20|154.468
-|===
-====
-
-=== stem:[\Delta9,14-18:2] (stem:[\omega4,9-18:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |179.768
-|2-3-4-5    |-113.224
-|3-4-5-6    |2.681
-|4-5-6-7    |122.358
-|5-6-7-8    |60.940
-|6-7-8-9    |60.620
-|7-8-9-10   |124.355
-|8-9-10-11  |5.526
-|9-10-11-12 |121.904
-|10-11-12-13|-176.042
-|11-12-13-14|-178.926
-|12-13-14-15|179.283
-|13-14-15-16|-179.751
-|14-15-16-17|178.829
-|15-16-17-18|178.854
-|16-17-18-19|-25.602
-|16-17-18-20|156.188
-|===
-====
-
-=== stem:[\Delta9,15-18:2] (stem:[\omega3,9-18:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |122.585
-|2-3-4-5    |-0.697
-|3-4-5-6    |-173.419
-|4-5-6-7    |60.049
-|5-6-7-8    |62.343
-|6-7-8-9    |-175.704
-|7-8-9-10   |94.471
-|8-9-10-11  |1.446
-|9-10-11-12 |123.632
-|10-11-12-13|-177.018
-|11-12-13-14|-179.234
-|12-13-14-15|179.759
-|13-14-15-16|179.956
-|14-15-16-17|179.203
-|15-16-17-18|178.722
-|16-17-18-19|-25.138
-|16-17-18-20|156.832
-|===
-====
-
-=== stem:[\Delta9,17-18:2] (stem:[\omega1,9-18:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |119.787
-|2-3-4-5    |179.881
-|3-4-5-6    |-179.600
-|4-5-6-7    |179.625
-|5-6-7-8    |179.593
-|6-7-8-9    |-178.193
-|7-8-9-10   |97.773
-|8-9-10-11  |0.721
-|9-10-11-12 |97.582
-|10-11-12-13|-178.099
-|11-12-13-14|179.657
-|12-13-14-15|179.561
-|13-14-15-16|-179.974
-|14-15-16-17|178.801
-|15-16-17-18|178.872
-|16-17-18-19|-25.262
-|16-17-18-20|156.806
-|===
-====
-
-=== stem:[\Delta14,17-18:2] (stem:[\omega1,4-18:2])
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |118.998
-|2-3-4-5    |121.215
-|3-4-5-6    |1.928
-|4-5-6-7    |179.924
-|5-6-7-8    |-179.837
-|6-7-8-9    |61.663
-|7-8-9-10   |179.518
-|8-9-10-11  |61.117
-|9-10-11-12 |179.733
-|10-11-12-13|178.683
-|11-12-13-14|-179.465
-|12-13-14-15|-179.744
-|13-14-15-16|179.728
-|14-15-16-17|179.470
-|15-16-17-18|178.001
-|16-17-18-19|-26.620
-|16-17-18-20|155.490
-|===
-====
-
-=== stem:[\Delta10,13-19:2] stem:[\omega6,9-19:2]
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |179.374
-|2-3-4-5    |-179.409
-|3-4-5-6    |-179.670
-|4-5-6-7    |91.024
-|5-6-7-8    |-0.457
-|6-7-8-9    |123.529
-|7-8-9-10   |124.960
-|8-9-10-11  |4.938
-|9-10-11-12 |63.131
-|10-11-12-13|56.841
-|11-12-13-14|-176.050
-|12-13-14-15|-178.867
-|13-14-15-16|179.255
-|14-15-16-17|-179.453
-|15-16-17-18|178.964
-|16-17-18-19|178.434
-|17-18-19-20|-26.219
-|17-18-19-21|156.096
-|===
-====
-
-=== stem:[\Delta11,14-20:2] stem:[\omega6,9-20:2]
-
-.Interatomic distances
-[%collapsible]
-====
-.Interatomic distances
-[%autowidth]
-[cols="2*"]
-|===
-|stem:[C_1] |0.0
-|===
-====
-
-.Torsion angles
-[%collapsible]
-====
-.Torsion angles
-[%autowidth]
-[cols="2*"]
-|===
-|1-2-3-4    |179.569
-|2-3-4-5    |-179.933
-|3-4-5-6    |179.940
-|4-5-6-7    |91.807
-|5-6-7-8    |0.313
-|6-7-8-9    |122.732
-|7-8-9-10   |122.078
-|8-9-10-11  |6.603
-|9-10-11-12 |61.370
-|10-11-12-13|57.466
-|11-12-13-14|-176.874
-|12-13-14-15|-179.107
-|13-14-15-16|179.391
-|14-15-16-17|-179.454
-|15-16-17-18|179.868
-|16-17-18-19|179.162
-|17-18-19-20|177.804
-|18-19-20-21|-26.453
-|18-19-20-22|156.029
+|Angle{set:cellbgcolor:transparent}                    |stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent}|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent}|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}
+|stem:[\angle 1~2~3~4]{set:cellbgcolor:transparent}    |-0.081{set:cellbgcolor:#8080FF}                                         |-179.871{set:cellbgcolor:transparent}                                   |-179.301{set:cellbgcolor:transparent}                            |179.717{set:cellbgcolor:transparent}                                    |-179.238{set:cellbgcolor:transparent}                               |122.348{set:cellbgcolor:#FF8080}                                        |0.238{set:cellbgcolor:#8080FF}                                          |178.685{set:cellbgcolor:transparent}                                |-179.791{set:cellbgcolor:transparent}                            |-179.925{set:cellbgcolor:transparent}                                   |-179.847{set:cellbgcolor:transparent}                                   |-179.921{set:cellbgcolor:transparent}                            |179.102{set:cellbgcolor:transparent}                                |-179.862{set:cellbgcolor:transparent}                               |179.768{set:cellbgcolor:transparent}                                    |122.585{set:cellbgcolor:#FF8080}                                        |119.787{set:cellbgcolor:transparent}                                    |118.998{set:cellbgcolor:transparent}                                     |179.374{set:cellbgcolor:transparent}                                     |179.569{set:cellbgcolor:transparent}
+|stem:[\angle 2~3~4~5]{set:cellbgcolor:transparent}    |118.569{set:cellbgcolor:transparent}                                    |178.983{set:cellbgcolor:transparent}                                    |178.869{set:cellbgcolor:transparent}                             |178.955{set:cellbgcolor:transparent}                                    |90.583{set:cellbgcolor:#FFFF80}                                     |-2.412{set:cellbgcolor:#8080FF}                                         |120.318{set:cellbgcolor:transparent}                                    |60.563{set:cellbgcolor:transparent}                                 |179.547{set:cellbgcolor:transparent}                             |179.689{set:cellbgcolor:transparent}                                    |179.646{set:cellbgcolor:transparent}                                    |179.237{set:cellbgcolor:transparent}                             |-178.910{set:cellbgcolor:transparent}                               |179.545{set:cellbgcolor:transparent}                                |-113.224{set:cellbgcolor:#FF8080}                                       |-0.697{set:cellbgcolor:#8080FF}                                         |179.881{set:cellbgcolor:transparent}                                    |121.215{set:cellbgcolor:transparent}                                     |-179.409{set:cellbgcolor:transparent}                                    |-179.933{set:cellbgcolor:transparent}
+|stem:[\angle 3~4~5~6]{set:cellbgcolor:transparent}    |94.671{set:cellbgcolor:transparent}                                     |-179.296{set:cellbgcolor:transparent}                                   |62.271{set:cellbgcolor:transparent}                              |-179.844{set:cellbgcolor:transparent}                                   |-0.334{set:cellbgcolor:#8080FF}                                     |-172.482{set:cellbgcolor:transparent}                                   |-177.456{set:cellbgcolor:transparent}                                   |88.219{set:cellbgcolor:#FFFF80}                                     |-179.709{set:cellbgcolor:transparent}                            |-179.833{set:cellbgcolor:transparent}                                   |179.343{set:cellbgcolor:transparent}                                    |179.400{set:cellbgcolor:transparent}                             |-179.030{set:cellbgcolor:transparent}                               |91.263{set:cellbgcolor:#FFFF80}                                     |2.681{set:cellbgcolor:#8080FF}                                          |-173.419{set:cellbgcolor:transparent}                                   |-179.600{set:cellbgcolor:transparent}                                   |1.928{set:cellbgcolor:#8080FF}                                           |-179.670{set:cellbgcolor:transparent}                                    |179.940{set:cellbgcolor:transparent}
+|stem:[\angle 4~5~6~7]{set:cellbgcolor:transparent}    |-0.751{set:cellbgcolor:#8080FF}                                         |-178.200{set:cellbgcolor:transparent}                                   |86.290{set:cellbgcolor:#FFFF80}                                  |91.008{set:cellbgcolor:transparent}                                     |120.558{set:cellbgcolor:transparent}                                |63.686{set:cellbgcolor:transparent}                                     |61.436{set:cellbgcolor:transparent}                                     |-0.251{set:cellbgcolor:#8080FF}                                     |179.342{set:cellbgcolor:transparent}                             |179.664{set:cellbgcolor:transparent}                                    |179.536{set:cellbgcolor:transparent}                                    |-179.706{set:cellbgcolor:transparent}                            |90.609{set:cellbgcolor:#FFFF80}                                     |5.492{set:cellbgcolor:#8080FF}                                      |122.358{set:cellbgcolor:transparent}                                    |60.049{set:cellbgcolor:transparent}                                     |179.625{set:cellbgcolor:transparent}                                    |179.924{set:cellbgcolor:transparent}                                     |91.024{set:cellbgcolor:transparent}                                      |91.807{set:cellbgcolor:transparent}
+|stem:[\angle 5~6~7~8]{set:cellbgcolor:transparent}    |-178.107{set:cellbgcolor:transparent}                                   |91.097{set:cellbgcolor:transparent}                                     |2.364{set:cellbgcolor:#8080FF}                                   |4.687{set:cellbgcolor:#8080FF}                                          |152.373{set:cellbgcolor:transparent}                                |122.624{set:cellbgcolor:transparent}                                    |91.580{set:cellbgcolor:transparent}                                     |124.453{set:cellbgcolor:transparent}                                |-179.218{set:cellbgcolor:transparent}                            |179.798{set:cellbgcolor:transparent}                                    |61.704{set:cellbgcolor:transparent}                                     |92.001{set:cellbgcolor:#FFFF80}                                  |-1.429{set:cellbgcolor:#8080FF}                                     |120.173{set:cellbgcolor:transparent}                                |60.940{set:cellbgcolor:transparent}                                     |62.343{set:cellbgcolor:transparent}                                     |179.593{set:cellbgcolor:transparent}                                    |-179.837{set:cellbgcolor:transparent}                                    |-0.457{set:cellbgcolor:#8080FF}                                          |0.313{set:cellbgcolor:#8080FF}
+|stem:[\angle 6~7~8~9]{set:cellbgcolor:transparent}    |-179.739{set:cellbgcolor:transparent}                                   |0.365{set:cellbgcolor:#8080FF}                                          |123.852{set:cellbgcolor:transparent}                             |-150.309{set:cellbgcolor:transparent}                                   |2.117{set:cellbgcolor:#8080FF}                                      |5.317{set:cellbgcolor:#8080FF}                                          |4.251{set:cellbgcolor:#8080FF}                                          |127.823{set:cellbgcolor:transparent}                                |-179.014{set:cellbgcolor:transparent}                            |-178.260{set:cellbgcolor:transparent}                                   |-119.262{set:cellbgcolor:#FF8080}                                       |3.837{set:cellbgcolor:#8080FF}                                   |124.939{set:cellbgcolor:transparent}                                |62.636{set:cellbgcolor:transparent}                                 |60.620{set:cellbgcolor:transparent}                                     |-175.704{set:cellbgcolor:transparent}                                   |-178.193{set:cellbgcolor:transparent}                                   |61.663{set:cellbgcolor:transparent}                                      |123.529{set:cellbgcolor:transparent}                                     |122.732{set:cellbgcolor:transparent}
+|stem:[\angle 7~8~9~10]{set:cellbgcolor:transparent}   |61.510{set:cellbgcolor:transparent}                                     |123.757{set:cellbgcolor:transparent}                                    |124.222{set:cellbgcolor:transparent}                             |6.872{set:cellbgcolor:#8080FF}                                          |-178.251{set:cellbgcolor:transparent}                               |151.397{set:cellbgcolor:transparent}                                    |122.634{set:cellbgcolor:transparent}                                    |2.541{set:cellbgcolor:#8080FF}                                      |90.700{set:cellbgcolor:#FFFF80}                                  |91.172{set:cellbgcolor:transparent}                                     |-96.117{set:cellbgcolor:#8080FF}                                        |-146.114{set:cellbgcolor:transparent}                            |128.365{set:cellbgcolor:transparent}                                |119.011{set:cellbgcolor:transparent}                                |124.355{set:cellbgcolor:transparent}                                    |94.471{set:cellbgcolor:transparent}                                     |97.773{set:cellbgcolor:transparent}                                     |179.518{set:cellbgcolor:transparent}                                     |124.960{set:cellbgcolor:transparent}                                     |122.078{set:cellbgcolor:transparent}
+|stem:[\angle 8~9~10~11]{set:cellbgcolor:transparent}  |178.315{set:cellbgcolor:transparent}                                    |123.637{set:cellbgcolor:transparent}                                    |2.613{set:cellbgcolor:#8080FF}                                   |147.394{set:cellbgcolor:transparent}                                    |-178.438{set:cellbgcolor:transparent}                               |-178.229{set:cellbgcolor:transparent}                                   |-177.278{set:cellbgcolor:transparent}                                   |64.875{set:cellbgcolor:transparent}                                 |7.319{set:cellbgcolor:#8080FF}                                   |36.981{set:cellbgcolor:#8080FF}                                         |-49.629{set:cellbgcolor:#8080FF}                                        |5.560{set:cellbgcolor:#8080FF}                                   |2.559{set:cellbgcolor:#8080FF}                                      |9.179{set:cellbgcolor:#8080FF}                                      |5.526{set:cellbgcolor:#8080FF}                                          |1.446{set:cellbgcolor:#8080FF}                                          |0.721{set:cellbgcolor:#8080FF}                                          |61.117{set:cellbgcolor:transparent}                                      |4.938{set:cellbgcolor:#8080FF}                                           |6.603{set:cellbgcolor:#8080FF}
+|stem:[\angle 9~10~11~12]{set:cellbgcolor:transparent} |178.859{set:cellbgcolor:transparent}                                    |0.496{set:cellbgcolor:#8080FF}                                          |86.296{set:cellbgcolor:#FF8080}                                  |-179.268{set:cellbgcolor:transparent}                                   |-179.970{set:cellbgcolor:transparent}                               |-179.349{set:cellbgcolor:transparent}                                   |-179.513{set:cellbgcolor:transparent}                                   |56.638{set:cellbgcolor:transparent}                                 |120.718{set:cellbgcolor:transparent}                             |40.428{set:cellbgcolor:#8080FF}                                         |89.324{set:cellbgcolor:transparent}                                     |120.288{set:cellbgcolor:transparent}                             |64.847{set:cellbgcolor:transparent}                                 |150.222{set:cellbgcolor:transparent}                                |121.904{set:cellbgcolor:transparent}                                    |123.632{set:cellbgcolor:transparent}                                    |97.582{set:cellbgcolor:transparent}                                     |179.733{set:cellbgcolor:transparent}                                     |63.131{set:cellbgcolor:transparent}                                      |61.370{set:cellbgcolor:transparent}
+|stem:[\angle 10~11~12~13]{set:cellbgcolor:transparent}|179.932{set:cellbgcolor:transparent}                                    |90.341{set:cellbgcolor:transparent}                                     |62.475{set:cellbgcolor:#FF8080}                                  |-178.627{set:cellbgcolor:transparent}                                   |-179.954{set:cellbgcolor:transparent}                               |179.886{set:cellbgcolor:transparent}                                    |179.820{set:cellbgcolor:transparent}                                    |-174.853{set:cellbgcolor:transparent}                               |64.825{set:cellbgcolor:transparent}                              |91.867{set:cellbgcolor:transparent}                                     |-179.480{set:cellbgcolor:transparent}                                   |-179.054{set:cellbgcolor:transparent}                            |57.008{set:cellbgcolor:transparent}                                 |-177.879{set:cellbgcolor:transparent}                               |-176.042{set:cellbgcolor:transparent}                                   |-177.018{set:cellbgcolor:transparent}                                   |-178.099{set:cellbgcolor:transparent}                                   |178.683{set:cellbgcolor:transparent}                                     |56.841{set:cellbgcolor:transparent}                                      |57.466{set:cellbgcolor:transparent}
+|stem:[\angle 11~12~13~14]{set:cellbgcolor:transparent}|178.896{set:cellbgcolor:transparent}                                    |-178.043{set:cellbgcolor:transparent}                                   |179.727{set:cellbgcolor:#FF8080}                                 |179.676{set:cellbgcolor:transparent}                                    |-179.959{set:cellbgcolor:transparent}                               |-179.981{set:cellbgcolor:transparent}                                   |179.882{set:cellbgcolor:transparent}                                    |-179.100{set:cellbgcolor:transparent}                               |119.499{set:cellbgcolor:transparent}                             |-178.559{set:cellbgcolor:transparent}                                   |179.670{set:cellbgcolor:transparent}                                    |-179.716{set:cellbgcolor:transparent}                            |-174.839{set:cellbgcolor:transparent}                               |-179.588{set:cellbgcolor:transparent}                               |-178.926{set:cellbgcolor:transparent}                                   |-179.234{set:cellbgcolor:transparent}                                   |179.657{set:cellbgcolor:transparent}                                    |-179.465{set:cellbgcolor:transparent}                                    |-176.050{set:cellbgcolor:transparent}                                    |-176.874{set:cellbgcolor:transparent}
+|stem:[\angle 12~13~14~15]{set:cellbgcolor:transparent}|                                                                        |179.997{set:cellbgcolor:transparent}                                    |-179.874{set:cellbgcolor:#FF8080}                                |179.284{set:cellbgcolor:transparent}                                    |179.416{set:cellbgcolor:transparent}                                |179.498{set:cellbgcolor:transparent}                                    |179.092{set:cellbgcolor:transparent}                                    |178.807{set:cellbgcolor:transparent}                                |7.675{set:cellbgcolor:#8080FF}                                   |179.815{set:cellbgcolor:transparent}                                    |179.890{set:cellbgcolor:transparent}                                    |179.781{set:cellbgcolor:transparent}                             |-178.777{set:cellbgcolor:transparent}                               |179.732{set:cellbgcolor:transparent}                                |179.283{set:cellbgcolor:transparent}                                    |179.759{set:cellbgcolor:transparent}                                    |179.561{set:cellbgcolor:transparent}                                    |-179.744{set:cellbgcolor:transparent}                                    |-178.867{set:cellbgcolor:transparent}                                    |-179.107{set:cellbgcolor:transparent}
+|stem:[\angle 13~14~15~16]{set:cellbgcolor:transparent}|                                                                        |177.515{set:cellbgcolor:transparent}                                    |178.042{set:cellbgcolor:#FF8080}                                 |178.561{set:cellbgcolor:transparent}                                    |178.238{set:cellbgcolor:transparent}                                |177.831{set:cellbgcolor:transparent}                                    |178.688{set:cellbgcolor:transparent}                                    |-179.658{set:cellbgcolor:transparent}                               |88.745{set:cellbgcolor:#FF8080}                                  |179.491{set:cellbgcolor:transparent}                                    |179.995{set:cellbgcolor:transparent}                                    |-179.977{set:cellbgcolor:transparent}                            |178.817{set:cellbgcolor:transparent}                                |-179.917{set:cellbgcolor:transparent}                               |-179.751{set:cellbgcolor:transparent}                                   |179.956{set:cellbgcolor:transparent}                                    |-179.974{set:cellbgcolor:transparent}                                   |179.728{set:cellbgcolor:transparent}                                     |179.255{set:cellbgcolor:transparent}                                     |179.391{set:cellbgcolor:transparent}
+|stem:[\angle 14~15~16~17]{set:cellbgcolor:transparent}|                                                                        |                                                                        |                                                                 |                                                                        |                                                                    |                                                                        |                                                                        |178.404{set:cellbgcolor:transparent}                                |59.688{set:cellbgcolor:#FF8080}                                  |179.452{set:cellbgcolor:transparent}                                    |179.368{set:cellbgcolor:transparent}                                    |179.103{set:cellbgcolor:transparent}                             |-179.832{set:cellbgcolor:transparent}                               |179.208{set:cellbgcolor:transparent}                                |178.829{set:cellbgcolor:transparent}                                    |179.203{set:cellbgcolor:transparent}                                    |178.801{set:cellbgcolor:transparent}                                    |179.470{set:cellbgcolor:transparent}                                     |-179.453{set:cellbgcolor:transparent}                                    |-179.454{set:cellbgcolor:transparent}
+|stem:[\angle 15~16~17~18]{set:cellbgcolor:transparent}|                                                                        |                                                                        |                                                                 |                                                                        |                                                                    |                                                                        |                                                                        |                                                                    |178.071{set:cellbgcolor:#FF8080}                                 |178.072{set:cellbgcolor:transparent}                                    |178.227{set:cellbgcolor:transparent}                                    |178.239{set:cellbgcolor:transparent}                             |178.400{set:cellbgcolor:transparent}                                |178.335{set:cellbgcolor:transparent}                                |178.854{set:cellbgcolor:transparent}                                    |178.722{set:cellbgcolor:transparent}                                    |178.872{set:cellbgcolor:transparent}                                    |178.001{set:cellbgcolor:transparent}                                     |178.964{set:cellbgcolor:transparent}                                     |179.868{set:cellbgcolor:transparent}
+|stem:[\angle 16~17~18~19]{set:cellbgcolor:transparent}|                                                                        |                                                                        |                                                                 |                                                                        |                                                                    |                                                                        |                                                                        |                                                                    |                                                                 |                                                                        |                                                                        |                                                                 |                                                                    |                                                                    |                                                                        |                                                                        |                                                                        |                                                                         |178.434{set:cellbgcolor:transparent}                                     |179.162{set:cellbgcolor:transparent}
+|stem:[\angle 17~18~19~20]{set:cellbgcolor:transparent}|                                                                        |                                                                        |                                                                 |                                                                        |                                                                    |                                                                        |                                                                        |                                                                    |                                                                 |                                                                        |                                                                        |                                                                 |                                                                    |                                                                    |                                                                        |                                                                        |                                                                        |                                                                         |                                                                         |177.804{set:cellbgcolor:transparent}
 |===
 ====
 
