@@ -1,6 +1,6 @@
 = Нахождение общих геометрических параметров для ряда изомеров
 :page-categories: [Experiment]
-:page-update: [23, 24]
+:page-update: [2024-05-23, 2024-05-24]
 :stem: latexmath
 
 [%autowidth]
@@ -86,10 +86,10 @@
 [cols="3*"]
 |===
 |ID                    |FROM                                           |TO
-|stem:[\Delta9,12-16:2]|image:/assets/posts/2024-05-22/2꞉16-Δ9,12.svg[]|image:/assets/posts/2024-05-22/3꞉16-Δ9,12,15.svg[]
-|stem:[\Delta9,12-17:2]|image:/assets/posts/2024-05-22/2꞉17-Δ9,12.svg[]|image:/assets/posts/2024-05-22/3꞉17-Δ9,12,15.svg[]
-|stem:[\Delta9,12-18:2]|image:/assets/posts/2024-05-22/2꞉18-Δ9,12.svg[]|image:/assets/posts/2024-05-22/3꞉18-Δ9,12,15.svg[]
-|stem:[\Delta9,13-18:2]|image:/assets/posts/2024-05-22/2꞉18-Δ9,13.svg[]|image:/assets/posts/2024-05-22/3꞉18-Δ9,13,16.svg[]
+|stem:[\Delta9,12-16:2]|image:/assets/posts/2024-05-22/2꞉16-Δ9,12ω4,7.svg[]|image:/assets/posts/2024-05-22/3꞉16-Δ9,12,15.svg[]
+|stem:[\Delta9,12-17:2]|image:/assets/posts/2024-05-22/2꞉17-Δ9,12ω5,8.svg[]|image:/assets/posts/2024-05-22/3꞉17-Δ9,12,15.svg[]
+|stem:[\Delta9,12-18:2]|image:/assets/posts/2024-05-22/2꞉18-Δ9,12ω6,9.svg[]|image:/assets/posts/2024-05-22/3꞉18-Δ9,12,15.svg[]
+|stem:[\Delta9,13-18:2]|image:/assets/posts/2024-05-22/2꞉18-Δ9,13ω5,9.svg[]|image:/assets/posts/2024-05-22/3꞉18-Δ9,13,16.svg[]
 |===
 ====
 

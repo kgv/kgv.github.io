@@ -1,0 +1,19 @@
+= BLCS
+:page-description: Bioreactor logging and control system.
+:page-excerpt: Bioreactor logging and control system
+:page-liquid:
+
+video::https://github.com/ippras/plotter/raw/gh-pages/doc/video.mp4[opts="autoplay,loop,muted,nocontrols",width=256]
+
+Bioreactor logging and control system.
+
+[cols="2*", frame=none, grid=none]
+|===
+|image:https://raw.githubusercontent.com/ippras/plotter/gh-pages/doc/absolute.png[link=https://raw.githubusercontent.com/ippras/plotter/gh-pages/doc/absolute.png]
+|image:https://raw.githubusercontent.com/ippras/plotter/gh-pages/doc/relative.png[link=https://raw.githubusercontent.com/ippras/plotter/gh-pages/doc/relative.png]
+|===
+
+icon:github[size=2x] link:https://github.com/ippras/utca[github.com]
+
+icon:github[size=2x,link=https://github.com/ippras/utca]
+

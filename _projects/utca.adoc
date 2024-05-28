@@ -9,9 +9,9 @@ Ultimate Triacylglycerols Calculation Application.
 
 [cols="3*a", frame=none, grid=none]
 |===
-|image:0.jpg[]
-|image:1.jpg[]
-|image:2.jpg[]
+|image:0.jpg[link=0.jpg]
+|image:1.jpg[link=1.jpg]
+|image:2.jpg[link=2.jpg]
 |===
 
-link:https://github.com/ippras/utca[github]
+link:https://github.com/ippras/utca[github.com]
