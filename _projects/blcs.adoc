@@ -13,7 +13,5 @@ Bioreactor logging and control system.
 |image:https://raw.githubusercontent.com/ippras/plotter/gh-pages/doc/relative.png[link=https://raw.githubusercontent.com/ippras/plotter/gh-pages/doc/relative.png]
 |===
 
-icon:github[size=2x] link:https://github.com/ippras/utca[github.com]
-
 icon:github[size=2x,link=https://github.com/ippras/utca]
 
