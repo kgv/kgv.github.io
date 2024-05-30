@@ -25,7 +25,7 @@
 === link:{{ post.url | relative_url }}[{{ post.title | strip_html }}]
                 {% if post.date %}
                 {% assign date_format = site.date_format | default: "%d.%m.%Y" %}
-icon:calendar[] {{ site.data.ui-text[site.locale].date | default: "Date" }}: {{ post.date | date: date_format }}{% if post.update %} - {{ post.update | date: date_format }}{% endif %}
+icon:calendar[] {{ site.data.ui-text[site.locale].date | default: "Dates" }}: {{ post.date | date: date_format }}{% if post.update %}{% for update in post.update %}, {{ update | date: date_format }}{% endfor %}{% endif %}
                 {% endif %}
 
                 {% if post.categories %}
