@@ -52,4 +52,10 @@ Genetic algorithm based methods (default):
 --converge #:: number of identical generations before convergence is reached
 --score #:: scoring function [rmsd|energy] (default = rmsd (root mean square deviation))
 
+obabel -i smi ~/in.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/2꞉18-Δ9,13ω5,9/out.report -d -m --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
+
+(?:\n{2})(.+)
+
+./assets/posts/2024-05-22/temp
+
 https://hjkgrp.mit.edu/tutorials/2013-10-29-geometries-strings-smiles-and-openbabel[conformer]
