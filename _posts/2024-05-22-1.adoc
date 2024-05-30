@@ -294,6 +294,29 @@ stem:[\overline{\Delta \omega} = max ... min]
 |===
 ====
 
+=== Report files
+
+* xref:/assets/posts/2024-05-22/reports/2꞉14-Δ9,12ω2,5.report[icon:file-text[]] stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉16-Δ6,9ω7,10.report[icon:file-text[]] stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉16-Δ7,10ω6,9.report[icon:file-text[]] stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉16-Δ8,10ω6,8.report[icon:file-text[]] stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉16-Δ9,12ω4,7.report[icon:file-text[]] stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉16-Δ9,13ω3,7.report[icon:file-text[]] stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉16-Δ9,14ω2,7.report[icon:file-text[]] stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉17-Δ9,12ω5,8.report[icon:file-text[]] stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ5,9ω9,13.report[icon:file-text[]] stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ8,9ω9,10.report[icon:file-text[]] stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ9,10ω8,9.report[icon:file-text[]] stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ9,11ω7,9.report[icon:file-text[]] stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ9,12ω6,9.report[icon:file-text[]] stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ9,13ω5,9.report[icon:file-text[]] stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ9,14ω4,9.report[icon:file-text[]] stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ9,15ω3,9.report[icon:file-text[]] stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ9,17ω1,9.report[icon:file-text[]] stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉18-Δ14,17ω1,4.report[icon:file-text[]] stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉19-Δ10,13ω6,9.report[icon:file-text[]] stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]
+* xref:/assets/posts/2024-05-22/reports/2꞉20-Δ11,14ω6,9.report[icon:file-text[]] stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]
+
 == Links
 
 * https://nplus1.ru/news/2017/10/23/longest-cc-bond[Химики растянули связь между атомами углерода на рекордное расстояние]
