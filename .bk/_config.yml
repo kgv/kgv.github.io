@@ -101,3 +101,40 @@ asciidoctor:
     where: Где
     stylesdir: css
     source-highlighter: coderay
+    pdf-themesdir: /themes
+    pdf-theme: a-theme.yml
+    theme: a-theme.yml
+    role:
+      green:
+        background-color: #80FF80
+      bg-red:
+        background-color: #FF8080
+      bg-green:
+        background-color: #80FF80
+      bg-blue:
+        background-color: #8080FF
+      fgred:
+        font-color: #FF8080
+      fg-green:
+        font-color: #80FF80
+      fg-blue:
+        font-color: #8080FF
+      fg-green:
+        font-color: #80FF80
+  role:
+    green:
+      background-color: #80FF80
+    bg-red:
+      background-color: #FF8080
+    bg-green:
+      background-color: #80FF80
+    bg-blue:
+      background-color: #8080FF
+    fgred:
+      font-color: #FF8080
+    fg-green:
+      font-color: #80FF80
+    fg-blue:
+      font-color: #8080FF
+    fg-green:
+      font-color: #80FF80

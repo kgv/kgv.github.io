@@ -1,0 +1,12 @@
+extends: default
+  role:
+    fgred: 
+      font-color: #FF8080
+    red: 
+      font-color: #c5000c
+    maroon:
+      font-color: #4f2400
+    green:
+      font-color: #366251
+    navy:
+      font-color: #4974a5

@@ -6,28 +6,33 @@
 [%autowidth]
 [cols="4*"]
 |===
-   |stem:[A^-B^-]    |Mono                    |Di                        |Tri
-   |stem:[14:0]      |stem:[\Delta9-14:1]     |stem:[\Delta9,12-14:2]    |-
-   |stem:[15:0]      |stem:[\Delta9-15:1]     |-                         |-
-.8+|stem:[16:0]      |stem:[\Delta6-16:1]     |stem:[\Delta6,9-16:2]     |-
-                     |stem:[\Delta8-16:1]     |stem:[\Delta8,10-16:2]    |-
-                  .3+|stem:[\Delta9-16:1]     |stem:[\Delta9,13-16:2]    |-
-                                              |stem:[\Delta9,12-16:2] .2+|stem:[\Delta9,12,15-16:3]
-                                              |stem:[\Delta9,14-16:2]
-                     |stem:[\Delta10-16:1]    |-                         |-
-                     |stem:[\Delta11-16:1]    |-                         |-
-                     |stem:[\Delta14-16:1]    |?                         |-
-.2+|stem:[17:0]      |stem:[\Delta9-17:1]     |stem:[\Delta9,12-17:2]    |stem:[\Delta9,12,15-17:3]
-                     |stem:[\Delta10-17:1]    |-                         |-
-.9+|stem:[18:0]   .8+|stem:[\Delta9-18:1]     |stem:[\Delta8,9-18:2]     |-
-                                              |stem:[\Delta9,10-18:2]    |-
-                                              |stem:[\Delta9,12-18:2]    |stem:[\Delta9,12,15-18:3]
-                                              |stem:[\Delta9,13-18:2]    |stem:[\Delta9,13,16-18:3]
-                                              |stem:[\Delta9,14-18:2]    |-
-                                              |stem:[\Delta9,15-18:2]    |-
-                                              |stem:[\Delta9,17-18:2]    |-
-                                              |stem:[\Delta14,17-18:2]   |-
-                     |stem:[\Delta11-18:1]    |-                         |-
+    |stem:[A^-B^-]    |Mono                                   |Di                                          |Tri
+    |stem:[14:0]      |stem:[\Delta9-14:1 \atop \omega5-14:1] |stem:[\Delta9,12-14:2 \atop \omega2,5-14:2] |-
+    |stem:[15:0]      |stem:[\Delta9-15:1 \atop \omega6-15:1] |-                                           |-
+ .9+|stem:[16:0]      |stem:[\Delta6-16:1 \atop \omega10-16:1]|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2] |-
+                      |stem:[\Delta7-16:1 \atop \omega9-16:1] |stem:[\Delta7,10-16:2 \atop \omega6,9-16:2] |?
+                      |stem:[\Delta8-16:1 \atop \omega8-16:1] |stem:[\Delta8,10-16:2 \atop \omega6,8-16:2] |-
+                   .3+|stem:[\Delta9-16:1 \atop \omega7-16:1] |stem:[\Delta9,12-16:2 \atop \omega4,7-16:2] |stem:[\Delta9,12,15-16:3]
+                                                              |stem:[\Delta9,13-16:2 \atop \omega3,7-16:2] |-
+                                                              |stem:[\Delta9,14-16:2 \atop \omega2,7-16:2] |-
+                      |stem:[\Delta10-16:1 \atop \omega6-16:1]|-                                           |-
+                      |stem:[\Delta11-16:1 \atop \omega5-16:1]|-                                           |-
+                      |stem:[\Delta14-16:1 \atop \omega2-16:1]|-                                           |-
+ .2+|stem:[17:0]      |stem:[\Delta9-17:1 \atop \omega8-17:1] |stem:[\Delta9,12-17:2 \atop \omega5,8-17:2] |stem:[\Delta9,12,15-17:3]
+                      |stem:[\Delta10-17:1 \atop \omega7-17:1]|-                                           |-
+.11+|stem:[18:0]  .10+|stem:[\Delta9-18:1 \atop \omega9-18:1] |stem:[\Delta5,9-18:2 \atop \omega9,13-18:2] |?
+                                                              |stem:[\Delta8,9-18:2 \atop \omega9,10-18:2] |-
+                                                              |stem:[\Delta9,10-18:2 \atop \omega8,9-18:2] |-
+                                                              |stem:[\Delta9,11-18:2 \atop \omega7,9-18:2] |?
+                                                              |stem:[\Delta9,12-18:2 \atop \omega6,9-18:2] |stem:[\Delta9,12,15-18:3]
+                                                              |stem:[\Delta9,13-18:2 \atop \omega5,9-18:2] |stem:[\Delta9,13,16-18:3]
+                                                              |stem:[\Delta9,14-18:2 \atop \omega4,9-18:2] |-
+                                                              |stem:[\Delta9,15-18:2 \atop \omega3,9-18:2] |-
+                                                              |stem:[\Delta9,17-18:2 \atop \omega1,9-18:2] |-
+                                                              |stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]|-
+                      |stem:[\Delta11-18:1 \atop \omega7-18:1]|-                                           |-
+    |stem:[19:0]      |stem:[\Delta10-19:1 \atop \omega9-19:1]|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]|-
+    |stem:[20:0]      |stem:[\Delta11-20:1 \atop \omega9-20:1]|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]|-
 |===
 
 == SMILES
@@ -48,6 +53,7 @@
 |stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent} |CC/C=C\CC/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉16-Δ9,13ω3,7.svg[]
 |stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent} |C/C=C\CCC/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉16-Δ9,14ω2,7.svg[]
 |stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}     |CCCC/C=C\C/C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}   |image:/assets/posts/2024-05-22/2꞉17-Δ9,12ω5,8.svg[]
+|stem:[\Delta5,8-18:2 \atop \omega10,13-18:2]{set:cellbgcolor:gray}       |CCCCCCCCC/C=C\C/C=C\CCCC(=O)O{set:cellbgcolor:transparent}  |image:/assets/posts/2024-05-22/2꞉18-Δ5,8ω10,13.svg[]
 |stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}        |CCCCCCCC/C=C\CC/C=C\CCCC(=O)O{set:cellbgcolor:transparent}  |image:/assets/posts/2024-05-22/2꞉18-Δ5,9ω9,13.svg[]
 |stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent} |CCCCCCCC/C=C=C\CCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉18-Δ8,9ω9,10.svg[]
 |stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent} |CCCCCCC/C=C=C\CCCCCCCC(=O)O{set:cellbgcolor:transparent}    |image:/assets/posts/2024-05-22/2꞉18-Δ9,10ω8,9.svg[]
@@ -108,46 +114,78 @@
 
 === Interatomic distances
 
+.Необходимые и достаточные условия формирования третьей двойной связи для ряда из 20 жирных кислот
+[caption=]
+====
+. Длина углеродной цепи от карбоксильного конца до ближайшей двойной связи должна быть меньше 13 stem:[\mathring A]
+. Длина углеродной цепи между двойными связями должна быть больше 1, но меньше 5 stem:[\mathring A]
+. Длина углеродной цепи от метильного конца до ближайшей двойной связи должна быть больше 4 stem:[\mathring A]
+====
+
 .Interatomic distances
 [%autowidth]
-[cols="8*"]
+[cols="4*"]
 |===
-|ID                                                                       |stem:[\widehat{\Delta \alpha'}], stem:[\mathring A]|stem:[\widehat{\omega \beta'}], stem:[\mathring A]|stem:[\overline{\Delta \alpha'}], stem:[\mathring A]|stem:[\overline{\Delta \beta'}], stem:[\mathring A]|stem:[\overline{\alpha' \omega}], stem:[\mathring A]|stem:[\overline{\beta' \omega}], stem:[\mathring A]|stem:[\overline{\Delta \omega}], stem:[\mathring A]
-|stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent} |12.182{set:cellbgcolor:#FFFF80}                    |1.4930{set:cellbgcolor:transparent}               |9.1715{set:cellbgcolor:transparent}                 |11.3547{set:cellbgcolor:transparent}               |5.4483{set:cellbgcolor:transparent}                 |1.4930{set:cellbgcolor:transparent}                |12.1432{set:cellbgcolor:transparent}
-|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent} |7.5855{set:cellbgcolor:#FF8080}                    |9.1302{set:cellbgcolor:transparent}               |6.3015{set:cellbgcolor:transparent}                 |9.2967{set:cellbgcolor:transparent}                |10.4333{set:cellbgcolor:transparent}                |7.5109{set:cellbgcolor:transparent}                |10.8968{set:cellbgcolor:transparent}
-|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}        |9.1134{set:cellbgcolor:#FF8080}                    |7.6074{set:cellbgcolor:transparent}               |6.7190{set:cellbgcolor:transparent}                 |10.4135{set:cellbgcolor:transparent}               |9.3509{set:cellbgcolor:transparent}                 |5.3426{set:cellbgcolor:transparent}                |13.7622{set:cellbgcolor:transparent}
-|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent} |10.6614{set:cellbgcolor:#FF8080}                   |7.6113{set:cellbgcolor:transparent}               |8.8350{set:cellbgcolor:transparent}                 |11.4541{set:cellbgcolor:transparent}               |7.8885{set:cellbgcolor:transparent}                 |6.3289{set:cellbgcolor:transparent}                |13.8574{set:cellbgcolor:transparent}
-|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}     |12.1794{set:cellbgcolor:#FFFF80}                   |4.5488{set:cellbgcolor:transparent}               |10.0358{set:cellbgcolor:transparent}                |14.3915{set:cellbgcolor:transparent}               |7.0650{set:cellbgcolor:transparent}                 |3.8456{set:cellbgcolor:transparent}                |15.1754{set:cellbgcolor:transparent}
-|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent} |12.1671{set:cellbgcolor:#FFFF80}                   |3.0176{set:cellbgcolor:transparent}               |9.9856{set:cellbgcolor:transparent}                 |15.3212{set:cellbgcolor:transparent}               |6.7819{set:cellbgcolor:transparent}                 |2.4854{set:cellbgcolor:transparent}                |16.3583{set:cellbgcolor:transparent}
-|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent} |12.166{set:cellbgcolor:#FFFF80}                    |1.4958{set:cellbgcolor:transparent}               |9.9767{set:cellbgcolor:transparent}                 |15.1680{set:cellbgcolor:transparent}               |5.5038{set:cellbgcolor:transparent}                 |1.4958{set:cellbgcolor:transparent}                |15.0571{set:cellbgcolor:transparent}
-|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}     |12.1758{set:cellbgcolor:#FFFF80}                   |6.0787{set:cellbgcolor:transparent}               |9.1409{set:cellbgcolor:transparent}                 |11.3410{set:cellbgcolor:transparent}               |8.2550{set:cellbgcolor:transparent}                 |4.4526{set:cellbgcolor:transparent}                |12.0280{set:cellbgcolor:transparent}
-|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}        |6.0494{set:cellbgcolor:#FF8080}                    |12.1666{set:cellbgcolor:transparent}              |4.3625{set:cellbgcolor:transparent}                 |9.0521{set:cellbgcolor:transparent}                |13.9848{set:cellbgcolor:transparent}                |9.9758{set:cellbgcolor:transparent}                |17.7246{set:cellbgcolor:transparent}
-|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent} |10.6535{set:cellbgcolor:#FF8080}                   |12.1998{set:cellbgcolor:transparent}              |8.8254{set:cellbgcolor:transparent}                 |10.2927{set:cellbgcolor:transparent}               |11.4290{set:cellbgcolor:transparent}                |10.0657{set:cellbgcolor:transparent}               |19.6724{set:cellbgcolor:transparent}
-|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent} |12.2042{set:cellbgcolor:#FFFF80}                   |10.6862{set:cellbgcolor:transparent}              |10.0813{set:cellbgcolor:transparent}                |11.4721{set:cellbgcolor:transparent}               |8.7025{set:cellbgcolor:transparent}                 |7.8897{set:cellbgcolor:transparent}                |18.7793{set:cellbgcolor:transparent}
-|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}        |12.1908{set:cellbgcolor:#FFFF80}                   |9.1416{set:cellbgcolor:transparent}               |10.0414{set:cellbgcolor:transparent}                |12.0676{set:cellbgcolor:transparent}               |8.8317{set:cellbgcolor:transparent}                 |7.5278{set:cellbgcolor:transparent}                |12.7803{set:cellbgcolor:transparent}
-|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}     |12.1738{set:cellbgcolor:#FFFF80}                   |7.6053{set:cellbgcolor:transparent}               |9.1463{set:cellbgcolor:transparent}                 |11.3315{set:cellbgcolor:transparent}               |9.3157{set:cellbgcolor:transparent}                 |6.3268{set:cellbgcolor:transparent}                |10.1050{set:cellbgcolor:transparent}
-|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}     |12.1555{set:cellbgcolor:#FFFF80}                   |6.0647{set:cellbgcolor:transparent}               |9.9650{set:cellbgcolor:transparent}                 |15.2865{set:cellbgcolor:transparent}               |9.4037{set:cellbgcolor:transparent}                 |4.9566{set:cellbgcolor:transparent}                |18.4730{set:cellbgcolor:transparent}
-|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent} |12.148{set:cellbgcolor:#FFFF80}                    |4.5439{set:cellbgcolor:transparent}               |9.9502{set:cellbgcolor:transparent}                 |15.2249{set:cellbgcolor:transparent}               |9.4248{set:cellbgcolor:transparent}                 |3.8407{set:cellbgcolor:transparent}                |18.3630{set:cellbgcolor:transparent}
-|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent} |12.1731{set:cellbgcolor:#FFFF80}                   |3.0212{set:cellbgcolor:transparent}               |9.9981{set:cellbgcolor:transparent}                 |10.5597{set:cellbgcolor:transparent}               |6.3750{set:cellbgcolor:transparent}                 |2.4908{set:cellbgcolor:transparent}                |8.6319{set:cellbgcolor:transparent}
-|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent} |12.1657{set:cellbgcolor:#FFFF80}                   |0.0{set:cellbgcolor:transparent}                  |9.9822{set:cellbgcolor:transparent}                 |15.9524{set:cellbgcolor:transparent}               |10.4352{set:cellbgcolor:transparent}                |0.0{set:cellbgcolor:transparent}                   |15.9524{set:cellbgcolor:transparent}
-|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|19.8034{set:cellbgcolor:#FF8080}                   |0.0{set:cellbgcolor:transparent}                  |14.6817{set:cellbgcolor:transparent}                |16.0950{set:cellbgcolor:transparent}               |4.7524{set:cellbgcolor:transparent}                 |0.0{set:cellbgcolor:transparent}                   |16.0950{set:cellbgcolor:transparent}
-|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|13.7024{set:cellbgcolor:#FF8080}                   |7.6017{set:cellbgcolor:transparent}               |10.2329{set:cellbgcolor:transparent}                |12.5203{set:cellbgcolor:transparent}               |9.3171{set:cellbgcolor:transparent}                 |6.3186{set:cellbgcolor:transparent}                |11.4052{set:cellbgcolor:transparent}
-|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}|15.2436{set:cellbgcolor:#FF8080}                   |7.6029{set:cellbgcolor:transparent}               |11.5861{set:cellbgcolor:transparent}                |13.5766{set:cellbgcolor:transparent}               |9.2946{set:cellbgcolor:transparent}                 |6.3168{set:cellbgcolor:transparent}                |11.8228{set:cellbgcolor:transparent}
+|ID{set:cellbgcolor:transparent}                                          |stem:[\widehat{\Delta \alpha'}], stem:[\mathring A]|stem:[\widehat{\alpha' \beta'}], stem:[\mathring A]|stem:[\widehat{\beta' \omega}], stem:[\mathring A]
+|stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent} |12.182{set:cellbgcolor:#FFFF80}                    |3.0024{set:cellbgcolor:#FFFF80}                    |1.4930{set:cellbgcolor:#FF8080}
+|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent} |7.5855{set:cellbgcolor:#FF8080}                    |2.9962{set:cellbgcolor:#FFFF80}                    |9.1302{set:cellbgcolor:#FFFF80}
+|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}        |9.1134{set:cellbgcolor:#FF8080}                    |2.9974{set:cellbgcolor:#FFFF80}                    |7.6074{set:cellbgcolor:#FFFF80}
+|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent} |10.6614{set:cellbgcolor:#FF8080}                   |1.4426{set:cellbgcolor:#FFFF80}                    |7.6113{set:cellbgcolor:#FFFF80}
+|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}     |12.1794{set:cellbgcolor:#FFFF80}                   |3.0031{set:cellbgcolor:#FFFF80}                    |4.5488{set:cellbgcolor:#FFFF80}
+|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent} |12.1671{set:cellbgcolor:#FFFF80}                   |4.5504{set:cellbgcolor:#FFFF80}                    |3.0176{set:cellbgcolor:#FF8080}
+|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent} |12.166{set:cellbgcolor:#FFFF80}                    |6.0676{set:cellbgcolor:#FF8080}                    |1.4958{set:cellbgcolor:#FF8080}
+|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}     |12.1758{set:cellbgcolor:#FFFF80}                   |3.0011{set:cellbgcolor:#FFFF80}                    |6.0787{set:cellbgcolor:#FFFF80}
+|stem:[\Delta5,8-18:2 \atop \omega10,13-18:2]{set:cellbgcolor:gray}       |6,0556{set:cellbgcolor:#FF8080}                    |2,9899{set:cellbgcolor:#FFFF80}                    |4.5698{set:cellbgcolor:#FFFF80}
+|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}        |6.0494{set:cellbgcolor:#FF8080}                    |4.5435{set:cellbgcolor:#FFFF80}                    |12.1666{set:cellbgcolor:#FFFF80}
+|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent} |10.6535{set:cellbgcolor:#FF8080}                   |0.0{set:cellbgcolor:#FF8080}                       |12.1998{set:cellbgcolor:#FFFF80}
+|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent} |12.2042{set:cellbgcolor:#FFFF80}                   |0.0{set:cellbgcolor:#FF8080}                       |10.6862{set:cellbgcolor:#FFFF80}
+|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}        |12.1908{set:cellbgcolor:#FFFF80}                   |1.4427{set:cellbgcolor:#FFFF80}                    |9.1416{set:cellbgcolor:#FFFF80}
+|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}     |12.1738{set:cellbgcolor:#FFFF80}                   |2.9956{set:cellbgcolor:#FFFF80}                    |7.6053{set:cellbgcolor:#FFFF80}
+|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}     |12.1555{set:cellbgcolor:#FFFF80}                   |4.544{set:cellbgcolor:#FFFF80}                     |6.0647{set:cellbgcolor:#FFFF80}
+|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent} |12.148{set:cellbgcolor:#FFFF80}                    |6.0665{set:cellbgcolor:#FF8080}                    |4.5439{set:cellbgcolor:#FFFF80}
+|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent} |12.1731{set:cellbgcolor:#FFFF80}                   |7.599{set:cellbgcolor:#FF8080}                     |3.0212{set:cellbgcolor:#FF8080}
+|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent} |12.1657{set:cellbgcolor:#FFFF80}                   |10.6395{set:cellbgcolor:#FF8080}                   |0.0{set:cellbgcolor:#FF8080}
+|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|19.8034{set:cellbgcolor:#FF8080}                   |2.9993{set:cellbgcolor:#FFFF80}                    |0.0{set:cellbgcolor:#FF8080}
+|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|13.7024{set:cellbgcolor:#FF8080}                   |2.9899{set:cellbgcolor:#FFFF80}                    |7.6017{set:cellbgcolor:#FFFF80}
+|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}|15.2436{set:cellbgcolor:#FF8080}                   |2.9804{set:cellbgcolor:#FFFF80}                    |7.6029{set:cellbgcolor:#FFFF80}
 |===
+
+.{where}
+[%collapsible]
+====
+stem:[\widehat{\Delta \alpha'}]:: длина углеродной цепи от карбоксильного конца до ближайшей двойной связи.
+stem:[\widehat{\alpha' \beta'}]:: длина углеродной цепи между двойными связями.
+stem:[\widehat{\beta' \omega}]:: длина углеродной цепи от метильного конца до ближайшей двойной связи.
+====
 
 .{details}
 [%collapsible]
 ====
 .Interatomic distances
 [%autowidth]
-[cols="21*"]
+[cols="6*"]
 |===
-|Distance                                            |stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent}|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent}|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent}|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent}|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}
-|stem:[\overline{\Delta \alpha'}], stem:[\mathring A]|9.1715{set:cellbgcolor:transparent}                                     |6.3015{set:cellbgcolor:transparent}                                     |6.7190{set:cellbgcolor:transparent}                              |8.8350{set:cellbgcolor:transparent}                                     |10.0358{set:cellbgcolor:transparent}                                |9.9856{set:cellbgcolor:transparent}                                     |9.9767{set:cellbgcolor:transparent}                                     |9.1409{set:cellbgcolor:transparent}                                 |4.3625{set:cellbgcolor:transparent}                              |8.8254{set:cellbgcolor:transparent}                                     |10.0813{set:cellbgcolor:transparent}                                    |10.0414{set:cellbgcolor:transparent}                             |9.1463{set:cellbgcolor:transparent}                                 |9.9650{set:cellbgcolor:transparent}                                 |9.9502{set:cellbgcolor:transparent}                                     |9.9981{set:cellbgcolor:transparent}                                     |9.9822{set:cellbgcolor:transparent}                                     |14.6817{set:cellbgcolor:transparent}                                     |10.2329{set:cellbgcolor:transparent}                                     |11.5861{set:cellbgcolor:transparent}
-|stem:[\overline{\Delta \beta'}], stem:[\mathring A] |11.3547{set:cellbgcolor:transparent}                                    |9.2967{set:cellbgcolor:transparent}                                     |10.4135{set:cellbgcolor:transparent}                             |11.4541{set:cellbgcolor:transparent}                                    |14.3915{set:cellbgcolor:transparent}                                |15.3212{set:cellbgcolor:transparent}                                    |15.1680{set:cellbgcolor:transparent}                                    |11.3410{set:cellbgcolor:transparent}                                |9.0521{set:cellbgcolor:transparent}                              |10.2927{set:cellbgcolor:transparent}                                    |11.4721{set:cellbgcolor:transparent}                                    |12.0676{set:cellbgcolor:transparent}                             |11.3315{set:cellbgcolor:transparent}                                |15.2865{set:cellbgcolor:transparent}                                |15.2249{set:cellbgcolor:transparent}                                    |10.5597{set:cellbgcolor:transparent}                                    |15.9524{set:cellbgcolor:transparent}                                    |16.0950{set:cellbgcolor:transparent}                                     |12.5203{set:cellbgcolor:transparent}                                     |13.5766{set:cellbgcolor:transparent}
-|stem:[\overline{\alpha' \omega}], stem:[\mathring A]|5.4483{set:cellbgcolor:transparent}                                     |10.4333{set:cellbgcolor:transparent}                                    |9.3509{set:cellbgcolor:transparent}                              |7.8885{set:cellbgcolor:transparent}                                     |7.0650{set:cellbgcolor:transparent}                                 |6.7819{set:cellbgcolor:transparent}                                     |5.5038{set:cellbgcolor:transparent}                                     |8.2550{set:cellbgcolor:transparent}                                 |13.9848{set:cellbgcolor:transparent}                             |11.4290{set:cellbgcolor:transparent}                                    |8.7025{set:cellbgcolor:transparent}                                     |8.8317{set:cellbgcolor:transparent}                              |9.3157{set:cellbgcolor:transparent}                                 |9.4037{set:cellbgcolor:transparent}                                 |9.4248{set:cellbgcolor:transparent}                                     |6.3750{set:cellbgcolor:transparent}                                     |10.4352{set:cellbgcolor:transparent}                                    |4.7524{set:cellbgcolor:transparent}                                      |9.3171{set:cellbgcolor:transparent}                                      |9.2946{set:cellbgcolor:transparent}
-|stem:[\overline{\beta' \omega}], stem:[\mathring A] |1.4930{set:cellbgcolor:transparent}                                     |7.5109{set:cellbgcolor:transparent}                                     |5.3426{set:cellbgcolor:transparent}                              |6.3289{set:cellbgcolor:transparent}                                     |3.8456{set:cellbgcolor:transparent}                                 |2.4854{set:cellbgcolor:transparent}                                     |1.4958{set:cellbgcolor:transparent}                                     |4.4526{set:cellbgcolor:transparent}                                 |9.9758{set:cellbgcolor:transparent}                              |10.0657{set:cellbgcolor:transparent}                                    |7.8897{set:cellbgcolor:transparent}                                     |7.5278{set:cellbgcolor:transparent}                              |6.3268{set:cellbgcolor:transparent}                                 |4.9566{set:cellbgcolor:transparent}                                 |3.8407{set:cellbgcolor:transparent}                                     |2.4908{set:cellbgcolor:transparent}                                     |0.0{set:cellbgcolor:transparent}                                        |0.0{set:cellbgcolor:transparent}                                         |6.3186{set:cellbgcolor:transparent}                                      |6.3168{set:cellbgcolor:transparent}
-|stem:[\overline{\Delta \omega}], stem:[\mathring A] |12.1432{set:cellbgcolor:transparent}                                    |10.8968{set:cellbgcolor:transparent}                                    |13.7622{set:cellbgcolor:transparent}                             |13.8574{set:cellbgcolor:transparent}                                    |15.1754{set:cellbgcolor:transparent}                                |16.3583{set:cellbgcolor:transparent}                                    |15.0571{set:cellbgcolor:transparent}                                    |12.0280{set:cellbgcolor:transparent}                                |17.7246{set:cellbgcolor:transparent}                             |19.6724{set:cellbgcolor:transparent}                                    |18.7793{set:cellbgcolor:transparent}                                    |12.7803{set:cellbgcolor:transparent}                             |10.1050{set:cellbgcolor:transparent}                                |18.4730{set:cellbgcolor:transparent}                                |18.3630{set:cellbgcolor:transparent}                                    |8.6319{set:cellbgcolor:transparent}                                     |15.9524{set:cellbgcolor:transparent}                                    |16.0950{set:cellbgcolor:transparent}                                     |11.4052{set:cellbgcolor:transparent}                                     |11.8228{set:cellbgcolor:transparent}
+|ID{set:cellbgcolor:transparent}                                          |stem:[\overline{\Delta \alpha'}], stem:[\mathring A]|stem:[\overline{\Delta \beta'}], stem:[\mathring A]|stem:[\overline{\alpha' \omega}], stem:[\mathring A]|stem:[\overline{\beta' \omega}], stem:[\mathring A]|stem:[\overline{\Delta \omega}], stem:[\mathring A]
+|stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent} |9.1715{set:cellbgcolor:transparent}                 |11.3547{set:cellbgcolor:transparent}               |5.4483{set:cellbgcolor:transparent}                 |1.4930{set:cellbgcolor:transparent}                |12.1432{set:cellbgcolor:transparent}
+|stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent} |6.3015{set:cellbgcolor:transparent}                 |9.2967{set:cellbgcolor:transparent}                |10.4333{set:cellbgcolor:transparent}                |7.5109{set:cellbgcolor:transparent}                |10.8968{set:cellbgcolor:transparent}
+|stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}        |6.7190{set:cellbgcolor:transparent}                 |10.4135{set:cellbgcolor:transparent}               |9.3509{set:cellbgcolor:transparent}                 |5.3426{set:cellbgcolor:transparent}                |13.7622{set:cellbgcolor:transparent}
+|stem:[\Delta8,10-16:2 \atop \omega6,8-16:2]{set:cellbgcolor:transparent} |8.8350{set:cellbgcolor:transparent}                 |11.4541{set:cellbgcolor:transparent}               |7.8885{set:cellbgcolor:transparent}                 |6.3289{set:cellbgcolor:transparent}                |13.8574{set:cellbgcolor:transparent}
+|stem:[\Delta9,12-16:2 \atop \omega4,7-16:2]{set:cellbgcolor:#80FF80}     |10.0358{set:cellbgcolor:transparent}                |14.3915{set:cellbgcolor:transparent}               |7.0650{set:cellbgcolor:transparent}                 |3.8456{set:cellbgcolor:transparent}                |15.1754{set:cellbgcolor:transparent}
+|stem:[\Delta9,13-16:2 \atop \omega3,7-16:2]{set:cellbgcolor:transparent} |9.9856{set:cellbgcolor:transparent}                 |15.3212{set:cellbgcolor:transparent}               |6.7819{set:cellbgcolor:transparent}                 |2.4854{set:cellbgcolor:transparent}                |16.3583{set:cellbgcolor:transparent}
+|stem:[\Delta9,14-16:2 \atop \omega2,7-16:2]{set:cellbgcolor:transparent} |9.9767{set:cellbgcolor:transparent}                 |15.1680{set:cellbgcolor:transparent}               |5.5038{set:cellbgcolor:transparent}                 |1.4958{set:cellbgcolor:transparent}                |15.0571{set:cellbgcolor:transparent}
+|stem:[\Delta9,12-17:2 \atop \omega5,8-17:2]{set:cellbgcolor:#80FF80}     |9.1409{set:cellbgcolor:transparent}                 |11.3410{set:cellbgcolor:transparent}               |8.2550{set:cellbgcolor:transparent}                 |4.4526{set:cellbgcolor:transparent}                |12.0280{set:cellbgcolor:transparent}
+|stem:[\Delta5,9-18:2 \atop \omega9,13-18:2]{set:cellbgcolor:gray}        |4.3625{set:cellbgcolor:transparent}                 |9.0521{set:cellbgcolor:transparent}                |13.9848{set:cellbgcolor:transparent}                |9.9758{set:cellbgcolor:transparent}                |17.7246{set:cellbgcolor:transparent}
+|stem:[\Delta8,9-18:2 \atop \omega9,10-18:2]{set:cellbgcolor:transparent} |8.8254{set:cellbgcolor:transparent}                 |10.2927{set:cellbgcolor:transparent}               |11.4290{set:cellbgcolor:transparent}                |10.0657{set:cellbgcolor:transparent}               |19.6724{set:cellbgcolor:transparent}
+|stem:[\Delta9,10-18:2 \atop \omega8,9-18:2]{set:cellbgcolor:transparent} |10.0813{set:cellbgcolor:transparent}                |11.4721{set:cellbgcolor:transparent}               |8.7025{set:cellbgcolor:transparent}                 |7.8897{set:cellbgcolor:transparent}                |18.7793{set:cellbgcolor:transparent}
+|stem:[\Delta9,11-18:2 \atop \omega7,9-18:2]{set:cellbgcolor:gray}        |10.0414{set:cellbgcolor:transparent}                |12.0676{set:cellbgcolor:transparent}               |8.8317{set:cellbgcolor:transparent}                 |7.5278{set:cellbgcolor:transparent}                |12.7803{set:cellbgcolor:transparent}
+|stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]{set:cellbgcolor:#80FF80}     |9.1463{set:cellbgcolor:transparent}                 |11.3315{set:cellbgcolor:transparent}               |9.3157{set:cellbgcolor:transparent}                 |6.3268{set:cellbgcolor:transparent}                |10.1050{set:cellbgcolor:transparent}
+|stem:[\Delta9,13-18:2 \atop \omega5,9-18:2]{set:cellbgcolor:#80FF80}     |9.9650{set:cellbgcolor:transparent}                 |15.2865{set:cellbgcolor:transparent}               |9.4037{set:cellbgcolor:transparent}                 |4.9566{set:cellbgcolor:transparent}                |18.4730{set:cellbgcolor:transparent}
+|stem:[\Delta9,14-18:2 \atop \omega4,9-18:2]{set:cellbgcolor:transparent} |9.9502{set:cellbgcolor:transparent}                 |15.2249{set:cellbgcolor:transparent}               |9.4248{set:cellbgcolor:transparent}                 |3.8407{set:cellbgcolor:transparent}                |18.3630{set:cellbgcolor:transparent}
+|stem:[\Delta9,15-18:2 \atop \omega3,9-18:2]{set:cellbgcolor:transparent} |9.9981{set:cellbgcolor:transparent}                 |10.5597{set:cellbgcolor:transparent}               |6.3750{set:cellbgcolor:transparent}                 |2.4908{set:cellbgcolor:transparent}                |8.6319{set:cellbgcolor:transparent}
+|stem:[\Delta9,17-18:2 \atop \omega1,9-18:2]{set:cellbgcolor:transparent} |9.9822{set:cellbgcolor:transparent}                 |15.9524{set:cellbgcolor:transparent}               |10.4352{set:cellbgcolor:transparent}                |0.0{set:cellbgcolor:transparent}                   |15.9524{set:cellbgcolor:transparent}
+|stem:[\Delta14,17-18:2 \atop \omega1,4-18:2]{set:cellbgcolor:transparent}|14.6817{set:cellbgcolor:transparent}                |16.0950{set:cellbgcolor:transparent}               |4.7524{set:cellbgcolor:transparent}                 |0.0{set:cellbgcolor:transparent}                   |16.0950{set:cellbgcolor:transparent}
+|stem:[\Delta10,13-19:2 \atop \omega6,9-19:2]{set:cellbgcolor:transparent}|10.2329{set:cellbgcolor:transparent}                |12.5203{set:cellbgcolor:transparent}               |9.3171{set:cellbgcolor:transparent}                 |6.3186{set:cellbgcolor:transparent}                |11.4052{set:cellbgcolor:transparent}
+|stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]{set:cellbgcolor:transparent}|11.5861{set:cellbgcolor:transparent}                |13.5766{set:cellbgcolor:transparent}               |9.2946{set:cellbgcolor:transparent}                 |6.3168{set:cellbgcolor:transparent}                |11.8228{set:cellbgcolor:transparent}
 |===
 
 stem:[\widehat{\Delta \alpha'}]:
@@ -160,6 +198,7 @@ stem:[\widehat{\Delta \alpha'}]:
 16-Δ9,13ω3,7 = 1.4974 + 1.5288 + 1.5247 + 1.5277 + 1.5265 + 1.5278 + 1.5287 + 1.5055 = 12.1671 +
 16-Δ9,14ω2,7 = 1.5010 + 1.5266 + 1.5252 + 1.5286 + 1.5275 + 1.5279 + 1.5259 + 1.5033 = 12.166 +
 17-Δ9,12ω5,8 = 1.5036 + 1.5343 + 1.5288 + 1.5287 + 1.5267 + 1.5249 + 1.5254 + 1.5034 = 12.1758 +
+18-Δ5,8ω10,13 = 1.4986 + 1.5299 + 1.5289 + 1.4982 = 6,0556 +
 18-Δ5,9ω9,13 = 1.4950 + 1.5276 + 1.5274 + 1.4994 = 6.0494 +
 18-Δ8,9ω9,10 = 1.5005 + 1.5284 + 1.5282 + 1.5312 + 1.5290 + 1.5291 + 1.5071 = 10.6535 +
 18-Δ9,10ω8,9 = 1.5006 + 1.5320 + 1.5324 + 1.5334 + 1.5351 + 1.5325 + 1.5307 + 1.5075 = 12.2042 +
@@ -173,6 +212,30 @@ stem:[\widehat{\Delta \alpha'}]:
 19-Δ10,13ω6,9 = 1.5053 + 1.5341 + 1.5290 + 1.5250 + 1.5255 + 1.5273 + 1.5288 + 1.5290 + 1.4984 = 13.7024 +
 20-Δ11,14ω6,9 = 1.5031 + 1.5366 + 1.5270 + 1.5246 + 1.5273 + 1.5280 + 1.5315 + 1.5288 + 1.5329 + 1.5038 = 15.2436 +
 
+stem:[\widehat{\alpha' \beta'}]:
+
+14-Δ9,12ω2,5 = 1.5003 + 1.5021 = 3,0024 +
+16-Δ6,9ω7,10 = 1.4972 + 1.4993 = 2,9962 +
+16-Δ7,10ω6,9 = 1.4986 + 1.4988 = 2,9974 +
+16-Δ8,10ω6,8 = 1.4426 +
+16-Δ9,12ω4,7 = 1.5028 + 1.5003 = 3,0031 +
+16-Δ9,13ω3,7 = 1.5079 + 1.5369 + 1.5056 = 4,5504 +
+16-Δ9,14ω2,7 = 1.5010 + 1.5329 + 1.5318 + 1.5019 = 6,0676 +
+17-Δ9,12ω5,8 = 1.4993 + 1.5018 = 3,0011 +
+18-Δ5,8ω10,13 = 1.5012 + 1.4887 = 2.9899 +
+18-Δ5,9ω9,13 = 1.5070 + 1.5311 + 1.5054 = 4,5435 +
+18-Δ8,9ω9,10 = 0.0 +
+18-Δ9,10ω8,9 = 0.0 +
+18-Δ9,11ω7,9 = 1.4427 +
+18-Δ9,12ω6,9 = 1.4965 + 1.4991 = 2,9956 +
+18-Δ9,13ω5,9 = 1.5078 + 1.5321 + 1.5041 = 4,544 +
+18-Δ9,14ω4,9 = 1.5027 + 1.5325 + 1.5304 + 1.5009 = 6,0665 +
+18-Δ9,15ω3,9 = 1.5044 + 1.5352 + 1.5307 + 1.5280 + 1.5007 = 7,599 +
+18-Δ9,17ω1,9 = 1.4995 + 1.5295 + 1.5274 + 1.5291 + 1.5255 + 1.5263 + 1.5022 = 10,6395 +
+18-Δ14,17ω1,4 = 1.4987 + 1.5006 = 2,9993 +
+19-Δ10,13ω6,9 = 1.4904 + 1.4995 = 2,9899 +
+20-Δ11,14ω6,9 = 1.4848 + 1.4956 = 2,9804 +
+
 stem:[\widehat{\beta' \omega}]:
 
 14-Δ9,12ω2,5 = 1.4930 +
@@ -183,6 +246,7 @@ stem:[\widehat{\beta' \omega}]:
 16-Δ9,13ω3,7 = 1.5196 + 1.4980 = 3.0176 +
 16-Δ9,14ω2,7 = 1.4958 +
 17-Δ9,12ω5,8 = 1.5192 + 1.5314 + 1.5297 + 1.4984 = 6.0787 +
+18-Δ5,8ω10,13 = 1.5278 + 1.5362 + 1.5058 = 4.5698 +
 18-Δ5,9ω9,13 = 1.5205 + 1.5279 + 1.5280 + 1.5272 + 1.5263 + 1.5205 + 1.5249 + 1.4913 = 12.1666 +
 18-Δ8,9ω9,10 = 1.5217 + 1.5300 + 1.5315 + 1.5309 + 1.5309 + 1.5284 + 1.5265 + 1.4999 = 12.1998 +
 18-Δ9,10ω8,9 = 1.5222 + 1.5305 + 1.5331 + 1.5324 + 1.5351 + 1.5322 + 1.5007 = 10.6862 +
@@ -243,7 +307,7 @@ stem:[\overline{\Delta \omega} = max ... min]
 [%autowidth]
 [cols="18*"]
 |===
-|ID                                                                       |stem:[\angle 1~2~3~4]                |stem:[\angle 2~3~4~5]               |stem:[\angle 3~4~5~6]                |stem:[\angle 4~5~6~7]               |stem:[\angle 5~6~7~8]               |stem:[\angle 6~7~8~9]                |stem:[\angle 7~8~9~10]               |stem:[\angle 8~9~10~11]         |stem:[\angle 9~10~11~12]            |stem:[\angle 10~11~12~13]      |stem:[\angle 11~12~13~14]|stem:[\angle 12~13~14~15]     |stem:[\angle 13~14~15~16]      |stem:[\angle 14~15~16~17]|stem:[\angle 15~16~17~18]|stem:[\angle 16~17~18~19]|stem:[\angle 17~18~19~20]
+|ID{set:cellbgcolor:transparent}                                          |stem:[\angle 1~2~3~4]                |stem:[\angle 2~3~4~5]               |stem:[\angle 3~4~5~6]                |stem:[\angle 4~5~6~7]               |stem:[\angle 5~6~7~8]               |stem:[\angle 6~7~8~9]                |stem:[\angle 7~8~9~10]               |stem:[\angle 8~9~10~11]         |stem:[\angle 9~10~11~12]            |stem:[\angle 10~11~12~13]      |stem:[\angle 11~12~13~14]|stem:[\angle 12~13~14~15]     |stem:[\angle 13~14~15~16]      |stem:[\angle 14~15~16~17]|stem:[\angle 15~16~17~18]|stem:[\angle 16~17~18~19]|stem:[\angle 17~18~19~20]
 |stem:[\Delta9,12-14:2 \atop \omega2,5-14:2]{set:cellbgcolor:transparent} |-0.081{set:cellbgcolor:#8080FF}      |118.569{set:cellbgcolor:transparent}|94.671                               |-0.751{set:cellbgcolor:#8080FF}     |-178.107{set:cellbgcolor:#FFFF80}   |-179.739                             |61.510                               |178.315                         |178.859                             |179.932                        |178.896                  |                              |                               |                         |                         |                         |
 |stem:[\Delta6,9-16:2 \atop \omega7,10-16:2]{set:cellbgcolor:transparent} |-179.871                             |178.983                             |-179.296                             |-178.200                            |91.097                              |0.365{set:cellbgcolor:#8080FF}       |123.757{set:cellbgcolor:transparent} |123.637                         |0.496{set:cellbgcolor:#8080FF}      |90.341{set:cellbgcolor:#FF8080}|-178.043                 |179.997                       |177.515                        |                         |                         |                         |
 |stem:[\Delta7,10-16:2 \atop \omega6,9-16:2]{set:cellbgcolor:gray}        |-179.301{set:cellbgcolor:transparent}|178.869                             |62.271                               |86.290{set:cellbgcolor:#FFFF80}     |2.364{set:cellbgcolor:#8080FF}      |123.852{set:cellbgcolor:transparent} |124.222                              |2.613{set:cellbgcolor:#8080FF}  |86.296{set:cellbgcolor:#FF8080}     |62.475                         |179.727                  |-179.874                      |178.042                        |                         |                         |                         |
@@ -318,8 +382,6 @@ stem:[\overline{\Delta \omega} = max ... min]
 * xref:/assets/posts/2024-05-22/reports/2꞉20-Δ11,14ω6,9.report[icon:file-text[]] stem:[\Delta11,14-20:2 \atop \omega6,9-20:2]
 
 === Temp
-
-`obabel -i smi ~/in.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/output/out.report -d -m --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted`
 
 ==== stem:[\Delta9,12-18:2 \atop \omega6,9-18:2]
 
