@@ -54,7 +54,8 @@ Genetic algorithm based methods (default):
 
 obabel -i smi ~/in.smi -o report -O ~/git/kgv/kgv.github.io/assets/posts/2024-05-22/2꞉18-Δ9,13ω5,9/out.report -d -m --minimize=mmff94 --energy=mmff94 --gen3d --canonical --conformer --nconf 255 --weighted
 
-(?:\n{2})(.+)
+`(?:\n{2})(.+)` +
+`^\W*[A-Za-z]\W*\d+\W*\d+\.\d+ ` +
 
 ./assets/posts/2024-05-22/temp
 
