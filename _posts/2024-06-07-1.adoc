@@ -1,4 +1,4 @@
-= Экстракция stem:[TAG] из семян *Lunaria rediviva* с помощью
+= Экстракция stem:[TAG] из семян *Lunaria rediviva* с помощью stem:[ClMeOH]
 :page-categories: [Experiment]
 :page-tags: [Laboratory, Log, LunariaRediviva, TAG]
 :page-update: []
