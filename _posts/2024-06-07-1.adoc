@@ -1,0 +1,24 @@
+= Экстракция stem:[TAG] из семян *Lunaria rediviva* с помощью
+:page-categories: [Experiment]
+:page-tags: [Laboratory, Log, LunariaRediviva, TAG]
+:page-update: []
+
+NOTE: Взвешивание проводилось без крышки.
+
+.Масса проб лепестков, тычинок, пестиков
+[cols="4*", frame=all, grid=all]
+|===
+|ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[С_3]|2.4961              |3.2631              |0.767
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой
+stem:[m_2]:: Масса пробы
+
+
+stem:[С_3]::: Семена 2.0 stem:[mm]
+====
