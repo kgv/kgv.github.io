@@ -1,11 +1,11 @@
-= Экстракция stem:[TAG] из семян *Lunaria rediviva* с помощью stem:[ClMeOH]
+= Экстракция stem:[TAG] из семян *Lunaria rediviva* с помощью stem:[CHCl_3]/stem:[MeOH] (1/1, stem:[v/v])
 :page-categories: [Experiment]
 :page-tags: [Laboratory, Log, LunariaRediviva, TAG]
 :page-update: []
 
 NOTE: Взвешивание проводилось без крышки.
 
-.Масса проб лепестков, тычинок, пестиков
+.Масса проб семян 2.0 stem:[mm]
 [cols="4*", frame=all, grid=all]
 |===
 |ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
