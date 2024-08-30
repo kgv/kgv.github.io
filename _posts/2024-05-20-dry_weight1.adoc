@@ -1,0 +1,47 @@
+= Анализ доли сухого веса лепестков *Lunaria rediviva*
+:page-categories: [Experiment]
+:page-tags: [DryWeight, Laboratory, Log, LunariaRediviva]
+
+== Пробы stem:[0], stem:[1], stem:[2]
+
+По 30 семян в пробе.
+
+.Масса проб
+[cols="*", frame=all, grid=all]
+|===
+|ID      |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]|stem:[m_3], stem:[g]|stem:[m_4], stem:[g]|stem:[DW], stem:[\%]
+|stem:[1]|2.4528              |2.7169              |0.2641              |2.4760              |0.0232              |8.7845513
+|stem:[2]|2.4676              |2.7029              |0.2353              |2.4887              |0.0211              |8.9672758
+|stem:[3]|2.4985              |2.7396              |0.2411              |2.5203              |0.0218              |9.0418913
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой до сушки
+stem:[m_2]:: Масса пробы до сушки
+stem:[m_3]:: Масса пробирки с пробой после сушки
+stem:[m_4]:: Масса пробы после сушки
+stem:[DW]:: Доля сухого веса
+====
+
+stem:[\overline{DW}\pm{}SD] = 8.9312394666667 ± 0.13240064913014 (1.4824442858607430821%)
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczM4LGBZJLGDCWlEs3zmiymUzOfsdVVdUvxJXKI_NMy2UWdQXUnYw4Ry0WJgMVwpopOm9lcgDMq4NbHLGi-wsAa_TREziVtcNrqxvjtFQ9reWRyDnOSDDP4WBeKvQbzQhjMUKM5dHBMWDPcae-UgSqn6HQ=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczM4LGBZJLGDCWlEs3zmiymUzOfsdVVdUvxJXKI_NMy2UWdQXUnYw4Ry0WJgMVwpopOm9lcgDMq4NbHLGi-wsAa_TREziVtcNrqxvjtFQ9reWRyDnOSDDP4WBeKvQbzQhjMUKM5dHBMWDPcae-UgSqn6HQ=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNhfHxUeit7i767rskQ1MorqMr7dddcZdZfEe9bjjkTRCch94hO_d9G2DaaHO_4XwV1puL5Ox39T9R9orEfLradoU5ydoVceykdB29iPIkiJCdCMv8efH-TgeO7TUQGeD8Eq-BVvjGhx8G8imtXwEVcyQ=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNhfHxUeit7i767rskQ1MorqMr7dddcZdZfEe9bjjkTRCch94hO_d9G2DaaHO_4XwV1puL5Ox39T9R9orEfLradoU5ydoVceykdB29iPIkiJCdCMv8efH-TgeO7TUQGeD8Eq-BVvjGhx8G8imtXwEVcyQ=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPuS7IL0n-XvZlRbt154uVhw8RQHZHTZKM1wP2--YYw_MngnGxXbmYQRq-mRhTATwnUaWjzgetF53pxxtE9tkpexgiV2ymo1uagpJsXwesZxWM6qOv6Fbkg9Hf3EEd9bNcp0g_y1DMIvm6sE5XfPIa_TA=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPuS7IL0n-XvZlRbt154uVhw8RQHZHTZKM1wP2--YYw_MngnGxXbmYQRq-mRhTATwnUaWjzgetF53pxxtE9tkpexgiV2ymo1uagpJsXwesZxWM6qOv6Fbkg9Hf3EEd9bNcp0g_y1DMIvm6sE5XfPIa_TA=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNkwrShtm8FL9di2AxEAlQBx8b-s1iAU2aQCNgsVexe34GgpeSJMDuJfCi5_9aDv4FfXdx0pvYIcKrE4TYtuAbXpBg74xMujmWJubZ9eW3IEFFXhlIHoQJy--omhYigEMcr-qTcWSWMZOi6N6HsTCJ8ug=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNkwrShtm8FL9di2AxEAlQBx8b-s1iAU2aQCNgsVexe34GgpeSJMDuJfCi5_9aDv4FfXdx0pvYIcKrE4TYtuAbXpBg74xMujmWJubZ9eW3IEFFXhlIHoQJy--omhYigEMcr-qTcWSWMZOi6N6HsTCJ8ug=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczO2r19t7kxelKDEGaQZFdDzToMIborrpBYSi6HKUZpaoB7u0frbt1EPwcwyyPliWTvvIhlsmBTA2NfxMKqEgy8H66sNmB6hAT78XlFoq5ZdSadgaKj9IfhDzkNlA2Hk37Qa8etVjBIvk1sG99UhgdV01A=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczO2r19t7kxelKDEGaQZFdDzToMIborrpBYSi6HKUZpaoB7u0frbt1EPwcwyyPliWTvvIhlsmBTA2NfxMKqEgy8H66sNmB6hAT78XlFoq5ZdSadgaKj9IfhDzkNlA2Hk37Qa8etVjBIvk1sG99UhgdV01A=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPwniyIL3wgcOFRbQM9aLeNgdmmVL6xAQpj-6BHFkXH_8GmdiroZjrEGXtjXOWuHHsZ8nCvJn04Vttaym8hXnPx0Zr3FA37Ind6Ksp3KUM3HfM1ByAZs0Xt5m9zlebbMqRAGI0Kj1JkG8KskWo-UmBGKA=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPwniyIL3wgcOFRbQM9aLeNgdmmVL6xAQpj-6BHFkXH_8GmdiroZjrEGXtjXOWuHHsZ8nCvJn04Vttaym8hXnPx0Zr3FA37Ind6Ksp3KUM3HfM1ByAZs0Xt5m9zlebbMqRAGI0Kj1JkG8KskWo-UmBGKA=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPF1Ptq6REdIXd3vKVdTBlMFkofa46tgbbgReMzSanufS1194mx5JebL5aOcSRg8bfisqRIYDdSc6LW4Q8RBaI2IBwfLrhRxqnhCTiiXDmUuGY5B-_C_Q2OIhtqxLAsY8jLmEIx57Q3_OpX3l3t8mEUJw=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPF1Ptq6REdIXd3vKVdTBlMFkofa46tgbbgReMzSanufS1194mx5JebL5aOcSRg8bfisqRIYDdSc6LW4Q8RBaI2IBwfLrhRxqnhCTiiXDmUuGY5B-_C_Q2OIhtqxLAsY8jLmEIx57Q3_OpX3l3t8mEUJw=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPgpJM2-HIhRKxNNGA6iisVd07A71-SfSFEGGgC1UbXmplRl20KQ6_GwyYIzifDOsaHmt-3UqdOkgM4oQvNKWKHP5bDKd-k-6Z_zK49MMWMuiiFlslj1Z5J82hqeAupAwFb911z-sd_LxbaWWmwsCmyOA=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPgpJM2-HIhRKxNNGA6iisVd07A71-SfSFEGGgC1UbXmplRl20KQ6_GwyYIzifDOsaHmt-3UqdOkgM4oQvNKWKHP5bDKd-k-6Z_zK49MMWMuiiFlslj1Z5J82hqeAupAwFb911z-sd_LxbaWWmwsCmyOA=w1228-h919-s-no-gm?authuser=0]
+|
+3.+|image:https://lh3.googleusercontent.com/pw/AP1GczPo2yebq10jNStaA8_dRPdRQoenmkuDoPa3m1JKCKQdt_ryasSTKk-m_TMTjWAWkPmpSnrO8LPgCPn0FtTheGQEgCCOIvgjixV-wwcePMYfMQzVJblWo76jSjQ49N0Ktdmyah-EivNTl3rpsJUJ0o_VbQ=w1280-h416-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPo2yebq10jNStaA8_dRPdRQoenmkuDoPa3m1JKCKQdt_ryasSTKk-m_TMTjWAWkPmpSnrO8LPgCPn0FtTheGQEgCCOIvgjixV-wwcePMYfMQzVJblWo76jSjQ49N0Ktdmyah-EivNTl3rpsJUJ0o_VbQ=w1280-h416-s-no-gm?authuser=0]
+|===
+====
