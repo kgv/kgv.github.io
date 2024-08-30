@@ -1,4 +1,4 @@
-= Анализ stem:[FA] в stem:[TL] семен *Impatiens parviflora* с помощью реакции с stem:[TMSH]
+= Анализ stem:[FA] в stem:[TL] семян *Impatiens parviflora* с помощью stem:[TMSH]
 :page-categories: [Experiment]
 :page-tags: [FA, ImpatiensParviflora, Laboratory, Log, TL, TMSH]
 

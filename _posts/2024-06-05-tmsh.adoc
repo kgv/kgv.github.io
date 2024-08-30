@@ -1,16 +1,15 @@
-= Анализ stem:[FA] семян Ácer sacchárinum, Ácer rúbrum с помощью TMSH
+= Анализ stem:[FA] семян *Acer saccharinum*, *Acer rubrum* с помощью stem:[TMSH]
 :page-categories: [Experiment]
-:page-tags: [Laboratory, Log, LunariaRediviva, TAG]
-:page-update: []
+:page-tags: [AcerRubrum, AcerSaccharinum, Laboratory, Log, TAG]
 
-Пробы stem:[AS], stem:[AR]
+== Пробы stem:[AS], stem:[AR]
 
 . Внести пробу семян в 1.5 stem:[\mu L] пластиковые пробирки
 . Растереть пробу пестиком в пробирке
 . Внести stem:[TMSH]: 700 stem:[\mu L]
 . Греть 60 stem:[min], 75 stem:[^\circ C]
-.Нейтрализация stem:[TMSH] при помощи stem:[AcOH]
-. Внести stem:[AcOH]: 50 stem:[\mu L]
+. Внести stem:[AcOH]: 50 stem:[\mu L] +
+(нейтрализация stem:[TMSH] при помощи stem:[AcOH])
 . Внести stem:[H_2O]: 300 stem:[\mu L]
 . Внести stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): 300 stem:[\mu L]
 . Вортексировать
