@@ -27,13 +27,7 @@ stem:[m_4]:: Масса пробы после сушки
 stem:[DW]:: Доля сухого веса
 ====
 
-stem:[\overline{DW}\pm{}SD] = 78.2 ± 1.6 (2.00%)
-
-.{details}
-[%collapsible]
-====
-stem:[\overline{DW}\pm{}SD] = 78.241056978677 ± 1.5553446850241 (1,987888131%)
-====
+stem:[\overline{DW}\pm{}SD] = 78.241056978677 ± 1.5553446850241 (0.019878881307137471138%)
 
 .{figures-caption}
 [%collapsible]

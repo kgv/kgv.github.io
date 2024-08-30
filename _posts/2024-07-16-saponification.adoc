@@ -3,22 +3,33 @@
 :page-tags: [FA, Laboratory, Log, LunariaRediviva, Saponification, TL]
 :page-update: [2024-07-17]
 
+== Пробы stem:[0.0], stem:[0.1], stem:[0.2], stem:[1.0], stem:[1.1], stem:[1.2], stem:[2.0], stem:[2.1], stem:[2.2]
+
+Пробы stem:[0.*]:: Цвет семян приемущественно зеленый, появляются участки коричневого.
+По 8 семян в пробе.
+
+Пробы stem:[1.*]:: Цвет семян зелено-коричневый, примерно 50/50.
+По 5 семян в пробе.
+
+Пробы stem:[2.*]:: Цвет семян приемущественно коричневый, отсались участки зеленого.
+По 5 семян в пробе.
+
 . Внести пробы
 +
 --
 .Масса проб
 [cols="*", frame=all, grid=all]
 |===
-|ID             |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
-|stem:[СЦ_{0.0}]|2.5211              |2.9782              |0.4571
-|stem:[СЦ_{0.1}]|2.4808              |2.8590              |0.3782
-|stem:[СЦ_{0.2}]|2.4854              |2.9082              |0.4228
-|stem:[СЦ_{1.0}]|3.5127              |3.8791              |0.3664
-|stem:[СЦ_{1.1}]|3.5537              |3.8713              |0.3176
-|stem:[СЦ_{1.2}]|3.5283              |3.8898              |0.3615
-|stem:[СЦ_{2.0}]|3.5186              |3.8991              |0.3805
-|stem:[СЦ_{2.1}]|3.5267              |3.8755              |0.3488
-|stem:[СЦ_{2.2}]|3.5286              |3.8644              |0.3358
+|ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[0.0]|2.5211              |2.9782              |0.4571
+|stem:[0.1]|2.4808              |2.8590              |0.3782
+|stem:[0.2]|2.4854              |2.9082              |0.4228
+|stem:[1.0]|3.5127              |3.8791              |0.3664
+|stem:[1.1]|3.5537              |3.8713              |0.3176
+|stem:[1.2]|3.5283              |3.8898              |0.3615
+|stem:[2.0]|3.5186              |3.8991              |0.3805
+|stem:[2.1]|3.5267              |3.8755              |0.3488
+|stem:[2.2]|3.5286              |3.8644              |0.3358
 |===
 
 .{where}
@@ -27,13 +38,6 @@
 stem:[m_0]:: Масса пустой пробирки
 stem:[m_1]:: Масса пробирки с пробой
 stem:[m_2]:: Масса пробы
-
-stem:[СЦ]:: Семена, дифференцированные по цвету
-stem:[СЦ_{0.*}]:: Зеленые, появились участки коричневого (16.07.2024)
-* по 8 шт. в пробе
-stem:[СЦ_{1.*}]:: Зелено-коричневые, примерно 50/50 (17.07.2024)
-* по 5 шт. в пробе
-stem:[СЦ_{2.*}]:: Коричневые, остались участки зеленого (17.07.2024)
 ====
 --
 . Внести stem:[C_2H_5OH]: 250 stem:[\mu L]
@@ -64,3 +68,17 @@ NOTE: Количество кислоты, которое требуется в�
 . Вортексировать
 . Центрифугировать 3 stem:[min], 2300 stem:[g]
 . Отобрать верхнюю фазу (stem:[Heptane])
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczNCc6ynB7FK0Ee9Hocg5xCntR3jN9cHcdvDQ3WOzJPekST48xPlS_0WXYsAikVXWc7r8gnyimoW67PYx7UqcScnYKvKguXngL8TqT-n4dTSkd05qG2vFgLJl5Uw3JFZUr0f0xMRCGSDdLAq9qb7yFGYTA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNCc6ynB7FK0Ee9Hocg5xCntR3jN9cHcdvDQ3WOzJPekST48xPlS_0WXYsAikVXWc7r8gnyimoW67PYx7UqcScnYKvKguXngL8TqT-n4dTSkd05qG2vFgLJl5Uw3JFZUr0f0xMRCGSDdLAq9qb7yFGYTA=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPC6YYoSs32c_pe70tM7aPIwb8pLmo_5R32we9oI2teqAspA7wafqsiRrXrHucybm9kzbtWNLZfInz6cPPTjYtaLecMnNF2b5rLNZOQuf2hvS3xq8m9_7gJtcP2yb1OZTB57RWNmCYszVeowvVN78iJBQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPC6YYoSs32c_pe70tM7aPIwb8pLmo_5R32we9oI2teqAspA7wafqsiRrXrHucybm9kzbtWNLZfInz6cPPTjYtaLecMnNF2b5rLNZOQuf2hvS3xq8m9_7gJtcP2yb1OZTB57RWNmCYszVeowvVN78iJBQ=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOUtoMama7799QrR3J_ESEfaCfrDcAmT42TUp24UjL-fvtab0CQfmtHmwrbD2YDsCh1xO6yUG8JB71cb2Z1Fp7SvvFaG3OwtmIjqAVdShhMF1om3IkZXnisLCuPWQTxa9rh8NzrjtNMyH4JRMxHcuK-ig=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczOUtoMama7799QrR3J_ESEfaCfrDcAmT42TUp24UjL-fvtab0CQfmtHmwrbD2YDsCh1xO6yUG8JB71cb2Z1Fp7SvvFaG3OwtmIjqAVdShhMF1om3IkZXnisLCuPWQTxa9rh8NzrjtNMyH4JRMxHcuK-ig=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPBHL-COzwQMehDy1tqTmzBrTcia-YpqqzRx90ePSt4xwcYEWghGQfaojsnHULl6VqN6IUcpBrd7CgoQ94TErOZjDKz_k1sy6TaMKIYFFKJff6_ebn9tCahd78bKHslWKIgFqWgmTsGKRJTIXFoAQUH-w=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPBHL-COzwQMehDy1tqTmzBrTcia-YpqqzRx90ePSt4xwcYEWghGQfaojsnHULl6VqN6IUcpBrd7CgoQ94TErOZjDKz_k1sy6TaMKIYFFKJff6_ebn9tCahd78bKHslWKIgFqWgmTsGKRJTIXFoAQUH-w=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczO3Fslxp1GMEWSQ9oxlWk81Jq87diNVnGSnjmOYSGBKDlCBFuWFHAptm9h1NJOAuAfBppNnIdax73GSSBRJxxnj4HXu1rkb9C7bljlUMGeOWsR63ckTX5PLXYfQxI_p1NB-sc0oC6PaKn7QkfXkwDURRw=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczO3Fslxp1GMEWSQ9oxlWk81Jq87diNVnGSnjmOYSGBKDlCBFuWFHAptm9h1NJOAuAfBppNnIdax73GSSBRJxxnj4HXu1rkb9C7bljlUMGeOWsR63ckTX5PLXYfQxI_p1NB-sc0oC6PaKn7QkfXkwDURRw=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczO-6oD6QAGDoDnAtxqzsK5uIaFw7KJ4bPSsaNIwX3oFtc5FofehhxxxkSzZ3rsD4NyhxqtQ-tcbX8AKAxLQj2hYLI_iJ9ib-Wns1O4WJE8ZPzLZcrFMQ5lIkkqfIAtO5UQf8-CX6rUKZF31mvDY-8YohQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczO-6oD6QAGDoDnAtxqzsK5uIaFw7KJ4bPSsaNIwX3oFtc5FofehhxxxkSzZ3rsD4NyhxqtQ-tcbX8AKAxLQj2hYLI_iJ9ib-Wns1O4WJE8ZPzLZcrFMQ5lIkkqfIAtO5UQf8-CX6rUKZF31mvDY-8YohQ=w915-h685-s-no-gm?authuser=0]
+|===
+====

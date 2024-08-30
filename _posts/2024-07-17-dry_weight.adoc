@@ -1,0 +1,98 @@
+= Анализ доли сухого веса дифференцированных по цвету семян *Lunaria rediviva*
+:page-categories: [Experiment]
+:page-tags: [DryWeight, Laboratory, Log, LunariaRediviva]
+
+== Пробы stem:[0.0], stem:[0.1], stem:[0.2]
+
+Цвет семян приемущественно зеленый, появляются участки коричневого.
+По 5 семян в пробе.
+
+.Масса проб
+[cols="*", frame=all, grid=all]
+|===
+|ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]|stem:[m_3], stem:[g]|stem:[m_4], stem:[g]|stem:[DW], stem:[\%]
+|stem:[0.0]|11.1785             |11.5080             |0.3295              |11.3030             |0.1245              |37.784522003034901366
+|stem:[0.1]|11.8646             |12.1720             |0.3074              |11.9812             |0.1166              |37.93103448275862069
+|stem:[0.2]|10.2125             |10.5499             |0.3374              |10.3464             |0.1339              |39.685832839359810314
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой до сушки
+stem:[m_2]:: Масса пробы до сушки
+stem:[m_3]:: Масса пробирки с пробой после сушки
+stem:[m_4]:: Масса пробы после сушки
+stem:[DW]:: Доля сухого веса
+====
+
+stem:[\overline{DW}\pm{}SD] = 38.467129775051 ± 1.057967081669 (2.7503145876903349999%)
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPwPpaDzjsNu4ncHanZ_hIiyVoP47qFx9vf8o6KZ1XoMLSFLSIg6wwzA9foiz1k6hWGy56q1t8jKr0yBBrU0esKGYEMWKD_z82SgAK_sy9ax0mN2Hrcm1JV62yoWuWGl3vDbVFji8oJ6qIkxTOhDnjuaw=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPwPpaDzjsNu4ncHanZ_hIiyVoP47qFx9vf8o6KZ1XoMLSFLSIg6wwzA9foiz1k6hWGy56q1t8jKr0yBBrU0esKGYEMWKD_z82SgAK_sy9ax0mN2Hrcm1JV62yoWuWGl3vDbVFji8oJ6qIkxTOhDnjuaw=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPQPQRDK42k-YkSLJ2Km2IAPw1kjXUpZt6cvF8rf_t6O7yFxb9-qSilYp66TAMYpo35NngiYAzqUWEEOC1vHDT5HtTs6965WvOu52KPzx5rfPcuTdjUD8mSPjvquHaM9EYEJvRqEWJgPUq_zwHogYnW5w=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPQPQRDK42k-YkSLJ2Km2IAPw1kjXUpZt6cvF8rf_t6O7yFxb9-qSilYp66TAMYpo35NngiYAzqUWEEOC1vHDT5HtTs6965WvOu52KPzx5rfPcuTdjUD8mSPjvquHaM9EYEJvRqEWJgPUq_zwHogYnW5w=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN6hSyIGO4-LBKGyLbmXX_RCAdiMXWg7dSX4Eu-jYyN3jxh6uGnQxP9H3Ioz0KYuy6WzWRxESC4VwETYI_baW83w_TdnfD-7SKmgfRAi8KCDl5Jf182f1A-Clvvz8pHUvJyP6XqYd3Yif8PrChkayVe3w=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczN6hSyIGO4-LBKGyLbmXX_RCAdiMXWg7dSX4Eu-jYyN3jxh6uGnQxP9H3Ioz0KYuy6WzWRxESC4VwETYI_baW83w_TdnfD-7SKmgfRAi8KCDl5Jf182f1A-Clvvz8pHUvJyP6XqYd3Yif8PrChkayVe3w=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPoqRiRgf-sX-LYGfUNB9hCN-Jbdts-356F-UlyhhfdJnHHHXKgfIqBvqCdWN27clz1jBFE1grUJBHTvizgb05QI9BbRrx8qOMXXn2MdPjGwq6cHrZzYu-XeW2f7eJ_eIkn0ZYyqNv2wyGwrQZenlWyBg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPoqRiRgf-sX-LYGfUNB9hCN-Jbdts-356F-UlyhhfdJnHHHXKgfIqBvqCdWN27clz1jBFE1grUJBHTvizgb05QI9BbRrx8qOMXXn2MdPjGwq6cHrZzYu-XeW2f7eJ_eIkn0ZYyqNv2wyGwrQZenlWyBg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNutFjNdbOTwHfZgzca82mUxDsRyJ7JJAcQ2ncPYm-o76tAddPh6BUdH-LCcaSYHea2u1foQ45-WlXDz524S-EPSmn-tHDyy71giwSAjq5VwRTdE67yIXrQXTiGTIBrNi_a5fTucT5j8cpnofFaawh3Bg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNutFjNdbOTwHfZgzca82mUxDsRyJ7JJAcQ2ncPYm-o76tAddPh6BUdH-LCcaSYHea2u1foQ45-WlXDz524S-EPSmn-tHDyy71giwSAjq5VwRTdE67yIXrQXTiGTIBrNi_a5fTucT5j8cpnofFaawh3Bg=w915-h685-s-no-gm?authuser=0]
+|
+|===
+====
+
+== Пробы stem:[1.0], stem:[1.1], stem:[1.2]
+
+Цвет семян зелено-коричневый, примерно 50/50.
+По 5 семян в пробе.
+
+.Масса проб
+[cols="*", frame=all, grid=all]
+|===
+|ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]|stem:[m_3], stem:[g]|stem:[m_4], stem:[g]|stem:[DW], stem:[\%]
+|stem:[1.0]|20.9402             |21.2763             |0.3361              |21.0695             |0.1293              |38.470693246057720916
+|stem:[1.1]|12.5027             |12.8436             |0.3409              |12.6340             |0.1313              |38.515693751833382224
+|stem:[1.2]|11.1479             |11.5130             |0.3651              |11.2935             |0.1456              |39.879485072582854013
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой до сушки
+stem:[m_2]:: Масса пробы до сушки
+stem:[m_3]:: Масса пробирки с пробой после сушки
+stem:[m_4]:: Масса пробы после сушки
+stem:[DW]:: Доля сухого веса
+====
+
+stem:[\overline{DW}\pm{}SD] = 38.955290690158 ± 0.8006920155461 (2.0554127600141197864%)
+
+== Пробы stem:[1.0], stem:[1.1], stem:[1.2]
+
+Цвет семян приемущественно коричневый, отсались участки зеленого.
+По 5 семян в пробе.
+
+.Масса проб
+[cols="*", frame=all, grid=all]
+|===
+|ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]|stem:[m_3], stem:[g]|stem:[m_4], stem:[g]|stem:[DW], stem:[\%]
+|stem:[2.0]|15.7075             |16.0418             |0.3343              |15.8427             |0.1352              |40.44271612324259647
+|stem:[2.1]|11.5080             |11.8107             |0.3027              |11.6276             |0.1196              |39.511067063098777668
+|stem:[2.2]|15.2701             |15.5897             |0.3196              |15.3968             |0.1267              |39.643304130162703379
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой до сушки
+stem:[m_2]:: Масса пробы до сушки
+stem:[m_3]:: Масса пробирки с пробой после сушки
+stem:[m_4]:: Масса пробы после сушки
+stem:[DW]:: Доля сухого веса
+====
+
+stem:[\overline{DW}\pm{}SD] = 39.865695772168 ± 0.50406946410399 (1.2644190809681117333%)

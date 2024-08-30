@@ -1,0 +1,17 @@
+= Анализ stem:[FA] в stem:[TL] семен *Impatiens parviflora* с помощью реакции с stem:[TMSH]
+:page-categories: [Experiment]
+:page-tags: [FA, ImpatiensParviflora, Laboratory, Log, TL, TMSH]
+
+. Внести пробу
+. Внести stem:[TMSH]: 500 stem:[\mu L]
+. Греть 30 stem:[min], 60 stem:[^\circ C]
++
+1.1224 - 1.1621 = 0.0397
+. Внести stem:[H_2O]: 300 stem:[\mu L]
+. Внести stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): 600 stem:[\mu L]
+. Вортексировать
+. Центрифугировать 3 stem:[min], 2300 stem:[g]
++
+1.1309 - 1.1397 = 0.0088
+. Внести stem:[Heptane]: 500 stem:[\mu L]
+. Отобрать верхнюю фазу (stem:[Heptane])
