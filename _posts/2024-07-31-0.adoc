@@ -10,7 +10,7 @@
 [cols="*", frame=all, grid=all]
 |===
 |ID       |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
-|stem:[LR]|                    |                    |
+|stem:[LR]|4.02                |26.26               |22.24
 |===
 
 .{where}
