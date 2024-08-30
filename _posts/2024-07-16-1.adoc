@@ -1,7 +1,7 @@
 = Анализ stem:[FA] в stem:[TL] дифференцированных по цвету семян *Lunaria rediviva* с помощью реакции омыления
 :page-categories: [Experiment]
 :page-tags: [FA, Laboratory, Log, LunariaRediviva, Saponification, TL]
-:page-update: [2024-07-16]
+:page-update: [2024-07-17]
 
 . Внести пробы
 +

@@ -1,0 +1,48 @@
+= Анализ сухой массы семян *Impatiens parviflora*
+:page-categories: [Experiment]
+:page-tags: [Laboratory, Log, ImpatiensParviflora]
+:page-update: [2024-08-29]
+
+== Пробы stem:[С_i]
+
+.Масса проб
+[cols="*", frame=all, grid=all]
+|===
+|ID        |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]|stem:[m_3], stem:[g]|stem:[m_4], stem:[g]|stem:[DW], stem:[\%]
+|stem:[С_1]|2.4859              |2.5676              |0.0817              |2.5505              |0.0646              |0.79069767441860465116
+|stem:[С_2]|2.4677              |2.5420              |0.0743              |2.5245              |0.0568              |0.76446837146702557201
+|stem:[С_3]|2.4449              |2.5180              |0.0731              |2.5028              |0.0579              |0.79206566347469220246
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой до сушки
+stem:[m_2]:: Масса пробы до сушки
+stem:[m_3]:: Масса пробирки с пробой после сушки
+stem:[m_4]:: Масса пробы после сушки
+stem:[DW]:: Доля сухого веса
+
+stem:[С_*]:: Семена
+====
+
+stem:[SD_{DW_С}] = 78.2 ± 1.6 (2.00%)
+
+.{details}
+[%collapsible]
+====
+stem:[\overline{DW}{\pm}s] = 78.241056978677 ± 1.5553446850241 (1,987888131%)
+====
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="4*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczOHDSUJGz5MPtE6sozSWUzdigjZ6zQWz22Jr_dE-dAUS48BaooBCvXc_Y94uLXOzknYDCfw9cOpK-mzWLh-XJosLmWPD8upseEAkoVxPuz7ddh-4ljPRpVlBcz1Q_X7ws4uqUbYQgw3hvhPeHgxEttJ=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczOHDSUJGz5MPtE6sozSWUzdigjZ6zQWz22Jr_dE-dAUS48BaooBCvXc_Y94uLXOzknYDCfw9cOpK-mzWLh-XJosLmWPD8upseEAkoVxPuz7ddh-4ljPRpVlBcz1Q_X7ws4uqUbYQgw3hvhPeHgxEttJ=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNFxgJMI4srI7TaPuVgVClSs-mbdYAUp99UOpMhQbkeTHwDhdrSw5Oj9Stjkc51VvT70f1yHrdced9XJTPD1Tk_IGMtd8M4ecYQFGKo3TfUkS2TZC3CUWcjwgSDFRJ3o3HG83EplImE_e3rSEU-0GWF=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNFxgJMI4srI7TaPuVgVClSs-mbdYAUp99UOpMhQbkeTHwDhdrSw5Oj9Stjkc51VvT70f1yHrdced9XJTPD1Tk_IGMtd8M4ecYQFGKo3TfUkS2TZC3CUWcjwgSDFRJ3o3HG83EplImE_e3rSEU-0GWF=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMrifPzecJ5wCjIpOL3rTcB105MMcMzG0EYM1hv0GD4zKN-u7LQ8EeKorcJ-CxdfPekw7HsWwcFtM6_k8Igo6k3oVhsu6bN0xvAZqtu_Lehw08b6TI_zRq52ri0pOo3TW_OTqpubrPPIa3a8c53BmbH=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczMrifPzecJ5wCjIpOL3rTcB105MMcMzG0EYM1hv0GD4zKN-u7LQ8EeKorcJ-CxdfPekw7HsWwcFtM6_k8Igo6k3oVhsu6bN0xvAZqtu_Lehw08b6TI_zRq52ri0pOo3TW_OTqpubrPPIa3a8c53BmbH=w1228-h919-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOzzJW30XycNSUTjiKlN_MaBDjrSsN6cCRCNeHCPKaRLm7R-Gp2BlB66F-v1Ghrw3UiQgwhmtbBd8Ml1utX3TlAyOg6w-2DlH7NaACxvFSD4MyUuu8Q3CrFRfFNHA1EbRn8RB-hh3j3NnyfM1osqqRn=w1228-h919-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczOzzJW30XycNSUTjiKlN_MaBDjrSsN6cCRCNeHCPKaRLm7R-Gp2BlB66F-v1Ghrw3UiQgwhmtbBd8Ml1utX3TlAyOg6w-2DlH7NaACxvFSD4MyUuu8Q3CrFRfFNHA1EbRn8RB-hh3j3NnyfM1osqqRn=w1228-h919-s-no-gm?authuser=0]
+|===
+====
