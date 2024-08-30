@@ -1,0 +1,49 @@
+= Анализ доли сухого веса сформировавшихся семен *Lunaria rediviva*
+:page-categories: [Experiment]
+:page-tags: [DryWeight, Laboratory, Log, LunariaRediviva]
+
+== Пробы stem:[0], stem:[1], stem:[2]
+
+По 30 семян в пробе.
+
+.Масса проб
+[cols="*", frame=all, grid=all]
+|===
+|ID      |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]|stem:[m_3], stem:[g]|stem:[m_4], stem:[g]|stem:[DW], stem:[\%]
+|stem:[0]|11.1781             |12.4192             |1.2411              |11.9057             |0.7276              |58.625412940133752316
+|stem:[1]|15.7095             |17.0384             |1.3289              |16.4966             |0.7871              |59.229437880954172624
+|stem:[2]|11.5076             |12.7774             |1.2698              |12.2469             |0.7393              |58.221767207434241613
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой до сушки
+stem:[m_2]:: Масса пробы до сушки
+stem:[m_3]:: Масса пробирки с пробой после сушки
+stem:[m_4]:: Масса пробы после сушки
+stem:[DW]:: Доля сухого веса
+====
+
+stem:[\overline{DW}\pm{}SD] = 58.7 ± 0.5 (0.86%)
+
+.{details}
+[%collapsible]
+====
+stem:[\overline{DW}\pm{}SD] = 58.692206009507 ± 0.50714498139614 (0.86407551509308125304%)
+====
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPwPpaDzjsNu4ncHanZ_hIiyVoP47qFx9vf8o6KZ1XoMLSFLSIg6wwzA9foiz1k6hWGy56q1t8jKr0yBBrU0esKGYEMWKD_z82SgAK_sy9ax0mN2Hrcm1JV62yoWuWGl3vDbVFji8oJ6qIkxTOhDnjuaw=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPwPpaDzjsNu4ncHanZ_hIiyVoP47qFx9vf8o6KZ1XoMLSFLSIg6wwzA9foiz1k6hWGy56q1t8jKr0yBBrU0esKGYEMWKD_z82SgAK_sy9ax0mN2Hrcm1JV62yoWuWGl3vDbVFji8oJ6qIkxTOhDnjuaw=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPQPQRDK42k-YkSLJ2Km2IAPw1kjXUpZt6cvF8rf_t6O7yFxb9-qSilYp66TAMYpo35NngiYAzqUWEEOC1vHDT5HtTs6965WvOu52KPzx5rfPcuTdjUD8mSPjvquHaM9EYEJvRqEWJgPUq_zwHogYnW5w=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPQPQRDK42k-YkSLJ2Km2IAPw1kjXUpZt6cvF8rf_t6O7yFxb9-qSilYp66TAMYpo35NngiYAzqUWEEOC1vHDT5HtTs6965WvOu52KPzx5rfPcuTdjUD8mSPjvquHaM9EYEJvRqEWJgPUq_zwHogYnW5w=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN6hSyIGO4-LBKGyLbmXX_RCAdiMXWg7dSX4Eu-jYyN3jxh6uGnQxP9H3Ioz0KYuy6WzWRxESC4VwETYI_baW83w_TdnfD-7SKmgfRAi8KCDl5Jf182f1A-Clvvz8pHUvJyP6XqYd3Yif8PrChkayVe3w=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczN6hSyIGO4-LBKGyLbmXX_RCAdiMXWg7dSX4Eu-jYyN3jxh6uGnQxP9H3Ioz0KYuy6WzWRxESC4VwETYI_baW83w_TdnfD-7SKmgfRAi8KCDl5Jf182f1A-Clvvz8pHUvJyP6XqYd3Yif8PrChkayVe3w=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPoqRiRgf-sX-LYGfUNB9hCN-Jbdts-356F-UlyhhfdJnHHHXKgfIqBvqCdWN27clz1jBFE1grUJBHTvizgb05QI9BbRrx8qOMXXn2MdPjGwq6cHrZzYu-XeW2f7eJ_eIkn0ZYyqNv2wyGwrQZenlWyBg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPoqRiRgf-sX-LYGfUNB9hCN-Jbdts-356F-UlyhhfdJnHHHXKgfIqBvqCdWN27clz1jBFE1grUJBHTvizgb05QI9BbRrx8qOMXXn2MdPjGwq6cHrZzYu-XeW2f7eJ_eIkn0ZYyqNv2wyGwrQZenlWyBg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNutFjNdbOTwHfZgzca82mUxDsRyJ7JJAcQ2ncPYm-o76tAddPh6BUdH-LCcaSYHea2u1foQ45-WlXDz524S-EPSmn-tHDyy71giwSAjq5VwRTdE67yIXrQXTiGTIBrNi_a5fTucT5j8cpnofFaawh3Bg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNutFjNdbOTwHfZgzca82mUxDsRyJ7JJAcQ2ncPYm-o76tAddPh6BUdH-LCcaSYHea2u1foQ45-WlXDz524S-EPSmn-tHDyy71giwSAjq5VwRTdE67yIXrQXTiGTIBrNi_a5fTucT5j8cpnofFaawh3Bg=w915-h685-s-no-gm?authuser=0]
+|
+|===
+====

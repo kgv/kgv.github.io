@@ -54,3 +54,15 @@ NOTE: Количество кислоты, которое требуется в�
 . Вортексировать
 . Центрифугировать 3 stem:[min], 2300 stem:[g]
 . Отобрать верхнюю фазу (stem:[Heptane])
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczMciuwN1KqREX6k30MBN3QBusvB8OXVtCaIXL-pYuNwzp2x9PCUxvFIFR3HlIDBJm8yXc8wUqxWpbw7qmwYqygyl2k8Y99RE-pHfR9AjB0bRaCPIgFlM8u6pAPqL4E4iC-pIVdaZJB9odnPSHUyG7qN4g=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczMciuwN1KqREX6k30MBN3QBusvB8OXVtCaIXL-pYuNwzp2x9PCUxvFIFR3HlIDBJm8yXc8wUqxWpbw7qmwYqygyl2k8Y99RE-pHfR9AjB0bRaCPIgFlM8u6pAPqL4E4iC-pIVdaZJB9odnPSHUyG7qN4g=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN8fBLZA7DiR7TcjQMw-RB-kdNIfQZq-HjY43x3GDJ4mmsdv_FpNX7y59_rk6-jOoR_F0V_1x8cpFxlX9UgASsq8_s-L9Laa4L3XkK4ktX2uzJ4eV2szgEj2_UsZglrh9z4J29mYORB7KVqswWTeNlTPQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczN8fBLZA7DiR7TcjQMw-RB-kdNIfQZq-HjY43x3GDJ4mmsdv_FpNX7y59_rk6-jOoR_F0V_1x8cpFxlX9UgASsq8_s-L9Laa4L3XkK4ktX2uzJ4eV2szgEj2_UsZglrh9z4J29mYORB7KVqswWTeNlTPQ=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPQMSyEpITKEn7a2JUxgmsjE0xLUnBI17O8AyM435WgkaqmcNQXycoWEFl5ENHih30rP_VTFIReDTL-Ox8HAQ0qWKEfcYRY0xb1ydrZXuo5KfyLWj8iKf8MTPMry9hY7FNmAlqjFqMjWsMfGHgkSjccgQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPQMSyEpITKEn7a2JUxgmsjE0xLUnBI17O8AyM435WgkaqmcNQXycoWEFl5ENHih30rP_VTFIReDTL-Ox8HAQ0qWKEfcYRY0xb1ydrZXuo5KfyLWj8iKf8MTPMry9hY7FNmAlqjFqMjWsMfGHgkSjccgQ=w915-h685-s-no-gm?authuser=0]
+|===
+====
+

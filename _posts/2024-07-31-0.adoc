@@ -1,0 +1,36 @@
+= Подготовка проб семян *Lunaria rediviva*
+:page-categories: [Experiment]
+:page-tags: [Laboratory, Log, LunariaRediviva]
+
+== Проба stem:[LR]
+
+Упаковка в ботанический конверт.
+
+.Масса проб
+[cols="*", frame=all, grid=all]
+|===
+|ID       |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]
+|stem:[LR]|                    |                    |
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустого ботанического конверта
+stem:[m_1]:: Масса ботанического конверта с пробой
+stem:[m_2]:: Масса пробы
+====
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPwPpaDzjsNu4ncHanZ_hIiyVoP47qFx9vf8o6KZ1XoMLSFLSIg6wwzA9foiz1k6hWGy56q1t8jKr0yBBrU0esKGYEMWKD_z82SgAK_sy9ax0mN2Hrcm1JV62yoWuWGl3vDbVFji8oJ6qIkxTOhDnjuaw=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPwPpaDzjsNu4ncHanZ_hIiyVoP47qFx9vf8o6KZ1XoMLSFLSIg6wwzA9foiz1k6hWGy56q1t8jKr0yBBrU0esKGYEMWKD_z82SgAK_sy9ax0mN2Hrcm1JV62yoWuWGl3vDbVFji8oJ6qIkxTOhDnjuaw=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPQPQRDK42k-YkSLJ2Km2IAPw1kjXUpZt6cvF8rf_t6O7yFxb9-qSilYp66TAMYpo35NngiYAzqUWEEOC1vHDT5HtTs6965WvOu52KPzx5rfPcuTdjUD8mSPjvquHaM9EYEJvRqEWJgPUq_zwHogYnW5w=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPQPQRDK42k-YkSLJ2Km2IAPw1kjXUpZt6cvF8rf_t6O7yFxb9-qSilYp66TAMYpo35NngiYAzqUWEEOC1vHDT5HtTs6965WvOu52KPzx5rfPcuTdjUD8mSPjvquHaM9EYEJvRqEWJgPUq_zwHogYnW5w=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN6hSyIGO4-LBKGyLbmXX_RCAdiMXWg7dSX4Eu-jYyN3jxh6uGnQxP9H3Ioz0KYuy6WzWRxESC4VwETYI_baW83w_TdnfD-7SKmgfRAi8KCDl5Jf182f1A-Clvvz8pHUvJyP6XqYd3Yif8PrChkayVe3w=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczN6hSyIGO4-LBKGyLbmXX_RCAdiMXWg7dSX4Eu-jYyN3jxh6uGnQxP9H3Ioz0KYuy6WzWRxESC4VwETYI_baW83w_TdnfD-7SKmgfRAi8KCDl5Jf182f1A-Clvvz8pHUvJyP6XqYd3Yif8PrChkayVe3w=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPoqRiRgf-sX-LYGfUNB9hCN-Jbdts-356F-UlyhhfdJnHHHXKgfIqBvqCdWN27clz1jBFE1grUJBHTvizgb05QI9BbRrx8qOMXXn2MdPjGwq6cHrZzYu-XeW2f7eJ_eIkn0ZYyqNv2wyGwrQZenlWyBg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPoqRiRgf-sX-LYGfUNB9hCN-Jbdts-356F-UlyhhfdJnHHHXKgfIqBvqCdWN27clz1jBFE1grUJBHTvizgb05QI9BbRrx8qOMXXn2MdPjGwq6cHrZzYu-XeW2f7eJ_eIkn0ZYyqNv2wyGwrQZenlWyBg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNutFjNdbOTwHfZgzca82mUxDsRyJ7JJAcQ2ncPYm-o76tAddPh6BUdH-LCcaSYHea2u1foQ45-WlXDz524S-EPSmn-tHDyy71giwSAjq5VwRTdE67yIXrQXTiGTIBrNi_a5fTucT5j8cpnofFaawh3Bg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNutFjNdbOTwHfZgzca82mUxDsRyJ7JJAcQ2ncPYm-o76tAddPh6BUdH-LCcaSYHea2u1foQ45-WlXDz524S-EPSmn-tHDyy71giwSAjq5VwRTdE67yIXrQXTiGTIBrNi_a5fTucT5j8cpnofFaawh3Bg=w915-h685-s-no-gm?authuser=0]
+|
+|===
+====

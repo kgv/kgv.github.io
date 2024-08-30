@@ -1,4 +1,4 @@
-= Анализ сухой массы различных органов цветка *Lunaria rediviva*
+= Анализ доли сухого веса различных органов цветка *Lunaria rediviva*
 :page-categories: [Experiment]
 :page-tags: [Laboratory, Log, LunariaRediviva]
 :page-update: [2024-07-04]

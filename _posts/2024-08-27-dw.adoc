@@ -1,0 +1,47 @@
+= Анализ доли сухого веса семян *Impatiens parviflora*
+:page-categories: [Experiment]
+:page-tags: [DryWeight, ImpatiensParviflora, Laboratory, Log]
+:page-update: [2024-08-29]
+
+== Пробы stem:[0], stem:[1], stem:[2]
+
+По 10 семян в пробе.
+
+.Масса проб
+[cols="*", frame=all, grid=all]
+|===
+|ID      |stem:[m_0], stem:[g]|stem:[m_1], stem:[g]|stem:[m_2], stem:[g]|stem:[m_3], stem:[g]|stem:[m_4], stem:[g]|stem:[DW], stem:[\%]
+|stem:[0]|2.4859              |2.5676              |0.0817              |2.5505              |0.0646              |79.069767441860465116
+|stem:[1]|2.4677              |2.5420              |0.0743              |2.5245              |0.0568              |76.446837146702557201
+|stem:[2]|2.4449              |2.5180              |0.0731              |2.5028              |0.0579              |79.206566347469220246
+|===
+
+.{where}
+[%collapsible]
+====
+stem:[m_0]:: Масса пустой пробирки
+stem:[m_1]:: Масса пробирки с пробой до сушки
+stem:[m_2]:: Масса пробы до сушки
+stem:[m_3]:: Масса пробирки с пробой после сушки
+stem:[m_4]:: Масса пробы после сушки
+stem:[DW]:: Доля сухого веса
+====
+
+stem:[\overline{DW}\pm{}SD] = 78.2 ± 1.6 (2.00%)
+
+.{details}
+[%collapsible]
+====
+stem:[\overline{DW}\pm{}SD] = 78.241056978677 ± 1.5553446850241 (1,987888131%)
+====
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczNCzwelpUAs5qSmSJGDMcbIAHZwl4Agm-pya5Cap-3URFaxrgfq4MdAemwgO_AtHXoCq59rvjzBmjuu3hOhksznDleelZvIT1-3ThrmVRfNCUazDGg3y6pAWIyppEfqMRbIKNWszE_x1ZPfNfcZ6gG6zA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNCzwelpUAs5qSmSJGDMcbIAHZwl4Agm-pya5Cap-3URFaxrgfq4MdAemwgO_AtHXoCq59rvjzBmjuu3hOhksznDleelZvIT1-3ThrmVRfNCUazDGg3y6pAWIyppEfqMRbIKNWszE_x1ZPfNfcZ6gG6zA=w915-h685-s-no-gm?authuser=0]
+|
+|
+|===
+====
