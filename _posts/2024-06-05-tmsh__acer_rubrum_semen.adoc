@@ -1,6 +1,6 @@
-= Анализ stem:[FA] семян *Acer rubrum*, *Acer saccharinum* с помощью stem:[TMSH]
+= Анализ stem:[FA] семян *Acer rubrum* с помощью stem:[TMSH]
 :page-categories: [Experiment]
-:page-tags: [AcerRubrum, AcerSaccharinum, Laboratory, Log, TAG]
+:page-tags: [AcerRubrum, Laboratory, Log, TAG]
 
 == Пробы stem:[AS], stem:[AR]
 

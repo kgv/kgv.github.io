@@ -1,0 +1,18 @@
+= Анализ stem:[FA] семян *Acer saccharinum* с помощью stem:[TMSH]
+:page-categories: [Experiment]
+:page-tags: [AcerSaccharinum, Laboratory, Log, TAG]
+
+== Пробы stem:[AS], stem:[AR]
+
+. Внести пробу семян в 1.5 stem:[\mu L] пластиковые пробирки
+. Растереть пробу пестиком в пробирке
+. Внести stem:[TMSH]: 700 stem:[\mu L]
+. Греть 60 stem:[min], 75 stem:[^\circ C]
+. Внести stem:[AcOH]: 50 stem:[\mu L]
++
+(нейтрализация stem:[TMSH] при помощи stem:[AcOH])
+. Внести stem:[H_2O]: 300 stem:[\mu L]
+. Внести stem:[Hexane]/stem:[Et_2O] (1/1, stem:[v/v]): 300 stem:[\mu L]
+. Вортексировать
+. Центрифугировать
+. Отобрать верхнюю фазу
