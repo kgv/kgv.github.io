@@ -1,7 +1,7 @@
-= Анализ доли сухого веса дифференцированных по размеру семян *Lunaria rediviva*
+= Сводная таблица доли сухого веса дифференцированных по размеру семян *Lunaria rediviva*
 :page-categories: [Experiment]
 :page-tags: [DryWeight, Laboratory, Log, LunariaRediviva]
-:page-update: [01.07.2024, 04.07.2024]
+:page-update: [10.06.2024, 24.06.2024, 01.07.2024, 02.07.2024, 04.07.2024]
 
 == Пробы stem:[1.0], stem:[1.1], stem:[1.2]
 
