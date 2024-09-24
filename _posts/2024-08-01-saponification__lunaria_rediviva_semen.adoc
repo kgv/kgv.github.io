@@ -1,4 +1,4 @@
-= Анализ stem:[FA] в stem:[TL] сформировавшихся семен *Lunaria rediviva* с помощью реакции омыления
+= Анализ stem:[FA] в stem:[TL] сформировавшихся семян *Lunaria rediviva* с помощью реакции омыления
 :page-categories: [Experiment]
 :page-tags: [FA, Laboratory, Log, LunariaRediviva, Saponification, TL]
 

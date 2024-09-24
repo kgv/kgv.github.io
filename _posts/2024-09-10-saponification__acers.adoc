@@ -1,0 +1,70 @@
+= Анализ stem:[FA] в stem:[TL] семян *Acer*s с помощью реакции 
+:page-categories: [Experiment]
+:page-tags: [FA, Laboratory, Log, Acer, Saponification, TL]
+
+* Клен серебристый (Acer saccharinum) +
+* Клен красный (Acer rubrum) +
+
+* Клен монпелийский (Acer monspessulanum)
+* Клен семенова (Acer semenovii)
+* Клен татарский (Acer tataricum) +
+* Клен полевой (Acer campestre) +
+* Клен каппадокийский (Acer cappadocicum)
+* Клен моно (Acer mono)
+* Клен завитой (Acer circinatum)
+* Клен ложнозибольдов (Acer pseudosieboldianum) +
+* Клен пенсильванский (Acer pensylvanicum) +
+* Клен зеленокорый (Acer tegmentosum) +
+* Клен колосистый (Acer spicatum) +
+* Клен желтый (Acer ukurunduense) +
+* Клен сахарный (Acer saccharum) (~октябрь)
+* Клен маньчжурский (Acer mandshuricum)
+* Клен ясенелистный (Acer negundo) +
+* Клен псевдоплатанус (Acer pseudoplatanus) (~октябрь)
+* Клен приречный (Acer ginnala) +
+
+== Метод
+
+. Растереть пробу семян пестиком в пробирке
+. Внести stem:[MeOH]: 500 stem:[\mu L]
+. Внести stem:[NaOCH_3]/stem:[H_2O] (1%): 100 stem:[\mu L]
+. Вортексировать
+. Греть 55 stem:[^\circ C], 30 stem:[min]
+. Внести stem:[H_2O]: 250 stem:[\mu L]
+. Внести stem:[Heptane]: 300 stem:[\mu L]
+. Вортексировать
+. Центрифугировать 3 stem:[min], 2300 stem:[g]
+. Отобрать верхнюю фазу (stem:[Heptane])
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="3*a", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPBJYa302Tzthacj3ZVcVYE6lUztSA4E6WTBFRwr9xLep-iaptSFkXHJaHIOcyiCx-Bb1v3MEvUnTns-b9hTA4-UfgG9MzrUbAZgr_j7EiHDjqs1GiGsd88N28RjHCrnxgFDcXHj8BwihUQX-lqfTeaWg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPBJYa302Tzthacj3ZVcVYE6lUztSA4E6WTBFRwr9xLep-iaptSFkXHJaHIOcyiCx-Bb1v3MEvUnTns-b9hTA4-UfgG9MzrUbAZgr_j7EiHDjqs1GiGsd88N28RjHCrnxgFDcXHj8BwihUQX-lqfTeaWg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPkaRBD4BYdl6vW76ORmrlLo7ZwSFDUX5Ma286v01hhYt1R6uCiCLWsi8E7IbPAkR7ZfoIcT1oekO7lZrNlkfGH4eOJB3uzvJ5e4qzZ-aNYvq6_95WNFt5tn3Be31ZSJwUl3XVDqoHllZYyud_rQBckeA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPkaRBD4BYdl6vW76ORmrlLo7ZwSFDUX5Ma286v01hhYt1R6uCiCLWsi8E7IbPAkR7ZfoIcT1oekO7lZrNlkfGH4eOJB3uzvJ5e4qzZ-aNYvq6_95WNFt5tn3Be31ZSJwUl3XVDqoHllZYyud_rQBckeA=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPuyl86CGIJb9Lbbc4oK_OeduKlWooV_PnT06EmW5iBKzAKiUvkIjCVL-mGghr4YdT1DHzV6G60fT97o1HIM6xElNxzA0BD3373DODYn4Kc8SD45r_bGr9acx0BPvfguWNKsBCxUyBryTKlySfpZwBrbg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPuyl86CGIJb9Lbbc4oK_OeduKlWooV_PnT06EmW5iBKzAKiUvkIjCVL-mGghr4YdT1DHzV6G60fT97o1HIM6xElNxzA0BD3373DODYn4Kc8SD45r_bGr9acx0BPvfguWNKsBCxUyBryTKlySfpZwBrbg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOPNAW0lV6Nk7l-theUVmoI6TG_ROjvP2Pbj_PfF7HdOgIB9aBaskjW6aeM7ch2uZey_YrZkUm8CkI8Au4MNdYcHliaPX1j-5vV9ExGuZ1SUECcwhErqwgU8uPqldW0l21TmkCs9LrWblZ11em0cbX5nQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczOPNAW0lV6Nk7l-theUVmoI6TG_ROjvP2Pbj_PfF7HdOgIB9aBaskjW6aeM7ch2uZey_YrZkUm8CkI8Au4MNdYcHliaPX1j-5vV9ExGuZ1SUECcwhErqwgU8uPqldW0l21TmkCs9LrWblZ11em0cbX5nQ=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczORVI8vNz6ma619onu6MoYjJOK1p18-3ZWntrx3HtVMnzOzUGQk3QNVo1aQPYj2nUFe3KAxf60EmnixqGzGgCFK1TJ7MQXyAJMwZC65RV8_HIXYjuOY8GXDREQ-RajqhnF2Ml30A2cZEAErP1TxyPoi1A=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczORVI8vNz6ma619onu6MoYjJOK1p18-3ZWntrx3HtVMnzOzUGQk3QNVo1aQPYj2nUFe3KAxf60EmnixqGzGgCFK1TJ7MQXyAJMwZC65RV8_HIXYjuOY8GXDREQ-RajqhnF2Ml30A2cZEAErP1TxyPoi1A=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN3MXc98xqW3OMApYUygEWD2kTq96Cu2Dda_Aq-EOG3_9GwTUIk_a0CiXGGPrknSKRcxvIV9mK_pscoQb23h3DnIJwwpjVDWD_uh9Z07iLMAw71gJ3U_Fy9NO4YNctUE2KejvzcqNmsuB79C1BlKzAWUA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczN3MXc98xqW3OMApYUygEWD2kTq96Cu2Dda_Aq-EOG3_9GwTUIk_a0CiXGGPrknSKRcxvIV9mK_pscoQb23h3DnIJwwpjVDWD_uh9Z07iLMAw71gJ3U_Fy9NO4YNctUE2KejvzcqNmsuB79C1BlKzAWUA=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczO8IIdzCwFiUqExR1SSDxvmsT2otWZpkxsVer7ECICC6YNdqtagqoIHxV57FmWOUNVVOeH_hfAd1XU34SIjpp_1TvXGSwj6f48lYlTT8JRLQWGa4nWXaL7iXGm6RE9q5TVVp0a1zra3hV1qf2EZPiwcHg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczO8IIdzCwFiUqExR1SSDxvmsT2otWZpkxsVer7ECICC6YNdqtagqoIHxV57FmWOUNVVOeH_hfAd1XU34SIjpp_1TvXGSwj6f48lYlTT8JRLQWGa4nWXaL7iXGm6RE9q5TVVp0a1zra3hV1qf2EZPiwcHg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPtfwXbaM_vYajKfjeeIDtklmzn4Wa6g0cPKBi-RzXh95JoE_Prs9ot7L0dbnR43rUEfr74s_fRkmUA-RNpy9-29zSbaRteXN95xfbef79lcKnGgz2qX2pRfgQVIVmFG0eer5DfPLBqH-_rF8SeZlCLCA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPtfwXbaM_vYajKfjeeIDtklmzn4Wa6g0cPKBi-RzXh95JoE_Prs9ot7L0dbnR43rUEfr74s_fRkmUA-RNpy9-29zSbaRteXN95xfbef79lcKnGgz2qX2pRfgQVIVmFG0eer5DfPLBqH-_rF8SeZlCLCA=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNMfuG3JWwyqYpr97qEQNrctL6s0VZAaQsBFjYKNXjG2jkJUN0uKeqzouOau1YYNHoQxs_Cs0--qVirklg8ITt4MxUEgoUYjzV3khTqfpdMO53-g5AUmyV1NOO-RWnu0n4PvO4Gg3yZ4rng-jzamqVl6A=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNMfuG3JWwyqYpr97qEQNrctL6s0VZAaQsBFjYKNXjG2jkJUN0uKeqzouOau1YYNHoQxs_Cs0--qVirklg8ITt4MxUEgoUYjzV3khTqfpdMO53-g5AUmyV1NOO-RWnu0n4PvO4Gg3yZ4rng-jzamqVl6A=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMnZcILDM_vjR3fq9c7Lr-rfQTfCCibMF2zlhYP1xaI2deGb2cvFNNulsn5lWFhG4z_Tkw-MXgLzpLxqa3TclocyL20Ejj4_p8qZr2jXkuCc5wltISFa4x8q68XjxhYcdYlQs_YWJk7CGpTHZmv2T8USQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczMnZcILDM_vjR3fq9c7Lr-rfQTfCCibMF2zlhYP1xaI2deGb2cvFNNulsn5lWFhG4z_Tkw-MXgLzpLxqa3TclocyL20Ejj4_p8qZr2jXkuCc5wltISFa4x8q68XjxhYcdYlQs_YWJk7CGpTHZmv2T8USQ=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOsFR6offUUumT4jMb5_2UvrPNSLxV7I8IWkXcIDpehlnO-g1MdThN1qKN4SXR_5qePMoAkeh_teJwnoCdgjs8NfL11FLj84g9cXV9f5mDHu7T5h1NW-nChTtzkVwcY8AcFN7CnRJoC1Dq_9IT3pG3ecA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczOsFR6offUUumT4jMb5_2UvrPNSLxV7I8IWkXcIDpehlnO-g1MdThN1qKN4SXR_5qePMoAkeh_teJwnoCdgjs8NfL11FLj84g9cXV9f5mDHu7T5h1NW-nChTtzkVwcY8AcFN7CnRJoC1Dq_9IT3pG3ecA=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNVMq9v9dku4_OMPqN4WIz2guBkNB_eNLcpYDw-cYhEOybUVgY1bHMDIheH9JGz0erusnRx7nyL3ph6F4qqRc39cn-lGUxN1ayAzdTzfO94HNWBCymMvHnQeqYWRfxiIPz8-R9TXTIiqczXKNtvqNG9Lw=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNVMq9v9dku4_OMPqN4WIz2guBkNB_eNLcpYDw-cYhEOybUVgY1bHMDIheH9JGz0erusnRx7nyL3ph6F4qqRc39cn-lGUxN1ayAzdTzfO94HNWBCymMvHnQeqYWRfxiIPz8-R9TXTIiqczXKNtvqNG9Lw=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNRkEFj5hh0OsfZeaILug0dVwNZsbHNQHNVJ-orxcuej9Vh1GhVtFojV6HO_kDLO5_rL_E-m87WK6nWgjl2bv6fHarWxc36Ok6642vonGem97Q1UZ7AHB0YkPYsyZ5daXs5L7EvfEAi-6KAGJE12sPCbQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNRkEFj5hh0OsfZeaILug0dVwNZsbHNQHNVJ-orxcuej9Vh1GhVtFojV6HO_kDLO5_rL_E-m87WK6nWgjl2bv6fHarWxc36Ok6642vonGem97Q1UZ7AHB0YkPYsyZ5daXs5L7EvfEAi-6KAGJE12sPCbQ=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOrZC9ltgbbd8dX1ytH3zKRV6OSsnb9ni-v0l3SJwODFfMC1yq1zFn38Sez08YXMr7peYOB13poifEgzAYPc3QeYqITIivDN-ukOe4vxofwrCCZxenSv8Oa56pgIgRP6tl8OUcI__1kPdpMGwvYpbvC-g=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczOrZC9ltgbbd8dX1ytH3zKRV6OSsnb9ni-v0l3SJwODFfMC1yq1zFn38Sez08YXMr7peYOB13poifEgzAYPc3QeYqITIivDN-ukOe4vxofwrCCZxenSv8Oa56pgIgRP6tl8OUcI__1kPdpMGwvYpbvC-g=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPLqvsr58fbihZSaGjWqlzd91Muy4chtFDJIy4itOVHcfvgUjmFGf2nuDDWfldQ0lQcC-3H-ijyU0Y2OqN6nIR-TueM-cKUHb2JIU3KHezHbA1DIyKxzOgYOw8voYAz799sKnu-UkuVieb25nU3VEO3iA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczPLqvsr58fbihZSaGjWqlzd91Muy4chtFDJIy4itOVHcfvgUjmFGf2nuDDWfldQ0lQcC-3H-ijyU0Y2OqN6nIR-TueM-cKUHb2JIU3KHezHbA1DIyKxzOgYOw8voYAz799sKnu-UkuVieb25nU3VEO3iA=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNkW7aCB2xgeYQG9KZsPH1ZWbfaQJkfvBSzv_ib0kgDueOPmGTptkb8xB8iu_mmJr0Nlf5Du236Rw8grbgB0brH-hpjX049tewhat7H16d7KhkrowHRJZRjUlDh-wSxX_XdgzsOyGI1oD0IHi9dlhYSwg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNkW7aCB2xgeYQG9KZsPH1ZWbfaQJkfvBSzv_ib0kgDueOPmGTptkb8xB8iu_mmJr0Nlf5Du236Rw8grbgB0brH-hpjX049tewhat7H16d7KhkrowHRJZRjUlDh-wSxX_XdgzsOyGI1oD0IHi9dlhYSwg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMLwkmB6oPDrpevnj3S_tOCtT1ifY0AgsW7sQseec4ZKrNJfcl1hEjcNeIrPtXh58P_YkRUwe85u1KKg8UL9id4VL_lZRO6Nc_AHDqnjS5fR2njumcTDHMo2cWbtgEo1x3sNUCys4DAEwsLL8ZwbA0aBg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczMLwkmB6oPDrpevnj3S_tOCtT1ifY0AgsW7sQseec4ZKrNJfcl1hEjcNeIrPtXh58P_YkRUwe85u1KKg8UL9id4VL_lZRO6Nc_AHDqnjS5fR2njumcTDHMo2cWbtgEo1x3sNUCys4DAEwsLL8ZwbA0aBg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczO3fJHXl5cE8UIQgw7sjLfm5u443xSlQKIrXm6RcRa9eOIue8akWuD02FP5mVGB1IXlKVb5q54auoaI5VTtqRfdqs4keczpKq5craz6IwB0A_EDFJ7WxrwIGqZeDuSuvevAmpCWv_Ur1ierwmUYulFhlQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczO3fJHXl5cE8UIQgw7sjLfm5u443xSlQKIrXm6RcRa9eOIue8akWuD02FP5mVGB1IXlKVb5q54auoaI5VTtqRfdqs4keczpKq5craz6IwB0A_EDFJ7WxrwIGqZeDuSuvevAmpCWv_Ur1ierwmUYulFhlQ=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczN-PinRBsiDTWcSBj_UCsIkGtVXpXM0j0Aa6CX2HW9l0nQOHZoj9WfReSoVsQiveiN306MflI3HdS3YfF3K_0RCyZD9PrwKgvSf-smUc0nnzk5A4AR1MyKKlutwl54FIaaf6bVv5Vi5OpEFK1krhOJIMg=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczN-PinRBsiDTWcSBj_UCsIkGtVXpXM0j0Aa6CX2HW9l0nQOHZoj9WfReSoVsQiveiN306MflI3HdS3YfF3K_0RCyZD9PrwKgvSf-smUc0nnzk5A4AR1MyKKlutwl54FIaaf6bVv5Vi5OpEFK1krhOJIMg=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczM-y2DRQ31lNVG6bwRGtQ2iXNcHBfA0T4tC1qTotITMwF9JniJPGB1eLdSFMXR2ob6a6a9_AFdTv8keqpO4NI4wrx2aRJZfFKqUN6QHS2xkx8CKskS9HoauNhh3Lm65IqrTwL_ZJp_cqFKxoIDYX-yJPA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczM-y2DRQ31lNVG6bwRGtQ2iXNcHBfA0T4tC1qTotITMwF9JniJPGB1eLdSFMXR2ob6a6a9_AFdTv8keqpO4NI4wrx2aRJZfFKqUN6QHS2xkx8CKskS9HoauNhh3Lm65IqrTwL_ZJp_cqFKxoIDYX-yJPA=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOdeLlPQG7c90zv9y1a5zDQkSU6cI4f1NRzincJD2xrLOWWZnYVZ7HH7B0v8P6KaWrYAvsl7k7povYvfJsrF8aC1iTQjO4boG0OECTGoPZDOWNJc_MbCGAgyFVecqJO0LSQMwlRCuqB8ea_s3lg3MiTXA=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczOdeLlPQG7c90zv9y1a5zDQkSU6cI4f1NRzincJD2xrLOWWZnYVZ7HH7B0v8P6KaWrYAvsl7k7povYvfJsrF8aC1iTQjO4boG0OECTGoPZDOWNJc_MbCGAgyFVecqJO0LSQMwlRCuqB8ea_s3lg3MiTXA=w915-h685-s-no-gm?authuser=0]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNueZLWaFi_MGCFfw2LvkeKheLdn232f0CtM_BTpE1tglUoUch0o2qi1AP8oB8TX76y2mhVMMPHrbISeGJNlj_0O44yMMig5tN_s6Ao7vjO40FA7nHHdhK1DLwaEmZTKXs0_d2mbu97al7lBULx3aJ3JQ=w915-h685-s-no-gm?authuser=0[link=https://lh3.googleusercontent.com/pw/AP1GczNueZLWaFi_MGCFfw2LvkeKheLdn232f0CtM_BTpE1tglUoUch0o2qi1AP8oB8TX76y2mhVMMPHrbISeGJNlj_0O44yMMig5tN_s6Ao7vjO40FA7nHHdhK1DLwaEmZTKXs0_d2mbu97al7lBULx3aJ3JQ=w915-h685-s-no-gm?authuser=0]
+|
+|
+|===
+====
+

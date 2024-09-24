@@ -1,4 +1,4 @@
-= Анализ доли сухого веса сформировавшихся семен *Lunaria rediviva*
+= Анализ доли сухого веса сформировавшихся семян *Lunaria rediviva*
 :page-categories: [Experiment]
 :page-tags: [DryWeight, Laboratory, Log, LunariaRediviva]
 
