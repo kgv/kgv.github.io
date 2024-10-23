@@ -1,0 +1,56 @@
+= Review of literature. Gondoic, Erucic, Nervonic
+:page-categories: [Experiment]
+:stem: latexmath
+
+== Gondoic acid (20:1)
+
+=== Positive
+
+* link:https://www.sciencedirect.com/science/article/pii/S1567576922006555[Gondoic acid alleviates LPS‑induced Kupffer cells inflammation by inhibiting ROS production and PKCθ/ERK/STAT3 signaling pathway] (лечение воспаления клеток из-за LPS)
+* link:https://www.sciencedirect.com/org/science/article/pii/S1615415022027236[Alteration of Chain Length Selectivity of Candida antarctica Lipase A by Semi‐Rational Design for the Enrichment of Erucic and Gondoic Fatty Acids] (специально обогощали эруковую и гондоевую)
+* link:https://www.sciencedirect.com/science/article/pii/S0301751615300090[The effect of jojoba oil on the surface properties of calcite and apatite aiming at their selective flotation] (масло жожоба, влияние на свойства кальцита и апатита, состоит в основном из гондоевой, эруковой и олеиновой кислот)
+* link:https://www.sciencedirect.com/science/article/pii/S0926669020307937[Chemical composition, antibacterial and antioxidant activities of oils obtained by different extraction methods from Lepidium sativum L. seeds] (антибактериальная активность)
+
+=== Negative
+
+* link:https://www.sciencedirect.com/science/article/pii/S1933287416304135[Individual omega-9 monounsaturated fatty acids and mortality—The Ludwigshafen Risk and Cardiovascular Health Study] (влияние на смертность)
+
+== Erucic acid (22:1)
+
+=== Positive
+
+* link:https://www.sciencedirect.com/science/article/pii/S1878535224003563[Optimized erucic acid-based extract as a natural probe for viscosity detection of liquid safety] (используется для обнаружения колебаний вязкости в жидкостях)
+* link:https://www.sciencedirect.com/science/article/pii/S002228602302149X[A novel erucic acid derived surfactant: Experimental and theoretical study] (получени поверхностно-активных веществ из эруковой)
+* link:https://www.sciencedirect.com/science/article/pii/S0167732223018688[pH-responsive wormlike micelles formed by an anionic surfactant derived from erucic acid] (поверхностно-активное вещество из эруковой)
+* link:https://www.sciencedirect.com/science/article/pii/S2475299124007327[The Metabolic Effects of High-Erucic Acid Mustard Oil in Mice] (эруковая кислота в рационе питания, закономерности)
+* link:https://www.sciencedirect.com/org/science/article/abs/pii/S1477052023003786[Chemoselective cycloadditions to epoxide derivatives of erucic acid with CO2 and CS2: controlled access to value-added bio-derived compounds†] (получение ценных биопроизводных соединениий)
+* link:https://www.sciencedirect.com/science/article/pii/S0254629921000454[Exploring the antiplasmodal efficacy of erucic acid and its derivative isolated from Thlaspi arvense D. C. (Brassicaceae)] (malaria treatment)
+* link:https://www.sciencedirect.com/science/article/pii/S2095177919301583[Erucic acid from Isatis indigotica Fort. suppresses influenza A virus replication and inflammation in vitro and in vivo through modulation of NF-κB and p38 MAPK pathway] (подавляет репликацию вируса гриппа)
+* link:https://www.sciencedirect.com/science/article/pii/S0091305716300065[The memory-enhancing effect of erucic acid on scopolamine-induced cognitive impairment in mice] (улучшает память при когнитивных нарушениях, вызванных скополамином)
+* link:https://www.sciencedirect.com/science/article/pii/S0143749617300337[Effect of erucic acid on the rheological and surface properties of coal tar pitch] (изменение свойств)
+* link:https://www.sciencedirect.com/science/article/pii/S0926669014008152[Enrichment of erucic acid from pennycress (Thlaspi arvense L.) seed oil] (специально обогащали эруковой с 36% до 87%, для производства биодизеля)
+
+=== Negative
+
+* link:https://www.sciencedirect.com/science/article/pii/S0021925817501301[Peroxisomal oxidation of erucic acid suppresses mitochondrial fatty acid oxidation by stimulating malonyl-CoA formation in the rat liver] (hepatic steatosis)
+* link:https://www.sciencedirect.com/science/article/pii/S235236462030002X[Erucic acid in Brassicaceae and salmon – An evaluation of the new proposed limits of erucic acid in food] (natural toxin due to detrimental effects on heart muscle functions)
+* link:https://www.sciencedirect.com/science/article/pii/S2475299123112820[Applicability of the German Food Based Dietary Guidelines for Infancy to Estimate Exposure to Substances in Food – The Example of Erucic Acid] (воздействие при кормлении младенцев)
+
+== Nervonic acid (24:1)
+
+=== Positive
+
+* link:https://www.sciencedirect.com/science/article/pii/S0006291X24012324[Nervonic acid improves depression like behaviors and demyelination of medial prefrontal cortex in chronic restraint stress mice] (лчение депрессивного расстройства)
+* link:https://www.sciencedirect.com/science/article/pii/S2212429224002074[Nervonic acid suppresses MPTP-induced Parkinson's disease in an adult zebrafish model by regulating the MAPK/NF-κB signaling pathway, inflammation, apoptosis, and oxidative stress] (лечение болезни Паркинсона)
+* link:https://www.sciencedirect.com/science/article/pii/S0731708523006994[UPLC-Q-TOF/MS based serum and urine metabolomics strategy to analyze the mechanism of nervonic acid in treating Alzheimer’s disease] (лечение болезни Альцгеймера)
+* link:https://www.sciencedirect.com/science/article/pii/S2949928324000701[Nervonic acid alleviates stroke and its associated poststroke depression behaviors] (лечение последствий инсульта)
+* link:https://www.sciencedirect.com/science/article/pii/S0014299924006216[Nervonic acid protects against oligodendrocytes injury following chronic cerebral hypoperfusion in mice] (лечение последствий хронической гипоперфузии головного мозга)
+* link:https://www.sciencedirect.com/science/article/pii/S1878747923011194[Nervonic Acid Attenuates Accumulation of Very Long-Chain Fatty Acids and is a Potential Therapy for Adrenoleukodystrophy] (лечения адренолейкодистрофии)
+* link:https://www.sciencedirect.com/science/article/pii/S0944711323000624[Improved colonic inflammation by nervonic acid via inhibition of NF-κB signaling pathway of DSS-induced colitis mice] (лечение  воспаления толстой кишки)
+* link:https://www.sciencedirect.com/science/article/pii/S0944711323002726[Nervonic acid improves liver inflammation in a mouse model of Parkinson's disease by inhibiting proinflammatory signaling pathways and regulating metabolic pathways] (лечение болезни Паркинсона)
+* link:https://www.sciencedirect.com/science/article/pii/S0006295223000023[Integrated metabolomics and transcriptomics reveal the neuroprotective effect of nervonic acid on LPS-induced AD model mice] (лечение болезни Альцгеймера)
+
+=== Negative
+
+* link:https://www.sciencedirect.com/science/article/pii/S2096242820300531[Lipid analysis of three special nervonic acid resources in China] (Масло M. oleifera содержание нервоновой кислоты 46,20 ± 0,22%.)
+* link:https://www.sciencedirect.com/science/article/pii/S0023643816306582[Interesterified trans-free fats rich in sn-2 nervonic acid prepared using Acer truncatum oil, palm stearin and palm kernel oil, and their physicochemical properties] (в sn-2, свойства)
