@@ -1,0 +1,36 @@
+= Reagents
+:page-doi: DRAFT
+:page-liquid:
+
+|===
+|Name                                                                          |              |Number |         |URL
+|Lipase from porcine pancreas                                                  |Sigma-Aldrich |USA    |L3126    |https://www.sigmaaldrich.com/RU/en/product/sigma/l3126
+|Tris Base                                                                     |Sigma-Aldrich |USA    |252859   |https://www.sigmaaldrich.com/RU/en/product/sial/252859
+|Trimethylsulfonium Iodide, 98%                                                |Acros Organics|India  |140250250|https://www.fishersci.ca/shop/products/trimethylsulfonium-iodide-98-thermo-scientific/ac140250250
+|Silver(I) oxide, 99+%                                                         |Acros Organics|UK     |205800100|https://www.fishersci.ca/shop/products/silver-i-oxide-99-thermo-scientific/AC205800100
+|2',7'-Dichlorofluorescein, pure                                               |Acros Organics|Germany|191530050|https://www.fishersci.ca/shop/products/2-7-dichlorofluorescein-pure/AC191530050
+|2,6-Di-tert-butyl-4-methylphenol, 99.8%                                       |Acros Organics|Belgium|219830500|https://www.fishersci.ca/shop/products/2-6-di-tert-butyl-4-methylphenol-99-8-thermo-scientific/AC219830500
+|Trifluoroacetic anhydride (TFAH), 98%                                         |Macklin       |China  |T818925  |https://www.macklin.cn/en/products/T818925
+|2-Amino-2-methyl-1-propanol (AMP)                                             |Macklin       |China  |A800065  |https://www.macklin.cn/en/products/A800065
+|Acetic Acid glacial (USP, BP, Ph. Eur., JP) pure, pharma grade                |Panreac       |Germany|141008   |https://itwreagents.com/rest-of-world/en/product/acetic-acid-glacial-usp-bp-ph-eur-jp-pure-pharma-grade/141008
+|Desoxycholic acid sodium salt                                                 |Sigma-Aldrich |Germany|D6750    |https://www.sigmaaldrich.com/RU/en/product/sial/d6750
+|ACETONE 99.8% For HPLC & UV Spectroscopy                                      |Loba Chemie   |India  |00013    |https://www.lobachemie.com/HPLC-Grade-Solvents-00013/ACETONE-CASNO-67-64-1.aspx?search=00013
+|Diethyl ether                                                                 |Honeywell     |Germany|32203    |https://lab.honeywell.com/shop/diethyl-ether-32203
+|2-Propanol                                                                    |Sigma-Aldrich |France |34863    |https://www.sigmaaldrich.com/RU/en/product/sigald/34863
+|Acetonitrile RS - For HPLC PLUS Gradient grade - ACS - Reag.Ph.Eur. - Reag.USP|Carlo Erba    |France |412392000|https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/CARLO-ERBA-Reagents/Liquid-chromatography/HPLC-Gradient-Grade-Solvents/Acetonitrile-RS---For-HPLC-PLUS-Gradient-grade---ACS---Reag-Ph-Eur---Reag-USP/p/002300BB16300
+|===
+
+* Lipase from porcine pancreas (Sigma-Aldrich, USA, Cat.№ L3126)
+* Tris Base (Sigma-Aldrich, USA, Cat.№ 252859)
+* Trimethylsulfonium Iodide, 98% (Acros Organics, India, Cat.№ 140250250)
+* Silver(I) oxide, 99+% (Acros Organics, UK, Cat.№ 205800100)
+* 2',7'-Dichlorofluorescein, pure (Acros Organics, Germany, Cat.№ 191530050)
+* 2,6-Di-tert-butyl-4-methylphenol, 99.8% (Acros Organics, Belgium, Cat.№ 219830500)
+* Trifluoroacetic anhydride (TFAH), 98% (Macklin, China, Cat.№ T818925)
+* 2-Amino-2-methyl-1-propanol (AMP) (Macklin, China, Cat.№ A800065)
+* Acetic Acid glacial (USP, BP, Ph. Eur., JP) pure, pharma grade (Panreac, Germany, Cat.№ 141008)
+* Desoxycholic acid sodium salt (Sigma-Aldrich, Germany, Cat.№ D6750)
+* ACETONE 99.8% For HPLC & UV Spectroscopy (Loba Chemie, India, Cat.№ 00013)
+* Diethyl ether (Honeywell, Germany, Cat.№ 32203)
+* 2-Propanol (Sigma-Aldrich, France, Cat.№ 34863)
+* Acetonitrile RS - For HPLC PLUS Gradient grade - ACS - Reag.Ph.Eur. - Reag.USP (Carlo Erba, France, Cat.№ 412392000)
