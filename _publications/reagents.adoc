@@ -1,5 +1,7 @@
 = Reagents
+:page-authors: ["Казаков Г.В.", "Сидоров Р.А."]
 :page-doi: DRAFT
+:page-excerpt: Reagents in the Laboratory of Lipid Metabolism, Timiryazev Institute of Plant Physiology, Russian Academy of Sciences.
 :page-liquid:
 
 |===
