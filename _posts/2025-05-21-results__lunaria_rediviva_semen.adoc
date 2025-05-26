@@ -1,0 +1,6 @@
+= Таблицы хроматограмм семян *Lunaria rediviva*
+:page-categories: [Experiment]
+:page-tags: [Laboratory, Log, LunariaRediviva]
+
+
+== Метод
