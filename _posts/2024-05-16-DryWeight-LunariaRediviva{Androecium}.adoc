@@ -1,6 +1,6 @@
 = Анализ доли сухого веса тычинок *Lunaria rediviva*
 :page-categories: [Experiment]
-:page-tags: [DryWeight, Laboratory, Log, LunariaRediviva]
+:page-tags: [Androecium, DryWeight, Laboratory, Log, LunariaRediviva]
 
 == Пробы stem:[0], stem:[1], stem:[2]
 

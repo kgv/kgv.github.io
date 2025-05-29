@@ -1,6 +1,6 @@
 = Анализ stem:[FA] в stem:[TL] семян *Acer*s с помощью реакции 
 :page-categories: [Experiment]
-:page-tags: [FA, Laboratory, Log, Acer, Saponification, TL]
+:page-tags: [Acer, AcerCampestre, AcerCappadocicum, AcerCircinatum, AcerGinnala, AcerMandshuricum, AcerMono, AcerMonspessulanum, AcerNegundo, AcerPensylvanicum, AcerPseudoplatanus, AcerPseudosieboldianum, AcerRubrum, AcerSaccharinum, AcerSaccharum, AcerSemenovii, AcerSpicatum, AcerTataricum, AcerTegmentosum, AcerUkurunduense, FA, Laboratory, Log, Saponification, TL]
 
 * Клен серебристый (Acer saccharinum) +
 * Клен красный (Acer rubrum) +
