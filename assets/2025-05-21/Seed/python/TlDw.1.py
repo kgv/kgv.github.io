@@ -50,7 +50,7 @@ def generate_line_plot(df):
     fig, ax = plt.subplots(figsize=(16, 10)) 
     ax.errorbar(df['ID'], df['Масса'], yerr=df['Ошибка'], fmt='-o', capsize=5, color='dodgerblue', ecolor='dimgray', markersize=8, linestyle='-', linewidth=2, label='Масса семян')
     
-    ax.set_xlabel("Степень созревания семени, мм\nДата сбора") 
+    ax.set_xlabel("Степень созревания семени\nДата сбора") 
     ax.set_ylabel("Масса, мг/г")
     ax.set_title("Зависимость содержания суммарных липидов от степени созревания семян")
 
@@ -69,7 +69,7 @@ def generate_bar_plot(df):
     fig, ax = plt.subplots(figsize=(16, 10))
     ax.bar(df['ID'], df['Масса'], yerr=df['Ошибка'], capsize=5, color='skyblue', edgecolor='black', label='Масса семян')
 
-    ax.set_xlabel("Степень созревания семени, мм\nДата сбора")
+    ax.set_xlabel("Степень созревания семени\nДата сбора")
     ax.set_ylabel("Масса, мг/г")
     ax.set_title("Зависимость содержания суммарных липидов от степени созревания семян")
 

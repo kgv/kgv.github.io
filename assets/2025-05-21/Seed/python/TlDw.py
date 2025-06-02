@@ -1,99 +1,36 @@
+import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import re
 
-# Ваши НОВЫЕ данные в виде многострочной строки
-data_string = """
-.Содержание суммарных липидов, [мг/г_{DW}]
-| Размер      | DW, stem:[мг/г_{СМ}]
-| Семена_2 мм | 34.93 ± 5.58
-| Семена_4 мм | 44.35 ± 4.45
-| Семена_6 мм | 57.91 ± 7.77
-| Семена_7 мм | 103.61 ± 8.61
-| Семена_8 мм | 106.44 ± 22.09
-| Семена_9 мм | 93.91 ± 19.32
-| Семена_10 мм| 38.46 ± 5.02
-"""
+# Data provided by the user
+data = {
+    'ID': ['Семена(1 мм)', 'Семена(2 мм)', 'Семена(4 мм)', 'Семена(6 мм)', 'Семена(7 мм)', 'Семена(8 мм)', 'Семена(9 мм)', 'Семена(10 мм)', 'Семена(цвет0)', 'Семена(цвет1)', 'Семена(сухие)'],
+    'Масса в сыром весе семени, г': [0.04729044, 0.16744626, 0.523987896, 1.273785669, 2.829302203, 3.891207252, 4.915186974, 17.811298442, 16.144184, 17.943355908, 13.5712794846],
+    'Масса в сухом весе семени, г': [0.0074557, 0.025390544, 0.07900388, 0.201697056, 0.477400868, 0.70252488, 1.099706796, 4.926040861, 6.213125, 6.993466868, 7.9662834806]
+}
 
-# Списки для хранения извлеченных данных
-seed_sizes = []
-means = []
-std_devs = []
+df = pd.DataFrame(data)
 
-# Обработка строк данных
-lines = data_string.strip().split('\n')
-y_axis_label_raw = lines[0].strip('.').strip() # Извлекаем заголовок для оси Y
+# Plotting
+plt.figure(figsize=(14, 8))
 
-# Пропускаем строки заголовков таблицы
-data_lines = lines[2:]
+# Set position of bar on X axis
+bar_width = 0.35
+r1 = np.arange(len(df['ID']))
+r2 = [x + bar_width for x in r1]
 
-for line in data_lines:
-    parts = line.split('|')
-    if len(parts) == 3: # Ожидаем три части: пустая, Размер, Значение
-        size_str = parts[1].strip()
-        value_str = parts[2].strip()
+# Make the plot
+plt.bar(r1, df['Масса в сыром весе семени, г'], color='skyblue', width=bar_width, edgecolor='grey', label='Масса в сыром весе семени, г')
+plt.bar(r2, df['Масса в сухом весе семени, г'], color='lightcoral', width=bar_width, edgecolor='grey', label='Масса в сухом весе семени, г')
 
-        # Извлечение размера семян (число перед "мм")
-        match_size = re.search(r'(\d+)\s*мм', size_str)
-        if match_size:
-            seed_sizes.append(int(match_size.group(1)))
-        else:
-            print(f"Предупреждение: не удалось извлечь размер из '{size_str}'")
-            continue
+# Add xticks on the middle of the group bars
+plt.xlabel('ID Семени', fontweight='bold', fontsize=12)
+plt.ylabel('Масса, г', fontweight='bold', fontsize=12)
+plt.xticks([r + bar_width/2 for r in range(len(df['ID']))], df['ID'], rotation=45, ha="right")
+plt.title('Масса суммарных липидов на грамм сухого и сырого веса семени', fontsize=15, fontweight='bold')
 
-        # Извлечение среднего и стандартного отклонения
-        mean_std_parts = value_str.split('±')
-        if len(mean_std_parts) == 2:
-            try:
-                means.append(float(mean_std_parts[0].strip()))
-                std_devs.append(float(mean_std_parts[1].strip()))
-            except ValueError:
-                print(f"Предупреждение: не удалось преобразовать в число значения из '{value_str}'")
-                # Удаляем последний добавленный размер, если значения невалидны
-                if seed_sizes: seed_sizes.pop()
-                continue
-        else:
-            print(f"Предупреждение: не удалось извлечь среднее и ст.откл. из '{value_str}'")
-            if seed_sizes: seed_sizes.pop() # Удаляем последний добавленный размер
-            continue
-
-# Сортировка данных по размеру семян (на всякий случай, если они не по порядку)
-# Это важно для корректного отображения линии на графике
-if seed_sizes and means and std_devs: # Проверяем, что списки не пусты
-    sorted_indices = np.argsort(seed_sizes)
-    seed_sizes_sorted = np.array(seed_sizes)[sorted_indices]
-    means_sorted = np.array(means)[sorted_indices]
-    std_devs_sorted = np.array(std_devs)[sorted_indices]
-
-    # Форматирование метки оси Y для отображения подстрочного текста
-    # Matplotlib использует LaTeX-подобный синтаксис
-    y_axis_label_formatted = y_axis_label_raw.replace("_{DW}", "$_{DW}$").replace("мг/г", "мг/г ")
-
-
-    # Построение графика
-    plt.figure(figsize=(12, 7)) # Увеличим размер для лучшей читаемости
-
-    plt.errorbar(seed_sizes_sorted, means_sorted, yerr=std_devs_sorted,
-                 fmt='-o', # Формат: линия ('-') с маркерами ('o')
-                 capsize=5, # Размер "шляпок" на усах ошибок
-                 label='Содержание липидов (мг/г$_{DW}$) ± Ст. отклонение',
-                 color='dodgerblue', # Изменим цвет для разнообразия
-                 ecolor='lightcoral', # Цвет усов ошибок
-                 elinewidth=2, # Толщина линии усов
-                 markersize=8
-                )
-
-    # Настройка графика
-    plt.xlabel("Размер семян (мм)")
-    plt.ylabel(y_axis_label_formatted) # Используем отформатированную метку
-    plt.title("Зависимость содержания суммарных липидов от размера семян")
-    plt.xticks(seed_sizes_sorted) # Устанавливаем тики по оси X точно по нашим значениям
-    # Попробуем автоматически определить лучшее положение легенды
-    plt.legend(loc='best')
-    plt.grid(True, linestyle='--', alpha=0.6) # Добавляем сетку
-
-    # Отображение графика
-    plt.tight_layout()
-    plt.show()
-else:
-    print("Недостаточно данных для построения графика.")
+# Create legend & Show graphic
+plt.legend()
+plt.tight_layout() # Adjust layout to make room for rotated x-axis labels
+plt.grid(axis='y', linestyle='--')
+plt.show()
