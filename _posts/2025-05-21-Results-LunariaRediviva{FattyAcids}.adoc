@@ -2,9 +2,3 @@
 :page-categories: [Experiment]
 :page-tags: [Laboratory, Log, LunariaRediviva]
 
-
-`.chrx` - файл
-`.msdx` - МСД спектр
-`.msr` - МСД результаты поиска
-
-https://forum.tuts4you.com/
