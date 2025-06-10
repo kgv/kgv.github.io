@@ -86,7 +86,7 @@ def plot_custom_chromatogram(
 
     num_points = len(raw_intensity_values)
 
-    fig, ax = plt.subplots(figsize=(15, 7))
+    fig, ax = plt.subplots(figsize=(10, 10))
 
     # Apply new axes settings
     if hide_top_right_spines:
@@ -348,39 +348,44 @@ except Exception as e:
     data_string = "" # Или exit()
 
 peak_annotations_full = {
-    13.4390941560981: {"label": "Standard 1"},
-    15.3201691631171: {"label": "Standard 2"},
-    17.2191591702029: {"label": "Standard 3"},
-    19.3976231783316: {"label": "Standard 4"},
-    21.980966187971: {"label": "Standard 5"},
-    22.418092189602: {"label": "Standard 6", "offset": (0, 75)},
-    23.242182192677: {"label": "Standard 7"},
-    23.4643281935059: {"label": "Standard 8", "offset": (5, 15)},
-    25.3059902003778: {"label": "Standard 9"},
-    27.2264782075439: {"label": "Standard 10"},
-    27.6600212091616: {"label": "Standard 11", "offset": (0, 5)},
-    28.3264592116483: {"label": "Standard 12"},
-    31.9381232251248: {"label": "Standard 13"},
-    36.1624802408874: {"label": "Standard 14"},
-    37.051064244203: {"label": "Standard 15"},
+    13.5616021879989: { "label": "14:0" },
+    # 14.8335672066402: { "label": "14:1-9" },
+    17.4527402450255: { "label": "16:0" },
+    # 18.3592392583108: { "label": "16:1-7" },
+    18.6566282626691: { "label": "16:1-9" },
+    18.8429442653997: { "label": "16:1-11", "offset": (10, 15) },
+    # 19.9787552820456: { "label": "16:2-6,9" },
+    # 20.1435732844611: { "label": "16:2-7,10" },
+    # 20.7096872927578: { "label": "16:2-9,12" },
+    22.2217133149173: { "label": "18:0" },
+    23.5008443336637: { "label": "18:1-9" },
+    23.6907433364467: { "label": "18:1-11", "offset": (10, 15) },
+    # 24.0526263417503: { "label": "18:1-13" },
+    25.4894093628071: { "label": "18:2-9,12" },
+    # 26.8939453833913: { "label": "18:3-6,9,12" },
+    # 27.4636423917405: { "label": "20:0" },
+    # 27.8291083970966: { "label": "18:3-9,12,15" },
+    # 29.2264784175758: { "label": "18:4-6,9,12,15" },
+    31.6235054527055: { "label": "20:3-8,11,14" },
+    # 32.1967854611072: { "label": "22:0" },
+    32.5228384658857: { "label": "20:4-5,8,11,14" },
+    # 33.7159774833717: { "label": "20:4-8,11,14,17" },
+    34.6403914969195: { "label": "20:5-5,8,11,14,17" },
+    # 36.4032275227548: { "label": "24:0" },
+    # 40.2442035790463: { "label": "26:0" },
 }
 
 peak_annotations_zoom = {
-    13.4390941560981: {"label": "Standard 1"},
-    15.3201691631171: {"label": "Standard 2"},
-    17.2191591702029: {"label": "Standard 3"},
-    19.3976231783316: {"label": "Standard 4"},
-    21.980966187971: {"label": "Standard 5"},
-    22.418092189602: {"label": "Standard 6"},
-    23.242182192677: {"label": "Standard 7", "offset": (0, 10)},
-    23.4643281935059: {"label": "Standard 8"},
-    25.3059902003778: {"label": "Standard 9"},
-    27.2264782075439: {"label": "Standard 10"},
-    27.6600212091616: {"label": "Standard 11"},
-    28.3264592116483: {"label": "Standard 12"},
-    31.9381232251248: {"label": "Standard 13"},
-    36.1624802408874: {"label": "Standard 14"},
-    37.051064244203: {"label": "Standard 15"},
+    25.4894093628071: { "label": "18:2-9,12" },
+    26.8939453833913: { "label": "18:3-6,9,12" },
+    27.4636423917405: { "label": "20:0" },
+    27.8291083970966: { "label": "18:3-9,12,15" },
+    29.2264784175758: { "label": "18:4-6,9,12,15" },
+    31.6235054527055: { "label": "20:3-8,11,14" },
+    32.1967854611072: { "label": "22:0" },
+    32.5228384658857: { "label": "20:4-5,8,11,14" },
+    33.7159774833717: { "label": "20:4-8,11,14,17" },
+    34.6403914969195: { "label": "20:5-5,8,11,14,17" },
 }
 
 plot_custom_chromatogram(
@@ -409,7 +414,7 @@ plot_custom_chromatogram(
     hide_top_right_spines=True,
     axes_linewidth=1.5,
     tick_length=8,
-    tick_label_fontsize=12,
+    tick_label_fontsize=14,
     axis_label_fontsize=14,
     plot_title_fontsize=16,
     annotation_fontsize=8,
@@ -452,15 +457,15 @@ plot_custom_chromatogram(
 plot_custom_chromatogram(
     data_string,
     peak_annotations_zoom,
-    filename="chromatogram_12-30_absolute.svg",
-    x_min=12, x_max=30,
-    y_scale_type='absolute',
+    filename="chromatogram_25-34_relative.svg",
+    x_min=25, x_max=34,
+    y_scale_type='relative',
     annotation_display_type='both',
     y_axis_bottom_padding_factor=0.01,
     hide_top_right_spines=True,
     axes_linewidth=1.5,
     tick_length=8,
-    tick_label_fontsize=12,
+    tick_label_fontsize=14,
     axis_label_fontsize=14,
     plot_title_fontsize=16,
     annotation_fontsize=8,
