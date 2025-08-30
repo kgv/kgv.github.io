@@ -29,6 +29,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  protocols:
+    output: true
+    permalink: /:collection/:title/
   publications:
     output: true
     permalink: /:collection/:title/
@@ -53,6 +56,12 @@ defaults:
       type: projects
     values:
       layout: project
+  # collections/protocols
+  - scope:
+      path: ""
+      type: protocols
+    values:
+      layout: page
   # collections/publications
   - scope:
       path: ""
