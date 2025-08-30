@@ -1,5 +1,5 @@
 {% if include.urls %}
-{% for url in include.urls %}
-[![Photo](https://lh3.googleusercontent.com/pw/{{ url }}=w271-h202-s-no-gm?authuser=0)](https://lh3.googleusercontent.com/pw/{{ url }}=w1220-h913-s-no-gm?authuser=0)
-{% endfor %}
+|{% for _ in (1..include.columns) %} |{% endfor %}
+|{% for _ in (1..include.columns) %} --- |{% endfor %}
+|{% for url in include.urls %} [![Photo](https://lh3.googleusercontent.com/pw/{{ url }}=no-gm?authuser=0)](https://lh3.googleusercontent.com/pw/{{ url }}=w1220-h913-s-no-gm?authuser=0) |{% endfor %}
 {% endif %}

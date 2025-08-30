@@ -36,5 +36,6 @@ w408-h305
 w357-h267
 w271-h202
 
-{% include photos.liquid.html urls = page._photos %}
-{% if include.width %}{{ include.width }}{% endif %}
+{% include photos.liquid.html urls = page._photos columns = 4 %}
+{% if include.width %}{{ include.width }}{% else %}357{% endif %}
+{% if include.height %}{{ include.height }}{% else %}267{% endif %}
