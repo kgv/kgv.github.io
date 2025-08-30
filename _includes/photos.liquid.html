@@ -1,6 +1,6 @@
 {% if include.urls %}
 |{% for _ in (1..include.columns) %} |{% endfor %}
 |{% for _ in (1..include.columns) %} --- |{% endfor %}
-|{% for url in include.urls %} [![Photo](https://lh3.googleusercontent.com/pw/{{ url }}=no-gm?authuser=0)](https://lh3.googleusercontent.com/pw/{{ url }}=w1220-h913-s-no-gm?authuser=0) |{% if forloop.index | modulo:include.columns == 0 %}
+|{% for url in include.urls %} [![Photo](https://lh3.googleusercontent.com/pw/{{ url }}=no-gm?authuser=0)](https://lh3.googleusercontent.com/pw/{{ url }}=w1220-h913-s-no-gm?authuser=0) |{% assign remainder = forloop.index | modulo: include.columns %}{% if remainder == 0 %}
 |{% endif %}{% endfor %}
 {% endif %}

@@ -4,6 +4,7 @@ tags: [Laboratory, Log, HelianthusAnnuus]
 title: Helianthus Annuus
 update: [2025-09-01]
 _photos:
+   - AP1GczPT7j7Q5-BHpBa7Ls0A39RhXDqY2hBwN8I4CI-jUwud61wMozJlmWJglMx-TEVcux89Xd5hMj3ODmPJc8i2q_JOZN6xL9URtdu7StWZWKhxZVbZjLqqEdsFfAToqOZvEfJNd0ByS-T8G2uBZ_e-DUYaUQ
    - AP1GczMIQclMUDN7bsxyRuATnFVWXt99Y5smOxG_kzxCqt2on0fo29s8Ij4fKnm2uTr_mieQSOgbVkTFthLzhwqA4xqEzyvgPH_1L1Zv78sfO_Zn11FOpN-vxluGtRDBU8CPxTb3hC90SLiNEps0mB3wMYwWoQ
    - AP1GczPT8QZG_ENMPs8IPXSXfkXcWfxTzjKQcZoEGa7RzsZ327PA5zLxSaoBXxd8AYxa3Yre5Wn2WMAHo_OdDzReMZMy0M1zUgmLJPWLfznmr88atW7ZCbWgbsY-fo0YKQ23bc28CKH7EywIHdTC3Q8lsFu0FA
    - AP1GczPt57altsPmq88iAViznjkXd3oPp7cFlnHFHKt8bZGMBtxeoq04MSe69ls7uwJqE_k3L4crGNVwUz8AnxKaQ5O4DK_2I3PV77y-Y2zXotMxMbfo-N6hDVd8OQUJQxEWGE40AHi1pSLHXMxoUbjRZFrILg
@@ -32,15 +33,6 @@ _photos:
 
 * Protocol [Bligh Dyer (1959)]({% link _protocols/BlighDyer1959.md %})
 
-w408-h305
-w357-h267
-w271-h202
+## Photos
 
 {% include photos.liquid.html urls = page._photos columns = 3 %}
-{% if include.width %}{{ include.width }}{% else %}357{% endif %}
-{% if include.height %}{{ include.height }}{% else %}267{% endif %}
-
-| | | |
-| --- | --- | --- |
-| a | b |
-| c |
