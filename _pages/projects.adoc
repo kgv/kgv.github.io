@@ -1,9 +1,0 @@
-= Projects
-:page-liquid:
-:page-permalink: /projects
-
-{% for project in site.projects %}
-== link:{{ project.url | relative_url }}[{{ project.title }}]
-
-{{ project.excerpt | strip_html }}
-{% endfor %}

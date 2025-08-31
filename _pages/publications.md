@@ -1,9 +1,12 @@
-= Publications
-:page-liquid:
-:page-permalink: /publications
+---
+liquid:
+permalink: /publications
+---
+
+# Publications
 
 {% for publication in site.publications %}
-== link:{{ publication.url | relative_url }}[{{ publication.title }}]
+## [{{ publication.title }}]({{ publication.url | relative_url }})
 
 *{% for author in publication.authors %}{{ author }}{% if forloop.last != true %}, {% endif %}{% endfor %}*
 

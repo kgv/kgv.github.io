@@ -1,6 +1,9 @@
-= About
-:page-liquid:
-:page-permalink: /about
+---
+liquid:
+permalink: /about
+---
+
+# About
 
 *{{ site.author.last_name }} {{ site.author.first_name }} {{ site.author.middle_name }}*
 
