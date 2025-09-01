@@ -34,7 +34,7 @@ _photos:
 | 6   | 33.5618                  | 35.6694                              | 2.1076                | 50              |
 | 7   | 33.5006                  | 36.4158                              | 2.9152                | 50              |
 
-1. Add $$CHCl_3$$/$$MeOH$$ (1:2, $$v/v$$): 12 $$mL$$.
+1. Add $$CHCl_3/MeOH$$ (1/2, $$v/v$$): 12 $$mL$$.
    * Shake: 10 min.
 2. Add $$CHCl_3$$: 4 $$mL$$.
    * Shake: 5 min.
@@ -43,25 +43,23 @@ _photos:
    * Centrifuge: 5 $$min$$, 2300 $$g$$.
 4. Collect bottom phase.
 5. Remove top phase.
-6. Repeate.
+6. Repeate 1-6.
 
-1. Добавить ложку Сульфата Натрия для вытягивания воды
+7. Add $$Na_2SO_4$$:  (для вытягивания воды).
    * Shake: 5 min.
 
-## Filter
-
-## Упарить 
+## Filter and  Evaporate 
 
 1. Вырезать фильтр.
 2. Вставить фильтр.
-3. Промыть фильтр $$CHCl_3$$/$$MeOH$$ (1:2, $$v/v$$).
+3. Промыть фильтр $$CHCl_3/MeOH$$ (1/2, $$v/v$$).
 
 1. Как только упарилось
-   * Упарить.
-2. Add ацетон (он смешивается с водой и растворяет масло)
-   * Упарить.
-   * Взвесить (ждать пока масса не перестанет меняться).
-3. Add $$C_6H_6$$
+   * Evaporate.
+2. Add $$Acetone$$ (it mixes with water and dissolves oil).
+   * Evaporate.
+   * Weigh (wait until the mass stops changing).
+3. Add $$C_6H_6$$ (~ 200 $$mg/mL$$).
 
 | #   | Mass of test tube, $$g$$ | Mass of test tube with extract, $$g$$ | Mass of extract, $$g$$ | $$C_6H_6$$, $$mL$$ |
 | --- | ------------------------ | ------------------------------------- | ---------------------- | ------------------ |
@@ -72,8 +70,6 @@ _photos:
 | 5   | 26.7727                  |                                       |                        |                    |
 | 6   | 36.6262                  |                                       |                        |                    |
 | 7   | 26.7727                  |                                       |                        |                    |
-
-Concentration ~ 200 $mg/mL$ $$C_6H_6$$.
 
 | #   | Extract mass to sample mass, % |
 | --- | ------------------------------ |
