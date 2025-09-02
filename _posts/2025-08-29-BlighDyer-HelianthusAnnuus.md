@@ -25,6 +25,9 @@ _photos:
 | 6   | К-3714, ВИР 172Б, Russia |
 | 7   | К-2776, ВИР 136, Russia  |
 
+> [!NOTE]
+> Sample 3 was not peeled.
+
 | #   | Mass of test tube, $$g$$ | Mass of test tube with sample, $$g$$ | Mass of sample, $$g$$ | Number of seeds |
 | --- | ------------------------ | ------------------------------------ | --------------------- | --------------- |
 | 1   | 33.6330                  | 36.3481                              | 2.7151                | 50              |
@@ -43,7 +46,7 @@ _photos:
    * Shake: 5 min.
    * Centrifuge: 5 $$min$$, 2300 $$g$$.
 4. Collect bottom phase.
-5. Remove top phase.
+5. Substract top phase.
 6. Repeate 1-6.
 
 7. Add $$Na_2SO_4$$: 1 ложку (для вытягивания воды).
@@ -51,16 +54,15 @@ _photos:
 
 ## Filter and Evaporate
 
-1. Вырезать фильтр.
-2. Вставить фильтр.
-3. Промыть фильтр $$CHCl_3/MeOH$$ (1/2, $$v/v$$).
+> [!TIP]
+> The collected sample must be heated to room temperature.
 
-1. Как только упарилось
-   * Evaporate.
-2. Add $$Acetone$$ (it mixes with water and dissolves oil).
+1. Filter.
+2. Evaporate.
+3. Add $$Acetone$$ (it mixes with water and dissolves oil).
    * Evaporate.
    * Weigh (wait until the mass stops changing).
-3. Add $$C_6H_6$$ (~ 200 $$mg/mL$$).
+4. Add $$C_6H_6$$ (~ 200 $$mg/mL$$).
 
 | #   | Mass of test tube, $$g$$ | Mass of test tube with extract, $$g$$ | Mass of extract, $$g$$ | $$C_6H_6$$, $$mL$$ |
 | --- | ------------------------ | ------------------------------------- | ---------------------- | ------------------ |
