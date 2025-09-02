@@ -6,6 +6,7 @@ update: [2025-09-01]
 _photos:
    - AP1GczPT7j7Q5-BHpBa7Ls0A39RhXDqY2hBwN8I4CI-jUwud61wMozJlmWJglMx-TEVcux89Xd5hMj3ODmPJc8i2q_JOZN6xL9URtdu7StWZWKhxZVbZjLqqEdsFfAToqOZvEfJNd0ByS-T8G2uBZ_e-DUYaUQ
    - AP1GczMIQclMUDN7bsxyRuATnFVWXt99Y5smOxG_kzxCqt2on0fo29s8Ij4fKnm2uTr_mieQSOgbVkTFthLzhwqA4xqEzyvgPH_1L1Zv78sfO_Zn11FOpN-vxluGtRDBU8CPxTb3hC90SLiNEps0mB3wMYwWoQ
+   - AP1GczM1gTsrFNzJ9BU927DeJv91Gn8b0VJN9l-59zwHf8-sy3NrpGPJRh7abyBUnGRlIeKLWmvwO2MoRcDKXdBBmK_58X6y62xf6sVoTZAOodUUBMg2y5mj3In7CkXQlcr9NCtZp65jYdOJGsFgJKv3aLADHA
    - AP1GczPT8QZG_ENMPs8IPXSXfkXcWfxTzjKQcZoEGa7RzsZ327PA5zLxSaoBXxd8AYxa3Yre5Wn2WMAHo_OdDzReMZMy0M1zUgmLJPWLfznmr88atW7ZCbWgbsY-fo0YKQ23bc28CKH7EywIHdTC3Q8lsFu0FA
    - AP1GczPt57altsPmq88iAViznjkXd3oPp7cFlnHFHKt8bZGMBtxeoq04MSe69ls7uwJqE_k3L4crGNVwUz8AnxKaQ5O4DK_2I3PV77y-Y2zXotMxMbfo-N6hDVd8OQUJQxEWGE40AHi1pSLHXMxoUbjRZFrILg
    - AP1GczMTWr0jPbeF3Sir3gXXikFBANohopn0KP9Ydy3wEku8z16nwEapHcG_gTJufFp6mxxGonnFfp2h93Y4A8UazrzAYPkArYyMBfH__Spc9KDAHtsX49ipApG7ldMnLH4bf94ThPRTMpA4eOBVXTd-I-Ms2w
@@ -45,10 +46,10 @@ _photos:
 5. Remove top phase.
 6. Repeate 1-6.
 
-7. Add $$Na_2SO_4$$:  (для вытягивания воды).
+7. Add $$Na_2SO_4$$: 1 ложку (для вытягивания воды).
    * Shake: 5 min.
 
-## Filter and  Evaporate 
+## Filter and Evaporate
 
 1. Вырезать фильтр.
 2. Вставить фильтр.
@@ -84,6 +85,7 @@ _photos:
 ## Links
 
 * Protocol [Bligh Dyer (1959)]({% link _protocols/BlighDyer1959.md %})
+* Protocol [Filter and Evaporate]({% link _protocols/local/FilterAndEvaporate.md %})
 
 ## Photos
 
