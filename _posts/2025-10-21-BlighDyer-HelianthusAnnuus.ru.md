@@ -2,7 +2,7 @@
 categories: [Experiment]
 tags: [Laboratory, Log, HelianthusAnnuus]
 title: Helianthus Annuus
-update: [2025-10-22, 2025-10-23]
+update: [2025-10-22, 2025-10-23, 2025-10-24]
 ---
 
 # Helianthus Annuus (выделение $$TL$$, выделение $$TAG$$)
