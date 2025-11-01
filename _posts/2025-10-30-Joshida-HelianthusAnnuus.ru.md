@@ -2,7 +2,7 @@
 categories: [Experiment]
 tags: [Laboratory, Log, HelianthusAnnuus]
 title: Helianthus Annuus
-update: [2025-10-31]
+update: [2025-10-31, 2025-11-01]
 ---
 
 # Helianthus Annuus (Липазный гидролиз $$TAG$$)
