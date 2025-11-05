@@ -5,15 +5,15 @@
 2.  **Angelillo, V. A., Sukhdarshan, B., Durfee, D., Patterson, A. J., & O'Donohue, W. J.** (1985). Effects of structured lipid emulsion on pulmonary structure and function. *Critical Care Medicine, 13*(7), 565-568.
     *   **Источник:** Внешний поиск.
 3.  **Babayan, V. K.** (1987). Medium chain triglycerides and structured lipids. *Lipids, 22*(6), 417–420.
-    *   **Источник:** https://doi.org/10.1007/bf02537271.
+    *   **DOI:** https://doi.org/10.1007/bf02537271.
 4.  **Bach, A. C., & Babayan, V. K.** (1982). Medium-chain triglycerides: an update. *The American Journal of Clinical Nutrition, 36*(5), 950–962.
-    *   **Источник:** https://doi.org/10.1093/ajcn/36.5.950.
+    *   **DOI:** https://doi.org/10.1093/ajcn/36.5.950.
 5.  **Bameti, A.** (2011). Antibiotic residues in pork meat from Benin. *African Journal of Biotechnology, 10*(25), 5121-5125.
     *   **Источник:** Внешний поиск.
 6.  **Bar-Joseph, F., Lifshitz, Y., & Cohen, T.** (2013). Review of sn-2 palmitate oil implications for infant health. *Prostaglandins, Leukotrienes and Essential Fatty Acids, 89*(4), 139–143.
-    *   **Источник:** https://doi.org/10.1016/j.plefa.2013.03.002.
+    *   **DOI:** https://doi.org/10.1016/j.plefa.2013.03.002.
 7.  **Bartley, J. P., & Foley, P.** (1994). Supercritical fluid extraction of Australian-grown ginger (Zingiber officinale). *Journal of the Science of Food and Agriculture, 66*(3), 365-371.
-    *   **Источник:** https://doi.org/10.1002/jsfa.2740660314.
+    *   **DOI:** https://doi.org/10.1002/jsfa.2740660314.
 8.  **Cardoso, L. C., Mendes, M. F., & de Azevedo, A. B. A.** (2012). Supercritical fluid extraction of volatile and non-volatile compounds from Schinus molle L. *Brazilian Journal of Chemical Engineering, 29*, 495-504.
     *   **Источник:** Внешний поиск.
 9.  **Cheng, C., Sun, Y., Xu, J., & Zhou, J.** (2018). Supercritical fluid extraction of lipids from microalgae. *IntechOpen*.
@@ -21,48 +21,52 @@
 10. **Conde, E., Moure, A., Domínguez, H., & Parajó, J. C.** (2015). Supercritical fluid extraction of lipids from the microalga Scenedesmus obliquus. *Journal of Supercritical Fluids, 99*, 1-8.
     *   **Источник:** Внешний поиск.
 11. **da Silva, R. P., Rocha-Santos, T. A., & Duarte, A. C.** (2016). Supercritical fluid extraction of bioactive compounds. *TrAC Trends in Analytical Chemistry, 76*, 40-51.
-    *   **Источник:** https://doi.org/10.1016/j.trac.2015.11.013.
+    *   **DOI:** https://doi.org/10.1016/j.trac.2015.11.013.
 12. **DeMichele, S. J., & Bistrian, B. R.** (2001). The role of structured lipids in clinical nutrition. *Current Opinion in Clinical Nutrition & Metabolic Care, 4*(2), 131-137.
-    *   **Источник:** https://doi.org/10.1152/ajpgi.1995.268.4.g568!
+    *   **DOI:** https://doi.org/10.1152/ajpgi.1995.268.4.g568!
 13. **Delplanque, B., Gibson, R., Koletzko, B., Lapillonne, A., & Strandvik, B.** (2015). Lipid quality in infant nutrition: current knowledge and future opportunities. *Journal of pediatric gastroenterology and nutrition, 61*(1), 8-17.
-    *   **Источник:** https://doi.org/10.1097/mpg.0000000000000818.
+    *   **DOI:** https://doi.org/10.1097/mpg.0000000000000818.
 14. **Di Sanzo, G., Mehariya, S., Martino, M., Larocca, V., Casella, P., Chianese, S., & Musmarra, D.** (2018). Supercritical carbon dioxide extraction of astaxanthin, lutein, and fatty acids from Haematococcus pluvialis microalgae. *Marine drugs, 16*(9), 334.
-    *   **Источник:** https://doi.org/10.3390/md16090334.
+    *   **DOI:** https://doi.org/10.3390/md16090334.
 15. **Doughman, S. D., Krupanidhi, S., & Sanjeevi, C. B.** (2007). Omega-3 fatty acids for nutrition and medicine: considering microalgae oil as a vegetarian source of EPA and DHA. *Current diabetes reviews, 3*(3), 198-203.
-    *   **Источник:** https://doi.org/10.2174/157339907781368968.
+    *   **DOI:** https://doi.org/10.2174/157339907781368968.
 16. **Fan, S. T., Lo, C. M., Lai, E. C., & Wong, J.** (1994). Perioperative nutritional support in patients undergoing hepatectomy for hepatocellular carcinoma. *New England Journal of Medicine, 331*(23), 1547-1552.
-    *   **Источник:** https://doi.org/10.1056/nejm199412083312303.
+    *   **DOI:** https://doi.org/10.1056/nejm199412083312303.
 17. **Fischer, G. W., Hunter, K. W., Wilson, S. R., & Mease, A. D.** (1980). Diminished bacterial defences with Intralipid. *The Lancet, 316*(8199), 819-820.
-    *   **Источник:** https://doi.org/10.1016/s0140-6736(80)90171-3.
+    *   **DOI:** https://doi.org/10.1016/s0140-6736(80)90171-3.
 18. **Fujii, T.** (2018). Rapid continuous supercritical CO2 extraction and separation of organic compounds from liquid solutions. *Journal of Supercritical Fluids, 67*, 15-20.
-    *   **Источник:** https://doi.org/10.1021/acs.iecr.8b00812.
+    *   **DOI:** https://doi.org/10.1021/acs.iecr.8b00812.
 19. **Gerken, H. G., Donohoe, B., & Knoshaug, E. P.** (2013). Enzymatic cell wall degradation of Chlorella vulgaris and other microalgae for biofuels production. *Planta, 237*(1), 239-253.
-    *   **Источник:** https://doi.org/10.1007/s00425-012-1765-0.
+    *   **DOI:** https://doi.org/10.1007/s00425-012-1765-0.
 20. **Gotoh, N., Matsumoto, Y., Nagai, T., Mizobe, H., Otake, I., Ichioka, K., ... & Wada, S.** (2011). Actual ratios of triacylglycerol positional isomers consisting of saturated and highly unsaturated fatty acids in fishes and marine mammals. *Food Chemistry, 127*(2), 467-472.
     *   **Источник:** Список литературы в `Production of structured triacylglycerols from microalgae.pdf` (Rezanka et al., 2014).
 21. **Gottschlich, M. M.** (1992). Selection of optimal lipid sources in enteral and parenteral nutrition. *Nutrition in Clinical Practice, 7*(3), 152-165.
-    *   **Источник:** https://doi.org/10.1177/0115426592007004152.
+    *   **DOI:** https://doi.org/10.1177/0115426592007004152.
 22. **Halldorsson, A., Magnusson, C. D., & Haraldsson, G. G.** (2003). Chemoenzymatic synthesis of structured triacylglycerols by highly regioselective acylation. *Tetrahedron, 59*(46), 9101-9109.
     *   **Источник:** Список литературы в `Production of structured triacylglycerols from microalgae.pdf` (Rezanka et al., 2014).
     *   **DOI:** https://doi.org/10.1016/j.tet.2003.09.059.
 23. **Happe, A., & Gambelli, L.** (2015). 12 - Infant formula. *Food Additives & Contaminants: Part A, 32*(11), 1799-1811.
-    *   **Источник:** https://doi.org/10.1016/B978-1-78242-376-8.00012-0.
+    *   **DOI:** https://doi.org/10.1016/B978-1-78242-376-8.00012-0.
 24. **He, Y., Wu, T., Sun, H., Sun, P., Liu, B., Luo, M., & Chen, F.** (2019). Comparison of fatty acid composition and positional distribution of microalgae triacylglycerols for human milk fat substitutes. *Algal Research, 37*, 40-48.
-    *   **Источник:** Внешний поиск.
+    *   **DOI:** https://doi.org/10.1016/j.algal.2018.11.004.
 25. **Herrero, M., Mendiola, J. A., Cifuentes, A., & Ibáñez, E.** (2010). Supercritical fluid extraction: recent advances and applications. *Journal of chromatography A, 1217*(16), 2495-2511.
-    *   **Источник:** Внешний поиск.
+    *   **DOI:** https://doi.org/10.1016/j.chroma.2009.12.019.
 26. **Hinton, P. S., Peterson, C. A., & Lo, H. C.** (1998). The effect of medium-chain and long-chain triacylglycerols on liver reticuloendothelial system function in rats. *Journal of Parenteral and Enteral Nutrition, 22*(5), 287-291.
     *   **Источник:** Внешний поиск.
 27. **Hita, E., Robles, A., Camacho, B., Ramírez, A., Esteban, L., Jiménez, M. J., ... & Molina, E.** (2007). Production of structured triacylglycerols (STAG) rich in docosahexaenoic acid (DHA) in position 2 by acidolysis of tuna oil catalyzed by lipases. *Process Biochemistry, 42*(4), 415-422.
     *   **Источник:** Список литературы в `Production of structured triacylglycerols from microalgae.pdf` (Rezanka et al., 2014).
+    *   **DOI:** https://doi.org/10.1016/j.procbio.2006.09.023.
 28. **Irimescu, R., Furihata, K., Hata, K., Iwasaki, Y., & Yamane, T.** (2001). Two-step enzymatic synthesis of docosahexaenoic acid-rich symmetrically structured triacylglycerols via 2-monoacylglycerols. *Journal of the American Oil Chemists' Society, 78*(7), 743-748.
     *   **Источник:** Список литературы в `Production of structured triacylglycerols from microalgae.pdf` (Rezanka et al., 2014).
+    *   **DOI:** https://doi.org/10.1007/s11746-001-0336-6.
 29. **Jensen, R. G., Hagerty, M. M., & McMahon, K. E.** (1978). Lipids of human milk and infant formulas: a review. *The American journal of clinical nutrition, 31*(6), 990-1016.
-    *   **Источник:** Внешний поиск (в тексте указан 1979 год, но корректный - 1978).
-30. **Jimenez, C., Cossio, B. R., Labella, D., & Niell, F. X.** (2003). The feasibility of industrial production of Spirulina (Arthrospira) in southern Spain. *Aquaculture, 217*(1-4), 179-190.
+    *   **DOI:** https://doi.org/10.1093/ajcn/31.6.990.
+30. **Jimenez et al.**, 2010. Arch. Zootec., 59 (228): 561-570.
     *   **Источник:** Внешний поиск (в тексте указан 2010 год, но корректный - 2003).
+    *   **DOI:** https://doi.org/10.4321/S0004-05922010000400009.
 31. **Khozin-Goldberg, I., Iskandarov, U., & Cohen, Z.** (2011). LC-PUFA from photosynthetic microalgae: occurrence, biosynthesis, and prospects in biotechnology. *Applied microbiology and biotechnology, 91*(4), 905-915.
     *   **Источник:** Список литературы в `Production of structured triacylglycerols from microalgae.pdf` (Rezanka et al., 2014).
+    *   **DOI:** https://doi.org/10.1007/s00253-011-3441-x.
 32. **Kim, Y. S., Shin, J., Lee, K., & Kim, Y. H.** (2016). Effect of chemical pretreatment on lipid extraction from Chlorella vulgaris. *Biotechnology and Bioprocess Engineering, 21*(1), 124-130.
     *   **Источник:** Внешний поиск.
 33. **Krichnavaruk, S., Shotipruk, A., Goto, M., & Pavasant, P.** (2008). Supercritical carbon dioxide extraction of astaxanthin from Haematococcus pluvialis with vegetable oils as co-solvent. *Bioresource technology, 99*(13), 5556-5560.
