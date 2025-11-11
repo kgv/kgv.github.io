@@ -1,4 +1,6 @@
-# $$Sodium deoxycholate$$ 1%, $$w/v$$
+---
+title: $$Sodium deoxycholate$$ 1%, $$w/v$$
+---
 
 $$M (g) / V (mL) = 0.01$$ (1%)
 
