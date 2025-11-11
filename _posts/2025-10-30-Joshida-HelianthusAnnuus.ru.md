@@ -97,7 +97,6 @@ update: [2025-10-31, 2025-11-01, 2025-11-05, 2025-11-06, 2025-11-10]
 ## Ссылки
 
 * Протокол [Joshida (2010)]({% link _protocols/Joshida2010.md %})
-* Раствор [Sodium deoxycholate]({% link _mixtures/SodiumDeoxycholate.md %})
 
 ## Фотографии
 
