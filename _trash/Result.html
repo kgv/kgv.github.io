@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title></title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <table>
+<thead>
+<tr>
+<th>#</th>
+<th>Article</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Allardyce, D. B. (1982). Cholestasis caused by lipid emulsions. Surgery, Gynecology &amp; Obstetrics, 154(5), 641–647. Retrieved from <a href="https://pubmed.ncbi.nlm.nih.gov/7071699">pubmed.ncbi.nlm.nih.gov/7071699</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Angelillo, V. A. (1985). Effects of low and high carbohydrate feedings in ambulatory patients with chronic obstructive pulmonary disease and chronic hypercapnia. Annals of Internal Medicine, 103(6_Part_1), 883. doi:<a href="https://doi.org/10.7326/0003-4819-103-6-883">10.7326/0003-4819-103-6-883</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Babayan, V. K. (1987). Medium chain triglycerides and structured lipids. Lipids, 22(6), 417–420. doi:<a href="https://doi.org/10.1007/bf02537271">10.1007/bf02537271</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Bach, A., &amp; Babayan, V. K. (1982). Medium-chain triglycerides: an update. The American Journal of Clinical Nutrition, 36(5), 950–962. doi:<a href="https://doi.org/10.1093/ajcn/36.5.950">10.1093/ajcn/36.5.950</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Bartley, J. P., &amp; Foley, P. (1994). Supercritical fluid extraction of australian‐grown ginger (Zingiber officinale). Journal of the Science of Food and Agriculture, 66(3), 365–371. doi:<a href="https://doi.org/10.1002/jsfa.2740660314">10.1002/jsfa.2740660314</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Blinová, L., Bartošová, A., &amp; Gerulová, K. (2015). Cultivation of microalgae (Chlorella vulgaris) for biodiesel production. Research Papers Faculty of Materials Science and Technology Slovak University of Technology, 23(36), 87–95. doi:<a href="https://doi.org/10.1016/j.algal.2017.07.023">10.1515/rput-2015-0010</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Cardoso, L. C., Serrano, C. M., Rodríguez, M. R., de la Ossa, E. J. M., &amp; Lubián, L. M. (2012). Extraction of carotenoids and fatty acids from microalgae using supercritical technology. American Journal of Analytical Chemistry, 03(12), 877–883. doi:<a href="https://doi.org/10.4236/ajac.2012.312A116">10.4236/ajac.2012.312a116</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Cheng, X., Qi, Z., Burdyny, T., Kong, T., &amp; Sinton, D. (2018). Low pressure supercritical CO2 extraction of astaxanthin from Haematococcus pluvialis demonstrated on a microfluidic chip. Bioresource Technology, 250, 481–485. doi:<a href="https://doi.org/10.1016/j.supflu.2016.05.037">10.1016/j.biortech.2017.11.070</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Conde, E., Moure, A., &amp; Domínguez, H. (2015). Supercritical CO2 extraction of fatty acids, phenolics and fucoxanthin from freeze-dried Sargassum muticum. Journal of Applied Phycology, 27(2), 957–964. doi:<a href="https://doi.org/10.3390/ijerph15112436">10.1007/s10811-014-0389-0</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td>da Silva, R. P. F. F., Rocha-Santos, T. A. P., &amp; Duarte, A. C. (2016). Supercritical fluid extraction of bioactive compounds. Trends in Analytical Chemistry: TRAC, 76, 40–51. doi:<a href="https://doi.org/10.1016/j.trac.2015.11.013">10.1016/j.trac.2015.11.013</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Delplanque, B., &amp; Baudry, C. (2015). Dairy fat in infant formula. European Journal of Lipid Science and Technology: EJLST, 117(10), 1487–1488. doi:<a href="https://doi.org/10.1073/pnas.1707853114">10.1002/ejlt.201500352</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td>DeMichele, S. J., &amp; Bistrian, B. R. (2001). Structured Triacylglycerols in Clinical Nutrition. In Intestinal Lipid Metabolism (pp. 403–419). doi:<a href="https://doi.org/10.1007/s00253-011-3441-x">10.1007/978-1-4615-1195-3_22</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Doughman, S. D., Krupanidhi, S., &amp; Sanjeevi, C. B. (2007). Omega-3 fatty acids for nutrition and medicine: considering microalgae oil as a vegetarian source of EPA and DHA. Current Diabetes Reviews, 3(3), 198–203. doi:<a href="https://doi.org/10.2174/157339907781368968">10.2174/157339907781368968</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Fan, S. T., Lo, C. M., Lai, E. C., Chu, K. M., Liu, C. L., &amp; Wong, J. (1994). Perioperative nutritional support in patients undergoing hepatectomy for hepatocellular carcinoma. The New England Journal of Medicine, 331(23), 1547–1552. doi:<a href="https://doi.org/10.1056/NEJM199412083312303">10.1056/NEJM199412083312303</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Fujii, K. (2012). Process integration of supercritical carbon dioxide extraction and acid treatment for astaxanthin extraction from a vegetative microalga. Food and Bioproducts Processing, 90(4), 762–766. doi:<a href="https://doi.org/10.1007/s11947-009-0263-2">10.1016/j.fbp.2012.01.006</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Gerken, H. G., Donohoe, B., &amp; Knoshaug, E. P. (2013). Enzymatic cell wall degradation of Chlorella vulgaris and other microalgae for biofuels production. Planta, 237(1), 239–253. doi:<a href="https://doi.org/10.1007/s00425-012-1765-0">10.1007/s00425-012-1765-0</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Gotoh, N., Matsumoto, Y., Nagai, T., Mizobe, H., Otake, I., Ichioka, K., … Wada, S. (2011). Actual ratios of triacylglycerol positional isomers consisting of saturated and highly unsaturated fatty acids in fishes and marine mammals. Food Chemistry, 127(2), 467–472. doi:<a href="https://doi.org/10.1016/j.foodchem.2011.01.020">10.1016/j.foodchem.2011.01.020</a></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Gottschlich, M. M. (1992). Selection of optimal lipid sources in enteral and parenteral nutrition. Nutrition in Clinical Practice: Official Publication of the American Society for Parenteral and Enteral Nutrition, 7(4), 152–165. doi:<a href="https://doi.org/10.1177/0115426592007004152">10.1177/0115426592007004152</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Halldorsson, A., Magnusson, C. D., &amp; Haraldsson, G. G. (2003). Chemoenzymatic synthesis of structured triacylglycerols by highly regioselective acylation. Tetrahedron, 59(46), 9101–9109. doi:<a href="https://doi.org/10.1016/j.tet.2003.09.059">10.1016/j.tet.2003.09.059</a></td>
+</tr>
+<tr>
+<td>20</td>
+<td>Happe, R. P., &amp; Gambelli, L. (2015). Infant formula. In Specialty Oils and Fats in Food and Nutrition (pp. 285–315). doi:<a href="https://doi.org/10.1146/annurev.nu.04.070184.002513">10.1016/b978-1-78242-376-8.00012-0</a></td>
+</tr>
+<tr>
+<td>21</td>
+<td>He, Y., Wu, T., Sun, H., Sun, P., Liu, B., Luo, M., &amp; Chen, F. (2019). Comparison of fatty acid composition and positional distribution of microalgae triacylglycerols for human milk fat substitutes. Algal Research, 37, 40–50. doi:<a href="https://doi.org/10.1016/j.algal.2018.11.004">10.1016/j.algal.2018.11.004</a></td>
+</tr>
+<tr>
+<td>22</td>
+<td>Herrero, M., Mendiola, J. A., Cifuentes, A., &amp; Ibáñez, E. (2010). Supercritical fluid extraction: Recent advances and applications. Journal of Chromatography A, 1217(16), 2495–2511. doi:<a href="https://doi.org/10.1016/j.chroma.2009.12.019">10.1016/j.chroma.2009.12.019</a></td>
+</tr>
+<tr>
+<td>23</td>
+<td>Hinton, D. R., He, S., &amp; Lopez, P. F. (1998). Apoptosis in surgically excised choroidal neovascular membranes in age-related macular degeneration. Archives of Ophthalmology, 116(2), 203–209. doi:<a href="https://doi.org/10.1001/archopht.116.2.203">10.1001/archopht.116.2.203</a></td>
+</tr>
+<tr>
+<td>24</td>
+<td>Hita, E., Robles, A., Camacho, B., Ramírez, A., Esteban, L., Jiménez, M. J., … Molina, E. (2007). Production of structured triacylglycerols (STAG) rich in docosahexaenoic acid (DHA) in position 2 by acidolysis of tuna oil catalyzed by lipases. Process Biochemistry (Barking, London, England), 42(3), 415–422. doi:<a href="https://doi.org/10.1016/j.procbio.2006.09.023">10.1016/j.procbio.2006.09.023</a></td>
+</tr>
+<tr>
+<td>25</td>
+<td>Irimescu, R., Furihata, K., Hata, K., Iwasaki, Y., &amp; Yamane, T. (2001). Two‐step enzymatic synthesis of docosahexaenoic acid‐rich symmetrically structured triacylglycerols via 2‐monoacylglycerols. Journal of the American Oil Chemists’ Society, 78(7), 743–748. doi:<a href="https://doi.org/10.1007/s11746-001-0336-6">10.1007/s11746-001-0336-6</a></td>
+</tr>
+<tr>
+<td>26</td>
+<td>Jensen, R. G., Hagerty, M. M., &amp; McMahon, K. E. (1978). Lipids of human milk and infant formulas: a review. The American Journal of Clinical Nutrition, 31(6), 990–1016. doi:<a href="https://doi.org/10.1002/ejlt.201500352">10.1093/ajcn/31.6.990</a></td>
+</tr>
+<tr>
+<td>27</td>
+<td>Jiménez, M. J., Esteban, L., Robles, A., Hita, E., González, P. A., Muñío, M. M., &amp; Molina, E. (2010). Production of triacylglycerols rich in palmitic acid at position 2 as intermediates for the synthesis of human milk fat substitutes by enzymatic acidolysis. Process Biochemistry (Barking, London, England), 45(3), 407–414. doi:<a href="https://doi.org/10.1016/j.procbio.2009.10.018">10.1016/j.procbio.2009.10.018</a></td>
+</tr>
+<tr>
+<td>28</td>
+<td>Khozin-Goldberg, I., Iskandarov, U., &amp; Cohen, Z. (2011). LC-PUFA from photosynthetic microalgae: occurrence, biosynthesis, and prospects in biotechnology. Applied Microbiology and Biotechnology, 91(4), 905–915. doi:<a href="https://doi.org/10.1007/s11746-002-0535-1">10.1007/s00253-011-3441-x</a></td>
+</tr>
+<tr>
+<td>29</td>
+<td>Kim, D.-Y., Vijayan, D., Praveenkumar, R., Han, J.-I., Lee, K., Park, J.-Y., … Oh, Y.-K. (2016). Cell-wall disruption and lipid/astaxanthin extraction from microalgae: Chlorella and Haematococcus. Bioresource Technology, 199, 300–310. doi:<a href="https://doi.org/10.1007/s10295-018-2104-7">10.1016/j.biortech.2015.08.107</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>Krichnavaruk, S., Shotipruk, A., Goto, M., &amp; Pavasant, P. (2008). Supercritical carbon dioxide extraction of astaxanthin from Haematococcus pluvialis with vegetable oils as co-solvent. Bioresource Technology, 99(13), 5556–5560. doi:<a href="https://doi.org/10.1021/ie051357k">10.1016/j.biortech.2007.10.049</a></td>
+</tr>
+<tr>
+<td>31</td>
+<td>Kunesová, M., Braunerová, R., Hlavatý, P., Tvrzická, E., Stanková, B., Skrha, J., … Svacina, S. (2006). The influence of n-3 polyunsaturated fatty acids and very low calorie diet during a short-term weight reducing regimen on weight loss and serum fatty acid composition in severely obese women. Physiological Research, 55(1), 63–72. doi:<a href="https://doi.org/10.3390/md16090334">10.33549/physiolres.930770</a></td>
+</tr>
+<tr>
+<td>32</td>
+<td>Lang, I., Hodac, L., Friedl, T., &amp; Feussner, I. (2011). Fatty acid profiles and their distribution patterns in microalgae: a comprehensive analysis of more than 2000 strains from the SAG culture collection. BMC Plant Biology, 11(1), 124. doi:<a href="https://doi.org/10.1186/1471-2229-11-124">10.1186/1471-2229-11-124</a></td>
+</tr>
+<tr>
+<td>33</td>
+<td>Liao, J., Xiong, Q., Yin, Y., Ling, Z., &amp; Chen, S. (2021). The effects of fish oil on cardiovascular diseases: Systematical evaluation and recent advance. Frontiers in Cardiovascular Medicine, 8, 802306. doi:<a href="https://doi.org/10.3389/fcvm.2021.802306">10.3389/fcvm.2021.802306</a></td>
+</tr>
+<tr>
+<td>34</td>
+<td>Liau, B.-C., Hong, S.-E., Chang, L.-P., Shen, C.-T., Li, Y.-C., Wu, Y.-P., … Chang, C.-M. J. (2011). Separation of sight-protecting zeaxanthin from Nannochloropsis oculata by using supercritical fluids extraction coupled with elution chromatography. Separation and Purification Technology, 78(1), 1–8. doi:<a href="https://doi.org/10.1016/j.seppur.2011.01.008">10.1016/j.seppur.2011.01.008</a></td>
+</tr>
+<tr>
+<td>35</td>
+<td>Lísa, M., &amp; Holcapek, M. (2008). Triacylglycerols profiling in plant oils important in food industry, dietetics and cosmetics using high-performance liquid chromatography-atmospheric pressure chemical ionization mass spectrometry. Journal of Chromatography A, 1198–1199, 115–130. doi:<a href="https://doi.org/10.1016/j.chroma.2008.05.037">10.1016/j.chroma.2008.05.037</a></td>
+</tr>
+<tr>
+<td>36</td>
+<td>Lísa, M., Netušilová, K., Franěk, L., Dvořáková, H., Vrkoslav, V., &amp; Holčapek, M. (2011). Characterization of fatty acid and triacylglycerol composition in animal fats using silver-ion and non-aqueous reversed-phase high-performance liquid chromatography/mass spectrometry and gas chromatography/flame ionization detection. Journal of Chromatography A, 1218(42), 7499–7510. doi:<a href="https://doi.org/10.1016/j.algal.2017.05.025">10.1016/j.chroma.2011.07.032</a></td>
+</tr>
+<tr>
+<td>37</td>
+<td>Liu, J., Huang, J., Sun, Z., Zhong, Y., Jiang, Y., &amp; Chen, F. (2011). Differential lipid and fatty acid profiles of photoautotrophic and heterotrophic Chlorella zofingiensis: assessment of algal oils for biodiesel production. Bioresource Technology, 102(1), 106–110. doi:<a href="https://doi.org/10.1016/j.biortech.2010.06.017">10.1016/j.biortech.2010.06.017</a></td>
+</tr>
+<tr>
+<td>38</td>
+<td>Ma, X., Liu, J., Liu, B., Chen, T., Yang, B., &amp; Chen, F. (2016). Physiological and biochemical changes reveal stress-associated photosynthetic carbon partitioning into triacylglycerol in the oleaginous marine alga Nannochloropsis oculata. Algal Research, 16, 28–35. doi:<a href="https://doi.org/10.1016/j.algal.2016.03.005">10.1016/j.algal.2016.03.005</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td>MacDonald, M. L., Rogers, Q. R., &amp; Morris, J. G. (1984). Nutrition of the domestic cat, a mammalian carnivore. Annual Review of Nutrition, 4(1), 521–562. doi:<a href="https://doi.org/10.1016/j.chroma.2011.07.032">10.1146/annurev.nu.04.070184.002513</a></td>
+</tr>
+<tr>
+<td>40</td>
+<td>Macfie, J., Smith, R. C., &amp; Hill, G. L. (1981). Glucose or fat as a nonprotein energy source? Gastroenterology, 80(1), 103–107. doi:<a href="https://doi.org/10.1016/0016-5085(81)90198-0">10.1016/0016-5085(81)90198-0</a></td>
+</tr>
+<tr>
+<td>41</td>
+<td>Machmudah, S., Shotipruk, A., Goto, M., Sasaki, M., &amp; Hirose, T. (2006). Extraction of astaxanthin from Haematococcus pluvialis using supercritical CO2 and ethanol as entrainer. Industrial &amp; Engineering Chemistry Research, 45(10), 3652–3657. doi:<a href="https://doi.org/10.3390/md11051644">10.1021/ie051357k</a></td>
+</tr>
+<tr>
+<td>42</td>
+<td>Macías-Sánchez, M. D., Fernandez-Sevilla, J. M., Fernández, F. G. A., García, M. C. C., &amp; Grima, E. M. (2010). Supercritical fluid extraction of carotenoids from Scenedesmus almeriensis. Food Chemistry, 123(3), 928–935. doi:<a href="https://doi.org/10.1016/j.foodchem.2010.04.076">10.1016/j.foodchem.2010.04.076</a></td>
+</tr>
+<tr>
+<td>43</td>
+<td>Mascioli, E. A., Randall, S., Porter, K. A., Kater, G., Lopes, S., Babayan, V. K., … Bistrian, B. R. (1991). Thermogenesis from intravenous medium-chain triglycerides. JPEN. Journal of Parenteral and Enteral Nutrition, 15(1), 27–31. doi:<a href="https://doi.org/10.1177/014860719101500127">10.1177/014860719101500127</a></td>
+</tr>
+<tr>
+<td>44</td>
+<td>Metges, C. C., &amp; Wolfram, G. (1991). Medium and long chain triglycerides labeled with 13C: A comparison of oxidation after oral or parenteral administration in humans. The Journal of Nutrition, 121(1), 31–36. doi:<a href="https://doi.org/10.1093/jn/121.1.31">10.1093/jn/121.1.31</a></td>
+</tr>
+<tr>
+<td>45</td>
+<td>Molino, A., Iovine, A., Casella, P., Mehariya, S., Chianese, S., Cerbone, A., … Musmarra, D. (2018). Microalgae characterization for consolidated and new application in human food, animal feed and nutraceuticals. International Journal of Environmental Research and Public Health, 15(11), 2436. doi:<a href="https://doi.org/10.1016/j.biortech.2017.11.070">10.3390/ijerph15112436</a></td>
+</tr>
+<tr>
+<td>46</td>
+<td>Mu, H., &amp; Porsgaard, T. (2005). The metabolism of structured triacylglycerols. Progress in Lipid Research, 44(6), 430–448. doi:<a href="https://doi.org/10.1016/j.plipres.2005.09.002">10.1016/j.plipres.2005.09.002</a></td>
+</tr>
+<tr>
+<td>47</td>
+<td>Muñío, M. del M., Robles, A., Esteban, L., González, P. A., &amp; Molina, E. (2009). Synthesis of structured lipids by two enzymatic steps: Ethanolysis of fish oils and esterification of 2-monoacylglycerols. Process Biochemistry (Barking, London, England), 44(7), 723–730. doi:<a href="https://doi.org/10.1016/j.procbio.2009.03.002">10.1016/j.procbio.2009.03.002</a></td>
+</tr>
+<tr>
+<td>48</td>
+<td>Nobre, B. P., Villalobos, F., Barragán, B. E., Oliveira, A. C., Batista, A. P., Marques, P. A. S. S., … Gouveia, L. (2013). A biorefinery from Nannochloropsis sp. microalga--extraction of oils and pigments. Production of biohydrogen from the leftover biomass. Bioresource Technology, 135, 128–136. doi:<a href="https://doi.org/10.1016/j.biortech.2012.11.084">10.1016/j.biortech.2012.11.084</a></td>
+</tr>
+<tr>
+<td>49</td>
+<td>Nobre, B., Marcelo, F., Passos, R., Beirão, L., Palavra, A., Gouveia, L., &amp; Mendes, R. (2006). Supercritical carbon dioxide extraction of astaxanthin and other carotenoids from the microalga Haematococcus pluvialis. European Food Research and Technology, 223(6), 787–790. doi:<a href="https://doi.org/10.1007/s00217-006-0270-8">10.1007/s00217-006-0270-8</a></td>
+</tr>
+<tr>
+<td>50</td>
+<td>Nordenström, J., Jarstrand, C., &amp; Wiernik, A. (1979). Decreased chemotactic and random migration of leukocytes during Intralipid infusion. The American Journal of Clinical Nutrition, 32(12), 2416–2422. doi:<a href="https://doi.org/10.1093/ajcn/32.12.2416">10.1093/ajcn/32.12.2416</a></td>
+</tr>
+<tr>
+<td>51</td>
+<td>Pavlenko, E., Ruengeler, T., Engel, P., &amp; Poepsel, S. (2022). Functions and interactions of mammalian KDM5 demethylases. Frontiers in Genetics, 13, 906662. doi:<a href="https://doi.org/10.3389/fgene.2022.906662">10.3389/fgene.2022.906662</a></td>
+</tr>
+<tr>
+<td>52</td>
+<td>Pereira, C. G., &amp; Meireles, M. A. A. (2010). Supercritical fluid extraction of bioactive compounds: Fundamentals, applications and economic perspectives. Food and Bioprocess Technology, 3(3), 340–372. doi:<a href="https://doi.org/10.1002/ceat.201100251">10.1007/s11947-009-0263-2</a></td>
+</tr>
+<tr>
+<td>53</td>
+<td>Piomelli, D. (1993). Arachidonic acid in cell signaling. Current Opinion in Cell Biology, 5(2), 274–280. doi:<a href="https://doi.org/10.1093/ajcn/31.6.990">10.1016/0955-0674(93)90116-8</a></td>
+</tr>
+<tr>
+<td>54</td>
+<td>Pomposelli, J. J., Moldawer, L. L., Palombo, J. D., Babayan, V. K., Bistrian, B. R., &amp; Blackburn, G. L. (1986). Short-term administration of parenteral glucose-lipid mixtures improves protein kinetics in portacaval shunted rats. Gastroenterology, 91(2), 305–312. doi:<a href="https://doi.org/10.1016/0016-5085(86)90561-5">10.1016/0016-5085(86)90561-5</a></td>
+</tr>
+<tr>
+<td>55</td>
+<td>Poojary, M. M., Barba, F. J., Aliakbarian, B., Donsì, F., Pataro, G., Dias, D. A., &amp; Juliano, P. (2016). Innovative alternative technologies to extract carotenoids from microalgae and seaweeds. Marine Drugs, 14(11), 214. doi:<a href="https://doi.org/10.1007/s10811-014-0389-0">10.3390/md14110214</a></td>
+</tr>
+<tr>
+<td>56</td>
+<td>Praveenkumar, R., Lee, K., Lee, J., &amp; Oh, Y.-K. (2015). Breaking dormancy: an energy-efficient means of recovering astaxanthin from microalgae. Green Chemistry: An International Journal and Green Chemistry Resource: GC, 17(2), 1226–1234. doi:<a href="https://doi.org/10.1039/C4GC01413H">10.1039/c4gc01413h</a></td>
+</tr>
+<tr>
+<td>57</td>
+<td>Quinlan, P. (1993). Modification of triglycerides by lipase : Process technology and its application to the production of nutritionally improved fats. INFORM, 4, 580. Retrieved from <a href="https://cir.nii.ac.jp/crid/1570854175254546048">cir.nii.ac.jp/crid/1570854175254546048</a></td>
+</tr>
+<tr>
+<td>58</td>
+<td>Reverchon, E. (1997). Supercritical fluid extraction and fractionation of essential oils and related products. The Journal of Supercritical Fluids, 10(1), 1–37. doi:<a href="https://doi.org/10.1016/S0896-8446(97)00014-4">10.1016/s0896-8446(97)00014-4</a></td>
+</tr>
+<tr>
+<td>59</td>
+<td>Řezanka, T., Lukavský, J., Nedbalová, L., &amp; Sigler, K. (2014). Production of structured triacylglycerols from microalgae. Phytochemistry, 104, 95–104. doi:<a href="https://doi.org/10.1016/j.phytochem.2014.04.013">10.1016/j.phytochem.2014.04.013</a></td>
+</tr>
+<tr>
+<td>60</td>
+<td>Řezanka, T., Lukavský, J., Nedbalová, L., &amp; Sigler, K. (2014). Production of structured triacylglycerols from microalgae. Phytochemistry, 104, 95–104. doi:<a href="https://doi.org/10.1016/j.phytochem.2014.04.013">10.1016/j.phytochem.2014.04.013</a></td>
+</tr>
+<tr>
+<td>61</td>
+<td>Řezanka, T., Lukavský, J., Sigler, K., Nedbalová, L., &amp; Vítová, M. (2015). Temperature dependence of production of structured triacylglycerols in the alga Trachydiscus minutus. Phytochemistry, 110, 37–45. doi:<a href="https://doi.org/10.1016/j.phytochem.2014.12.013">10.1016/j.phytochem.2014.12.013</a></td>
+</tr>
+<tr>
+<td>62</td>
+<td>Robles, A., Jiménez, M. J., Esteban, L., González, P. A., Martín, L., Rodríguez, A., &amp; Molina, E. (2011). Enzymatic production of human milk fat substitutes containing palmitic and docosahexaenoic acids at sn-2 position and oleic acid at sn-1,3 positions. Lebensmittel-Wissenschaft Und Technologie [Food Science and Technology], 44(10), 1986–1992. doi:<a href="https://doi.org/10.1016/j.lwt.2011.05.022">10.1016/j.lwt.2011.05.022</a></td>
+</tr>
+<tr>
+<td>63</td>
+<td>Ruen-ngam, D., Shotipruk, A., Pavasant, P., Machmudah, S., &amp; Goto, M. (2012). Selective extraction of lutein from alcohol treated Chlorella vulgaris by supercritical CO2. Chemical Engineering &amp; Technology, 35(2), 255–260. doi:<a href="https://doi.org/10.33549/physiolres.930770">10.1002/ceat.201100251</a></td>
+</tr>
+<tr>
+<td>64</td>
+<td>Sahin, N., Akoh, C. C., &amp; Karaali, A. (2005). Lipase-catalyzed acidolysis of tripalmitin with hazelnut oil fatty acids and stearic acid to produce human milk fat substitutes. Journal of Agricultural and Food Chemistry, 53(14), 5779–5783. doi:<a href="https://doi.org/10.1021/jf050465e">10.1021/jf050465e</a></td>
+</tr>
+<tr>
+<td>65</td>
+<td>Saini, R. K., &amp; Keum, Y.-S. (2019). Microbial platforms to produce commercially vital carotenoids at industrial scale: an updated review of critical issues. Journal of Industrial Microbiology &amp; Biotechnology, 46(5), 657–674. doi:<a href="https://doi.org/10.1007/978-1-4615-1195-3_22">10.1007/s10295-018-2104-7</a></td>
+</tr>
+<tr>
+<td>66</td>
+<td>Sanzo, G. D., Mehariya, S., Martino, M., Larocca, V., Casella, P., Chianese, S., … Molino, A. (2018). Supercritical carbon dioxide extraction of astaxanthin, lutein, and fatty acids from Haematococcus pluvialis microalgae. Marine Drugs, 16(9), 334. doi:<a href="https://doi.org/10.1016/j.biortech.2007.10.049">10.3390/md16090334</a></td>
+</tr>
+<tr>
+<td>67</td>
+<td>Saravana, P. S., Getachew, A. T., Cho, Y.-J., Choi, J. H., Park, Y. B., Woo, H. C., &amp; Chun, B. S. (2017). Influence of co-solvents on fucoxanthin and phlorotannin recovery from brown seaweed using supercritical CO2. The Journal of Supercritical Fluids, 120, 295–303. doi:<a href="https://doi.org/10.1016/j.fbp.2012.01.006">10.1016/j.supflu.2016.05.037</a></td>
+</tr>
+<tr>
+<td>68</td>
+<td>Schüler, L. M., Schulze, P. S. C., Pereira, H., Barreira, L., León, R., &amp; Varela, J. (2017). Trends and strategies to enhance triacylglycerols and high-value compounds in microalgae. Algal Research, 25, 263–273. doi:<a href="https://doi.org/10.1002/ejlt.201700428">10.1016/j.algal.2017.05.025</a></td>
+</tr>
+<tr>
+<td>69</td>
+<td>Sheldon, G. F., Peterson, S. R., &amp; Sanders, R. (1978). Hepatic dysfunction during hyperalimentation. Archives of Surgery (Chicago, Ill.: 1960), 113(4), 504–508. doi:<a href="https://doi.org/10.1001/archsurg.1978.01370160162028">10.1001/archsurg.1978.01370160162028</a></td>
+</tr>
+<tr>
+<td>70</td>
+<td>Sidorov, R. A., Pchelkin, V. P., Zhukov, A. V., Vereshchagin, A. G., &amp; Tsydendambaev, V. D. (2014). Positional‐species composition of triacylglycerols from the arils of mature Euonymus fruits. Journal of the American Oil Chemists’ Society, 91(12), 2053–2063. doi:<a href="https://doi.org/10.1007/s11746-014-2553-8">10.1007/s11746-014-2553-8</a></td>
+</tr>
+<tr>
+<td>71</td>
+<td>Simopoulos, A. P. (1991). Omega-3 fatty acids in health and disease and in growth and development. The American Journal of Clinical Nutrition, 54(3), 438–463. doi:<a href="https://doi.org/10.1093/ajcn/54.3.438">10.1093/ajcn/54.3.438</a></td>
+</tr>
+<tr>
+<td>72</td>
+<td>Soumanou, M. M., Bornscheuer, U. T., &amp; Schmid, R. D. (1998). Two‐step enzymatic reaction for the synthesis of pure structured triacylglycerides. Journal of the American Oil Chemists’ Society, 75(6), 703–710. doi:<a href="https://doi.org/10.1007/s11746-998-0209-2">10.1007/s11746-998-0209-2</a></td>
+</tr>
+<tr>
+<td>73</td>
+<td>Suárez, E. R., Mugford, P. F., Rolle, A. J., Burton, I. W., Walter, J. A., &amp; Kralovec, J. A. (2010). 13C‐NMR regioisomeric analysis of EPA and DHA in fish oil derived triacylglycerol concentrates. Journal of the American Oil Chemists’ Society, 87(12), 1425–1433. doi:<a href="https://doi.org/10.1007/s11746-010-1638-2">10.1007/s11746-010-1638-2</a></td>
+</tr>
+<tr>
+<td>74</td>
+<td>Sum, A. K., Biddy, M. J., de Pablo, J. J., &amp; Tupy, M. J. (2003). Predictive molecular model for the thermodynamic and transport properties of triacylglycerols. The Journal of Physical Chemistry. B, 107(51), 14443–14451. doi:<a href="https://doi.org/10.1021/jp035906g">10.1021/jp035906g</a></td>
+</tr>
+<tr>
+<td>75</td>
+<td>Takeuchi, M., Ueno, S., Flöter, E., &amp; Sato, K. (2002). Binary phase behavior of 1,3‐distearoyl‐2‐oleoyl‐sn‐glycerol (SOS) and 1,3‐distearoyl‐2‐linoleoyl‐sn‐glycerol (SLS). Journal of the American Oil Chemists’ Society, 79(7), 627–632. doi:<a href="https://doi.org/10.3390/md14110214">10.1007/s11746-002-0535-1</a></td>
+</tr>
+<tr>
+<td>76</td>
+<td>Valderrama, J. O., Perrut, M., &amp; Majewski, W. (2003). Extraction of astaxantine and phycocyanine from microalgae with supercritical carbon dioxide. Journal of Chemical and Engineering Data, 48(4), 827–830. doi:<a href="https://doi.org/10.1021/je020128r">10.1021/je020128r</a></td>
+</tr>
+<tr>
+<td>77</td>
+<td>Venus, B., Smith, R. A., Patel, C., &amp; Sandoval, E. (1989). Hemodynamic and gas exchange alterations during Intralipid infusion in patients with adult respiratory distress syndrome. Chest, 95(6), 1278–1281. doi:<a href="https://doi.org/10.1378/chest.95.6.1278">10.1378/chest.95.6.1278</a></td>
+</tr>
+<tr>
+<td>78</td>
+<td>Vlahov, G. (2009). 13C nuclear magnetic resonance spectroscopy to determine fatty acid distribution in triacylglycerols of vegetable oils with “high - low oleic acid” and “high linolenic acid”. The Open Magnetic Resonance Reviews, 2(1), 8–19. doi:<a href="https://doi.org/10.2174/1874769800902010008">10.2174/1874769800902010008</a></td>
+</tr>
+<tr>
+<td>79</td>
+<td>Waghmare, A., Patil, S., LeBlanc, J. G., Sonawane, S., &amp; Arya, S. S. (2018). Comparative assessment of algal oil with other vegetable oils for deep frying. Algal Research, 31, 99–106. doi:<a href="https://doi.org/10.1515/rput-2015-0010">10.1016/j.algal.2018.01.019</a></td>
+</tr>
+<tr>
+<td>80</td>
+<td>Wang, J., Wang, X.-D., Zhao, X.-Y., Liu, X., Dong, T., &amp; Wu, F.-A. (2015). From microalgae oil to produce novel structured triacylglycerols enriched with unsaturated fatty acids. Bioresource Technology, 184, 405–414. doi:<a href="https://doi.org/10.1016/j.biortech.2014.09.133">10.1016/j.biortech.2014.09.133</a></td>
+</tr>
+<tr>
+<td>81</td>
+<td>Wei, L., Wang, Q., Xin, Y., Lu, Y., &amp; Xu, J. (2017). Enhancing photosynthetic biomass productivity of industrial oleaginous microalgae by overexpression of RuBisCO activase. Algal Research, 27, 366–375. doi:<a href="https://doi.org/10.1016/0955-0674(93)90116-8">10.1016/j.algal.2017.07.023</a></td>
+</tr>
+<tr>
+<td>82</td>
+<td>Xue, Z., Wan, F., Yu, W., Liu, J., Zhang, Z., &amp; Kou, X. (2018). Edible oil production from microalgae: A review. European Journal of Lipid Science and Technology: EJLST, 120(6), 1700428. doi:<a href="https://doi.org/10.1016/j.algal.2018.01.019">10.1002/ejlt.201700428</a></td>
+</tr>
+<tr>
+<td>83</td>
+<td>Yen, H.-W., Chiang, W.-C., &amp; Sun, C.-H. (2012). Supercritical fluid extraction of lutein from Scenedesmus cultured in an autotrophical photobioreactor. Journal of the Taiwan Institute of Chemical Engineers, 43(1), 53–57. doi:<a href="https://doi.org/10.1016/j.jtice.2011.07.010">10.1016/j.jtice.2011.07.010</a></td>
+</tr>
+<tr>
+<td>84</td>
+<td>Zheng, Q., Lin, J., Huang, J., Zhang, H., Zhang, R., Zhang, X., … Zhao, J. (2017). Reconstitution of UCP1 using CRISPR/Cas9 in the white adipose tissue of pigs decreases fat deposition and improves thermogenic capacity. Proceedings of the National Academy of Sciences of the United States of America, 114(45), E9474–E9482. doi:<a href="https://doi.org/10.1016/B978-1-78242-376-8.00012-0">10.1073/pnas.1707853114</a></td>
+</tr>
+<tr>
+<td>85</td>
+<td>Zou, T.-B., Jia, Q., Li, H.-W., Wang, C.-X., &amp; Wu, H.-F. (2013). Response surface methodology for ultrasound-assisted extraction of astaxanthin from Haematococcus pluvialis. Marine Drugs, 11(5), 1644–1655. doi:<a href="https://doi.org/10.1016/j.biortech.2015.08.107">10.3390/md11051644</a></td>
+</tr>
+<tr>
+<td>86</td>
+<td>Zou, X., Ali, A. H., Abed, S. M., &amp; Guo, Z. (2017). Current knowledge of lipids in human milk and recent innovations in infant formulas. Current Opinion in Food Science, 16, 28–39. doi:<a href="https://doi.org/10.1016/j.cofs.2017.06.010">10.1016/j.cofs.2017.06.010</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>87</td>
+<td><strong>Fischer et al., 1980</strong></td>
+<td>Ингибирование бактерицидных свойств эмульсиями дцТАГ.</td>
+</tr>
+<tr>
+<td>88</td>
+<td><strong>Bar-Joseph et al., 2013</strong></td>
+<td>Состав жира молока человека.</td>
+</tr>
+<tr>
+<td>89</td>
+<td><strong>Bameti, 2011</strong></td>
+<td>Проблемы применения свиного жира (содержание антибиотиков, гормонов).</td>
+</tr>
+<tr>
+<td>90</td>
+<td><strong>Sidorov et al., 2015</strong></td>
+<td>Современные исследования позиционно-видового состава ТАГ.</td>
+</tr>
+<tr>
+<td>91</td>
+<td><strong>Верещагин, 1972</strong></td>
+<td>Начало исследований позиционных изомеров ТАГ в 20-х годах прошлого века.</td>
+</tr>
+</tbody>
+</table>
+
+            
+            
+        </body>
+        </html>
